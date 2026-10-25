@@ -23,3 +23,5 @@ verify identical manifests, then promote discovery/defaults after matching pins.
 
 npm namespace availability is checked separately from ownership/publication access.
 This release uses GitHub artifacts; no npm registry release is asserted.
+
+A source archive has no Git metadata. Set CBI_SOURCE_COMMIT to the exact public commit recorded in the release manifest when rebuilding from that archive; a tagged Git checkout discovers its own commit. This changes provenance metadata only, never factual values or review dates.
