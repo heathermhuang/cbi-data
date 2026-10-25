@@ -1,8 +1,8 @@
 {
-  "at": "2026-10-25T08:37:07.920Z",
-  "requests": 56,
+  "at": "2026-10-25T09:14:10.344Z",
+  "requests": 64,
   "maximumRequests": 100,
-  "sourceCount": 50,
+  "sourceCount": 58,
   "observations": [
     {
       "sourceIds": [
@@ -406,6 +406,70 @@
       "state": "unavailable",
       "unchanged": false,
       "bytes": 0
+    },
+    {
+      "sourceIds": [
+        "lc-refund-policy"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 6319
+    },
+    {
+      "sourceIds": [
+        "ag-passport-renewal"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 55618
+    },
+    {
+      "sourceIds": [
+        "ag-current-forms"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 57639
+    },
+    {
+      "sourceIds": [
+        "lc-legislation-index"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 158620
+    },
+    {
+      "sourceIds": [
+        "lc-act-2025"
+      ],
+      "state": "unavailable",
+      "unchanged": false,
+      "bytes": 0
+    },
+    {
+      "sourceIds": [
+        "lc-regulations-2026"
+      ],
+      "state": "unavailable",
+      "unchanged": false,
+      "bytes": 0
+    },
+    {
+      "sourceIds": [
+        "ag-ab10-2020"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 634950
+    },
+    {
+      "sourceIds": [
+        "lc-renewal-taipei"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 451096
     }
   ],
   "legalChangesConfirmed": 0,
