@@ -1,0 +1,980 @@
+{
+  "programme": {
+    "id": "cbi-slv",
+    "aliases": [
+      "sv"
+    ],
+    "jurisdiction": "SLV",
+    "country": "El Salvador",
+    "name": "Freedom Passport programme",
+    "kind": "citizenship",
+    "mechanism": "investment_subject_to_nationality_decision",
+    "profileURL": "https://cbi.me/citizenship-by-investment/el-salvador/",
+    "region": "Americas",
+    "period": "2023–present",
+    "start": 2023,
+    "end": null,
+    "optionIds": [
+      "cbi-slv-option-1"
+    ],
+    "options": [
+      {
+        "id": "cbi-slv-option-1",
+        "label": "Freedom programme payment",
+        "classification": "contribution",
+        "amountClaimId": "cbi-slv-routes",
+        "conditions": "BTC or USDt"
+      }
+    ],
+    "fields": {
+      "capital": "cbi-slv-capital",
+      "capitalType": "cbi-slv-capitalType",
+      "hold": "cbi-slv-hold",
+      "presence": "cbi-slv-presence",
+      "family": "cbi-slv-family",
+      "caveat": "cbi-slv-caveat",
+      "alert": "cbi-slv-alert",
+      "processing": "cbi-slv-processing",
+      "presenceShort": "cbi-slv-presenceShort",
+      "feeNote": "cbi-slv-feeNote",
+      "keyNote": "cbi-slv-keyNote",
+      "familyScenario": "cbi-slv-familyScenario",
+      "passportDelivery": "cbi-slv-passportDelivery",
+      "routeType": "cbi-slv-routeType",
+      "amount": "cbi-slv-amount",
+      "familyAmount": "cbi-slv-family-amount",
+      "routes": "cbi-slv-routes",
+      "legalOutcome": "cbi-slv-legal-outcome",
+      "intake": "cbi-slv-intake-observation",
+      "editorialUpdate": "cbi-slv-editorial-update"
+    },
+    "requiredFields": {
+      "legal_outcome": {
+        "claimIds": [
+          "cbi-slv-legal-outcome"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "legal_basis": {
+        "claimIds": [],
+        "state": "gap",
+        "gap": "Exact legal basis requirements not fully established in this release."
+      },
+      "operational_intake": {
+        "claimIds": [
+          "cbi-slv-intake-observation"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "decision_stage": {
+        "claimIds": [
+          "cbi-slv-intake-observation"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "passport_issuance": {
+        "claimIds": [
+          "cbi-slv-passportDelivery",
+          "cbi-slv-intake-observation"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "investment_options": {
+        "claimIds": [
+          "cbi-slv-routes"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "minimum_capital": {
+        "claimIds": [
+          "cbi-slv-amount",
+          "cbi-slv-capital"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "financial_resources": {
+        "claimIds": [],
+        "state": "gap",
+        "gap": "Exact financial resources requirements not fully established in this release."
+      },
+      "published_fees": {
+        "claimIds": [
+          "cbi-slv-scenario-item-24",
+          "cbi-slv-scenario-item-25",
+          "cbi-slv-feeNote"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "dependants": {
+        "claimIds": [
+          "cbi-slv-family",
+          "cbi-slv-familyScenario"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "screening": {
+        "claimIds": [],
+        "state": "gap",
+        "gap": "Exact screening requirements not fully established in this release."
+      },
+      "presence_holding": {
+        "claimIds": [
+          "cbi-slv-presence",
+          "cbi-slv-hold"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "post_grant": {
+        "claimIds": [
+          "cbi-slv-presence",
+          "cbi-slv-hold"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "withdrawal_recovery": {
+        "claimIds": [
+          "cbi-slv-capitalType",
+          "cbi-slv-hold"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "process_timing": {
+        "claimIds": [
+          "cbi-slv-processing",
+          "cbi-slv-passportDelivery"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "nationality_document_restrictions": {
+        "claimIds": [
+          "cbi-slv-caveat"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      }
+    },
+    "qualifications": [
+      "Portal offers 1,000 participants annually. Programme payment does not by itself confer nationality; eligibility and cryptocurrency payment rules apply.",
+      "The official page lists US$999 administration per family member; no derived all-in family quote is published here.",
+      "No independently verified end-to-end passport delivery time"
+    ]
+  },
+  "claims": [
+    {
+      "id": "cbi-slv-capital",
+      "revisionId": "cbi-slv-capital-c61814f57c22c246",
+      "subject": "cbi-slv",
+      "predicate": "capital",
+      "value": "US$1,000,000 in BTC or USDt",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "sv",
+          "locator": "US$1m BTC/USDt; naturalisation authorisation required; family; 1,000 annual participants.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-slv-capitalType",
+      "revisionId": "cbi-slv-capitalType-45d9e112c4b0cf00",
+      "subject": "cbi-slv",
+      "predicate": "capitalType",
+      "value": "Programme payment / contribution",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "sv",
+          "locator": "US$1m BTC/USDt; naturalisation authorisation required; family; 1,000 annual participants.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-slv-hold",
+      "revisionId": "cbi-slv-hold-e2737e838cbbe48c",
+      "subject": "cbi-slv",
+      "predicate": "hold",
+      "value": "Payment after evaluation; US$999 deposit credited",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "sv",
+          "locator": "US$1m BTC/USDt; naturalisation authorisation required; family; 1,000 annual participants.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-slv-presence",
+      "revisionId": "cbi-slv-presence-94c3a751e31f96e2",
+      "subject": "cbi-slv",
+      "predicate": "presence",
+      "value": "Naturalisation must be authorised before passport; no guaranteed date in cited terms",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "sv",
+          "locator": "US$1m BTC/USDt; naturalisation authorisation required; family; 1,000 annual participants.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-slv-family",
+      "revisionId": "cbi-slv-family-f628ef97f1c6ec67",
+      "subject": "cbi-slv",
+      "predicate": "family",
+      "value": "Principal, spouse and children under 18 may share the USD 1 m programme application. Portal states USD 999 administration per family member; the exact fee scope requires clarification.",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "sv",
+          "locator": "US$1m BTC/USDt; naturalisation authorisation required; family; 1,000 annual participants.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-slv-caveat",
+      "revisionId": "cbi-slv-caveat-f927dc4b087acec9",
+      "subject": "cbi-slv",
+      "predicate": "caveat",
+      "value": "Portal offers 1,000 participants annually. Programme payment does not by itself confer nationality; eligibility and cryptocurrency payment rules apply.",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "sv",
+          "locator": "US$1m BTC/USDt; naturalisation authorisation required; family; 1,000 annual participants.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-slv-alert",
+      "revisionId": "cbi-slv-alert-af3fa1063f2f8b10",
+      "subject": "cbi-slv",
+      "predicate": "alert",
+      "value": "",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "sv",
+          "locator": "US$1m BTC/USDt; naturalisation authorisation required; family; 1,000 annual participants.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-slv-processing",
+      "revisionId": "cbi-slv-processing-1896e73513b96714",
+      "subject": "cbi-slv",
+      "predicate": "processing",
+      "value": "Up to 6 weeks: application approval target",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "sv",
+          "locator": "US$1m BTC/USDt; naturalisation authorisation required; family; 1,000 annual participants.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-slv-presenceShort",
+      "revisionId": "cbi-slv-presenceShort-1906565bca5628e8",
+      "subject": "cbi-slv",
+      "predicate": "presenceShort",
+      "value": "Naturalisation approval required",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "sv",
+          "locator": "US$1m BTC/USDt; naturalisation authorisation required; family; 1,000 annual participants.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-slv-feeNote",
+      "revisionId": "cbi-slv-feeNote-a0ae4cb4bc7a44b0",
+      "subject": "cbi-slv",
+      "predicate": "feeNote",
+      "value": "The official page lists US$999 administration per family member; no derived all-in family quote is published here.",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "sv",
+          "locator": "US$1m BTC/USDt; naturalisation authorisation required; family; 1,000 annual participants.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-slv-keyNote",
+      "revisionId": "cbi-slv-keyNote-e153aa01432d82c7",
+      "subject": "cbi-slv",
+      "predicate": "keyNote",
+      "value": "Application approval, payment and naturalisation are separate stages.",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "sv",
+          "locator": "US$1m BTC/USDt; naturalisation authorisation required; family; 1,000 annual participants.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-slv-familyScenario",
+      "revisionId": "cbi-slv-familyScenario-b5ff4925ff2067fb",
+      "subject": "cbi-slv",
+      "predicate": "familyScenario",
+      "value": "Principal, spouse and two children aged under 12; qualifying family only.",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "sv",
+          "locator": "US$1m BTC/USDt; naturalisation authorisation required; family; 1,000 annual participants.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-slv-passportDelivery",
+      "revisionId": "cbi-slv-passportDelivery-701701887026abb7",
+      "subject": "cbi-slv",
+      "predicate": "passportDelivery",
+      "value": "No independently verified end-to-end passport delivery time",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "sv",
+          "locator": "US$1m BTC/USDt; naturalisation authorisation required; family; 1,000 annual participants.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-slv-routeType",
+      "revisionId": "cbi-slv-routeType-2920ca646e556bef",
+      "subject": "cbi-slv",
+      "predicate": "routeType",
+      "value": "Contribution",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "sv",
+          "locator": "US$1m BTC/USDt; naturalisation authorisation required; family; 1,000 annual participants.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-slv-amount",
+      "revisionId": "cbi-slv-amount-75f93feceff5f8b7",
+      "subject": "cbi-slv",
+      "predicate": "amount",
+      "value": {
+        "amount": "1000000",
+        "currency": "USD"
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "sv",
+          "locator": "US$1m BTC/USDt; naturalisation authorisation required; family; 1,000 annual participants.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-slv-family-amount",
+      "revisionId": "cbi-slv-family-amount-172623274064d7a8",
+      "subject": "cbi-slv",
+      "predicate": "family_amount",
+      "value": {
+        "amount": "1000000",
+        "currency": "USD"
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "sv",
+          "locator": "US$1m BTC/USDt; naturalisation authorisation required; family; 1,000 annual participants.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [
+        "An amount alone does not establish dependant eligibility."
+      ]
+    },
+    {
+      "id": "cbi-slv-routes",
+      "revisionId": "cbi-slv-routes-8189ce5c69ff216e",
+      "subject": "cbi-slv",
+      "predicate": "routes",
+      "value": [
+        {
+          "label": "Freedom programme payment",
+          "amount": "1000000",
+          "currency": "USD",
+          "conditions": "BTC or USDt"
+        }
+      ],
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "sv",
+          "locator": "US$1m BTC/USDt; naturalisation authorisation required; family; 1,000 annual participants.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-slv-legal-outcome",
+      "revisionId": "cbi-slv-legal-outcome-8922b2bb7e7e4659",
+      "subject": "cbi-slv",
+      "predicate": "legal_outcome",
+      "value": "Citizenship through investment subject to government approval, naturalisation or registration, followed by a separate passport process.",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "sv",
+          "locator": "US$1m BTC/USDt; naturalisation authorisation required; family; 1,000 annual participants.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-slv-intake-observation",
+      "revisionId": "cbi-slv-intake-observation-32a17da85df497ea",
+      "subject": "cbi-slv",
+      "predicate": "intake_observation",
+      "value": {
+        "legal": "published_citizenship_route",
+        "intake": "published_application_route",
+        "decision": "government_assessment_required",
+        "passportIssuance": "separate_stage_not_guaranteed"
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "sv",
+          "locator": "US$1m BTC/USDt; naturalisation authorisation required; family; 1,000 annual participants.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-20",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [
+        "Portal offers 1,000 participants annually. Programme payment does not by itself confer nationality; eligibility and cryptocurrency payment rules apply.",
+        "Publication of a route is not a successful live application or completed issuance observation."
+      ]
+    },
+    {
+      "id": "cbi-slv-travel-gbr",
+      "revisionId": "cbi-slv-travel-gbr-cf900b3a10c0a998",
+      "subject": "cbi-slv",
+      "predicate": "travel_gbr",
+      "value": {
+        "label": "Visa required",
+        "note": "Short visits on an ordinary national passport. ETA eligibility and visitor conditions apply."
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "uk-visits",
+          "locator": "Current ordinary-passport visit-visa requirements. Rules updated 8 October 2026.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [
+        "Ordinary national passport after issuance; acquisition-route and passport-series restrictions not comprehensively researched.",
+        "Individual status exemptions, admission decisions and separate territories are outside this rule."
+      ]
+    },
+    {
+      "id": "cbi-slv-travel-usa",
+      "revisionId": "cbi-slv-travel-usa-7d529689e0ffbec0",
+      "subject": "cbi-slv",
+      "predicate": "travel_usa",
+      "value": {
+        "label": "Visitor visa required",
+        "note": "This nationality is outside the Visa Waiver Program. Individual exceptions may apply."
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "us-vwp",
+          "locator": "Ordinary-national-passport visitor rules; no current CBI nationality in the participating list",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [
+        "Ordinary national passport after issuance; acquisition-route and passport-series restrictions not comprehensively researched.",
+        "Individual status exemptions, admission decisions and separate territories are outside this rule."
+      ]
+    },
+    {
+      "id": "cbi-slv-travel-can",
+      "revisionId": "cbi-slv-travel-can-ba10c79b25e15a8a",
+      "subject": "cbi-slv",
+      "predicate": "travel_can",
+      "value": {
+        "label": "Visitor visa required",
+        "note": "No nationality-based visitor waiver is established here. Individual exemptions may apply."
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "publication-entry-nationality",
+          "locator": "Entry conditions depend on citizenship, travel document, status and transport. Foreign residence does not itself create a new nationality. Canadian and US permanent residents have separately described document rules.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [
+        "Ordinary national passport after issuance; acquisition-route and passport-series restrictions not comprehensively researched.",
+        "Individual status exemptions, admission decisions and separate territories are outside this rule."
+      ]
+    },
+    {
+      "id": "cbi-slv-travel-schengen-short-stay",
+      "revisionId": "cbi-slv-travel-schengen-short-stay-b36b5be95b797070",
+      "subject": "cbi-slv",
+      "predicate": "travel_schengen_short_stay",
+      "value": {
+        "label": "Visa-exempt · 90/180",
+        "note": "Ordinary national passport, short visits; entry conditions and document validity still apply."
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "eu-visa-list",
+          "locator": "Annexes I/II and qualifying footnotes; ordinary national passports only",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [
+        "Ordinary national passport after issuance; acquisition-route and passport-series restrictions not comprehensively researched.",
+        "Individual status exemptions, admission decisions and separate territories are outside this rule."
+      ]
+    },
+    {
+      "id": "cbi-slv-editorial-update",
+      "subject": "cbi-slv",
+      "predicate": "editorial_update",
+      "value": {
+        "checked": "2026-10-24",
+        "guides": [],
+        "timingSummary": "Up to 6 weeks: application approval target",
+        "items": [
+          {
+            "label": "Published application stages",
+            "text": "The official FAQ gives approval typically up to six weeks. The staged payment totals US$1 million; naturalisation begins after payment. The published family administration is US$999 per family member.",
+            "source": "publication-sv-stages"
+          }
+        ]
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "publication-sv-stages",
+          "locator": "Official FAQ reports approval typically up to six weeks. US$999 application fee and US$999,001 after approval total US$1m. Naturalisation begins after payment; family administration is listed as US$999 per family member.",
+          "scope": "Stated dated CBI claim only; no general legal clearance"
+        }
+      ],
+      "reviewedAt": "2026-10-24",
+      "reviewDueAt": "2026-11-07",
+      "reviewMethod": "Migrated original CBI primary-source observation; original scope and review limits retained",
+      "observedAt": "2026-10-24",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [],
+      "revisionId": "cbi-slv-editorial-update-551eba37e62248d3"
+    },
+    {
+      "id": "cbi-slv-scenario-item-24",
+      "subject": "cbi-slv",
+      "predicate": "scenario_cost_item",
+      "value": {
+        "label": "Principal application deposit",
+        "amount": "999",
+        "currency": "USD",
+        "category": "government_charge",
+        "basis": "application",
+        "quantity": 1,
+        "paymentStage": "not_established",
+        "recoverability": "not_established",
+        "frequency": "once",
+        "scenario": "single_adult"
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [
+        "Conditional on government acceptance of the named household and source-specific eligibility."
+      ],
+      "evidence": [
+        {
+          "sourceId": "publication-sv-stages",
+          "locator": "Published contribution and fee schedule; applicant age bands and per-person/application distinctions",
+          "scope": "Dated fee evidence; eligibility, additional charges and refund terms remain separate"
+        }
+      ],
+      "reviewedAt": "2026-10-24",
+      "reviewDueAt": "2026-11-07",
+      "reviewMethod": "Original CBI itemization, retaining source-specific limitations",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [],
+      "revisionId": "cbi-slv-scenario-item-24-645dd96181a83d9f"
+    },
+    {
+      "id": "cbi-slv-scenario-item-25",
+      "subject": "cbi-slv",
+      "predicate": "scenario_cost_item",
+      "value": {
+        "label": "Remaining programme payment",
+        "amount": "999001",
+        "currency": "USD",
+        "category": "capital",
+        "basis": "application",
+        "quantity": 1,
+        "paymentStage": "not_established",
+        "recoverability": "not_established",
+        "frequency": "once",
+        "scenario": "single_adult"
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [
+        "Conditional on government acceptance of the named household and source-specific eligibility."
+      ],
+      "evidence": [
+        {
+          "sourceId": "publication-sv-stages",
+          "locator": "Published contribution and fee schedule; applicant age bands and per-person/application distinctions",
+          "scope": "Dated fee evidence; eligibility, additional charges and refund terms remain separate"
+        }
+      ],
+      "reviewedAt": "2026-10-24",
+      "reviewDueAt": "2026-11-07",
+      "reviewMethod": "Original CBI itemization, retaining source-specific limitations",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [],
+      "revisionId": "cbi-slv-scenario-item-25-f6ff802aaa27d3fb"
+    }
+  ],
+  "costItems": [
+    {
+      "id": "cbi-slv-scenario-item-24",
+      "programmeId": "cbi-slv",
+      "optionId": "cbi-slv-option-1",
+      "claimId": "cbi-slv-scenario-item-24"
+    },
+    {
+      "id": "cbi-slv-scenario-item-25",
+      "programmeId": "cbi-slv",
+      "optionId": "cbi-slv-option-1",
+      "claimId": "cbi-slv-scenario-item-25"
+    }
+  ],
+  "travel": [
+    {
+      "id": "SLV-GBR",
+      "programmeId": "cbi-slv",
+      "passport": "SLV",
+      "destination": "GBR",
+      "documentType": "ordinary",
+      "purpose": "short_visit",
+      "route": "advance_visa",
+      "outcome": "supported",
+      "claimId": "cbi-slv-travel-gbr",
+      "transport": [
+        "air",
+        "land",
+        "sea"
+      ],
+      "conditions": [],
+      "permittedStay": null,
+      "documentRecognition": "Valid ordinary national passport; individual and series exceptions not fully checked",
+      "acquisitionRestrictions": "not_researched"
+    },
+    {
+      "id": "SLV-USA",
+      "programmeId": "cbi-slv",
+      "passport": "SLV",
+      "destination": "USA",
+      "documentType": "ordinary",
+      "purpose": "short_visit",
+      "route": "advance_visa",
+      "outcome": "supported",
+      "claimId": "cbi-slv-travel-usa",
+      "transport": [
+        "air",
+        "land",
+        "sea"
+      ],
+      "conditions": [],
+      "permittedStay": null,
+      "documentRecognition": "Valid ordinary national passport; individual and series exceptions not fully checked",
+      "acquisitionRestrictions": "not_researched"
+    },
+    {
+      "id": "SLV-CAN",
+      "programmeId": "cbi-slv",
+      "passport": "SLV",
+      "destination": "CAN",
+      "documentType": "ordinary",
+      "purpose": "short_visit",
+      "route": "advance_visa",
+      "outcome": "supported",
+      "claimId": "cbi-slv-travel-can",
+      "transport": [
+        "air",
+        "land",
+        "sea"
+      ],
+      "conditions": [],
+      "permittedStay": null,
+      "documentRecognition": "Valid ordinary national passport; individual and series exceptions not fully checked",
+      "acquisitionRestrictions": "not_researched"
+    },
+    {
+      "id": "SLV-SCHENGEN_SHORT_STAY",
+      "programmeId": "cbi-slv",
+      "passport": "SLV",
+      "destination": "SCHENGEN_SHORT_STAY",
+      "documentType": "ordinary",
+      "purpose": "short_visit",
+      "route": "visa_exempt",
+      "outcome": "supported",
+      "claimId": "cbi-slv-travel-schengen-short-stay",
+      "transport": [
+        "air",
+        "land",
+        "sea"
+      ],
+      "conditions": [],
+      "permittedStay": "90 days in any 180-day period, subject to admission conditions",
+      "documentRecognition": "Common nationality regime only; member-specific recognition not fully checked",
+      "acquisitionRestrictions": "not_researched"
+    }
+  ]
+}

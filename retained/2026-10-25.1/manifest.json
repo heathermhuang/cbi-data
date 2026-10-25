@@ -1,0 +1,616 @@
+{
+  "datasetRelease": "2026-10-25.1",
+  "schemaVersion": "0.1.0",
+  "packageVersion": "0.1.0",
+  "generatedAt": "2026-10-25T08:51:45Z",
+  "sourceCommit": "66f4ad38a84c618836288bc7b27c42732af79ab9",
+  "canonicalHash": "e3cbc72e751ffcda085c8493740f308c156b922c3f9d575e99484c0f43bf97af",
+  "buildToolVersion": "0.1.0",
+  "supersedes": null,
+  "files": [
+    {
+      "path": "changes.json",
+      "size": 15949,
+      "sha256": "51acd1b3492b4ffcf98255cd3f2c9b814ab0ffec615c0c098ebfe3178e1baba8"
+    },
+    {
+      "path": "claims.csv",
+      "size": 284852,
+      "sha256": "ec761162ca457774725f7585570935c888630f65df790d121ec0318c89da2ce9"
+    },
+    {
+      "path": "programmes/cbi-atg.json",
+      "size": 56832,
+      "sha256": "7e78f9b2c6baee340f27afe36a7d0a3d03747618cfe92a9827bd1a8da499269e"
+    },
+    {
+      "path": "programmes/cbi-dma.json",
+      "size": 57906,
+      "sha256": "aaddf934dfe033ca9e0b1e4664899f247a9876eff6e41e7fc0f60cc60987b30f"
+    },
+    {
+      "path": "programmes/cbi-egy.json",
+      "size": 43467,
+      "sha256": "3428997c599e18075f891aac93412a6b7f2d3ae8568c96c7e1bf714bb98fb1bd"
+    },
+    {
+      "path": "programmes/cbi-grd.json",
+      "size": 50325,
+      "sha256": "ce082e466a7b717f8f15099c83e624c9f2b6e0f9bf3ee708ec4261f58dd2e175"
+    },
+    {
+      "path": "programmes/cbi-kna.json",
+      "size": 76342,
+      "sha256": "c9b7ded5fb3a20434fe9b976203530ef730191c378e56df4073198ac535f4f1e"
+    },
+    {
+      "path": "programmes/cbi-lca.json",
+      "size": 56428,
+      "sha256": "6cf489a0a6e3234b6211a1e489b2df6b0899ea5f6f30fd0f07adaee65c64a549"
+    },
+    {
+      "path": "programmes/cbi-nru.json",
+      "size": 56195,
+      "sha256": "1d91c6b44b0a722eee3caa893a210c3307ae57ad02e799e92a7b395576c5426e"
+    },
+    {
+      "path": "programmes/cbi-slv.json",
+      "size": 35993,
+      "sha256": "c8bc0763d94c50f3572184ee3a7fff1de882c4b05b57f546d9702ce50527ae5b"
+    },
+    {
+      "path": "programmes/cbi-stp.json",
+      "size": 45152,
+      "sha256": "34d4f701eeeb85c485122cb68e513e38a5b2db1cdeedd2cf8630bacd5b0cbdc9"
+    },
+    {
+      "path": "programmes/cbi-tur.json",
+      "size": 34900,
+      "sha256": "c8930abe0cd4273dababc1f25683ff57c4270247c32f51e0ed71c43d01609655"
+    },
+    {
+      "path": "programmes/cbi-vut.json",
+      "size": 66873,
+      "sha256": "8e11de149aa844198a9bf6685821b1c4f55ae47fa53963c6945b7dfcd1a8971a"
+    },
+    {
+      "path": "scope.json",
+      "size": 1222,
+      "sha256": "790947f2ca42847c60a59034855b076b7b45cf315cb176ede3a67eb1446c6836"
+    },
+    {
+      "path": "sources/ag-fees.json",
+      "size": 1074,
+      "sha256": "f2b7f3dead06286812d1e07a42b5342648b4467d8232cb8044af8f7894a57c62"
+    },
+    {
+      "path": "sources/ag-ndf.json",
+      "size": 1011,
+      "sha256": "fc1eee3ba18fd9ae64b30e93363773d4491721cc2b06ec92fc32399d3ec416ad"
+    },
+    {
+      "path": "sources/ag.json",
+      "size": 1069,
+      "sha256": "e31ab4e32ebcc8492e554bc78555da831b942c073970db5cd6eef327ddc3d756"
+    },
+    {
+      "path": "sources/alternative-st-reporting.json",
+      "size": 1279,
+      "sha256": "81e964bd8eea430a5e851867385439dfa6e7a5b52030245b5aa8becb49dbfda1"
+    },
+    {
+      "path": "sources/ca-conditional-eta.json",
+      "size": 1142,
+      "sha256": "2593c7b6c332d73ea8701e61686cd532660e294e71c3352960d640bdaf0357f6"
+    },
+    {
+      "path": "sources/ch-nauru-visa.json",
+      "size": 1135,
+      "sha256": "ca2825d6f44b2c478c130ae367b4aa9732278da3e2f6eb05a80c583f7a3bf620"
+    },
+    {
+      "path": "sources/comparison-eg-current.json",
+      "size": 946,
+      "sha256": "ef0cc9628cf9b6ab9a7902707526bb218af556cec31d240ccb6826f031fd313d"
+    },
+    {
+      "path": "sources/comparison-vu-distinct-formd25.json",
+      "size": 1054,
+      "sha256": "bb370e1da8b2b57efefcd76f91c71be3ded6a3a8118b568dc8443d24d4a5757f"
+    },
+    {
+      "path": "sources/comparison-vu-dsp-amendment25.json",
+      "size": 1047,
+      "sha256": "8a28edfb8bb17916fdd42b5ad0632a807a532a19c8992c3931770a486defbe62"
+    },
+    {
+      "path": "sources/comparison-vu-dsp-regulations25.json",
+      "size": 1081,
+      "sha256": "82ecc5a914c4f030f7376501be2925c966d7dfe6dbf1e1f4f715020e81f501e6"
+    },
+    {
+      "path": "sources/comparison-vu-dsp-tariff25.json",
+      "size": 1063,
+      "sha256": "260d202979f21632f024c86a81070f5a8d4404a5a2b547650a7eb5c83314cd88"
+    },
+    {
+      "path": "sources/dm-property.json",
+      "size": 1006,
+      "sha256": "2f445b8c7d82dfee1347078f54c9b81f95a94c93e855ee616abf147da1bff9e3"
+    },
+    {
+      "path": "sources/dm-timing.json",
+      "size": 1173,
+      "sha256": "c5bc040a7ca6e5770782c3d8baf634068e76fca9eda5fb0f4d7a48f9a9a5f15f"
+    },
+    {
+      "path": "sources/dm.json",
+      "size": 1094,
+      "sha256": "27797905664e9c56922444f9415150b4a6666c5002a624450022db7eb70a7a3c"
+    },
+    {
+      "path": "sources/eg-faq.json",
+      "size": 982,
+      "sha256": "3bb0c26ea013a5091349859c0f9be9f956c5e01c939ee599bf2e2f6a52bc2002"
+    },
+    {
+      "path": "sources/eg.json",
+      "size": 1000,
+      "sha256": "732fd0f2e2e0c75b11e07df4d4507e6fe7cac1cf5fe5cae1e8775d2040bf341e"
+    },
+    {
+      "path": "sources/eu-nauru-condition.json",
+      "size": 1027,
+      "sha256": "3c3aa257284c0e1b5082f857a0aecccf819504aa5650fbb7d829bae56f856fd6"
+    },
+    {
+      "path": "sources/eu-vanuatu-revoked.json",
+      "size": 1020,
+      "sha256": "a0a3e905e92f369423129e2545f6e4c96d371b2eaf013e0957bd9b790fcd1f1d"
+    },
+    {
+      "path": "sources/eu-visa-list.json",
+      "size": 978,
+      "sha256": "1a8fe5db355ec678f2fb76e113b26d4dad6978a1a605b7fe9a2d6826a3fe55c5"
+    },
+    {
+      "path": "sources/follow-ag-eu-request.json",
+      "size": 1256,
+      "sha256": "ae283ddc247548d98888f4e77a41e43c90d93f0b155b54455d730d00c1c7d14b"
+    },
+    {
+      "path": "sources/gd.json",
+      "size": 1073,
+      "sha256": "aefc6a6f17b53211841ff2dd1e0f2c3585899440ab64966e275f1c3c729e3353"
+    },
+    {
+      "path": "sources/imf-history.json",
+      "size": 1213,
+      "sha256": "199bcf8687045edef894104f1638cdf6f2d2a4e33166fc26956a4087d58b396c"
+    },
+    {
+      "path": "sources/lc-old.json",
+      "size": 990,
+      "sha256": "3ab74dadff3be391c697d1f9a81c8c56f59727fb8662454f18dc3be4398daae4"
+    },
+    {
+      "path": "sources/lc-uk.json",
+      "size": 1079,
+      "sha256": "06408cfc5c2964ff7ba742a0af6e1533450f34cc1cd033ad05b2129b33753bec"
+    },
+    {
+      "path": "sources/lc.json",
+      "size": 1094,
+      "sha256": "40f05a7fbe9a16ebc34b074e1cff90afc0c1e823b12e7d710ba3d741f5149e3a"
+    },
+    {
+      "path": "sources/nr-imf.json",
+      "size": 1080,
+      "sha256": "735b1c0c431387f323be9f0b889c3d524c32269c3844ca4e0f2d1f7d83e0bb25"
+    },
+    {
+      "path": "sources/nr.json",
+      "size": 1064,
+      "sha256": "948a8dc98e432e6274ec9224b45d06de2b7da0534d7e4a3266265e1711107f7a"
+    },
+    {
+      "path": "sources/official-dm-agents.json",
+      "size": 1105,
+      "sha256": "7ec6142dcbc12c4fadc6f6d00a6832cda8fbe692b38d2de786d2a6c7dd808546"
+    },
+    {
+      "path": "sources/official-dm-process.json",
+      "size": 1226,
+      "sha256": "88e98b4d5a2e4f5182f627d06b68638ad92c939c0a28c64bd6d23d371d0c4bf7"
+    },
+    {
+      "path": "sources/official-gd-agents.json",
+      "size": 1013,
+      "sha256": "44d3dd236b5d51e31ca80553d6081606b1bf9bab2f11213b73b08c8b0f805e45"
+    },
+    {
+      "path": "sources/official-gd-process.json",
+      "size": 1129,
+      "sha256": "392b6196c50eba9ab5c705d8fed859e6017498f6e653a09c2c72986c0f70b5d2"
+    },
+    {
+      "path": "sources/official-skn-agents.json",
+      "size": 1000,
+      "sha256": "a387898c0270af57379b7105ab09e8b191d86fa6216c0c0e1bf019202fc0b836"
+    },
+    {
+      "path": "sources/official-skn-passport.json",
+      "size": 1139,
+      "sha256": "25177a2339f1d6cef90af497dd9a72022cd2cef19467c57c8d9e38d79123e3da"
+    },
+    {
+      "path": "sources/official-skn-process.json",
+      "size": 1017,
+      "sha256": "d50cf655fe7080f3562980537a14a153ca45bc5af41c0f77487c0265cfc3ef8c"
+    },
+    {
+      "path": "sources/publication-entry-nationality.json",
+      "size": 1174,
+      "sha256": "d0ad56e5be2decb396d87950642fc8818240b8aca4d94867f8ee7fb43d1c769a"
+    },
+    {
+      "path": "sources/publication-sv-stages.json",
+      "size": 1010,
+      "sha256": "7440aeecfa8ba93d7c2658638cf3e2092d9cde0e251561145bd52649dd80de8e"
+    },
+    {
+      "path": "sources/skn-biometric.json",
+      "size": 979,
+      "sha256": "cf8ed4543190d99a956f966e84f31d72d97a39f13763c9c1bd4b3b839e7c1959"
+    },
+    {
+      "path": "sources/skn-fees.json",
+      "size": 1100,
+      "sha256": "447eb517569b6cb73d2c5dded486f5774d3e3e08ef044a66938502e16a02a73f"
+    },
+    {
+      "path": "sources/skn-presence.json",
+      "size": 913,
+      "sha256": "c0adb768ed84285732bae448d6ead4e4c7e7217d74b8917f87aa37e825169e0b"
+    },
+    {
+      "path": "sources/skn-reform.json",
+      "size": 1187,
+      "sha256": "1bae4af20abb06e72c31b5793a4737e82ce251fec03ec9b7e6ad5e6cc1e4d734"
+    },
+    {
+      "path": "sources/skn-transition.json",
+      "size": 926,
+      "sha256": "d10a256bf210034417c4c77f1f8e27bf9de59bc75dc77b59b0e1ec3ec82de245"
+    },
+    {
+      "path": "sources/skn.json",
+      "size": 940,
+      "sha256": "999704fc986d8640b7e36990a632edf6f5e6bc8133e0452403a089cff4cbaddb"
+    },
+    {
+      "path": "sources/st-family.json",
+      "size": 1180,
+      "sha256": "6e67ee59094e95b9654871477b741389c3c0188558529b9b9641a926e5b2e580"
+    },
+    {
+      "path": "sources/st-price.json",
+      "size": 1133,
+      "sha256": "95b24d42338600f6cf1a6186c4e07295384e98d4819acd2fada64cf2f0d4b250"
+    },
+    {
+      "path": "sources/st.json",
+      "size": 1068,
+      "sha256": "c38e08ba89355bc3306c3b9d0ce0f114ebea6ecda9dbe4a20ab3dd5debe398f6"
+    },
+    {
+      "path": "sources/sv.json",
+      "size": 1077,
+      "sha256": "edb0b3820fe313353a93aff7db6d982136f603b4ce0f1dd30d294464cdb55337"
+    },
+    {
+      "path": "sources/tr.json",
+      "size": 1141,
+      "sha256": "36f784220d00c267726fd1558bb9f57a2ed669ab03e5c8e310885b0c910ad006"
+    },
+    {
+      "path": "sources/uk-visits.json",
+      "size": 1141,
+      "sha256": "51f402cc86aefec7817ce748ad85f888f6bf11bd174f70766472cf222f00403f"
+    },
+    {
+      "path": "sources/update-ag-property.json",
+      "size": 1071,
+      "sha256": "8d198894b92f43b2492c363c93bd77ff289b1760da6b830572c5d7ec594aa561"
+    },
+    {
+      "path": "sources/update-lc-faq.json",
+      "size": 1080,
+      "sha256": "fc3de1271ad85735f8c320f38c2b9703ebc4506b46c40ddb75c563ca1c4330bf"
+    },
+    {
+      "path": "sources/update-lc-report.json",
+      "size": 1090,
+      "sha256": "6c6ab8e121ca7ab3ea2a78df95b73c9a361a3aa03a24d8177f5d34a8bf1705c9"
+    },
+    {
+      "path": "sources/update-tr-enforcement.json",
+      "size": 1261,
+      "sha256": "10479dc2d9fed7563b1528a8ce92f0c7a54c27f10de99185e7784b74fcf7390d"
+    },
+    {
+      "path": "sources/us-restrictions.json",
+      "size": 1078,
+      "sha256": "b11354547f922b5643e76e614592e5e142678287eb3f1fce7f16a858eacec339"
+    },
+    {
+      "path": "sources/us-vwp.json",
+      "size": 1000,
+      "sha256": "7644fa10ea0235b71b8936527b1d2f4769c89e99de98a612a0efc571e6f37f43"
+    },
+    {
+      "path": "sources/vu-current.json",
+      "size": 1124,
+      "sha256": "c5248abc42b6255a03edd301692e701bf06170f54cf3110555220fee0c69b3a4"
+    },
+    {
+      "path": "sources/vu-eu.json",
+      "size": 1002,
+      "sha256": "686cb0caf30940c793bc161dbae240efadd4fbaa51814781752761bf1abbd1c4"
+    },
+    {
+      "path": "sources/vu-price.json",
+      "size": 1073,
+      "sha256": "aae1b6ea0572783edf6555a134675da15b8b29a33b6e8005c6efeaaca2306b64"
+    },
+    {
+      "path": "sources/vu.json",
+      "size": 987,
+      "sha256": "18958d174f7436c5d2b49ba106a13f16e884b6a4ae9260c7e616ab79f95bba8c"
+    },
+    {
+      "path": "summaries.json",
+      "size": 205092,
+      "sha256": "3f8822e92f3feff879f26a021640abb39e02806dc56b2ef019ca02a887a42db3"
+    },
+    {
+      "path": "travel/ATG-CAN.json",
+      "size": 2132,
+      "sha256": "3aa66b124843420f1c110b7b8c10419739ed5484f64acd4b505df1a71c6b726a"
+    },
+    {
+      "path": "travel/ATG-GBR.json",
+      "size": 1747,
+      "sha256": "712c7d6b2dc023bfc7576b3dfac5f3cfe5649ccdf521125738a06a8120cd1dea"
+    },
+    {
+      "path": "travel/ATG-SCHENGEN_SHORT_STAY.json",
+      "size": 1897,
+      "sha256": "07f42f4810540fb29f9b0a0f0a7f4e74fff8ebbb8b3d802b3acbe10c2d343cb5"
+    },
+    {
+      "path": "travel/ATG-USA.json",
+      "size": 2166,
+      "sha256": "cfea5c336a04afc94b1c2dc840c920808df8be1d391e4fc60510da5ea51f1ccb"
+    },
+    {
+      "path": "travel/DMA-CAN.json",
+      "size": 1907,
+      "sha256": "083a9418065da3a059c5066a7df8abbb82807902f6c19bad253255988426a2c2"
+    },
+    {
+      "path": "travel/DMA-GBR.json",
+      "size": 1746,
+      "sha256": "2995df4db3562daeae567bc33c1270dd09da31ad5122f2baf4c2b21fb1e2fd89"
+    },
+    {
+      "path": "travel/DMA-SCHENGEN_SHORT_STAY.json",
+      "size": 1897,
+      "sha256": "583646a91bc5a50b60e8214b54aefd0ffa8a9990deb15a1d8ce7030a8aeba331"
+    },
+    {
+      "path": "travel/DMA-USA.json",
+      "size": 2166,
+      "sha256": "99fc3982c15e5afe777e5ca5bd3896594f33a5e002f92697fb55340e363a1142"
+    },
+    {
+      "path": "travel/EGY-CAN.json",
+      "size": 1907,
+      "sha256": "e6e7410aa162cf89e62bf26444f0676b4ba827a1345d0ec2890a752c3edcee3a"
+    },
+    {
+      "path": "travel/EGY-GBR.json",
+      "size": 1746,
+      "sha256": "c73429d6af44e9aa07fa062b1876fea79f3703848187ddfdb19577ad89f1d867"
+    },
+    {
+      "path": "travel/EGY-SCHENGEN_SHORT_STAY.json",
+      "size": 1830,
+      "sha256": "aa116503070214a5efb20c1e68f031bbaa2bd235f71e53d9596ae06dabd65733"
+    },
+    {
+      "path": "travel/EGY-USA.json",
+      "size": 1758,
+      "sha256": "1ba9677e02375a32f2e732b307110552dd59437f06b1bdd5c312e85a23426560"
+    },
+    {
+      "path": "travel/GRD-CAN.json",
+      "size": 1907,
+      "sha256": "b6aaf0b2ade9b625ba2bf9ff562bb8c59612d2b5d109bf79fba212861a5896cb"
+    },
+    {
+      "path": "travel/GRD-GBR.json",
+      "size": 1747,
+      "sha256": "9676ab0dc1de67d243d71970c960809948c5f7e803cb6ae6efa623d393cb713e"
+    },
+    {
+      "path": "travel/GRD-SCHENGEN_SHORT_STAY.json",
+      "size": 1897,
+      "sha256": "5ff3fe516679267aaed461b77e8a2d6daddc543c6dfa72cbf0cc54032cb3dab2"
+    },
+    {
+      "path": "travel/GRD-USA.json",
+      "size": 1758,
+      "sha256": "9bd6f12e52279bdf55434be76ae618c14cd06fd261d180c6007498aba49690e3"
+    },
+    {
+      "path": "travel/KNA-CAN.json",
+      "size": 2132,
+      "sha256": "55beb3e162d89b0491e7923af041c4724a71d1e91bf30e2ac5896f1286eeb432"
+    },
+    {
+      "path": "travel/KNA-GBR.json",
+      "size": 1747,
+      "sha256": "954146d305395c96288468428c3868867949ce9fd05ac081322f7b7305fc9e40"
+    },
+    {
+      "path": "travel/KNA-SCHENGEN_SHORT_STAY.json",
+      "size": 1897,
+      "sha256": "67bc49694721c6baafa8909e75b7e8a2b10e88243c86805724384c4345eed04b"
+    },
+    {
+      "path": "travel/KNA-USA.json",
+      "size": 1758,
+      "sha256": "52ad9b1c895283b60531de304ff7d5e6147668d6d63c12d9a855ab79e717f137"
+    },
+    {
+      "path": "travel/LCA-CAN.json",
+      "size": 2132,
+      "sha256": "5214e666fc6de2f590c443cdcfb43108c1893bde4d2dd4ba7cf4b940ee999b0e"
+    },
+    {
+      "path": "travel/LCA-GBR.json",
+      "size": 1746,
+      "sha256": "d570a1b1cdb7f0084e1e25023803cc9b3b03d22cab029c544fad591fab7edff7"
+    },
+    {
+      "path": "travel/LCA-SCHENGEN_SHORT_STAY.json",
+      "size": 1897,
+      "sha256": "b39dd1c6eff4547ab1a3a2ac7ebd4cacfcf6a9da91abe8be362ec0bb1f0b362c"
+    },
+    {
+      "path": "travel/LCA-USA.json",
+      "size": 1758,
+      "sha256": "cdd16758854cf9ed19ac4a58e3bf8c0c156c49e80fbb5cdfec1a7c7f334e1885"
+    },
+    {
+      "path": "travel/NRU-CAN.json",
+      "size": 1907,
+      "sha256": "5c355ebe45c6042103d0b6bc99827120d1f0d13f7adefb22081930318e8387c4"
+    },
+    {
+      "path": "travel/NRU-GBR.json",
+      "size": 1746,
+      "sha256": "28b9d96de4184ab922d9e08d9140fcf3521c0a56b59f13df275501112eee4712"
+    },
+    {
+      "path": "travel/NRU-SCHENGEN_SHORT_STAY.json",
+      "size": 2395,
+      "sha256": "cc7f6495892f6ca4eba1a8dd37963ea811640b07ffe32843aa2e21dd64435ad6"
+    },
+    {
+      "path": "travel/NRU-USA.json",
+      "size": 1758,
+      "sha256": "fdeb3bb4731edb4aa5d70f2eb511581c390511fd67fc31c279745015bfb41bf8"
+    },
+    {
+      "path": "travel/SLV-CAN.json",
+      "size": 1907,
+      "sha256": "d0d3224cd6e43f36d3727a6f2dba82454414043b1821d4e49d5b148f69568d4a"
+    },
+    {
+      "path": "travel/SLV-GBR.json",
+      "size": 1746,
+      "sha256": "7506047313892329c4ce394fdf455e0307d324768d9c30e45c5e2f9f9e70cc7a"
+    },
+    {
+      "path": "travel/SLV-SCHENGEN_SHORT_STAY.json",
+      "size": 1897,
+      "sha256": "489ef792b490e6f4538c07d0f02015700910d440a0a211d2bac475db80e6fa53"
+    },
+    {
+      "path": "travel/SLV-USA.json",
+      "size": 1758,
+      "sha256": "c058fb8dca4c1f360d58c58370c925c7c1091bc552e19a211bbc9f8fc24bd8c5"
+    },
+    {
+      "path": "travel/STP-CAN.json",
+      "size": 1907,
+      "sha256": "cad34c9149056da6e70aa8796b5c6b39166862aaa3828675c4aa4d6b450e7b6a"
+    },
+    {
+      "path": "travel/STP-GBR.json",
+      "size": 1746,
+      "sha256": "ab4579da7b2887972ee0fb44b488d794588921dd3330478c3be1d20dacb95173"
+    },
+    {
+      "path": "travel/STP-SCHENGEN_SHORT_STAY.json",
+      "size": 1830,
+      "sha256": "2d81f26dc97885188a9775cf894916ccab778b7aa45e849979611e30784d9338"
+    },
+    {
+      "path": "travel/STP-USA.json",
+      "size": 1758,
+      "sha256": "120786d8e61ab074d2c07e4e239f5942a16a62e280a226cfd5ebd3506f5db1ed"
+    },
+    {
+      "path": "travel/TUR-CAN.json",
+      "size": 1907,
+      "sha256": "0a069de015ed336f723e032f67bbdc668568de7e143ccd244a2acfbfc7d7cca5"
+    },
+    {
+      "path": "travel/TUR-GBR.json",
+      "size": 1746,
+      "sha256": "41c79d2ed54f61ce91c71dc677341dee0acf2f5e98d32d917a68c49f3584ea66"
+    },
+    {
+      "path": "travel/TUR-SCHENGEN_SHORT_STAY.json",
+      "size": 1830,
+      "sha256": "d43f9a195e054b1fe0bf0bd72170c55ffbad5130fc0f831d96f9f864f2e5854a"
+    },
+    {
+      "path": "travel/TUR-USA.json",
+      "size": 1758,
+      "sha256": "b4f3ca27e98812d0118ea1c0b3520d41f279827f87929ad38881ebf36673995b"
+    },
+    {
+      "path": "travel/VUT-CAN.json",
+      "size": 1907,
+      "sha256": "5a8c86cc08a94e7206481aa3cc9269ba4a7c0d78550e77de997ad759e940effe"
+    },
+    {
+      "path": "travel/VUT-GBR.json",
+      "size": 1746,
+      "sha256": "3e984c71d340b96c6b49bbb5362ed729cdb689a3a8a8d581fb894ad1bbccfaab"
+    },
+    {
+      "path": "travel/VUT-SCHENGEN_SHORT_STAY.json",
+      "size": 2047,
+      "sha256": "8bffa4ec1cc98ab837f8bd99102c1e9bdc7d24bfe254e829d7b5527fb836a7d5"
+    },
+    {
+      "path": "travel/VUT-USA.json",
+      "size": 1758,
+      "sha256": "eb6137083e550b09ef287f85dca7d8de8e8ee64b5f63211eb1eef011c3f92a00"
+    }
+  ],
+  "coverage": {
+    "programmes": 11,
+    "claims": 340,
+    "travelSlots": 44,
+    "requiredFieldSlots": 176,
+    "explicitGaps": 33,
+    "partialFields": 143,
+    "confirmedClaims": 0,
+    "partialClaims": 336,
+    "disputedClaims": 4,
+    "sources": 58
+  },
+  "licences": {
+    "software": "MIT",
+    "compilation": "CC-BY-4.0",
+    "upstream": "Links only; no upstream documents or text licensed by this project"
+  },
+  "archiveURL": "https://github.com/heathermhuang/cbi-data/releases/tag/data-2026-10-25.1",
+  "hosted": true
+}

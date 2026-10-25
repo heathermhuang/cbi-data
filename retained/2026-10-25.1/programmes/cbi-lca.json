@@ -1,0 +1,1466 @@
+{
+  "programme": {
+    "id": "cbi-lca",
+    "aliases": [
+      "lc"
+    ],
+    "jurisdiction": "LCA",
+    "country": "Saint Lucia",
+    "name": "Citizenship by Investment",
+    "kind": "citizenship",
+    "mechanism": "investment_subject_to_nationality_decision",
+    "profileURL": "https://cbi.me/citizenship-by-investment/saint-lucia/",
+    "region": "Caribbean",
+    "period": "2016–present",
+    "start": 2016,
+    "end": null,
+    "optionIds": [
+      "cbi-lca-option-1",
+      "cbi-lca-option-2"
+    ],
+    "options": [
+      {
+        "id": "cbi-lca-option-1",
+        "label": "NEF contribution",
+        "classification": "contribution",
+        "amountClaimId": "cbi-lca-routes",
+        "conditions": "Non-refundable"
+      },
+      {
+        "id": "cbi-lca-option-2",
+        "label": "Government bonds",
+        "classification": "deposit",
+        "amountClaimId": "cbi-lca-routes",
+        "conditions": "5-year hold plus US$50,000 administration"
+      }
+    ],
+    "fields": {
+      "capital": "cbi-lca-capital",
+      "capitalType": "cbi-lca-capitalType",
+      "hold": "cbi-lca-hold",
+      "presence": "cbi-lca-presence",
+      "family": "cbi-lca-family",
+      "caveat": "cbi-lca-caveat",
+      "alert": "cbi-lca-alert",
+      "processing": "cbi-lca-processing",
+      "presenceShort": "cbi-lca-presenceShort",
+      "feeNote": "cbi-lca-feeNote",
+      "keyNote": "cbi-lca-keyNote",
+      "familyScenario": "cbi-lca-familyScenario",
+      "passportDelivery": "cbi-lca-passportDelivery",
+      "routeType": "cbi-lca-routeType",
+      "amount": "cbi-lca-amount",
+      "familyAmount": "cbi-lca-family-amount",
+      "routes": "cbi-lca-routes",
+      "legalOutcome": "cbi-lca-legal-outcome",
+      "intake": "cbi-lca-intake-observation",
+      "editorialUpdate": "cbi-lca-editorial-update"
+    },
+    "requiredFields": {
+      "legal_outcome": {
+        "claimIds": [
+          "cbi-lca-legal-outcome"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "legal_basis": {
+        "claimIds": [],
+        "state": "gap",
+        "gap": "Exact legal basis requirements not fully established in this release."
+      },
+      "operational_intake": {
+        "claimIds": [
+          "cbi-lca-intake-observation"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "decision_stage": {
+        "claimIds": [
+          "cbi-lca-intake-observation"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "passport_issuance": {
+        "claimIds": [
+          "cbi-lca-passportDelivery",
+          "cbi-lca-intake-observation"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "investment_options": {
+        "claimIds": [
+          "cbi-lca-routes"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "minimum_capital": {
+        "claimIds": [
+          "cbi-lca-amount",
+          "cbi-lca-capital"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "financial_resources": {
+        "claimIds": [],
+        "state": "gap",
+        "gap": "Exact financial resources requirements not fully established in this release."
+      },
+      "published_fees": {
+        "claimIds": [
+          "cbi-lca-cost-9",
+          "cbi-lca-cost-28",
+          "cbi-lca-scenario-item-26",
+          "cbi-lca-scenario-item-27",
+          "cbi-lca-scenario-item-28",
+          "cbi-lca-scenario-item-29",
+          "cbi-lca-scenario-item-30",
+          "cbi-lca-scenario-item-31",
+          "cbi-lca-feeNote"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "dependants": {
+        "claimIds": [
+          "cbi-lca-family",
+          "cbi-lca-familyScenario"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "screening": {
+        "claimIds": [],
+        "state": "gap",
+        "gap": "Exact screening requirements not fully established in this release."
+      },
+      "presence_holding": {
+        "claimIds": [
+          "cbi-lca-presence",
+          "cbi-lca-hold"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "post_grant": {
+        "claimIds": [
+          "cbi-lca-presence",
+          "cbi-lca-hold"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "withdrawal_recovery": {
+        "claimIds": [
+          "cbi-lca-capitalType",
+          "cbi-lca-hold"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "process_timing": {
+        "claimIds": [
+          "cbi-lca-processing",
+          "cbi-lca-passportDelivery"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "nationality_document_restrictions": {
+        "claimIds": [
+          "cbi-lca-caveat"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      }
+    },
+    "qualifications": [
+      "Official FAQ still shows an older US$100,000 figure. Use current investment page; bonds and donation have different economic costs.",
+      "Interview/identity verification is payable by the principal; its amount, passport, document and agent costs are excluded.",
+      "No independently verified end-to-end passport delivery time"
+    ]
+  },
+  "claims": [
+    {
+      "id": "cbi-lca-capital",
+      "revisionId": "cbi-lca-capital-a5071164db6d648e",
+      "subject": "cbi-lca",
+      "predicate": "capital",
+      "value": "US$240,000 NEF contribution",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "lc",
+          "locator": "NEF US$240,000 up to four; bonds US$300,000 plus US$50,000 administration; other options.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-lca-capitalType",
+      "revisionId": "cbi-lca-capitalType-1e99b7527dcdfad2",
+      "subject": "cbi-lca",
+      "predicate": "capitalType",
+      "value": "Non-refundable contribution",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "lc",
+          "locator": "NEF US$240,000 up to four; bonds US$300,000 plus US$50,000 administration; other options.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "lc-old",
+          "locator": "Conflicting older US$100,000 price; used only to document official-page inconsistency.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "lc-uk",
+          "locator": "Saint Lucia visit visas required from 5 March 2026; transitional period has ended.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-lca-hold",
+      "revisionId": "cbi-lca-hold-fac1a850cd967b98",
+      "subject": "cbi-lca",
+      "predicate": "hold",
+      "value": "Bond alternative US$300,000 for 5 years + US$50,000 non-refundable admin",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "lc",
+          "locator": "NEF US$240,000 up to four; bonds US$300,000 plus US$50,000 administration; other options.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "lc-old",
+          "locator": "Conflicting older US$100,000 price; used only to document official-page inconsistency.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "lc-uk",
+          "locator": "Saint Lucia visit visas required from 5 March 2026; transitional period has ended.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-lca-presence",
+      "revisionId": "cbi-lca-presence-b48c72c1bf198695",
+      "subject": "cbi-lca",
+      "predicate": "presence",
+      "value": "Direct route; verify current presence and interview rules",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "lc",
+          "locator": "NEF US$240,000 up to four; bonds US$300,000 plus US$50,000 administration; other options.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "lc-old",
+          "locator": "Conflicting older US$100,000 price; used only to document official-page inconsistency.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "lc-uk",
+          "locator": "Saint Lucia visit visas required from 5 March 2026; transitional period has ended.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-lca-family",
+      "revisionId": "cbi-lca-family-c373cb3a8e76bb6b",
+      "subject": "cbi-lca",
+      "predicate": "family",
+      "value": "US$240,000 main applicant + up to 3 qualifying dependants",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "lc",
+          "locator": "NEF US$240,000 up to four; bonds US$300,000 plus US$50,000 administration; other options.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "lc-old",
+          "locator": "Conflicting older US$100,000 price; used only to document official-page inconsistency.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "lc-uk",
+          "locator": "Saint Lucia visit visas required from 5 March 2026; transitional period has ended.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-lca-caveat",
+      "revisionId": "cbi-lca-caveat-e2c19f28e7941682",
+      "subject": "cbi-lca",
+      "predicate": "caveat",
+      "value": "Official FAQ still shows an older US$100,000 figure. Use current investment page; bonds and donation have different economic costs.",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "lc",
+          "locator": "NEF US$240,000 up to four; bonds US$300,000 plus US$50,000 administration; other options.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "lc-old",
+          "locator": "Conflicting older US$100,000 price; used only to document official-page inconsistency.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "lc-uk",
+          "locator": "Saint Lucia visit visas required from 5 March 2026; transitional period has ended.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-lca-alert",
+      "revisionId": "cbi-lca-alert-818ca47971371a88",
+      "subject": "cbi-lca",
+      "predicate": "alert",
+      "value": "Official FAQ has an older, conflicting price.",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "lc",
+          "locator": "NEF US$240,000 up to four; bonds US$300,000 plus US$50,000 administration; other options.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "lc-old",
+          "locator": "Conflicting older US$100,000 price; used only to document official-page inconsistency.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "lc-uk",
+          "locator": "Saint Lucia visit visas required from 5 March 2026; transitional period has ended.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-lca-processing",
+      "revisionId": "cbi-lca-processing-2fc92bb6cecac07f",
+      "subject": "cbi-lca",
+      "predicate": "processing",
+      "value": "Not published here",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "lc",
+          "locator": "NEF US$240,000 up to four; bonds US$300,000 plus US$50,000 administration; other options.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "lc-old",
+          "locator": "Conflicting older US$100,000 price; used only to document official-page inconsistency.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "lc-uk",
+          "locator": "Saint Lucia visit visas required from 5 March 2026; transitional period has ended.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-lca-presenceShort",
+      "revisionId": "cbi-lca-presenceShort-bd23995fa4d85a67",
+      "subject": "cbi-lca",
+      "predicate": "presenceShort",
+      "value": "Confirm current rules",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "lc",
+          "locator": "NEF US$240,000 up to four; bonds US$300,000 plus US$50,000 administration; other options.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "lc-old",
+          "locator": "Conflicting older US$100,000 price; used only to document official-page inconsistency.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "lc-uk",
+          "locator": "Saint Lucia visit visas required from 5 March 2026; transitional period has ended.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-lca-feeNote",
+      "revisionId": "cbi-lca-feeNote-57716934581b88a4",
+      "subject": "cbi-lca",
+      "predicate": "feeNote",
+      "value": "Interview/identity verification is payable by the principal; its amount, passport, document and agent costs are excluded.",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "lc",
+          "locator": "NEF US$240,000 up to four; bonds US$300,000 plus US$50,000 administration; other options.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "lc-old",
+          "locator": "Conflicting older US$100,000 price; used only to document official-page inconsistency.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "lc-uk",
+          "locator": "Saint Lucia visit visas required from 5 March 2026; transitional period has ended.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-lca-keyNote",
+      "revisionId": "cbi-lca-keyNote-0de7991c8b39f7e7",
+      "subject": "cbi-lca",
+      "predicate": "keyNote",
+      "value": "UK visit visa required since March 2026.",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "lc",
+          "locator": "NEF US$240,000 up to four; bonds US$300,000 plus US$50,000 administration; other options.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "lc-old",
+          "locator": "Conflicting older US$100,000 price; used only to document official-page inconsistency.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "lc-uk",
+          "locator": "Saint Lucia visit visas required from 5 March 2026; transitional period has ended.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-lca-familyScenario",
+      "revisionId": "cbi-lca-familyScenario-2128642d269f7609",
+      "subject": "cbi-lca",
+      "predicate": "familyScenario",
+      "value": "Principal, spouse and two children aged under 12; qualifying family only.",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "lc",
+          "locator": "NEF US$240,000 up to four; bonds US$300,000 plus US$50,000 administration; other options.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "lc-old",
+          "locator": "Conflicting older US$100,000 price; used only to document official-page inconsistency.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "lc-uk",
+          "locator": "Saint Lucia visit visas required from 5 March 2026; transitional period has ended.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-lca-passportDelivery",
+      "revisionId": "cbi-lca-passportDelivery-68f5a83611c34316",
+      "subject": "cbi-lca",
+      "predicate": "passportDelivery",
+      "value": "No independently verified end-to-end passport delivery time",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "lc",
+          "locator": "NEF US$240,000 up to four; bonds US$300,000 plus US$50,000 administration; other options.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "lc-old",
+          "locator": "Conflicting older US$100,000 price; used only to document official-page inconsistency.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "lc-uk",
+          "locator": "Saint Lucia visit visas required from 5 March 2026; transitional period has ended.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-lca-routeType",
+      "revisionId": "cbi-lca-routeType-d8f6d5a4ce71c7e1",
+      "subject": "cbi-lca",
+      "predicate": "routeType",
+      "value": "Contribution",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "lc",
+          "locator": "NEF US$240,000 up to four; bonds US$300,000 plus US$50,000 administration; other options.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "lc-old",
+          "locator": "Conflicting older US$100,000 price; used only to document official-page inconsistency.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "lc-uk",
+          "locator": "Saint Lucia visit visas required from 5 March 2026; transitional period has ended.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-lca-amount",
+      "revisionId": "cbi-lca-amount-f420d354396991ee",
+      "subject": "cbi-lca",
+      "predicate": "amount",
+      "value": {
+        "amount": "240000",
+        "currency": "USD"
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "lc",
+          "locator": "NEF US$240,000 up to four; bonds US$300,000 plus US$50,000 administration; other options.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-lca-family-amount",
+      "revisionId": "cbi-lca-family-amount-3b4b390950f30eae",
+      "subject": "cbi-lca",
+      "predicate": "family_amount",
+      "value": {
+        "amount": "240000",
+        "currency": "USD"
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "lc",
+          "locator": "NEF US$240,000 up to four; bonds US$300,000 plus US$50,000 administration; other options.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "lc-old",
+          "locator": "Conflicting older US$100,000 price; used only to document official-page inconsistency.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "lc-uk",
+          "locator": "Saint Lucia visit visas required from 5 March 2026; transitional period has ended.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [
+        "An amount alone does not establish dependant eligibility."
+      ]
+    },
+    {
+      "id": "cbi-lca-routes",
+      "revisionId": "cbi-lca-routes-d48ec0b32c0d136a",
+      "subject": "cbi-lca",
+      "predicate": "routes",
+      "value": [
+        {
+          "label": "NEF contribution",
+          "amount": "240000",
+          "currency": "USD",
+          "conditions": "Non-refundable"
+        },
+        {
+          "label": "Government bonds",
+          "amount": "300000",
+          "currency": "USD",
+          "conditions": "5-year hold plus US$50,000 administration"
+        }
+      ],
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "lc",
+          "locator": "NEF US$240,000 up to four; bonds US$300,000 plus US$50,000 administration; other options.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "lc-old",
+          "locator": "Conflicting older US$100,000 price; used only to document official-page inconsistency.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "lc-uk",
+          "locator": "Saint Lucia visit visas required from 5 March 2026; transitional period has ended.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-lca-legal-outcome",
+      "revisionId": "cbi-lca-legal-outcome-af7d566dc9b2b727",
+      "subject": "cbi-lca",
+      "predicate": "legal_outcome",
+      "value": "Citizenship through investment subject to government approval, naturalisation or registration, followed by a separate passport process.",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "lc",
+          "locator": "NEF US$240,000 up to four; bonds US$300,000 plus US$50,000 administration; other options.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "lc-old",
+          "locator": "Conflicting older US$100,000 price; used only to document official-page inconsistency.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "lc-uk",
+          "locator": "Saint Lucia visit visas required from 5 March 2026; transitional period has ended.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-lca-intake-observation",
+      "revisionId": "cbi-lca-intake-observation-fe70b85ce720533b",
+      "subject": "cbi-lca",
+      "predicate": "intake_observation",
+      "value": {
+        "legal": "published_citizenship_route",
+        "intake": "published_application_route",
+        "decision": "government_assessment_required",
+        "passportIssuance": "separate_stage_not_guaranteed"
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "lc",
+          "locator": "NEF US$240,000 up to four; bonds US$300,000 plus US$50,000 administration; other options.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "lc-old",
+          "locator": "Conflicting older US$100,000 price; used only to document official-page inconsistency.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "lc-uk",
+          "locator": "Saint Lucia visit visas required from 5 March 2026; transitional period has ended.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-20",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [
+        "Official FAQ still shows an older US$100,000 figure. Use current investment page; bonds and donation have different economic costs.",
+        "Publication of a route is not a successful live application or completed issuance observation."
+      ]
+    },
+    {
+      "id": "cbi-lca-travel-gbr",
+      "revisionId": "cbi-lca-travel-gbr-64ae5851177346df",
+      "subject": "cbi-lca",
+      "predicate": "travel_gbr",
+      "value": {
+        "label": "Visa required",
+        "note": "Short visits on an ordinary national passport. ETA eligibility and visitor conditions apply."
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "uk-visits",
+          "locator": "Current ordinary-passport visit-visa requirements. Rules updated 8 October 2026.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [
+        "Ordinary national passport after issuance; acquisition-route and passport-series restrictions not comprehensively researched.",
+        "Individual status exemptions, admission decisions and separate territories are outside this rule."
+      ]
+    },
+    {
+      "id": "cbi-lca-travel-usa",
+      "revisionId": "cbi-lca-travel-usa-f618fedf98ae648c",
+      "subject": "cbi-lca",
+      "predicate": "travel_usa",
+      "value": {
+        "label": "Visitor visa required",
+        "note": "This nationality is outside the Visa Waiver Program. Individual exceptions may apply."
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "us-vwp",
+          "locator": "Ordinary-national-passport visitor rules; no current CBI nationality in the participating list",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [
+        "Ordinary national passport after issuance; acquisition-route and passport-series restrictions not comprehensively researched.",
+        "Individual status exemptions, admission decisions and separate territories are outside this rule."
+      ]
+    },
+    {
+      "id": "cbi-lca-travel-can",
+      "revisionId": "cbi-lca-travel-can-0e9d057f4b00eb91",
+      "subject": "cbi-lca",
+      "predicate": "travel_can",
+      "value": {
+        "label": "Conditional air eTA",
+        "note": "Only air travel / airport transit, plus Canadian visa held in past ten years OR a valid US nonimmigrant visa. Land/sea travel needs a visa; each traveller qualifies separately."
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "ca-conditional-eta",
+          "locator": "Antigua, St Kitts and St Lucia: conditional air-travel eTA; past Canadian visa or valid US nonimmigrant visa required",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [
+        "Ordinary national passport after issuance; acquisition-route and passport-series restrictions not comprehensively researched.",
+        "Individual status exemptions, admission decisions and separate territories are outside this rule."
+      ]
+    },
+    {
+      "id": "cbi-lca-travel-schengen-short-stay",
+      "revisionId": "cbi-lca-travel-schengen-short-stay-e9c0fbdeb2b263b9",
+      "subject": "cbi-lca",
+      "predicate": "travel_schengen_short_stay",
+      "value": {
+        "label": "Visa-exempt · 90/180",
+        "note": "Ordinary national passport, short visits; entry conditions and document validity still apply."
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "eu-visa-list",
+          "locator": "Annexes I/II and qualifying footnotes; ordinary national passports only",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [
+        "Ordinary national passport after issuance; acquisition-route and passport-series restrictions not comprehensively researched.",
+        "Individual status exemptions, admission decisions and separate territories are outside this rule."
+      ]
+    },
+    {
+      "id": "cbi-lca-cost-9",
+      "revisionId": "cbi-lca-cost-9-6377133a7a664439",
+      "subject": "cbi-lca",
+      "predicate": "cost_9",
+      "value": {
+        "label": "NEF contribution as investment page",
+        "amount": "240000",
+        "currency": "USD",
+        "category": "capital",
+        "basis": "application",
+        "quantity": 1,
+        "paymentStage": "after_approval",
+        "recoverability": "nonrefundable_contribution_or_published_selling_price; withdrawal_and_refund_terms_not_established",
+        "frequency": "once",
+        "scenario": "single_adult"
+      },
+      "verification": "disputed",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "lc",
+          "locator": "NEF US$240,000 up to four; bonds US$300,000 plus US$50,000 administration; other options.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "lc-old",
+          "locator": "Conflicting older US$100,000 price; used only to document official-page inconsistency.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-25",
+      "reviewDueAt": "2026-11-08",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-25",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [
+        "Investment page and FAQ show incompatible amounts; no unqualified price selected."
+      ]
+    },
+    {
+      "id": "cbi-lca-cost-28",
+      "revisionId": "cbi-lca-cost-28-66f2d35dc44f669a",
+      "subject": "cbi-lca",
+      "predicate": "cost_28",
+      "value": {
+        "label": "NEF contribution as investment page",
+        "amount": "240000",
+        "currency": "USD",
+        "category": "capital",
+        "basis": "application",
+        "quantity": 1,
+        "paymentStage": "after_approval",
+        "recoverability": "nonrefundable_contribution_or_published_selling_price; withdrawal_and_refund_terms_not_established",
+        "frequency": "once",
+        "scenario": "couple_two_children_under12"
+      },
+      "verification": "disputed",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "lc",
+          "locator": "NEF US$240,000 up to four; bonds US$300,000 plus US$50,000 administration; other options.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "lc-old",
+          "locator": "Conflicting older US$100,000 price; used only to document official-page inconsistency.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-25",
+      "reviewDueAt": "2026-11-08",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-25",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [
+        "Investment page and FAQ show incompatible amounts; no unqualified price selected."
+      ]
+    },
+    {
+      "id": "cbi-lca-editorial-update",
+      "subject": "cbi-lca",
+      "predicate": "editorial_update",
+      "value": {
+        "timingSummary": "Approx. 90 days from accepted processing (CIU guideline)",
+        "items": [
+          {
+            "label": "Published processing guideline",
+            "text": "The CIU’s FAQ describes approximately 90 days from notification that an application is accepted for processing to grant of citizenship. It acknowledges possible delays. This is not measured current performance or a passport-delivery promise.",
+            "source": "update-lc-faq"
+          },
+          {
+            "label": "Official fiscal-year activity",
+            "text": "The 2024/25 annual report records 2,957 applications received and 2,633 processed: 2,278 grants and 355 denials. Decisions need not concern files received in the same period.",
+            "source": "update-lc-report"
+          }
+        ],
+        "guides": [
+          "official-programme-statistics-and-processing"
+        ],
+        "checked": "2026-10-22"
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "update-lc-faq",
+          "locator": "Licensed-agent submission and an approximately 90-day guideline from notification of acceptance for processing to citizenship grant; exceptional delays are acknowledged.",
+          "scope": "Stated dated CBI claim only; no general legal clearance"
+        },
+        {
+          "sourceId": "update-lc-report",
+          "locator": "FY2024/25 application activity: 2,957 received, 2,278 granted, 355 denied, 2,633 processed.",
+          "scope": "Stated dated CBI claim only; no general legal clearance"
+        }
+      ],
+      "reviewedAt": "2026-10-22",
+      "reviewDueAt": "2026-11-05",
+      "reviewMethod": "Migrated original CBI primary-source observation; original scope and review limits retained",
+      "observedAt": "2026-10-22",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [],
+      "revisionId": "cbi-lca-editorial-update-1b6c631cae294ed1"
+    },
+    {
+      "id": "cbi-lca-scenario-item-26",
+      "subject": "cbi-lca",
+      "predicate": "scenario_cost_item",
+      "value": {
+        "label": "Principal processing",
+        "amount": "2000",
+        "currency": "USD",
+        "category": "government_charge",
+        "basis": "application",
+        "quantity": 1,
+        "paymentStage": "not_established",
+        "recoverability": "not_established",
+        "frequency": "once",
+        "scenario": "single_adult"
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [
+        "Conditional on government acceptance of the named household and source-specific eligibility."
+      ],
+      "evidence": [
+        {
+          "sourceId": "lc",
+          "locator": "Published contribution and fee schedule; applicant age bands and per-person/application distinctions",
+          "scope": "Dated fee evidence; eligibility, additional charges and refund terms remain separate"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Original CBI itemization, retaining source-specific limitations",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [],
+      "revisionId": "cbi-lca-scenario-item-26-8ad2ad11d92e10b9"
+    },
+    {
+      "id": "cbi-lca-scenario-item-27",
+      "subject": "cbi-lca",
+      "predicate": "scenario_cost_item",
+      "value": {
+        "label": "Principal diligence",
+        "amount": "8000",
+        "currency": "USD",
+        "category": "government_charge",
+        "basis": "application",
+        "quantity": 1,
+        "paymentStage": "not_established",
+        "recoverability": "not_established",
+        "frequency": "once",
+        "scenario": "single_adult"
+      },
+      "verification": "disputed",
+      "valueStatus": "known",
+      "conditions": [
+        "Conditional on government acceptance of the named household and source-specific eligibility."
+      ],
+      "evidence": [
+        {
+          "sourceId": "lc",
+          "locator": "Published contribution and fee schedule; applicant age bands and per-person/application distinctions",
+          "scope": "Dated fee evidence; eligibility, additional charges and refund terms remain separate"
+        },
+        {
+          "sourceId": "lc-old",
+          "locator": "Published contribution and fee schedule; applicant age bands and per-person/application distinctions",
+          "scope": "Dated fee evidence; eligibility, additional charges and refund terms remain separate"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Original CBI itemization, retaining source-specific limitations",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [
+        "Investment page says 8000; older FAQ says 7500; incompatible official diligence amounts retained."
+      ],
+      "revisionId": "cbi-lca-scenario-item-27-9f5961515c78890d"
+    },
+    {
+      "id": "cbi-lca-scenario-item-28",
+      "subject": "cbi-lca",
+      "predicate": "scenario_cost_item",
+      "value": {
+        "label": "Principal processing",
+        "amount": "2000",
+        "currency": "USD",
+        "category": "government_charge",
+        "basis": "application",
+        "quantity": 1,
+        "paymentStage": "not_established",
+        "recoverability": "not_established",
+        "frequency": "once",
+        "scenario": "couple_two_children_under12"
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [
+        "Conditional on government acceptance of the named household and source-specific eligibility."
+      ],
+      "evidence": [
+        {
+          "sourceId": "lc",
+          "locator": "Published contribution and fee schedule; applicant age bands and per-person/application distinctions",
+          "scope": "Dated fee evidence; eligibility, additional charges and refund terms remain separate"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Original CBI itemization, retaining source-specific limitations",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [],
+      "revisionId": "cbi-lca-scenario-item-28-4aa5bc5e53245aed"
+    },
+    {
+      "id": "cbi-lca-scenario-item-29",
+      "subject": "cbi-lca",
+      "predicate": "scenario_cost_item",
+      "value": {
+        "label": "Principal diligence",
+        "amount": "8000",
+        "currency": "USD",
+        "category": "government_charge",
+        "basis": "application",
+        "quantity": 1,
+        "paymentStage": "not_established",
+        "recoverability": "not_established",
+        "frequency": "once",
+        "scenario": "couple_two_children_under12"
+      },
+      "verification": "disputed",
+      "valueStatus": "known",
+      "conditions": [
+        "Conditional on government acceptance of the named household and source-specific eligibility."
+      ],
+      "evidence": [
+        {
+          "sourceId": "lc",
+          "locator": "Published contribution and fee schedule; applicant age bands and per-person/application distinctions",
+          "scope": "Dated fee evidence; eligibility, additional charges and refund terms remain separate"
+        },
+        {
+          "sourceId": "lc-old",
+          "locator": "Published contribution and fee schedule; applicant age bands and per-person/application distinctions",
+          "scope": "Dated fee evidence; eligibility, additional charges and refund terms remain separate"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Original CBI itemization, retaining source-specific limitations",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [
+        "Investment page says 8000; older FAQ says 7500; incompatible official diligence amounts retained."
+      ],
+      "revisionId": "cbi-lca-scenario-item-29-08e4bf6c88aebd97"
+    },
+    {
+      "id": "cbi-lca-scenario-item-30",
+      "subject": "cbi-lca",
+      "predicate": "scenario_cost_item",
+      "value": {
+        "label": "Dependant processing",
+        "amount": "1000",
+        "currency": "USD",
+        "category": "government_charge",
+        "basis": "persons",
+        "quantity": 3,
+        "paymentStage": "not_established",
+        "recoverability": "not_established",
+        "frequency": "once",
+        "scenario": "couple_two_children_under12"
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [
+        "Conditional on government acceptance of the named household and source-specific eligibility."
+      ],
+      "evidence": [
+        {
+          "sourceId": "lc",
+          "locator": "Published contribution and fee schedule; applicant age bands and per-person/application distinctions",
+          "scope": "Dated fee evidence; eligibility, additional charges and refund terms remain separate"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Original CBI itemization, retaining source-specific limitations",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [],
+      "revisionId": "cbi-lca-scenario-item-30-5700c2e4de93ed45"
+    },
+    {
+      "id": "cbi-lca-scenario-item-31",
+      "subject": "cbi-lca",
+      "predicate": "scenario_cost_item",
+      "value": {
+        "label": "Spouse diligence",
+        "amount": "5000",
+        "currency": "USD",
+        "category": "government_charge",
+        "basis": "application",
+        "quantity": 1,
+        "paymentStage": "not_established",
+        "recoverability": "not_established",
+        "frequency": "once",
+        "scenario": "couple_two_children_under12"
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [
+        "Conditional on government acceptance of the named household and source-specific eligibility."
+      ],
+      "evidence": [
+        {
+          "sourceId": "lc",
+          "locator": "Published contribution and fee schedule; applicant age bands and per-person/application distinctions",
+          "scope": "Dated fee evidence; eligibility, additional charges and refund terms remain separate"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Original CBI itemization, retaining source-specific limitations",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [],
+      "revisionId": "cbi-lca-scenario-item-31-aa266557cb236ac5"
+    }
+  ],
+  "costItems": [
+    {
+      "id": "cbi-lca-cost-9",
+      "programmeId": "cbi-lca",
+      "optionId": "cbi-lca-option-1",
+      "claimId": "cbi-lca-cost-9"
+    },
+    {
+      "id": "cbi-lca-cost-28",
+      "programmeId": "cbi-lca",
+      "optionId": "cbi-lca-option-1",
+      "claimId": "cbi-lca-cost-28"
+    },
+    {
+      "id": "cbi-lca-scenario-item-26",
+      "programmeId": "cbi-lca",
+      "optionId": "cbi-lca-option-1",
+      "claimId": "cbi-lca-scenario-item-26"
+    },
+    {
+      "id": "cbi-lca-scenario-item-27",
+      "programmeId": "cbi-lca",
+      "optionId": "cbi-lca-option-1",
+      "claimId": "cbi-lca-scenario-item-27"
+    },
+    {
+      "id": "cbi-lca-scenario-item-28",
+      "programmeId": "cbi-lca",
+      "optionId": "cbi-lca-option-1",
+      "claimId": "cbi-lca-scenario-item-28"
+    },
+    {
+      "id": "cbi-lca-scenario-item-29",
+      "programmeId": "cbi-lca",
+      "optionId": "cbi-lca-option-1",
+      "claimId": "cbi-lca-scenario-item-29"
+    },
+    {
+      "id": "cbi-lca-scenario-item-30",
+      "programmeId": "cbi-lca",
+      "optionId": "cbi-lca-option-1",
+      "claimId": "cbi-lca-scenario-item-30"
+    },
+    {
+      "id": "cbi-lca-scenario-item-31",
+      "programmeId": "cbi-lca",
+      "optionId": "cbi-lca-option-1",
+      "claimId": "cbi-lca-scenario-item-31"
+    }
+  ],
+  "travel": [
+    {
+      "id": "LCA-GBR",
+      "programmeId": "cbi-lca",
+      "passport": "LCA",
+      "destination": "GBR",
+      "documentType": "ordinary",
+      "purpose": "short_visit",
+      "route": "advance_visa",
+      "outcome": "supported",
+      "claimId": "cbi-lca-travel-gbr",
+      "transport": [
+        "air",
+        "land",
+        "sea"
+      ],
+      "conditions": [],
+      "permittedStay": null,
+      "documentRecognition": "Valid ordinary national passport; individual and series exceptions not fully checked",
+      "acquisitionRestrictions": "not_researched"
+    },
+    {
+      "id": "LCA-USA",
+      "programmeId": "cbi-lca",
+      "passport": "LCA",
+      "destination": "USA",
+      "documentType": "ordinary",
+      "purpose": "short_visit",
+      "route": "advance_visa",
+      "outcome": "supported",
+      "claimId": "cbi-lca-travel-usa",
+      "transport": [
+        "air",
+        "land",
+        "sea"
+      ],
+      "conditions": [],
+      "permittedStay": null,
+      "documentRecognition": "Valid ordinary national passport; individual and series exceptions not fully checked",
+      "acquisitionRestrictions": "not_researched"
+    },
+    {
+      "id": "LCA-CAN",
+      "programmeId": "cbi-lca",
+      "passport": "LCA",
+      "destination": "CAN",
+      "documentType": "ordinary",
+      "purpose": "short_visit",
+      "route": "conditional_eta",
+      "outcome": "conditional",
+      "claimId": "cbi-lca-travel-can",
+      "transport": [
+        "air"
+      ],
+      "conditions": [
+        "Valid qualifying Canadian visitor visa in previous ten years OR valid US nonimmigrant visa at eTA application",
+        "Each traveller must qualify individually",
+        "Land/sea requires a visitor visa unless a separately established status exemption applies"
+      ],
+      "permittedStay": null,
+      "documentRecognition": "Valid ordinary national passport; individual and series exceptions not fully checked",
+      "acquisitionRestrictions": "not_researched"
+    },
+    {
+      "id": "LCA-SCHENGEN_SHORT_STAY",
+      "programmeId": "cbi-lca",
+      "passport": "LCA",
+      "destination": "SCHENGEN_SHORT_STAY",
+      "documentType": "ordinary",
+      "purpose": "short_visit",
+      "route": "visa_exempt",
+      "outcome": "supported",
+      "claimId": "cbi-lca-travel-schengen-short-stay",
+      "transport": [
+        "air",
+        "land",
+        "sea"
+      ],
+      "conditions": [],
+      "permittedStay": "90 days in any 180-day period, subject to admission conditions",
+      "documentRecognition": "Common nationality regime only; member-specific recognition not fully checked",
+      "acquisitionRestrictions": "not_researched"
+    }
+  ]
+}

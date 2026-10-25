@@ -1,0 +1,93 @@
+[
+  {
+    "id": "cbi-lca-eligibility-1",
+    "programmeId": "cbi-lca",
+    "claimId": "cbi-lca-obligations",
+    "section": "eligibility",
+    "itemIndex": 0
+  },
+  {
+    "id": "cbi-lca-eligibility-2",
+    "programmeId": "cbi-lca",
+    "claimId": "cbi-lca-obligations",
+    "section": "eligibility",
+    "itemIndex": 1
+  },
+  {
+    "id": "cbi-lca-eligibility-3",
+    "programmeId": "cbi-lca",
+    "claimId": "cbi-lca-obligations",
+    "section": "eligibility",
+    "itemIndex": 2
+  },
+  {
+    "id": "cbi-lca-eligibility-4",
+    "programmeId": "cbi-lca",
+    "claimId": "cbi-lca-obligations",
+    "section": "eligibility",
+    "itemIndex": 3
+  },
+  {
+    "id": "cbi-lca-afterapproval-1",
+    "programmeId": "cbi-lca",
+    "claimId": "cbi-lca-obligations",
+    "section": "afterApproval",
+    "itemIndex": 0
+  },
+  {
+    "id": "cbi-lca-afterapproval-2",
+    "programmeId": "cbi-lca",
+    "claimId": "cbi-lca-obligations",
+    "section": "afterApproval",
+    "itemIndex": 1
+  },
+  {
+    "id": "cbi-lca-afterapproval-3",
+    "programmeId": "cbi-lca",
+    "claimId": "cbi-lca-obligations",
+    "section": "afterApproval",
+    "itemIndex": 2
+  },
+  {
+    "id": "cbi-lca-afterapproval-4",
+    "programmeId": "cbi-lca",
+    "claimId": "cbi-lca-obligations",
+    "section": "afterApproval",
+    "itemIndex": 3
+  },
+  {
+    "id": "cbi-lca-afterapproval-5",
+    "programmeId": "cbi-lca",
+    "claimId": "cbi-lca-obligations",
+    "section": "afterApproval",
+    "itemIndex": 4
+  },
+  {
+    "id": "cbi-lca-afterapproval-6",
+    "programmeId": "cbi-lca",
+    "claimId": "cbi-lca-obligations",
+    "section": "afterApproval",
+    "itemIndex": 5
+  },
+  {
+    "id": "cbi-lca-afterapproval-7",
+    "programmeId": "cbi-lca",
+    "claimId": "cbi-lca-obligations",
+    "section": "afterApproval",
+    "itemIndex": 6
+  },
+  {
+    "id": "cbi-lca-paymentrisk-1",
+    "programmeId": "cbi-lca",
+    "claimId": "cbi-lca-obligations",
+    "section": "paymentRisk",
+    "itemIndex": 0
+  },
+  {
+    "id": "cbi-lca-paymentrisk-2",
+    "programmeId": "cbi-lca",
+    "claimId": "cbi-lca-obligations",
+    "section": "paymentRisk",
+    "itemIndex": 1
+  }
+]

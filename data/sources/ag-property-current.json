@@ -1,0 +1,28 @@
+{
+  "id": "ag-property-current",
+  "publisher": "Antigua and Barbuda CIU",
+  "title": "Approved property: payment, title and holding rules",
+  "url": "https://cip.gov.ag/investment-options/real-estate/",
+  "authorityType": "Government guidance",
+  "documentDate": null,
+  "rights": {
+    "disposition": "link_only",
+    "use": "CBI original factual normalization and source pointers only; no upstream documents or excerpts redistributed",
+    "basis": "Original CBI compilation; upstream rights retained"
+  },
+  "reviewObservation": {
+    "date": "2026-10-25",
+    "method": "Independent primary-source CBI review; legal document locators and limitations recorded"
+  },
+  "retrieval": {
+    "retrievedAt": "2026-10-25T08:37:07.920Z",
+    "lastAttempt": "2026-10-25T08:37:07.920Z",
+    "method": "retrieval_hash_only",
+    "health": "available",
+    "hash": "95cd7decef732dbbf31c164b29272098fa2fd3dc0b45f31052d2a2c397cc30f0"
+  },
+  "manualReview": {
+    "intervalDays": 14,
+    "rationale": "Review exact legal/operational scope; retrieval cannot refresh the factual review."
+  }
+}

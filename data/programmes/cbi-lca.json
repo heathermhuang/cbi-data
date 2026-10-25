@@ -15,7 +15,8 @@
   "end": null,
   "optionIds": [
     "cbi-lca-option-1",
-    "cbi-lca-option-2"
+    "cbi-lca-option-2",
+    "cbi-lca-built-property"
   ],
   "options": [
     {
@@ -31,6 +32,13 @@
       "classification": "deposit",
       "amountClaimId": "cbi-lca-routes",
       "conditions": "5-year hold plus US$50,000 administration"
+    },
+    {
+      "id": "cbi-lca-built-property",
+      "label": "Approved built property (regulation 10A)",
+      "classification": "asset",
+      "amountClaimId": "cbi-lca-routes",
+      "conditions": "Enacted route; gazetted project, functioning intake and inventory not established. USD500000 capital plus USD30000 applicant administration and other charges; distinct post-grant duties."
     }
   ],
   "fields": {
@@ -53,7 +61,9 @@
     "routes": "cbi-lca-routes",
     "legalOutcome": "cbi-lca-legal-outcome",
     "intake": "cbi-lca-intake-observation",
-    "editorialUpdate": "cbi-lca-editorial-update"
+    "editorialUpdate": "cbi-lca-editorial-update",
+    "obligations": "cbi-lca-obligations",
+    "financialResources": "cbi-lca-financial-resources"
   },
   "requiredFields": {
     "legal_outcome": {
@@ -64,9 +74,11 @@
       "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
     },
     "legal_basis": {
-      "claimIds": [],
-      "state": "gap",
-      "gap": "Exact legal basis requirements not fully established in this release."
+      "claimIds": [
+        "cbi-lca-obligations"
+      ],
+      "state": "partial",
+      "gap": "Amending Act and Regulations reviewed for the stated requirements; no complete reconstruction of all operative instruments."
     },
     "operational_intake": {
       "claimIds": [
@@ -106,9 +118,11 @@
       "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
     },
     "financial_resources": {
-      "claimIds": [],
-      "state": "gap",
-      "gap": "Exact financial resources requirements not fully established in this release."
+      "claimIds": [
+        "cbi-lca-financial-resources"
+      ],
+      "state": "partial",
+      "gap": "Exact acceptable supporting evidence and individual resources assessment remain outside this compilation."
     },
     "published_fees": {
       "claimIds": [
@@ -128,20 +142,24 @@
     "dependants": {
       "claimIds": [
         "cbi-lca-family",
-        "cbi-lca-familyScenario"
+        "cbi-lca-familyScenario",
+        "cbi-lca-obligations"
       ],
       "state": "partial",
       "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
     },
     "screening": {
-      "claimIds": [],
+      "claimIds": [
+        "cbi-lca-obligations"
+      ],
       "state": "gap",
       "gap": "Exact screening requirements not fully established in this release."
     },
     "presence_holding": {
       "claimIds": [
         "cbi-lca-presence",
-        "cbi-lca-hold"
+        "cbi-lca-hold",
+        "cbi-lca-obligations"
       ],
       "state": "partial",
       "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
@@ -149,7 +167,8 @@
     "post_grant": {
       "claimIds": [
         "cbi-lca-presence",
-        "cbi-lca-hold"
+        "cbi-lca-hold",
+        "cbi-lca-obligations"
       ],
       "state": "partial",
       "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
@@ -157,7 +176,8 @@
     "withdrawal_recovery": {
       "claimIds": [
         "cbi-lca-capitalType",
-        "cbi-lca-hold"
+        "cbi-lca-hold",
+        "cbi-lca-obligations"
       ],
       "state": "partial",
       "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
@@ -172,15 +192,32 @@
     },
     "nationality_document_restrictions": {
       "claimIds": [
-        "cbi-lca-caveat"
+        "cbi-lca-caveat",
+        "cbi-lca-obligations"
       ],
       "state": "partial",
       "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
     }
   },
   "qualifications": [
-    "Official FAQ still shows an older US$100,000 figure. Use current investment page; bonds and donation have different economic costs.",
+    "A sworn declaration of at least US$350,000 in financial resources is an eligibility requirement, separate from the US$240,000 NEF contribution and government fees. Apply the amended dependant and prior-visa-refusal rules. Built-property legislation does not by itself establish available projects. The investment page and older FAQ retain incompatible NEF and diligence figures; no unqualified subtotal is selected.",
     "Interview/identity verification is payable by the principal; its amount, passport, document and agent costs are excluded.",
-    "No independently verified end-to-end passport delivery time"
+    "No independently verified end-to-end passport delivery time",
+    "Newly covered ongoing duties are route-specific; prescribed day counts, renewal charges or project availability remain gaps unless explicitly stated."
+  ],
+  "obligationIds": [
+    "cbi-lca-eligibility-1",
+    "cbi-lca-eligibility-2",
+    "cbi-lca-eligibility-3",
+    "cbi-lca-eligibility-4",
+    "cbi-lca-afterapproval-1",
+    "cbi-lca-afterapproval-2",
+    "cbi-lca-afterapproval-3",
+    "cbi-lca-afterapproval-4",
+    "cbi-lca-afterapproval-5",
+    "cbi-lca-afterapproval-6",
+    "cbi-lca-afterapproval-7",
+    "cbi-lca-paymentrisk-1",
+    "cbi-lca-paymentrisk-2"
   ]
 }

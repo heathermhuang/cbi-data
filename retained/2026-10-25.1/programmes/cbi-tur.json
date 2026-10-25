@@ -1,0 +1,946 @@
+{
+  "programme": {
+    "id": "cbi-tur",
+    "aliases": [
+      "tr"
+    ],
+    "jurisdiction": "TUR",
+    "country": "Türkiye",
+    "name": "Exceptional citizenship for investors",
+    "kind": "citizenship",
+    "mechanism": "investment_subject_to_nationality_decision",
+    "profileURL": "https://cbi.me/citizenship-by-investment/turkey/",
+    "region": "Asia / Middle East",
+    "period": "2017–present",
+    "start": 2017,
+    "end": null,
+    "optionIds": [
+      "cbi-tur-option-1",
+      "cbi-tur-option-2"
+    ],
+    "options": [
+      {
+        "id": "cbi-tur-option-1",
+        "label": "Qualifying property",
+        "classification": "asset",
+        "amountClaimId": "cbi-tur-routes",
+        "conditions": "3-year resale restriction"
+      },
+      {
+        "id": "cbi-tur-option-2",
+        "label": "Bank deposit / capital routes",
+        "classification": "deposit",
+        "amountClaimId": "cbi-tur-routes",
+        "conditions": "Route-specific 3-year restrictions"
+      }
+    ],
+    "fields": {
+      "capital": "cbi-tur-capital",
+      "capitalType": "cbi-tur-capitalType",
+      "hold": "cbi-tur-hold",
+      "presence": "cbi-tur-presence",
+      "family": "cbi-tur-family",
+      "caveat": "cbi-tur-caveat",
+      "alert": "cbi-tur-alert",
+      "processing": "cbi-tur-processing",
+      "presenceShort": "cbi-tur-presenceShort",
+      "feeNote": "cbi-tur-feeNote",
+      "keyNote": "cbi-tur-keyNote",
+      "familyScenario": "cbi-tur-familyScenario",
+      "passportDelivery": "cbi-tur-passportDelivery",
+      "routeType": "cbi-tur-routeType",
+      "amount": "cbi-tur-amount",
+      "familyAmount": "cbi-tur-family-amount",
+      "routes": "cbi-tur-routes",
+      "legalOutcome": "cbi-tur-legal-outcome",
+      "intake": "cbi-tur-intake-observation",
+      "editorialUpdate": "cbi-tur-editorial-update"
+    },
+    "requiredFields": {
+      "legal_outcome": {
+        "claimIds": [
+          "cbi-tur-legal-outcome"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "legal_basis": {
+        "claimIds": [],
+        "state": "gap",
+        "gap": "Exact legal basis requirements not fully established in this release."
+      },
+      "operational_intake": {
+        "claimIds": [
+          "cbi-tur-intake-observation"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "decision_stage": {
+        "claimIds": [
+          "cbi-tur-intake-observation"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "passport_issuance": {
+        "claimIds": [
+          "cbi-tur-passportDelivery",
+          "cbi-tur-intake-observation"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "investment_options": {
+        "claimIds": [
+          "cbi-tur-routes"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "minimum_capital": {
+        "claimIds": [
+          "cbi-tur-amount",
+          "cbi-tur-capital"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "financial_resources": {
+        "claimIds": [],
+        "state": "gap",
+        "gap": "Exact financial resources requirements not fully established in this release."
+      },
+      "published_fees": {
+        "claimIds": [
+          "cbi-tur-cost-17",
+          "cbi-tur-feeNote"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "dependants": {
+        "claimIds": [
+          "cbi-tur-family",
+          "cbi-tur-familyScenario"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "screening": {
+        "claimIds": [],
+        "state": "gap",
+        "gap": "Exact screening requirements not fully established in this release."
+      },
+      "presence_holding": {
+        "claimIds": [
+          "cbi-tur-presence",
+          "cbi-tur-hold"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "post_grant": {
+        "claimIds": [
+          "cbi-tur-presence",
+          "cbi-tur-hold"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "withdrawal_recovery": {
+        "claimIds": [
+          "cbi-tur-capitalType",
+          "cbi-tur-hold"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "process_timing": {
+        "claimIds": [
+          "cbi-tur-processing",
+          "cbi-tur-passportDelivery"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "nationality_document_restrictions": {
+        "claimIds": [
+          "cbi-tur-caveat"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      }
+    },
+    "qualifications": [
+      "Property is capital at risk, not a government donation. Valuation, title, foreign-exchange and nationality rules apply; approval is discretionary.",
+      "Property, tax, valuation, title, translation, residence and professional costs apply.",
+      "No independently verified end-to-end passport delivery time"
+    ]
+  },
+  "claims": [
+    {
+      "id": "cbi-tur-capital",
+      "revisionId": "cbi-tur-capital-2369c98b91c2b80c",
+      "subject": "cbi-tur",
+      "predicate": "capital",
+      "value": "US$400,000 property",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "tr",
+          "locator": "US$400,000 property with three-year hold; US$500,000 financial/capital routes or 50 jobs; discretionary decision.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-tur-capitalType",
+      "revisionId": "cbi-tur-capitalType-1c2acf2712c41793",
+      "subject": "cbi-tur",
+      "predicate": "capitalType",
+      "value": "Asset investment",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "tr",
+          "locator": "US$400,000 property with three-year hold; US$500,000 financial/capital routes or 50 jobs; discretionary decision.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-tur-hold",
+      "revisionId": "cbi-tur-hold-75f92ad42a4bc00a",
+      "subject": "cbi-tur",
+      "predicate": "hold",
+      "value": "Three-year title restriction; US$500,000 financial alternatives",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "tr",
+          "locator": "US$400,000 property with three-year hold; US$500,000 financial/capital routes or 50 jobs; discretionary decision.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-tur-presence",
+      "revisionId": "cbi-tur-presence-1bf8e4cfc76ec352",
+      "subject": "cbi-tur",
+      "predicate": "presence",
+      "value": "Exceptional process linked to investor residence permit; no ordinary multi-year naturalisation wait shown",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "tr",
+          "locator": "US$400,000 property with three-year hold; US$500,000 financial/capital routes or 50 jobs; discretionary decision.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-tur-family",
+      "revisionId": "cbi-tur-family-9633e0882a693828",
+      "subject": "cbi-tur",
+      "predicate": "family",
+      "value": "Confirm spouse/child categories and nationality-specific exclusions",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "tr",
+          "locator": "US$400,000 property with three-year hold; US$500,000 financial/capital routes or 50 jobs; discretionary decision.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-tur-caveat",
+      "revisionId": "cbi-tur-caveat-eaa27f13ef5d635e",
+      "subject": "cbi-tur",
+      "predicate": "caveat",
+      "value": "Property is capital at risk, not a government donation. Valuation, title, foreign-exchange and nationality rules apply; approval is discretionary.",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "tr",
+          "locator": "US$400,000 property with three-year hold; US$500,000 financial/capital routes or 50 jobs; discretionary decision.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-tur-alert",
+      "revisionId": "cbi-tur-alert-befa0db2a9acf80f",
+      "subject": "cbi-tur",
+      "predicate": "alert",
+      "value": "",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "tr",
+          "locator": "US$400,000 property with three-year hold; US$500,000 financial/capital routes or 50 jobs; discretionary decision.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-tur-processing",
+      "revisionId": "cbi-tur-processing-43933a10bba54197",
+      "subject": "cbi-tur",
+      "predicate": "processing",
+      "value": "Not published here",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "tr",
+          "locator": "US$400,000 property with three-year hold; US$500,000 financial/capital routes or 50 jobs; discretionary decision.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-tur-presenceShort",
+      "revisionId": "cbi-tur-presenceShort-f462c7f9f6793077",
+      "subject": "cbi-tur",
+      "predicate": "presenceShort",
+      "value": "Investor residence permit step",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "tr",
+          "locator": "US$400,000 property with three-year hold; US$500,000 financial/capital routes or 50 jobs; discretionary decision.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-tur-feeNote",
+      "revisionId": "cbi-tur-feeNote-8a7af269bf13499b",
+      "subject": "cbi-tur",
+      "predicate": "feeNote",
+      "value": "Property, tax, valuation, title, translation, residence and professional costs apply.",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "tr",
+          "locator": "US$400,000 property with three-year hold; US$500,000 financial/capital routes or 50 jobs; discretionary decision.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-tur-keyNote",
+      "revisionId": "cbi-tur-keyNote-5192558efd58754f",
+      "subject": "cbi-tur",
+      "predicate": "keyNote",
+      "value": "Capital remains invested in an asset; value can fall.",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "tr",
+          "locator": "US$400,000 property with three-year hold; US$500,000 financial/capital routes or 50 jobs; discretionary decision.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-tur-familyScenario",
+      "revisionId": "cbi-tur-familyScenario-12a8634ee9e44646",
+      "subject": "cbi-tur",
+      "predicate": "familyScenario",
+      "value": "Principal, spouse and two children aged under 12; qualifying family only.",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "tr",
+          "locator": "US$400,000 property with three-year hold; US$500,000 financial/capital routes or 50 jobs; discretionary decision.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-tur-passportDelivery",
+      "revisionId": "cbi-tur-passportDelivery-be04610485592a38",
+      "subject": "cbi-tur",
+      "predicate": "passportDelivery",
+      "value": "No independently verified end-to-end passport delivery time",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "tr",
+          "locator": "US$400,000 property with three-year hold; US$500,000 financial/capital routes or 50 jobs; discretionary decision.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-tur-routeType",
+      "revisionId": "cbi-tur-routeType-72d27f751cba4f64",
+      "subject": "cbi-tur",
+      "predicate": "routeType",
+      "value": "Property",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "tr",
+          "locator": "US$400,000 property with three-year hold; US$500,000 financial/capital routes or 50 jobs; discretionary decision.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-tur-amount",
+      "revisionId": "cbi-tur-amount-e335f1d47b32949f",
+      "subject": "cbi-tur",
+      "predicate": "amount",
+      "value": {
+        "amount": "400000",
+        "currency": "USD"
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "tr",
+          "locator": "US$400,000 property with three-year hold; US$500,000 financial/capital routes or 50 jobs; discretionary decision.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-tur-family-amount",
+      "revisionId": "cbi-tur-family-amount-1d6f00e085227dac",
+      "subject": "cbi-tur",
+      "predicate": "family_amount",
+      "value": null,
+      "verification": "partial",
+      "valueStatus": "unknown",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "tr",
+          "locator": "US$400,000 property with three-year hold; US$500,000 financial/capital routes or 50 jobs; discretionary decision.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [
+        "An amount alone does not establish dependant eligibility."
+      ]
+    },
+    {
+      "id": "cbi-tur-routes",
+      "revisionId": "cbi-tur-routes-cb373a11317b8db6",
+      "subject": "cbi-tur",
+      "predicate": "routes",
+      "value": [
+        {
+          "label": "Qualifying property",
+          "amount": "400000",
+          "currency": "USD",
+          "conditions": "3-year resale restriction"
+        },
+        {
+          "label": "Bank deposit / capital routes",
+          "amount": "500000",
+          "currency": "USD",
+          "conditions": "Route-specific 3-year restrictions"
+        }
+      ],
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "tr",
+          "locator": "US$400,000 property with three-year hold; US$500,000 financial/capital routes or 50 jobs; discretionary decision.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-tur-legal-outcome",
+      "revisionId": "cbi-tur-legal-outcome-19c72870712e0d28",
+      "subject": "cbi-tur",
+      "predicate": "legal_outcome",
+      "value": "Citizenship through investment subject to government approval, naturalisation or registration, followed by a separate passport process.",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "tr",
+          "locator": "US$400,000 property with three-year hold; US$500,000 financial/capital routes or 50 jobs; discretionary decision.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-tur-intake-observation",
+      "revisionId": "cbi-tur-intake-observation-9a5bf00d2695136f",
+      "subject": "cbi-tur",
+      "predicate": "intake_observation",
+      "value": {
+        "legal": "published_citizenship_route",
+        "intake": "published_application_route",
+        "decision": "government_assessment_required",
+        "passportIssuance": "separate_stage_not_guaranteed"
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "tr",
+          "locator": "US$400,000 property with three-year hold; US$500,000 financial/capital routes or 50 jobs; discretionary decision.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-20",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [
+        "Property is capital at risk, not a government donation. Valuation, title, foreign-exchange and nationality rules apply; approval is discretionary.",
+        "Publication of a route is not a successful live application or completed issuance observation."
+      ]
+    },
+    {
+      "id": "cbi-tur-travel-gbr",
+      "revisionId": "cbi-tur-travel-gbr-d8720b0ef046921c",
+      "subject": "cbi-tur",
+      "predicate": "travel_gbr",
+      "value": {
+        "label": "Visa required",
+        "note": "Short visits on an ordinary national passport. ETA eligibility and visitor conditions apply."
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "uk-visits",
+          "locator": "Current ordinary-passport visit-visa requirements. Rules updated 8 October 2026.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [
+        "Ordinary national passport after issuance; acquisition-route and passport-series restrictions not comprehensively researched.",
+        "Individual status exemptions, admission decisions and separate territories are outside this rule."
+      ]
+    },
+    {
+      "id": "cbi-tur-travel-usa",
+      "revisionId": "cbi-tur-travel-usa-0b9b7a0abe1ab465",
+      "subject": "cbi-tur",
+      "predicate": "travel_usa",
+      "value": {
+        "label": "Visitor visa required",
+        "note": "This nationality is outside the Visa Waiver Program. Individual exceptions may apply."
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "us-vwp",
+          "locator": "Ordinary-national-passport visitor rules; no current CBI nationality in the participating list",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [
+        "Ordinary national passport after issuance; acquisition-route and passport-series restrictions not comprehensively researched.",
+        "Individual status exemptions, admission decisions and separate territories are outside this rule."
+      ]
+    },
+    {
+      "id": "cbi-tur-travel-can",
+      "revisionId": "cbi-tur-travel-can-0d482aea673dc69c",
+      "subject": "cbi-tur",
+      "predicate": "travel_can",
+      "value": {
+        "label": "Visitor visa required",
+        "note": "No nationality-based visitor waiver is established here. Individual exemptions may apply."
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "publication-entry-nationality",
+          "locator": "Entry conditions depend on citizenship, travel document, status and transport. Foreign residence does not itself create a new nationality. Canadian and US permanent residents have separately described document rules.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [
+        "Ordinary national passport after issuance; acquisition-route and passport-series restrictions not comprehensively researched.",
+        "Individual status exemptions, admission decisions and separate territories are outside this rule."
+      ]
+    },
+    {
+      "id": "cbi-tur-travel-schengen-short-stay",
+      "revisionId": "cbi-tur-travel-schengen-short-stay-1536732fa85216ed",
+      "subject": "cbi-tur",
+      "predicate": "travel_schengen_short_stay",
+      "value": {
+        "label": "Visa required",
+        "note": "Ordinary national passport, short visits; entry conditions and document validity still apply."
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "eu-visa-list",
+          "locator": "Annexes I/II and qualifying footnotes; ordinary national passports only",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [
+        "Ordinary national passport after issuance; acquisition-route and passport-series restrictions not comprehensively researched.",
+        "Individual status exemptions, admission decisions and separate territories are outside this rule."
+      ]
+    },
+    {
+      "id": "cbi-tur-cost-17",
+      "revisionId": "cbi-tur-cost-17-49ee133388aef66a",
+      "subject": "cbi-tur",
+      "predicate": "cost_17",
+      "value": {
+        "label": "Qualifying property",
+        "amount": "400000",
+        "currency": "USD",
+        "category": "capital",
+        "basis": "investment",
+        "quantity": 1,
+        "paymentStage": "before_nationality_decision",
+        "recoverability": "not_established",
+        "frequency": "once",
+        "scenario": "single_adult"
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "tr",
+          "locator": "US$400,000 property with three-year hold; US$500,000 financial/capital routes or 50 jobs; discretionary decision.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-25",
+      "reviewDueAt": "2026-11-08",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-25",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-tur-editorial-update",
+      "subject": "cbi-tur",
+      "predicate": "editorial_update",
+      "value": {
+        "items": [
+          {
+            "label": "Post-grant enforcement",
+            "text": "The Interior Ministry’s 4 August 2026 statement reports cancellation or withdrawal affecting 6,134 people including family members. Irregular investment/valuation cases and public-order/security cases are separate groups. The notice supplies no programme-wide denominator.",
+            "source": "update-tr-enforcement"
+          }
+        ],
+        "guides": [
+          "cbi-real-estate-due-diligence"
+        ],
+        "checked": "2026-10-22"
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "update-tr-enforcement",
+          "locator": "4 August 2026 statement distinguishes 1,150 investors/5,391 family members affected by irregular transactions from 263 investors/743 family members on security grounds; combined 6,134 people. No total-programme denominator is provided.",
+          "scope": "Stated dated CBI claim only; no general legal clearance"
+        }
+      ],
+      "reviewedAt": "2026-10-22",
+      "reviewDueAt": "2026-11-05",
+      "reviewMethod": "Migrated original CBI primary-source observation; original scope and review limits retained",
+      "observedAt": "2026-10-22",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [],
+      "revisionId": "cbi-tur-editorial-update-179330419fa668dc"
+    }
+  ],
+  "costItems": [
+    {
+      "id": "cbi-tur-cost-17",
+      "programmeId": "cbi-tur",
+      "optionId": "cbi-tur-option-1",
+      "claimId": "cbi-tur-cost-17"
+    }
+  ],
+  "travel": [
+    {
+      "id": "TUR-GBR",
+      "programmeId": "cbi-tur",
+      "passport": "TUR",
+      "destination": "GBR",
+      "documentType": "ordinary",
+      "purpose": "short_visit",
+      "route": "advance_visa",
+      "outcome": "supported",
+      "claimId": "cbi-tur-travel-gbr",
+      "transport": [
+        "air",
+        "land",
+        "sea"
+      ],
+      "conditions": [],
+      "permittedStay": null,
+      "documentRecognition": "Valid ordinary national passport; individual and series exceptions not fully checked",
+      "acquisitionRestrictions": "not_researched"
+    },
+    {
+      "id": "TUR-USA",
+      "programmeId": "cbi-tur",
+      "passport": "TUR",
+      "destination": "USA",
+      "documentType": "ordinary",
+      "purpose": "short_visit",
+      "route": "advance_visa",
+      "outcome": "supported",
+      "claimId": "cbi-tur-travel-usa",
+      "transport": [
+        "air",
+        "land",
+        "sea"
+      ],
+      "conditions": [],
+      "permittedStay": null,
+      "documentRecognition": "Valid ordinary national passport; individual and series exceptions not fully checked",
+      "acquisitionRestrictions": "not_researched"
+    },
+    {
+      "id": "TUR-CAN",
+      "programmeId": "cbi-tur",
+      "passport": "TUR",
+      "destination": "CAN",
+      "documentType": "ordinary",
+      "purpose": "short_visit",
+      "route": "advance_visa",
+      "outcome": "supported",
+      "claimId": "cbi-tur-travel-can",
+      "transport": [
+        "air",
+        "land",
+        "sea"
+      ],
+      "conditions": [],
+      "permittedStay": null,
+      "documentRecognition": "Valid ordinary national passport; individual and series exceptions not fully checked",
+      "acquisitionRestrictions": "not_researched"
+    },
+    {
+      "id": "TUR-SCHENGEN_SHORT_STAY",
+      "programmeId": "cbi-tur",
+      "passport": "TUR",
+      "destination": "SCHENGEN_SHORT_STAY",
+      "documentType": "ordinary",
+      "purpose": "short_visit",
+      "route": "advance_visa",
+      "outcome": "supported",
+      "claimId": "cbi-tur-travel-schengen-short-stay",
+      "transport": [
+        "air",
+        "land",
+        "sea"
+      ],
+      "conditions": [],
+      "permittedStay": null,
+      "documentRecognition": "Common nationality regime only; member-specific recognition not fully checked",
+      "acquisitionRestrictions": "not_researched"
+    }
+  ]
+}

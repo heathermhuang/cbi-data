@@ -1,0 +1,28 @@
+{
+  "id": "lc-refund-policy",
+  "publisher": "Saint Lucia CIP",
+  "title": "Payment portal: no-refund policy",
+  "url": "https://pay.cipsaintlucia.com/p/no-refund-policy",
+  "authorityType": "Government payment policy",
+  "documentDate": null,
+  "rights": {
+    "disposition": "link_only",
+    "use": "CBI original factual normalization and source pointers only; no upstream documents or excerpts redistributed",
+    "basis": "Original CBI compilation; upstream rights retained"
+  },
+  "reviewObservation": {
+    "date": "2026-10-25",
+    "method": "Independent primary-source CBI review; legal document locators and limitations recorded"
+  },
+  "retrieval": {
+    "retrievedAt": "2026-10-25T09:14:10.344Z",
+    "lastAttempt": "2026-10-25T09:14:10.344Z",
+    "method": "retrieval_hash_only",
+    "health": "available",
+    "hash": "1a5b66469d74ca2ea86886dfb005593a9d6ed193ca302ab3bed1497344a49699"
+  },
+  "manualReview": {
+    "intervalDays": 14,
+    "rationale": "Review exact legal/operational scope; retrieval cannot refresh the factual review."
+  }
+}

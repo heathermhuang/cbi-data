@@ -1,7 +1,7 @@
 {
   "schemaVersion": "0.1.0",
-  "datasetRelease": "2026-10-25.1",
-  "generatedAt": "2026-10-25T08:51:45Z",
+  "datasetRelease": "2026-10-25.2",
+  "generatedAt": "2026-10-25T09:17:50Z",
   "programmes": [
     "cbi-atg",
     "cbi-dma",

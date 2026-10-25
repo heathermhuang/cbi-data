@@ -1,0 +1,1105 @@
+{
+  "programme": {
+    "id": "cbi-egy",
+    "aliases": [
+      "eg"
+    ],
+    "jurisdiction": "EGY",
+    "country": "Egypt",
+    "name": "Citizenship through investment",
+    "kind": "citizenship",
+    "mechanism": "investment_subject_to_nationality_decision",
+    "profileURL": "https://cbi.me/citizenship-by-investment/egypt/",
+    "region": "Africa",
+    "period": "2019–present",
+    "start": 2019,
+    "end": null,
+    "optionIds": [
+      "cbi-egy-option-1",
+      "cbi-egy-option-2",
+      "cbi-egy-option-3",
+      "cbi-egy-option-4"
+    ],
+    "options": [
+      {
+        "id": "cbi-egy-option-1",
+        "label": "Treasury contribution",
+        "classification": "contribution",
+        "amountClaimId": "cbi-egy-routes",
+        "conditions": "Non-refundable"
+      },
+      {
+        "id": "cbi-egy-option-2",
+        "label": "Qualifying property",
+        "classification": "asset",
+        "amountClaimId": "cbi-egy-routes",
+        "conditions": "Conditions apply"
+      },
+      {
+        "id": "cbi-egy-option-3",
+        "label": "Investment project",
+        "classification": "business",
+        "amountClaimId": "cbi-egy-routes",
+        "conditions": "Conditions apply"
+      },
+      {
+        "id": "cbi-egy-option-4",
+        "label": "Bank deposit",
+        "classification": "deposit",
+        "amountClaimId": "cbi-egy-routes",
+        "conditions": "3 years; repayment / FX terms matter"
+      }
+    ],
+    "fields": {
+      "capital": "cbi-egy-capital",
+      "capitalType": "cbi-egy-capitalType",
+      "hold": "cbi-egy-hold",
+      "presence": "cbi-egy-presence",
+      "family": "cbi-egy-family",
+      "caveat": "cbi-egy-caveat",
+      "alert": "cbi-egy-alert",
+      "processing": "cbi-egy-processing",
+      "presenceShort": "cbi-egy-presenceShort",
+      "feeNote": "cbi-egy-feeNote",
+      "keyNote": "cbi-egy-keyNote",
+      "familyScenario": "cbi-egy-familyScenario",
+      "passportDelivery": "cbi-egy-passportDelivery",
+      "routeType": "cbi-egy-routeType",
+      "amount": "cbi-egy-amount",
+      "familyAmount": "cbi-egy-family-amount",
+      "routes": "cbi-egy-routes",
+      "legalOutcome": "cbi-egy-legal-outcome",
+      "intake": "cbi-egy-intake-observation",
+      "editorialUpdate": "cbi-egy-editorial-update"
+    },
+    "requiredFields": {
+      "legal_outcome": {
+        "claimIds": [
+          "cbi-egy-legal-outcome"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "legal_basis": {
+        "claimIds": [],
+        "state": "gap",
+        "gap": "Exact legal basis requirements not fully established in this release."
+      },
+      "operational_intake": {
+        "claimIds": [
+          "cbi-egy-intake-observation"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "decision_stage": {
+        "claimIds": [
+          "cbi-egy-intake-observation"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "passport_issuance": {
+        "claimIds": [
+          "cbi-egy-passportDelivery",
+          "cbi-egy-intake-observation"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "investment_options": {
+        "claimIds": [
+          "cbi-egy-routes"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "minimum_capital": {
+        "claimIds": [
+          "cbi-egy-amount",
+          "cbi-egy-capital"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "financial_resources": {
+        "claimIds": [],
+        "state": "gap",
+        "gap": "Exact financial resources requirements not fully established in this release."
+      },
+      "published_fees": {
+        "claimIds": [
+          "cbi-egy-cost-15",
+          "cbi-egy-cost-16",
+          "cbi-egy-feeNote"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "dependants": {
+        "claimIds": [
+          "cbi-egy-family",
+          "cbi-egy-familyScenario"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "screening": {
+        "claimIds": [],
+        "state": "gap",
+        "gap": "Exact screening requirements not fully established in this release."
+      },
+      "presence_holding": {
+        "claimIds": [
+          "cbi-egy-presence",
+          "cbi-egy-hold"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "post_grant": {
+        "claimIds": [
+          "cbi-egy-presence",
+          "cbi-egy-hold"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "withdrawal_recovery": {
+        "claimIds": [
+          "cbi-egy-capitalType",
+          "cbi-egy-hold"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "process_timing": {
+        "claimIds": [
+          "cbi-egy-processing",
+          "cbi-egy-passportDelivery"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "nationality_document_restrictions": {
+        "claimIds": [
+          "cbi-egy-caveat"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      }
+    },
+    "qualifications": [
+      "Current Cabinet programme page confirms the four investment routes. The deposit is repaid in Egyptian pounds without interest; FX and asset-retention conditions matter. No 6–12-month completion promise is made.",
+      "Published contribution and application fee; other personal/document charges are separate.",
+      "No independently verified end-to-end passport delivery time"
+    ]
+  },
+  "claims": [
+    {
+      "id": "cbi-egy-capital",
+      "revisionId": "cbi-egy-capital-09931f6759f98696",
+      "subject": "cbi-egy",
+      "predicate": "capital",
+      "value": "US$250,000 Treasury contribution",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "eg",
+          "locator": "250000 contribution;300000 property;350000 project capital+100000 contribution;500000 three-year deposit with EGP repayment;five-year asset-retention conditions.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-egy-capitalType",
+      "revisionId": "cbi-egy-capitalType-db37d34fea2c70cf",
+      "subject": "cbi-egy",
+      "predicate": "capitalType",
+      "value": "Non-refundable contribution",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "eg",
+          "locator": "250000 contribution;300000 property;350000 project capital+100000 contribution;500000 three-year deposit with EGP repayment;five-year asset-retention conditions.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "eg-faq",
+          "locator": "Contribution/property instalments up to a year; citizenship only after full payment.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-egy-hold",
+      "revisionId": "cbi-egy-hold-68b99d05aac5407e",
+      "subject": "cbi-egy",
+      "predicate": "hold",
+      "value": "Property/project retention 5 years; project USD 350,000 capital+USD 100,000 Treasury payment. Deposit USD 500,000 for 3 years, repaid in EGP without interest.",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "eg",
+          "locator": "250000 contribution;300000 property;350000 project capital+100000 contribution;500000 three-year deposit with EGP repayment;five-year asset-retention conditions.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "eg-faq",
+          "locator": "Contribution/property instalments up to a year; citizenship only after full payment.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-egy-presence",
+      "revisionId": "cbi-egy-presence-7ef57fe19e0d4517",
+      "subject": "cbi-egy",
+      "predicate": "presence",
+      "value": "Naturalisation follows approval and completion of the applicable payments.",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "eg",
+          "locator": "250000 contribution;300000 property;350000 project capital+100000 contribution;500000 three-year deposit with EGP repayment;five-year asset-retention conditions.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "eg-faq",
+          "locator": "Contribution/property instalments up to a year; citizenship only after full payment.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-egy-family",
+      "revisionId": "cbi-egy-family-a6f1b298d128a9d8",
+      "subject": "cbi-egy",
+      "predicate": "family",
+      "value": "Family eligibility and dependent fees require separate review",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "eg",
+          "locator": "250000 contribution;300000 property;350000 project capital+100000 contribution;500000 three-year deposit with EGP repayment;five-year asset-retention conditions.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "eg-faq",
+          "locator": "Contribution/property instalments up to a year; citizenship only after full payment.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-egy-caveat",
+      "revisionId": "cbi-egy-caveat-f22fe6bac155b094",
+      "subject": "cbi-egy",
+      "predicate": "caveat",
+      "value": "Current Cabinet programme page confirms the four investment routes. The deposit is repaid in Egyptian pounds without interest; FX and asset-retention conditions matter. No 6–12-month completion promise is made.",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "eg",
+          "locator": "250000 contribution;300000 property;350000 project capital+100000 contribution;500000 three-year deposit with EGP repayment;five-year asset-retention conditions.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "eg-faq",
+          "locator": "Contribution/property instalments up to a year; citizenship only after full payment.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-egy-alert",
+      "revisionId": "cbi-egy-alert-9412463dbf756990",
+      "subject": "cbi-egy",
+      "predicate": "alert",
+      "value": "",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "eg",
+          "locator": "250000 contribution;300000 property;350000 project capital+100000 contribution;500000 three-year deposit with EGP repayment;five-year asset-retention conditions.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "eg-faq",
+          "locator": "Contribution/property instalments up to a year; citizenship only after full payment.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-egy-processing",
+      "revisionId": "cbi-egy-processing-6b16a236953cfe43",
+      "subject": "cbi-egy",
+      "predicate": "processing",
+      "value": "Up to 3 months: initial decision from application submission",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "eg",
+          "locator": "250000 contribution;300000 property;350000 project capital+100000 contribution;500000 three-year deposit with EGP repayment;five-year asset-retention conditions.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "eg-faq",
+          "locator": "Contribution/property instalments up to a year; citizenship only after full payment.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-egy-presenceShort",
+      "revisionId": "cbi-egy-presenceShort-1e8c3219b8b08ea5",
+      "subject": "cbi-egy",
+      "predicate": "presenceShort",
+      "value": "Confirm application presence",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "eg",
+          "locator": "250000 contribution;300000 property;350000 project capital+100000 contribution;500000 three-year deposit with EGP repayment;five-year asset-retention conditions.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "eg-faq",
+          "locator": "Contribution/property instalments up to a year; citizenship only after full payment.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-egy-feeNote",
+      "revisionId": "cbi-egy-feeNote-6e3867d69a445064",
+      "subject": "cbi-egy",
+      "predicate": "feeNote",
+      "value": "Published contribution and application fee; other personal/document charges are separate.",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "eg",
+          "locator": "250000 contribution;300000 property;350000 project capital+100000 contribution;500000 three-year deposit with EGP repayment;five-year asset-retention conditions.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "eg-faq",
+          "locator": "Contribution/property instalments up to a year; citizenship only after full payment.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-egy-keyNote",
+      "revisionId": "cbi-egy-keyNote-1ceeb9c1551c89c8",
+      "subject": "cbi-egy",
+      "predicate": "keyNote",
+      "value": "Instalments delay citizenship until full payment.",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "eg",
+          "locator": "250000 contribution;300000 property;350000 project capital+100000 contribution;500000 three-year deposit with EGP repayment;five-year asset-retention conditions.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "eg-faq",
+          "locator": "Contribution/property instalments up to a year; citizenship only after full payment.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-egy-familyScenario",
+      "revisionId": "cbi-egy-familyScenario-acd04a01e254e9c2",
+      "subject": "cbi-egy",
+      "predicate": "familyScenario",
+      "value": "Principal, spouse and two children aged under 12; qualifying family only.",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "eg",
+          "locator": "250000 contribution;300000 property;350000 project capital+100000 contribution;500000 three-year deposit with EGP repayment;five-year asset-retention conditions.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "eg-faq",
+          "locator": "Contribution/property instalments up to a year; citizenship only after full payment.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-egy-passportDelivery",
+      "revisionId": "cbi-egy-passportDelivery-8b8dd6f254f9dcae",
+      "subject": "cbi-egy",
+      "predicate": "passportDelivery",
+      "value": "No independently verified end-to-end passport delivery time",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "eg",
+          "locator": "250000 contribution;300000 property;350000 project capital+100000 contribution;500000 three-year deposit with EGP repayment;five-year asset-retention conditions.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "eg-faq",
+          "locator": "Contribution/property instalments up to a year; citizenship only after full payment.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-egy-routeType",
+      "revisionId": "cbi-egy-routeType-36edd5645823be37",
+      "subject": "cbi-egy",
+      "predicate": "routeType",
+      "value": "Contribution",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "eg",
+          "locator": "250000 contribution;300000 property;350000 project capital+100000 contribution;500000 three-year deposit with EGP repayment;five-year asset-retention conditions.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "eg-faq",
+          "locator": "Contribution/property instalments up to a year; citizenship only after full payment.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-egy-amount",
+      "revisionId": "cbi-egy-amount-bbf1c0cc886a48ea",
+      "subject": "cbi-egy",
+      "predicate": "amount",
+      "value": {
+        "amount": "250000",
+        "currency": "USD"
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "eg",
+          "locator": "250000 contribution;300000 property;350000 project capital+100000 contribution;500000 three-year deposit with EGP repayment;five-year asset-retention conditions.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-egy-family-amount",
+      "revisionId": "cbi-egy-family-amount-98851c92dd05191d",
+      "subject": "cbi-egy",
+      "predicate": "family_amount",
+      "value": null,
+      "verification": "partial",
+      "valueStatus": "unknown",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "eg",
+          "locator": "250000 contribution;300000 property;350000 project capital+100000 contribution;500000 three-year deposit with EGP repayment;five-year asset-retention conditions.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "eg-faq",
+          "locator": "Contribution/property instalments up to a year; citizenship only after full payment.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [
+        "An amount alone does not establish dependant eligibility."
+      ]
+    },
+    {
+      "id": "cbi-egy-routes",
+      "revisionId": "cbi-egy-routes-0fd72c5b62fdc50b",
+      "subject": "cbi-egy",
+      "predicate": "routes",
+      "value": [
+        {
+          "label": "Treasury contribution",
+          "amount": "250000",
+          "currency": "USD",
+          "conditions": "Non-refundable"
+        },
+        {
+          "label": "Qualifying property",
+          "amount": "300000",
+          "currency": "USD",
+          "conditions": "Conditions apply"
+        },
+        {
+          "label": "Investment project",
+          "amount": "450000",
+          "currency": "USD",
+          "conditions": "Conditions apply"
+        },
+        {
+          "label": "Bank deposit",
+          "amount": "500000",
+          "currency": "USD",
+          "conditions": "3 years; repayment / FX terms matter"
+        }
+      ],
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "eg",
+          "locator": "250000 contribution;300000 property;350000 project capital+100000 contribution;500000 three-year deposit with EGP repayment;five-year asset-retention conditions.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "eg-faq",
+          "locator": "Contribution/property instalments up to a year; citizenship only after full payment.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-egy-legal-outcome",
+      "revisionId": "cbi-egy-legal-outcome-880d3033373bf661",
+      "subject": "cbi-egy",
+      "predicate": "legal_outcome",
+      "value": "Citizenship through investment subject to government approval, naturalisation or registration, followed by a separate passport process.",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "eg",
+          "locator": "250000 contribution;300000 property;350000 project capital+100000 contribution;500000 three-year deposit with EGP repayment;five-year asset-retention conditions.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "eg-faq",
+          "locator": "Contribution/property instalments up to a year; citizenship only after full payment.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-egy-intake-observation",
+      "revisionId": "cbi-egy-intake-observation-46b4b2086a710538",
+      "subject": "cbi-egy",
+      "predicate": "intake_observation",
+      "value": {
+        "legal": "published_citizenship_route",
+        "intake": "published_application_route",
+        "decision": "government_assessment_required",
+        "passportIssuance": "separate_stage_not_guaranteed"
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "eg",
+          "locator": "250000 contribution;300000 property;350000 project capital+100000 contribution;500000 three-year deposit with EGP repayment;five-year asset-retention conditions.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "eg-faq",
+          "locator": "Contribution/property instalments up to a year; citizenship only after full payment.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-20",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [
+        "Current Cabinet programme page confirms the four investment routes. The deposit is repaid in Egyptian pounds without interest; FX and asset-retention conditions matter. No 6–12-month completion promise is made.",
+        "Publication of a route is not a successful live application or completed issuance observation."
+      ]
+    },
+    {
+      "id": "cbi-egy-travel-gbr",
+      "revisionId": "cbi-egy-travel-gbr-6188ec0ed03f35c5",
+      "subject": "cbi-egy",
+      "predicate": "travel_gbr",
+      "value": {
+        "label": "Visa required",
+        "note": "Short visits on an ordinary national passport. ETA eligibility and visitor conditions apply."
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "uk-visits",
+          "locator": "Current ordinary-passport visit-visa requirements. Rules updated 8 October 2026.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [
+        "Ordinary national passport after issuance; acquisition-route and passport-series restrictions not comprehensively researched.",
+        "Individual status exemptions, admission decisions and separate territories are outside this rule."
+      ]
+    },
+    {
+      "id": "cbi-egy-travel-usa",
+      "revisionId": "cbi-egy-travel-usa-2558f942279ce60e",
+      "subject": "cbi-egy",
+      "predicate": "travel_usa",
+      "value": {
+        "label": "Visitor visa required",
+        "note": "This nationality is outside the Visa Waiver Program. Individual exceptions may apply."
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "us-vwp",
+          "locator": "Ordinary-national-passport visitor rules; no current CBI nationality in the participating list",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [
+        "Ordinary national passport after issuance; acquisition-route and passport-series restrictions not comprehensively researched.",
+        "Individual status exemptions, admission decisions and separate territories are outside this rule."
+      ]
+    },
+    {
+      "id": "cbi-egy-travel-can",
+      "revisionId": "cbi-egy-travel-can-eae0b9c21af3b4b9",
+      "subject": "cbi-egy",
+      "predicate": "travel_can",
+      "value": {
+        "label": "Visitor visa required",
+        "note": "No nationality-based visitor waiver is established here. Individual exemptions may apply."
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "publication-entry-nationality",
+          "locator": "Entry conditions depend on citizenship, travel document, status and transport. Foreign residence does not itself create a new nationality. Canadian and US permanent residents have separately described document rules.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [
+        "Ordinary national passport after issuance; acquisition-route and passport-series restrictions not comprehensively researched.",
+        "Individual status exemptions, admission decisions and separate territories are outside this rule."
+      ]
+    },
+    {
+      "id": "cbi-egy-travel-schengen-short-stay",
+      "revisionId": "cbi-egy-travel-schengen-short-stay-e8a5dc2a076b6592",
+      "subject": "cbi-egy",
+      "predicate": "travel_schengen_short_stay",
+      "value": {
+        "label": "Visa required",
+        "note": "Ordinary national passport, short visits; entry conditions and document validity still apply."
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "eu-visa-list",
+          "locator": "Annexes I/II and qualifying footnotes; ordinary national passports only",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [
+        "Ordinary national passport after issuance; acquisition-route and passport-series restrictions not comprehensively researched.",
+        "Individual status exemptions, admission decisions and separate territories are outside this rule."
+      ]
+    },
+    {
+      "id": "cbi-egy-cost-15",
+      "revisionId": "cbi-egy-cost-15-d0e06bcbd0eddfd0",
+      "subject": "cbi-egy",
+      "predicate": "cost_15",
+      "value": {
+        "label": "Treasury contribution",
+        "amount": "250000",
+        "currency": "USD",
+        "category": "capital",
+        "basis": "principal",
+        "quantity": 1,
+        "paymentStage": "after_approval",
+        "recoverability": "nonrefundable_contribution_or_published_selling_price; withdrawal_and_refund_terms_not_established",
+        "frequency": "once",
+        "scenario": "single_adult"
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "eg",
+          "locator": "250000 contribution;300000 property;350000 project capital+100000 contribution;500000 three-year deposit with EGP repayment;five-year asset-retention conditions.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "comparison-eg-current",
+          "locator": "USD 250,000 contribution and USD 10,000 application fee; initial decision within three months of submission and final decision within three months after completing investment requirements. These are separate stages, not a guaranteed passport-delivery period.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-24",
+      "reviewDueAt": "2026-11-07",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-25",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-egy-cost-16",
+      "revisionId": "cbi-egy-cost-16-a49ad706683488b3",
+      "subject": "cbi-egy",
+      "predicate": "cost_16",
+      "value": {
+        "label": "Application",
+        "amount": "10000",
+        "currency": "USD",
+        "category": "government_charge",
+        "basis": "application",
+        "quantity": 1,
+        "paymentStage": "submission",
+        "recoverability": "not_established",
+        "frequency": "once",
+        "scenario": "single_adult"
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "comparison-eg-current",
+          "locator": "USD 250,000 contribution and USD 10,000 application fee; initial decision within three months of submission and final decision within three months after completing investment requirements. These are separate stages, not a guaranteed passport-delivery period.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-24",
+      "reviewDueAt": "2026-11-07",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-25",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-egy-editorial-update",
+      "subject": "cbi-egy",
+      "predicate": "editorial_update",
+      "value": {
+        "checked": "2026-10-24",
+        "guides": [],
+        "timingSummary": "Up to 3 months: initial application decision",
+        "items": [
+          {
+            "label": "Published application stages",
+            "text": "The Cabinet homepage lists a US$10,000 application fee, an initial decision within three months of submission, six-month temporary residence to complete documents, and a final decision within three months after completing investment requirements. Its separate six-to-twelve-month headline is not a passport-delivery guarantee.",
+            "source": "comparison-eg-current"
+          }
+        ]
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "comparison-eg-current",
+          "locator": "USD 250,000 contribution and USD 10,000 application fee; initial decision within three months of submission and final decision within three months after completing investment requirements. These are separate stages, not a guaranteed passport-delivery period.",
+          "scope": "Stated dated CBI claim only; no general legal clearance"
+        }
+      ],
+      "reviewedAt": "2026-10-24",
+      "reviewDueAt": "2026-11-07",
+      "reviewMethod": "Migrated original CBI primary-source observation; original scope and review limits retained",
+      "observedAt": "2026-10-24",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [],
+      "revisionId": "cbi-egy-editorial-update-609a268e10d10c7b"
+    }
+  ],
+  "costItems": [
+    {
+      "id": "cbi-egy-cost-15",
+      "programmeId": "cbi-egy",
+      "optionId": "cbi-egy-option-1",
+      "claimId": "cbi-egy-cost-15"
+    },
+    {
+      "id": "cbi-egy-cost-16",
+      "programmeId": "cbi-egy",
+      "optionId": "cbi-egy-option-1",
+      "claimId": "cbi-egy-cost-16"
+    }
+  ],
+  "travel": [
+    {
+      "id": "EGY-GBR",
+      "programmeId": "cbi-egy",
+      "passport": "EGY",
+      "destination": "GBR",
+      "documentType": "ordinary",
+      "purpose": "short_visit",
+      "route": "advance_visa",
+      "outcome": "supported",
+      "claimId": "cbi-egy-travel-gbr",
+      "transport": [
+        "air",
+        "land",
+        "sea"
+      ],
+      "conditions": [],
+      "permittedStay": null,
+      "documentRecognition": "Valid ordinary national passport; individual and series exceptions not fully checked",
+      "acquisitionRestrictions": "not_researched"
+    },
+    {
+      "id": "EGY-USA",
+      "programmeId": "cbi-egy",
+      "passport": "EGY",
+      "destination": "USA",
+      "documentType": "ordinary",
+      "purpose": "short_visit",
+      "route": "advance_visa",
+      "outcome": "supported",
+      "claimId": "cbi-egy-travel-usa",
+      "transport": [
+        "air",
+        "land",
+        "sea"
+      ],
+      "conditions": [],
+      "permittedStay": null,
+      "documentRecognition": "Valid ordinary national passport; individual and series exceptions not fully checked",
+      "acquisitionRestrictions": "not_researched"
+    },
+    {
+      "id": "EGY-CAN",
+      "programmeId": "cbi-egy",
+      "passport": "EGY",
+      "destination": "CAN",
+      "documentType": "ordinary",
+      "purpose": "short_visit",
+      "route": "advance_visa",
+      "outcome": "supported",
+      "claimId": "cbi-egy-travel-can",
+      "transport": [
+        "air",
+        "land",
+        "sea"
+      ],
+      "conditions": [],
+      "permittedStay": null,
+      "documentRecognition": "Valid ordinary national passport; individual and series exceptions not fully checked",
+      "acquisitionRestrictions": "not_researched"
+    },
+    {
+      "id": "EGY-SCHENGEN_SHORT_STAY",
+      "programmeId": "cbi-egy",
+      "passport": "EGY",
+      "destination": "SCHENGEN_SHORT_STAY",
+      "documentType": "ordinary",
+      "purpose": "short_visit",
+      "route": "advance_visa",
+      "outcome": "supported",
+      "claimId": "cbi-egy-travel-schengen-short-stay",
+      "transport": [
+        "air",
+        "land",
+        "sea"
+      ],
+      "conditions": [],
+      "permittedStay": null,
+      "documentRecognition": "Common nationality regime only; member-specific recognition not fully checked",
+      "acquisitionRestrictions": "not_researched"
+    }
+  ]
+}

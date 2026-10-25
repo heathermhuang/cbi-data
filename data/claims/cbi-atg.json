@@ -1159,5 +1159,117 @@
     "effectiveUntil": null,
     "limitations": [],
     "revisionId": "cbi-atg-scenario-item-32-8a264cd56400c3af"
+  },
+  {
+    "id": "cbi-atg-obligations",
+    "subject": "cbi-atg",
+    "predicate": "obligations",
+    "value": {
+      "checked": "2026-10-25",
+      "afterApproval": [
+        {
+          "label": "Visits and citizenship retention",
+          "text": "The CIU says deprivation of citizenship may occur if the citizen does not spend at least five days in Antigua and Barbuda during the first five calendar years after citizenship, without repayment of the original investment, contribution or purchase price. Keep visit records. This retention condition is separate from the passport’s expiry date.",
+          "sources": [
+            "ag"
+          ],
+          "route": "all",
+          "checked": "2026-10-25"
+        },
+        {
+          "label": "Passport renewal",
+          "text": "The current CIU passport page describes an initial five-year passport and consideration for renewal subject to five days spent in the country during that period since citizenship. Obtain current renewal instructions and charges. The May 2020 AB10 form is a dated reference: this review did not establish its present fee schedule or procedural applicability, and the current forms index does not list it. That omission does not prove withdrawal.",
+          "sources": [
+            "ag-passport-renewal",
+            "ag-ab10-2020",
+            "ag-current-forms"
+          ],
+          "route": "all",
+          "checked": "2026-10-25"
+        },
+        {
+          "label": "Property holding",
+          "text": "The current property page restricts resale until five years after purchase, with an exception for purchasing an alternative officially approved property. Preserve title and payment documents and obtain advice before any early disposal. The holding period runs from purchase, whereas the visit condition runs from citizenship.",
+          "sources": [
+            "ag-property-current"
+          ],
+          "route": "approved-property",
+          "checked": "2026-10-25"
+        },
+        {
+          "label": "Evidence to retain",
+          "text": "AB10 version 3 May 2020 illustrates retained-investment evidence for property/business, title or share-register documents, proof of visits and declarations about changes after citizenship. Keep your certificate, ownership and visit records, and ask which current documents are required. These are useful records to retain; the older checklist and its charges are not presented as a newly confirmed renewal procedure.",
+          "sources": [
+            "ag-ab10-2020",
+            "ag-current-forms"
+          ],
+          "route": "all",
+          "checked": "2026-10-25"
+        }
+      ],
+      "paymentRisk": [
+        {
+          "label": "Submission versus approval",
+          "text": "The current CIU fee page requires non-refundable due diligence and 10% of the processing fee on submission. For approved property, the property page places the processing balance and sums due to the developer after approval under the purchase agreement. Obtain written terms for withdrawal, rejection and developer default; do not infer a universal contractual refund from the government fee rules.",
+          "sources": [
+            "ag-fees",
+            "ag-property-current"
+          ],
+          "route": "all",
+          "checked": "2026-10-25"
+        }
+      ],
+      "guides": [
+        "citizenship-by-investment-costs",
+        "cbi-real-estate-due-diligence"
+      ]
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [
+      "Scope is limited to the route, applicants, stage and dates in each cited item."
+    ],
+    "evidence": [
+      {
+        "sourceId": "ag",
+        "locator": "US$230,000 NDF; US$300,000 property; five days in first five years; family and screening.",
+        "scope": "Independent CBI primary-source review from 25 October 2026; older claims retain their own review dates."
+      },
+      {
+        "sourceId": "ag-ab10-2020",
+        "locator": "Checklist records investment-retention/title/share-register evidence, visit evidence and personal-change declarations. This older form remains accessible but is absent from the current forms index reviewed; its fee amounts and continued procedural applicability are not established by this review. Use as a dated illustration and obtain current instructions.",
+        "scope": "Independent CBI primary-source review from 25 October 2026; older claims retain their own review dates."
+      },
+      {
+        "sourceId": "ag-current-forms",
+        "locator": "Lists current passport L/M forms and application samples; does not list AB10 in the index retrieved on 25 October 2026. This absence does not prove AB10 withdrawn.",
+        "scope": "Independent CBI primary-source review from 25 October 2026; older claims retain their own review dates."
+      },
+      {
+        "sourceId": "ag-fees",
+        "locator": "NDF contribution, processing, due diligence and passport fees for principal and dependants.",
+        "scope": "Independent CBI primary-source review from 25 October 2026; older claims retain their own review dates."
+      },
+      {
+        "sourceId": "ag-passport-renewal",
+        "locator": "Initial five-year passport and renewal consideration conditional on five days in Antigua and Barbuda within that period since citizenship. This page does not supply a complete current renewal fee schedule.",
+        "scope": "Independent CBI primary-source review from 25 October 2026; older claims retain their own review dates."
+      },
+      {
+        "sourceId": "ag-property-current",
+        "locator": "Binding purchase agreement subject to citizenship grant; screening and 10% processing on submission; processing balance and developer sums following approval; title registration; five-year resale restriction with an alternative approved-property exception.",
+        "scope": "Independent CBI primary-source review from 25 October 2026; older claims retain their own review dates."
+      }
+    ],
+    "reviewedAt": "2026-10-25",
+    "reviewDueAt": "2026-11-24",
+    "reviewMethod": "Migrated current independently reviewed CBI original factual compilation; primary document locators and scope retained",
+    "observedAt": "2026-10-25",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [
+      "Partial research; unresolved operational applicability, appointments, charges and document duties remain explicit."
+    ],
+    "revisionId": "cbi-atg-obligations-ca986e8902c0462a"
   }
 ]

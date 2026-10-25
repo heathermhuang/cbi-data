@@ -34,7 +34,30 @@
         "cbi-atg-family-amount",
         "cbi-atg-routes",
         "cbi-atg-legal-outcome",
-        "cbi-atg-intake-observation"
+        "cbi-atg-intake-observation",
+        "cbi-atg-obligations"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://cip.gov.ag/citizenship/antigua-and-barbuda-passport/",
+      "sourceIds": [
+        "ag-passport-renewal"
+      ],
+      "claimIds": [
+        "cbi-atg-obligations"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://cip.gov.ag/how-to-apply/application-forms/",
+      "sourceIds": [
+        "ag-current-forms"
+      ],
+      "claimIds": [
+        "cbi-atg-obligations"
       ],
       "mode": "retrieval_monitor_with_manual_review",
       "intervalDays": 14
@@ -73,10 +96,12 @@
     {
       "url": "https://cip.gov.ag/investment-options/real-estate/",
       "sourceIds": [
+        "ag-property-current",
         "update-ag-property"
       ],
       "claimIds": [
-        "cbi-atg-editorial-update"
+        "cbi-atg-editorial-update",
+        "cbi-atg-obligations"
       ],
       "mode": "retrieval_monitor_with_manual_review",
       "intervalDays": 14
@@ -112,7 +137,19 @@
         "cbi-atg-cost-20",
         "cbi-atg-cost-21",
         "cbi-atg-dated-single-fee-7",
-        "cbi-atg-scenario-item-32"
+        "cbi-atg-scenario-item-32",
+        "cbi-atg-obligations"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://cip.gov.ag/wp-content/uploads/2020/05/AB10-Citizenship-by-Investment-5-year-renewal-application-form-May-2020.pdf",
+      "sourceIds": [
+        "ag-ab10-2020"
+      ],
+      "claimIds": [
+        "cbi-atg-obligations"
       ],
       "mode": "retrieval_monitor_with_manual_review",
       "intervalDays": 14
@@ -361,6 +398,17 @@
         "cbi-grd-scenario-item-32",
         "cbi-grd-scenario-item-33",
         "cbi-grd-scenario-item-34"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://pay.cipsaintlucia.com/p/no-refund-policy",
+      "sourceIds": [
+        "lc-refund-policy"
+      ],
+      "claimIds": [
+        "cbi-lca-obligations"
       ],
       "mode": "retrieval_monitor_with_manual_review",
       "intervalDays": 14
@@ -805,7 +853,27 @@
         "cbi-lca-scenario-item-28",
         "cbi-lca-scenario-item-29",
         "cbi-lca-scenario-item-30",
-        "cbi-lca-scenario-item-31"
+        "cbi-lca-scenario-item-31",
+        "cbi-lca-obligations"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://www.cipsaintlucia.com/citizenship-legislation",
+      "sourceIds": [
+        "lc-legislation-index"
+      ],
+      "claimIds": [
+        "cbi-lca-hold",
+        "cbi-lca-presence",
+        "cbi-lca-family",
+        "cbi-lca-caveat",
+        "cbi-lca-alert",
+        "cbi-lca-presenceShort",
+        "cbi-lca-keyNote",
+        "cbi-lca-routes",
+        "cbi-lca-obligations"
       ],
       "mode": "retrieval_monitor_with_manual_review",
       "intervalDays": 14
@@ -818,20 +886,12 @@
       ],
       "claimIds": [
         "cbi-lca-capitalType",
-        "cbi-lca-hold",
-        "cbi-lca-presence",
-        "cbi-lca-family",
-        "cbi-lca-caveat",
-        "cbi-lca-alert",
         "cbi-lca-processing",
-        "cbi-lca-presenceShort",
         "cbi-lca-feeNote",
-        "cbi-lca-keyNote",
         "cbi-lca-familyScenario",
         "cbi-lca-passportDelivery",
         "cbi-lca-routeType",
         "cbi-lca-family-amount",
-        "cbi-lca-routes",
         "cbi-lca-legal-outcome",
         "cbi-lca-intake-observation",
         "cbi-lca-cost-9",
@@ -844,12 +904,52 @@
       "intervalDays": 14
     },
     {
+      "url": "https://www.cipsaintlucia.com/s/Act-22-Citizenship-by-Investment-Amendment-Act.pdf",
+      "sourceIds": [
+        "lc-act-2025"
+      ],
+      "claimIds": [
+        "cbi-lca-hold",
+        "cbi-lca-presence",
+        "cbi-lca-family",
+        "cbi-lca-caveat",
+        "cbi-lca-alert",
+        "cbi-lca-presenceShort",
+        "cbi-lca-keyNote",
+        "cbi-lca-routes",
+        "cbi-lca-obligations",
+        "cbi-lca-financial-resources"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
       "url": "https://www.cipsaintlucia.com/s/CIP-AR-2024_web.pdf",
       "sourceIds": [
         "update-lc-report"
       ],
       "claimIds": [
         "cbi-lca-editorial-update"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://www.cipsaintlucia.com/s/SI-57-of-2026-Citizenship-by-Investment-Amendment-Regulations.pdf",
+      "sourceIds": [
+        "lc-regulations-2026"
+      ],
+      "claimIds": [
+        "cbi-lca-hold",
+        "cbi-lca-presence",
+        "cbi-lca-family",
+        "cbi-lca-caveat",
+        "cbi-lca-alert",
+        "cbi-lca-presenceShort",
+        "cbi-lca-keyNote",
+        "cbi-lca-routes",
+        "cbi-lca-obligations",
+        "cbi-lca-financial-resources"
       ],
       "mode": "retrieval_monitor_with_manual_review",
       "intervalDays": 14
@@ -1009,20 +1109,12 @@
       ],
       "claimIds": [
         "cbi-lca-capitalType",
-        "cbi-lca-hold",
-        "cbi-lca-presence",
-        "cbi-lca-family",
-        "cbi-lca-caveat",
-        "cbi-lca-alert",
         "cbi-lca-processing",
-        "cbi-lca-presenceShort",
         "cbi-lca-feeNote",
-        "cbi-lca-keyNote",
         "cbi-lca-familyScenario",
         "cbi-lca-passportDelivery",
         "cbi-lca-routeType",
         "cbi-lca-family-amount",
-        "cbi-lca-routes",
         "cbi-lca-legal-outcome",
         "cbi-lca-intake-observation"
       ],
@@ -1176,6 +1268,17 @@
         "cbi-kna-routes",
         "cbi-kna-legal-outcome",
         "cbi-kna-intake-observation"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://www.sluembassy.tw/consular-services",
+      "sourceIds": [
+        "lc-renewal-taipei"
+      ],
+      "claimIds": [
+        "cbi-lca-obligations"
       ],
       "mode": "retrieval_monitor_with_manual_review",
       "intervalDays": 14

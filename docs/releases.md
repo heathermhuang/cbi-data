@@ -1,6 +1,6 @@
 # Releases and integrity
 
-API v1, schema 0.1.0, software 0.1.0, dataset 2026-10-25.1 are independently
+API v1, schema 0.1.0, software 0.1.1, dataset 2026-10-25.2 are independently
 versioned. A correction requires a new immutable dataset ID and GitHub tag.
 The manifest records the public canonical source commit, normalized-input hash,
 fixed generation time, build-tool/package versions, coverage and file SHA-256s.
@@ -13,7 +13,7 @@ Git tree, package tarball and dataset/source archives. A public release contains
 JSON shards, CSV, schemas, code/CLI, lockfile and reproducible instructions.
 No private source is required by public CI or examples.
 
-Initially the one public release is hosted. Retain all public archives; host the
+Both 2026-10-25.1 and 2026-10-25.2 are hosted. Retain all public archives; host the
 current and previous three once available. Withdrawn releases remain identifiable
 in the index and return 410. Older downloadable data need not remain query-hosted.
 A factual correction normally publishes another release rather than overwriting

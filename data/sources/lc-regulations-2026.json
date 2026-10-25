@@ -1,0 +1,28 @@
+{
+  "id": "lc-regulations-2026",
+  "publisher": "Saint Lucia Government Gazette",
+  "title": "Citizenship by Investment (Amendment) Regulations 57 of 2026",
+  "url": "https://www.cipsaintlucia.com/s/SI-57-of-2026-Citizenship-by-Investment-Amendment-Regulations.pdf",
+  "authorityType": "Legislation",
+  "documentDate": "2026-03-23",
+  "rights": {
+    "disposition": "link_only",
+    "use": "CBI original factual normalization and source pointers only; no upstream documents or excerpts redistributed",
+    "basis": "Original CBI compilation; upstream rights retained"
+  },
+  "reviewObservation": {
+    "date": "2026-10-25",
+    "method": "Independent primary-source CBI review; legal document locators and limitations recorded"
+  },
+  "retrieval": {
+    "retrievedAt": null,
+    "lastAttempt": "2026-10-25T09:14:10.344Z",
+    "method": "not_extracted",
+    "health": "unavailable",
+    "hash": null
+  },
+  "manualReview": {
+    "intervalDays": 14,
+    "rationale": "Review exact legal/operational scope; retrieval cannot refresh the factual review."
+  }
+}

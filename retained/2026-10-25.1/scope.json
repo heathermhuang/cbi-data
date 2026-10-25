@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "0.1.0",
+  "datasetRelease": "2026-10-25.1",
+  "generatedAt": "2026-10-25T08:51:45Z",
+  "programmes": [
+    "cbi-atg",
+    "cbi-dma",
+    "cbi-grd",
+    "cbi-kna",
+    "cbi-lca",
+    "cbi-tur",
+    "cbi-egy",
+    "cbi-vut",
+    "cbi-nru",
+    "cbi-stp",
+    "cbi-slv"
+  ],
+  "requiredFields": [
+    "legal_outcome",
+    "legal_basis",
+    "operational_intake",
+    "decision_stage",
+    "passport_issuance",
+    "investment_options",
+    "minimum_capital",
+    "financial_resources",
+    "published_fees",
+    "dependants",
+    "screening",
+    "presence_holding",
+    "post_grant",
+    "withdrawal_recovery",
+    "process_timing",
+    "nationality_document_restrictions"
+  ],
+  "scenarios": [
+    "single_adult",
+    "couple_two_children_under12"
+  ],
+  "destinations": [
+    "GBR",
+    "USA",
+    "CAN",
+    "SCHENGEN_SHORT_STAY"
+  ],
+  "documentTypes": [
+    "ordinary"
+  ],
+  "excluded": [
+    "publisher-transcribed visa matrices",
+    "paid provider observations and scores",
+    "confidential briefings",
+    "withheld unpublished records",
+    "private workspace/auth/corrections/deployment material"
+  ],
+  "rights": "CC-BY-4.0 original compilation; linked sources retain their own rights"
+}

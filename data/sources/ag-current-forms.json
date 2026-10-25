@@ -1,0 +1,28 @@
+{
+  "id": "ag-current-forms",
+  "publisher": "Antigua and Barbuda CIU",
+  "title": "Current application and passport forms index",
+  "url": "https://cip.gov.ag/how-to-apply/application-forms/",
+  "authorityType": "Government forms index",
+  "documentDate": null,
+  "rights": {
+    "disposition": "link_only",
+    "use": "CBI original factual normalization and source pointers only; no upstream documents or excerpts redistributed",
+    "basis": "Original CBI compilation; upstream rights retained"
+  },
+  "reviewObservation": {
+    "date": "2026-10-25",
+    "method": "Independent primary-source CBI review; legal document locators and limitations recorded"
+  },
+  "retrieval": {
+    "retrievedAt": "2026-10-25T09:14:10.344Z",
+    "lastAttempt": "2026-10-25T09:14:10.344Z",
+    "method": "retrieval_hash_only",
+    "health": "available",
+    "hash": "b4d92f2129b087dd891b8b581ae65c0f6f60c459a4b5dd0d412fb4e90a1596cd"
+  },
+  "manualReview": {
+    "intervalDays": 14,
+    "rationale": "Review exact legal/operational scope; retrieval cannot refresh the factual review."
+  }
+}

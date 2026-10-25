@@ -1,0 +1,28 @@
+{
+  "id": "skn-fees",
+  "publisher": "St Kitts and Nevis CIU",
+  "title": "Citizenship by Investment Regulations, SRO20/2024",
+  "url": "https://ciu.gov.kn/wp-content/uploads/2025/01/sro-20-of-2024.pdf",
+  "authorityType": "Legislation",
+  "documentDate": "2024",
+  "rights": {
+    "disposition": "link_only",
+    "use": "CBI original factual normalization and references only; no upstream pages, PDFs, images or excerpts redistributed",
+    "basis": "Original compilation; no upstream republication licence asserted"
+  },
+  "retrieval": {
+    "retrievedAt": "2026-10-25T08:26:36.066Z",
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "method": "manual_pdf_review_required",
+    "health": "available",
+    "hash": "3830e74bf523aabe72e4709c359cf76c4c5f86c4a17a8f8c2f8dce59a3b4561e"
+  },
+  "manualReview": {
+    "intervalDays": 14,
+    "rationale": "Review exact claim and source applicability; retrieval success alone cannot refresh claims."
+  },
+  "reviewObservation": {
+    "date": "2026-10-13",
+    "method": "Claim-specific official text reviewed; checked date is not an enactment date."
+  }
+}

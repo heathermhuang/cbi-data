@@ -46,5 +46,29 @@
     "programmeId": "cbi-lca",
     "optionId": "cbi-lca-option-1",
     "claimId": "cbi-lca-scenario-item-31"
+  },
+  {
+    "id": "cbi-lca-built-property-single_adult-capital",
+    "programmeId": "cbi-lca",
+    "optionId": "cbi-lca-built-property",
+    "claimId": "cbi-lca-built-property-single_adult-capital"
+  },
+  {
+    "id": "cbi-lca-built-property-single_adult-government_charge",
+    "programmeId": "cbi-lca",
+    "optionId": "cbi-lca-built-property",
+    "claimId": "cbi-lca-built-property-single_adult-government_charge"
+  },
+  {
+    "id": "cbi-lca-built-property-couple_two_children_under12-capital",
+    "programmeId": "cbi-lca",
+    "optionId": "cbi-lca-built-property",
+    "claimId": "cbi-lca-built-property-couple_two_children_under12-capital"
+  },
+  {
+    "id": "cbi-lca-built-property-couple_two_children_under12-government_charge",
+    "programmeId": "cbi-lca",
+    "optionId": "cbi-lca-built-property",
+    "claimId": "cbi-lca-built-property-couple_two_children_under12-government_charge"
   }
 ]

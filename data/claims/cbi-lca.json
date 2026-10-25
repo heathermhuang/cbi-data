@@ -59,32 +59,37 @@
   },
   {
     "id": "cbi-lca-hold",
-    "revisionId": "cbi-lca-hold-fac1a850cd967b98",
+    "revisionId": "cbi-lca-hold-e08dd0925d889d85",
     "subject": "cbi-lca",
     "predicate": "hold",
-    "value": "Bond alternative US$300,000 for 5 years + US$50,000 non-refundable admin",
+    "value": "National Action Bonds: 5 years from first issue plus US$50,000 non-refundable administration. Built property under regulation 10A: at least 5 years after citizenship, with separate ownership-evidence duties.",
     "verification": "partial",
     "valueStatus": "known",
     "conditions": [],
     "evidence": [
       {
+        "sourceId": "lc-act-2025",
+        "locator": "Sections 3 and 7–10: dependant definitions, application documents, residency/genuine link from 1 January 2026, denial grounds and name changes. Read with the 2023 revised Act and current regulations.",
+        "scope": "Updated exact duty/resource/option scope; no individual eligibility or operational project availability inferred."
+      },
+      {
+        "sourceId": "lc-regulations-2026",
+        "locator": "Regulation 4: US$350,000 sworn resources declaration. Regulations 6–7: project approval cutoff and distinct built-property route, Gazette approval, payment evidence and post-grant duties. Regulations 9–12: escrow, biometrics, US$500,000 built-property minimum and US$30,000 applicant administration fee. No universal residency day count appears in this instrument.",
+        "scope": "Updated exact duty/resource/option scope; no individual eligibility or operational project availability inferred."
+      },
+      {
+        "sourceId": "lc-legislation-index",
+        "locator": "Index retrieved 25 October 2026; Act 22/2025 and S.I. 57/2026 are its latest listed amendments. An index is not proof that every operative instruction is online.",
+        "scope": "Updated exact duty/resource/option scope; no individual eligibility or operational project availability inferred."
+      },
+      {
         "sourceId": "lc",
         "locator": "NEF US$240,000 up to four; bonds US$300,000 plus US$50,000 administration; other options.",
-        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
-      },
-      {
-        "sourceId": "lc-old",
-        "locator": "Conflicting older US$100,000 price; used only to document official-page inconsistency.",
-        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
-      },
-      {
-        "sourceId": "lc-uk",
-        "locator": "Saint Lucia visit visas required from 5 March 2026; transitional period has ended.",
-        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        "scope": "Updated exact duty/resource/option scope; no individual eligibility or operational project availability inferred."
       }
     ],
-    "reviewedAt": "2026-10-13",
-    "reviewDueAt": "2026-10-27",
+    "reviewedAt": "2026-10-25",
+    "reviewDueAt": "2026-11-24",
     "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
     "observedAt": "2026-10-13",
     "effectiveFrom": null,
@@ -93,32 +98,37 @@
   },
   {
     "id": "cbi-lca-presence",
-    "revisionId": "cbi-lca-presence-b48c72c1bf198695",
+    "revisionId": "cbi-lca-presence-b716bf2168868910",
     "subject": "cbi-lca",
     "predicate": "presence",
-    "value": "Direct route; verify current presence and interview rules",
+    "value": "Section 30A requires prescribed residency and genuine-link compliance from 1 January 2026. The reviewed official materials do not establish a universal day count; obtain the applicable Unit instructions for your file.",
     "verification": "partial",
     "valueStatus": "known",
     "conditions": [],
     "evidence": [
       {
+        "sourceId": "lc-act-2025",
+        "locator": "Sections 3 and 7–10: dependant definitions, application documents, residency/genuine link from 1 January 2026, denial grounds and name changes. Read with the 2023 revised Act and current regulations.",
+        "scope": "Updated exact duty/resource/option scope; no individual eligibility or operational project availability inferred."
+      },
+      {
+        "sourceId": "lc-regulations-2026",
+        "locator": "Regulation 4: US$350,000 sworn resources declaration. Regulations 6–7: project approval cutoff and distinct built-property route, Gazette approval, payment evidence and post-grant duties. Regulations 9–12: escrow, biometrics, US$500,000 built-property minimum and US$30,000 applicant administration fee. No universal residency day count appears in this instrument.",
+        "scope": "Updated exact duty/resource/option scope; no individual eligibility or operational project availability inferred."
+      },
+      {
+        "sourceId": "lc-legislation-index",
+        "locator": "Index retrieved 25 October 2026; Act 22/2025 and S.I. 57/2026 are its latest listed amendments. An index is not proof that every operative instruction is online.",
+        "scope": "Updated exact duty/resource/option scope; no individual eligibility or operational project availability inferred."
+      },
+      {
         "sourceId": "lc",
         "locator": "NEF US$240,000 up to four; bonds US$300,000 plus US$50,000 administration; other options.",
-        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
-      },
-      {
-        "sourceId": "lc-old",
-        "locator": "Conflicting older US$100,000 price; used only to document official-page inconsistency.",
-        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
-      },
-      {
-        "sourceId": "lc-uk",
-        "locator": "Saint Lucia visit visas required from 5 March 2026; transitional period has ended.",
-        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        "scope": "Updated exact duty/resource/option scope; no individual eligibility or operational project availability inferred."
       }
     ],
-    "reviewedAt": "2026-10-13",
-    "reviewDueAt": "2026-10-27",
+    "reviewedAt": "2026-10-25",
+    "reviewDueAt": "2026-11-24",
     "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
     "observedAt": "2026-10-13",
     "effectiveFrom": null,
@@ -127,32 +137,37 @@
   },
   {
     "id": "cbi-lca-family",
-    "revisionId": "cbi-lca-family-c373cb3a8e76bb6b",
+    "revisionId": "cbi-lca-family-4fe7d8a0c53904b1",
     "subject": "cbi-lca",
     "predicate": "family",
-    "value": "US$240,000 main applicant + up to 3 qualifying dependants",
+    "value": "US$240,000 covers the principal and up to 3 qualifying dependants. Act 22/2025 defines eligible relationships, ages and support; family-of-four pricing alone does not establish eligibility.",
     "verification": "partial",
     "valueStatus": "known",
     "conditions": [],
     "evidence": [
       {
+        "sourceId": "lc-act-2025",
+        "locator": "Sections 3 and 7–10: dependant definitions, application documents, residency/genuine link from 1 January 2026, denial grounds and name changes. Read with the 2023 revised Act and current regulations.",
+        "scope": "Updated exact duty/resource/option scope; no individual eligibility or operational project availability inferred."
+      },
+      {
+        "sourceId": "lc-regulations-2026",
+        "locator": "Regulation 4: US$350,000 sworn resources declaration. Regulations 6–7: project approval cutoff and distinct built-property route, Gazette approval, payment evidence and post-grant duties. Regulations 9–12: escrow, biometrics, US$500,000 built-property minimum and US$30,000 applicant administration fee. No universal residency day count appears in this instrument.",
+        "scope": "Updated exact duty/resource/option scope; no individual eligibility or operational project availability inferred."
+      },
+      {
+        "sourceId": "lc-legislation-index",
+        "locator": "Index retrieved 25 October 2026; Act 22/2025 and S.I. 57/2026 are its latest listed amendments. An index is not proof that every operative instruction is online.",
+        "scope": "Updated exact duty/resource/option scope; no individual eligibility or operational project availability inferred."
+      },
+      {
         "sourceId": "lc",
         "locator": "NEF US$240,000 up to four; bonds US$300,000 plus US$50,000 administration; other options.",
-        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
-      },
-      {
-        "sourceId": "lc-old",
-        "locator": "Conflicting older US$100,000 price; used only to document official-page inconsistency.",
-        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
-      },
-      {
-        "sourceId": "lc-uk",
-        "locator": "Saint Lucia visit visas required from 5 March 2026; transitional period has ended.",
-        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        "scope": "Updated exact duty/resource/option scope; no individual eligibility or operational project availability inferred."
       }
     ],
-    "reviewedAt": "2026-10-13",
-    "reviewDueAt": "2026-10-27",
+    "reviewedAt": "2026-10-25",
+    "reviewDueAt": "2026-11-24",
     "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
     "observedAt": "2026-10-13",
     "effectiveFrom": null,
@@ -161,32 +176,37 @@
   },
   {
     "id": "cbi-lca-caveat",
-    "revisionId": "cbi-lca-caveat-e2c19f28e7941682",
+    "revisionId": "cbi-lca-caveat-547bb9be2cd24c62",
     "subject": "cbi-lca",
     "predicate": "caveat",
-    "value": "Official FAQ still shows an older US$100,000 figure. Use current investment page; bonds and donation have different economic costs.",
+    "value": "A sworn declaration of at least US$350,000 in financial resources is an eligibility requirement, separate from the US$240,000 NEF contribution and government fees. Apply the amended dependant and prior-visa-refusal rules. Built-property legislation does not by itself establish available projects. The investment page and older FAQ retain incompatible NEF and diligence figures; no unqualified subtotal is selected.",
     "verification": "partial",
     "valueStatus": "known",
     "conditions": [],
     "evidence": [
       {
+        "sourceId": "lc-act-2025",
+        "locator": "Sections 3 and 7–10: dependant definitions, application documents, residency/genuine link from 1 January 2026, denial grounds and name changes. Read with the 2023 revised Act and current regulations.",
+        "scope": "Updated exact duty/resource/option scope; no individual eligibility or operational project availability inferred."
+      },
+      {
+        "sourceId": "lc-regulations-2026",
+        "locator": "Regulation 4: US$350,000 sworn resources declaration. Regulations 6–7: project approval cutoff and distinct built-property route, Gazette approval, payment evidence and post-grant duties. Regulations 9–12: escrow, biometrics, US$500,000 built-property minimum and US$30,000 applicant administration fee. No universal residency day count appears in this instrument.",
+        "scope": "Updated exact duty/resource/option scope; no individual eligibility or operational project availability inferred."
+      },
+      {
+        "sourceId": "lc-legislation-index",
+        "locator": "Index retrieved 25 October 2026; Act 22/2025 and S.I. 57/2026 are its latest listed amendments. An index is not proof that every operative instruction is online.",
+        "scope": "Updated exact duty/resource/option scope; no individual eligibility or operational project availability inferred."
+      },
+      {
         "sourceId": "lc",
         "locator": "NEF US$240,000 up to four; bonds US$300,000 plus US$50,000 administration; other options.",
-        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
-      },
-      {
-        "sourceId": "lc-old",
-        "locator": "Conflicting older US$100,000 price; used only to document official-page inconsistency.",
-        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
-      },
-      {
-        "sourceId": "lc-uk",
-        "locator": "Saint Lucia visit visas required from 5 March 2026; transitional period has ended.",
-        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        "scope": "Updated exact duty/resource/option scope; no individual eligibility or operational project availability inferred."
       }
     ],
-    "reviewedAt": "2026-10-13",
-    "reviewDueAt": "2026-10-27",
+    "reviewedAt": "2026-10-25",
+    "reviewDueAt": "2026-11-24",
     "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
     "observedAt": "2026-10-13",
     "effectiveFrom": null,
@@ -195,32 +215,37 @@
   },
   {
     "id": "cbi-lca-alert",
-    "revisionId": "cbi-lca-alert-818ca47971371a88",
+    "revisionId": "cbi-lca-alert-f7dacd57828ae082",
     "subject": "cbi-lca",
     "predicate": "alert",
-    "value": "Official FAQ has an older, conflicting price.",
+    "value": "2025–2026 amendments add resources, biometrics and route-specific duties.",
     "verification": "partial",
     "valueStatus": "known",
     "conditions": [],
     "evidence": [
       {
+        "sourceId": "lc-act-2025",
+        "locator": "Sections 3 and 7–10: dependant definitions, application documents, residency/genuine link from 1 January 2026, denial grounds and name changes. Read with the 2023 revised Act and current regulations.",
+        "scope": "Updated exact duty/resource/option scope; no individual eligibility or operational project availability inferred."
+      },
+      {
+        "sourceId": "lc-regulations-2026",
+        "locator": "Regulation 4: US$350,000 sworn resources declaration. Regulations 6–7: project approval cutoff and distinct built-property route, Gazette approval, payment evidence and post-grant duties. Regulations 9–12: escrow, biometrics, US$500,000 built-property minimum and US$30,000 applicant administration fee. No universal residency day count appears in this instrument.",
+        "scope": "Updated exact duty/resource/option scope; no individual eligibility or operational project availability inferred."
+      },
+      {
+        "sourceId": "lc-legislation-index",
+        "locator": "Index retrieved 25 October 2026; Act 22/2025 and S.I. 57/2026 are its latest listed amendments. An index is not proof that every operative instruction is online.",
+        "scope": "Updated exact duty/resource/option scope; no individual eligibility or operational project availability inferred."
+      },
+      {
         "sourceId": "lc",
         "locator": "NEF US$240,000 up to four; bonds US$300,000 plus US$50,000 administration; other options.",
-        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
-      },
-      {
-        "sourceId": "lc-old",
-        "locator": "Conflicting older US$100,000 price; used only to document official-page inconsistency.",
-        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
-      },
-      {
-        "sourceId": "lc-uk",
-        "locator": "Saint Lucia visit visas required from 5 March 2026; transitional period has ended.",
-        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        "scope": "Updated exact duty/resource/option scope; no individual eligibility or operational project availability inferred."
       }
     ],
-    "reviewedAt": "2026-10-13",
-    "reviewDueAt": "2026-10-27",
+    "reviewedAt": "2026-10-25",
+    "reviewDueAt": "2026-11-24",
     "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
     "observedAt": "2026-10-13",
     "effectiveFrom": null,
@@ -263,32 +288,37 @@
   },
   {
     "id": "cbi-lca-presenceShort",
-    "revisionId": "cbi-lca-presenceShort-bd23995fa4d85a67",
+    "revisionId": "cbi-lca-presenceShort-83a9bb3747d53678",
     "subject": "cbi-lca",
     "predicate": "presenceShort",
-    "value": "Confirm current rules",
+    "value": "Residency / genuine link: prescribed rules; day count unresolved",
     "verification": "partial",
     "valueStatus": "known",
     "conditions": [],
     "evidence": [
       {
+        "sourceId": "lc-act-2025",
+        "locator": "Sections 3 and 7–10: dependant definitions, application documents, residency/genuine link from 1 January 2026, denial grounds and name changes. Read with the 2023 revised Act and current regulations.",
+        "scope": "Updated exact duty/resource/option scope; no individual eligibility or operational project availability inferred."
+      },
+      {
+        "sourceId": "lc-regulations-2026",
+        "locator": "Regulation 4: US$350,000 sworn resources declaration. Regulations 6–7: project approval cutoff and distinct built-property route, Gazette approval, payment evidence and post-grant duties. Regulations 9–12: escrow, biometrics, US$500,000 built-property minimum and US$30,000 applicant administration fee. No universal residency day count appears in this instrument.",
+        "scope": "Updated exact duty/resource/option scope; no individual eligibility or operational project availability inferred."
+      },
+      {
+        "sourceId": "lc-legislation-index",
+        "locator": "Index retrieved 25 October 2026; Act 22/2025 and S.I. 57/2026 are its latest listed amendments. An index is not proof that every operative instruction is online.",
+        "scope": "Updated exact duty/resource/option scope; no individual eligibility or operational project availability inferred."
+      },
+      {
         "sourceId": "lc",
         "locator": "NEF US$240,000 up to four; bonds US$300,000 plus US$50,000 administration; other options.",
-        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
-      },
-      {
-        "sourceId": "lc-old",
-        "locator": "Conflicting older US$100,000 price; used only to document official-page inconsistency.",
-        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
-      },
-      {
-        "sourceId": "lc-uk",
-        "locator": "Saint Lucia visit visas required from 5 March 2026; transitional period has ended.",
-        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        "scope": "Updated exact duty/resource/option scope; no individual eligibility or operational project availability inferred."
       }
     ],
-    "reviewedAt": "2026-10-13",
-    "reviewDueAt": "2026-10-27",
+    "reviewedAt": "2026-10-25",
+    "reviewDueAt": "2026-11-24",
     "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
     "observedAt": "2026-10-13",
     "effectiveFrom": null,
@@ -331,32 +361,37 @@
   },
   {
     "id": "cbi-lca-keyNote",
-    "revisionId": "cbi-lca-keyNote-0de7991c8b39f7e7",
+    "revisionId": "cbi-lca-keyNote-3e96402383f3e6bc",
     "subject": "cbi-lca",
     "predicate": "keyNote",
-    "value": "UK visit visa required since March 2026.",
+    "value": "US$350,000 resources declaration is separate from the US$240,000 NEF contribution. UK visit visa required since March 2026.",
     "verification": "partial",
     "valueStatus": "known",
     "conditions": [],
     "evidence": [
       {
+        "sourceId": "lc-act-2025",
+        "locator": "Sections 3 and 7–10: dependant definitions, application documents, residency/genuine link from 1 January 2026, denial grounds and name changes. Read with the 2023 revised Act and current regulations.",
+        "scope": "Updated exact duty/resource/option scope; no individual eligibility or operational project availability inferred."
+      },
+      {
+        "sourceId": "lc-regulations-2026",
+        "locator": "Regulation 4: US$350,000 sworn resources declaration. Regulations 6–7: project approval cutoff and distinct built-property route, Gazette approval, payment evidence and post-grant duties. Regulations 9–12: escrow, biometrics, US$500,000 built-property minimum and US$30,000 applicant administration fee. No universal residency day count appears in this instrument.",
+        "scope": "Updated exact duty/resource/option scope; no individual eligibility or operational project availability inferred."
+      },
+      {
+        "sourceId": "lc-legislation-index",
+        "locator": "Index retrieved 25 October 2026; Act 22/2025 and S.I. 57/2026 are its latest listed amendments. An index is not proof that every operative instruction is online.",
+        "scope": "Updated exact duty/resource/option scope; no individual eligibility or operational project availability inferred."
+      },
+      {
         "sourceId": "lc",
         "locator": "NEF US$240,000 up to four; bonds US$300,000 plus US$50,000 administration; other options.",
-        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
-      },
-      {
-        "sourceId": "lc-old",
-        "locator": "Conflicting older US$100,000 price; used only to document official-page inconsistency.",
-        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
-      },
-      {
-        "sourceId": "lc-uk",
-        "locator": "Saint Lucia visit visas required from 5 March 2026; transitional period has ended.",
-        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        "scope": "Updated exact duty/resource/option scope; no individual eligibility or operational project availability inferred."
       }
     ],
-    "reviewedAt": "2026-10-13",
-    "reviewDueAt": "2026-10-27",
+    "reviewedAt": "2026-10-25",
+    "reviewDueAt": "2026-11-24",
     "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
     "observedAt": "2026-10-13",
     "effectiveFrom": null,
@@ -533,7 +568,7 @@
   },
   {
     "id": "cbi-lca-routes",
-    "revisionId": "cbi-lca-routes-d48ec0b32c0d136a",
+    "revisionId": "cbi-lca-routes-b7b0120ba224fcbf",
     "subject": "cbi-lca",
     "predicate": "routes",
     "value": [
@@ -548,6 +583,12 @@
         "amount": "300000",
         "currency": "USD",
         "conditions": "5-year hold plus US$50,000 administration"
+      },
+      {
+        "label": "Approved built property — enacted route",
+        "amount": "500000",
+        "currency": "USD",
+        "conditions": "US$30,000 applicant administration, plus other fees. Project availability not established by this review; see requirements."
       }
     ],
     "verification": "partial",
@@ -555,23 +596,28 @@
     "conditions": [],
     "evidence": [
       {
+        "sourceId": "lc-act-2025",
+        "locator": "Sections 3 and 7–10: dependant definitions, application documents, residency/genuine link from 1 January 2026, denial grounds and name changes. Read with the 2023 revised Act and current regulations.",
+        "scope": "Updated exact duty/resource/option scope; no individual eligibility or operational project availability inferred."
+      },
+      {
+        "sourceId": "lc-regulations-2026",
+        "locator": "Regulation 4: US$350,000 sworn resources declaration. Regulations 6–7: project approval cutoff and distinct built-property route, Gazette approval, payment evidence and post-grant duties. Regulations 9–12: escrow, biometrics, US$500,000 built-property minimum and US$30,000 applicant administration fee. No universal residency day count appears in this instrument.",
+        "scope": "Updated exact duty/resource/option scope; no individual eligibility or operational project availability inferred."
+      },
+      {
+        "sourceId": "lc-legislation-index",
+        "locator": "Index retrieved 25 October 2026; Act 22/2025 and S.I. 57/2026 are its latest listed amendments. An index is not proof that every operative instruction is online.",
+        "scope": "Updated exact duty/resource/option scope; no individual eligibility or operational project availability inferred."
+      },
+      {
         "sourceId": "lc",
         "locator": "NEF US$240,000 up to four; bonds US$300,000 plus US$50,000 administration; other options.",
-        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
-      },
-      {
-        "sourceId": "lc-old",
-        "locator": "Conflicting older US$100,000 price; used only to document official-page inconsistency.",
-        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
-      },
-      {
-        "sourceId": "lc-uk",
-        "locator": "Saint Lucia visit visas required from 5 March 2026; transitional period has ended.",
-        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        "scope": "Updated exact duty/resource/option scope; no individual eligibility or operational project availability inferred."
       }
     ],
-    "reviewedAt": "2026-10-13",
-    "reviewDueAt": "2026-10-27",
+    "reviewedAt": "2026-10-25",
+    "reviewDueAt": "2026-11-24",
     "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
     "observedAt": "2026-10-13",
     "effectiveFrom": null,
@@ -1140,5 +1186,419 @@
     "effectiveUntil": null,
     "limitations": [],
     "revisionId": "cbi-lca-scenario-item-31-aa266557cb236ac5"
+  },
+  {
+    "id": "cbi-lca-obligations",
+    "subject": "cbi-lca",
+    "predicate": "obligations",
+    "value": {
+      "checked": "2026-10-25",
+      "eligibilityResources": {
+        "minimum": "350000",
+        "currency": "USD",
+        "kind": "Sworn declaration of financial resources",
+        "isGovernmentFee": false,
+        "isQualifyingInvestment": false,
+        "source": "lc-regulations-2026"
+      },
+      "eligibility": [
+        {
+          "label": "Resources are separate from price",
+          "text": "Provide a sworn affidavit declaring at least US$350,000 in financial resources, with supporting resources/source-of-funds documents under amended section 36(1A). This is not an additional government fee or a replacement for the NEF contribution.",
+          "sources": [
+            "lc-act-2025",
+            "lc-regulations-2026"
+          ],
+          "route": "all",
+          "checked": "2026-10-25"
+        },
+        {
+          "label": "Qualifying dependants",
+          "text": "Act 22/2025 includes a spouse; the applicant’s or spouse’s children aged 21 or below, or no more than 30 and fully supported; parents of either spouse above 55 and fully supported; and the applicant’s unmarried siblings below 18 with parental/guardian consent. It also includes fully supported people of any age with physical or mental disabilities, with additional incapacity, care and support evidence. Assess each person individually.",
+          "sources": [
+            "lc-act-2025"
+          ],
+          "route": "all",
+          "checked": "2026-10-25"
+        },
+        {
+          "label": "Prior refusals and disclosure",
+          "text": "Amended section 36 requires denial after a visa refusal by a country with which Saint Lucia has visa-free travel unless the applicant subsequently obtained a visa to that country. A citizenship-by-investment denial by an OECS member state is a separate discretionary denial ground. Disclose refusals and obtain case-specific advice; paying the qualifying amount does not cure ineligibility.",
+          "sources": [
+            "lc-act-2025"
+          ],
+          "route": "all",
+          "checked": "2026-10-25"
+        },
+        {
+          "label": "Built property: enacted, with an availability check",
+          "text": "Regulation 10A and the amended schedules create a distinct US$500,000 approved built-property route for the applicant and qualifying dependants, with a US$30,000 applicant administration fee plus other charges. The Board must publish an approved project in the Gazette. This review did not establish a gazetted project with functioning intake and available inventory for this route. Obtain those records before treating a particular property as available. The separate regulation 10 cutoff concerns new developer project-approval applications after 1 December 2025; it does not establish closure of all previously approved projects.",
+          "sources": [
+            "lc-regulations-2026",
+            "lc-legislation-index"
+          ],
+          "route": "all",
+          "checked": "2026-10-25"
+        }
+      ],
+      "routeOptions": [
+        {
+          "id": "built-property",
+          "legalBasis": "regulation 10A",
+          "legalStatus": "Enacted",
+          "availability": "Project intake and inventory not established by this review",
+          "qualifyingAmount": "500000",
+          "currency": "USD",
+          "applicantAdministrationFee": "30000",
+          "otherFeesAdditional": true,
+          "holdingYears": 5,
+          "holdingStarts": "citizenship grant",
+          "sources": [
+            "lc-regulations-2026"
+          ]
+        }
+      ],
+      "afterApproval": [
+        {
+          "label": "Successful applicants: biometrics",
+          "text": "Regulation 15A requires successful applicants to provide biometric data, including fingerprints and other identifying characteristics. The reviewed instrument does not specify an appointment location, deadline or collection fee; obtain current Unit instructions.",
+          "sources": [
+            "lc-regulations-2026"
+          ],
+          "route": "all",
+          "checked": "2026-10-25"
+        },
+        {
+          "label": "Residency and genuine link",
+          "text": "Section 30A applies prescribed residency and genuine-link requirements to the applicant and each qualifying dependant from 1 January 2026. Neither Act 22/2025 nor S.I. 57/2026 supplies a universal day count. The reviewed programme guidance does not resolve the detailed prescription or its application to individual pending files. Obtain the applicable instrument and instructions before planning visits.",
+          "sources": [
+            "lc-act-2025",
+            "lc-regulations-2026",
+            "lc-legislation-index"
+          ],
+          "route": "all",
+          "checked": "2026-10-25"
+        },
+        {
+          "label": "Built property: hold and title steps",
+          "text": "Keep the qualifying investment for at least five years after citizenship. Within 90 days after receiving the citizenship certificate, take the necessary steps to obtain title/ownership documents, including registering the land interest or completing and recording the share transfer/issue. This is a deadline to take steps, not a universal deadline to complete final title. It does not apply to NEF contributions or bonds.",
+          "sources": [
+            "lc-regulations-2026"
+          ],
+          "route": "built-property",
+          "checked": "2026-10-25"
+        },
+        {
+          "label": "Built property: proof and consequences",
+          "text": "Give the Unit proof of the acquired interest, such as the Land Register or share ownership, within the period the Unit specifies. If unable to supply it in that period, apply for an extension of no more than 30 days. Regulation 10A(14) gives the Minister power to revoke the registration certificate and requires its surrender; obtain advice about compliance and any Unit notice. A five-year resale plan does not remove these earlier duties.",
+          "sources": [
+            "lc-regulations-2026"
+          ],
+          "route": "built-property",
+          "checked": "2026-10-25"
+        },
+        {
+          "label": "National Action Bonds: keep the issue record",
+          "text": "The published NAB option requires registration in the applicant’s name for five years from first issue; it is non-interest-bearing. Keep the issue and payment records and obtain the actual redemption terms. Redemption at maturity is different from a refund following withdrawal or refusal.",
+          "sources": [
+            "lc"
+          ],
+          "route": "national-action-bonds",
+          "checked": "2026-10-25"
+        },
+        {
+          "label": "Names and passport applications",
+          "text": "Section 36A restricts name changes for five years after the registration certificate, with documented exceptions for family-status changes, protective programmes and clerical/transliteration correction by the Unit or competent authority. Where a name changes, the Act requires written notice to the Unit before a passport application, with the prescribed evidence and due-diligence fee. Obtain instructions for your exception and renewal; the biometric amendment does not establish a renewal calendar or fee here. Passport expiry is separate from loss of citizenship.",
+          "sources": [
+            "lc-act-2025",
+            "lc-regulations-2026"
+          ],
+          "route": "all",
+          "checked": "2026-10-25"
+        },
+        {
+          "label": "Passport renewal: use the applicable consular channel",
+          "text": "The Saint Lucia embassy in Taipei publishes CBI-specific renewal instructions: initial document verification, then an appointment, with original documents submitted in person or by registered mail under its overseas procedure. Its current page warns of substantial passport-processing delays. This describes that embassy’s channel; confirm the applicable mission, document list and current charges for your residence. It does not establish where the new statutory biometrics are collected, and the earlier 30-day return time is not a current delivery promise.",
+          "route": "all",
+          "checked": "2026-10-25",
+          "sources": [
+            "lc-renewal-taipei"
+          ]
+        }
+      ],
+      "paymentRisk": [
+        {
+          "label": "NEF submission and qualifying payment",
+          "text": "The current investment page labels processing and due-diligence fees at submission non-refundable, and says the NEF qualifying contribution follows approval. The portal also states fees and qualifying investments paid are non-refundable. Do not assume withdrawal or rejection recovers paid amounts.",
+          "sources": [
+            "lc",
+            "lc-refund-policy"
+          ],
+          "route": "nef",
+          "checked": "2026-10-25"
+        },
+        {
+          "label": "Built-property payments and escrow",
+          "text": "Regulation 10A requires the agreement, proof of the qualifying payment and value evidence with the application. This differs from the NEF payment sequence. Regulations 12A–12C require approved escrow arrangements with written release, rights, obligations, remuneration and applicable construction-drawdown terms. Obtain the executed agreements and independent advice on refusal, withdrawal, title failure and default; escrow is not an automatic refund guarantee.",
+          "sources": [
+            "lc-regulations-2026"
+          ],
+          "route": "built-property",
+          "checked": "2026-10-25"
+        }
+      ],
+      "guides": [
+        "citizenship-by-investment-costs",
+        "cbi-privacy-and-disclosure",
+        "cbi-real-estate-due-diligence"
+      ]
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [
+      "Scope is limited to the route, applicants, stage and dates in each cited item."
+    ],
+    "evidence": [
+      {
+        "sourceId": "lc",
+        "locator": "NEF US$240,000 up to four; bonds US$300,000 plus US$50,000 administration; other options.",
+        "scope": "Independent CBI primary-source review from 25 October 2026; older claims retain their own review dates."
+      },
+      {
+        "sourceId": "lc-act-2025",
+        "locator": "Sections 3 and 7–10: dependant definitions, application documents, residency/genuine link from 1 January 2026, denial grounds and name changes. Read with the 2023 revised Act and current regulations.",
+        "scope": "Independent CBI primary-source review from 25 October 2026; older claims retain their own review dates."
+      },
+      {
+        "sourceId": "lc-legislation-index",
+        "locator": "Index retrieved 25 October 2026; Act 22/2025 and S.I. 57/2026 are its latest listed amendments. An index is not proof that every operative instruction is online.",
+        "scope": "Independent CBI primary-source review from 25 October 2026; older claims retain their own review dates."
+      },
+      {
+        "sourceId": "lc-refund-policy",
+        "locator": "Portal states fees and qualifying investments paid are non-refundable. This broad payment policy does not establish every private contract, bond redemption term or property resale outcome.",
+        "scope": "Independent CBI primary-source review from 25 October 2026; older claims retain their own review dates."
+      },
+      {
+        "sourceId": "lc-regulations-2026",
+        "locator": "Regulation 4: US$350,000 sworn resources declaration. Regulations 6–7: project approval cutoff and distinct built-property route, Gazette approval, payment evidence and post-grant duties. Regulations 9–12: escrow, biometrics, US$500,000 built-property minimum and US$30,000 applicant administration fee. No universal residency day count appears in this instrument.",
+        "scope": "Independent CBI primary-source review from 25 October 2026; older claims retain their own review dates."
+      },
+      {
+        "sourceId": "lc-renewal-taipei",
+        "locator": "Current consular page links specific CBI renewal instructions and warns of passport-processing delays. Its linked instructions cover document verification, appointments and originals. This is the Taipei channel, not a universal renewal location, delivery promise or biometric collection instruction.",
+        "scope": "Independent CBI primary-source review from 25 October 2026; older claims retain their own review dates."
+      }
+    ],
+    "reviewedAt": "2026-10-25",
+    "reviewDueAt": "2026-11-24",
+    "reviewMethod": "Migrated current independently reviewed CBI original factual compilation; primary document locators and scope retained",
+    "observedAt": "2026-10-25",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [
+      "Partial research; unresolved operational applicability, appointments, charges and document duties remain explicit."
+    ],
+    "revisionId": "cbi-lca-obligations-590ad1d5b82256c9"
+  },
+  {
+    "id": "cbi-lca-financial-resources",
+    "subject": "cbi-lca",
+    "predicate": "financial_resources",
+    "value": {
+      "amount": "350000",
+      "currency": "USD",
+      "kind": "sworn_financial_resources_declaration",
+      "isGovernmentFee": false,
+      "isQualifyingInvestment": false,
+      "conditions": "Supporting resources and source-of-funds evidence required; this does not replace the qualifying investment."
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [
+      "Scope is limited to the route, applicants, stage and dates in each cited item."
+    ],
+    "evidence": [
+      {
+        "sourceId": "lc-act-2025",
+        "locator": "Sections 3 and 7–10: dependant definitions, application documents, residency/genuine link from 1 January 2026, denial grounds and name changes. Read with the 2023 revised Act and current regulations.",
+        "scope": "Independent CBI primary-source review from 25 October 2026; older claims retain their own review dates."
+      },
+      {
+        "sourceId": "lc-regulations-2026",
+        "locator": "Regulation 4: US$350,000 sworn resources declaration. Regulations 6–7: project approval cutoff and distinct built-property route, Gazette approval, payment evidence and post-grant duties. Regulations 9–12: escrow, biometrics, US$500,000 built-property minimum and US$30,000 applicant administration fee. No universal residency day count appears in this instrument.",
+        "scope": "Independent CBI primary-source review from 25 October 2026; older claims retain their own review dates."
+      }
+    ],
+    "reviewedAt": "2026-10-25",
+    "reviewDueAt": "2026-11-24",
+    "reviewMethod": "Migrated current independently reviewed CBI original factual compilation; primary document locators and scope retained",
+    "observedAt": "2026-10-25",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [
+      "Partial research; unresolved operational applicability, appointments, charges and document duties remain explicit."
+    ],
+    "revisionId": "cbi-lca-financial-resources-e06c0edc9b24e873"
+  },
+  {
+    "id": "cbi-lca-built-property-single_adult-capital",
+    "subject": "cbi-lca",
+    "predicate": "scenario_cost_item",
+    "value": {
+      "label": "Built-property qualifying capital",
+      "amount": "500000",
+      "currency": "USD",
+      "category": "capital",
+      "basis": "application_or_principal",
+      "quantity": 1,
+      "paymentStage": "application_evidence_requirements_apply",
+      "recoverability": "not_established",
+      "frequency": "once",
+      "scenario": "single_adult"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [
+      "Enacted route tariff only. Gazette-approved project, actual operating intake and inventory not established.",
+      "Qualifying dependant acceptance and additional family charges require separate assessment."
+    ],
+    "evidence": [
+      {
+        "sourceId": "lc-regulations-2026",
+        "locator": "Regulation 10A and amended schedules, printed pp224–226 and pp232–233",
+        "scope": "USD500000 qualifying capital and USD30000 applicant administration; other fees are additional."
+      }
+    ],
+    "reviewedAt": "2026-10-25",
+    "reviewDueAt": "2026-11-08",
+    "reviewMethod": "Original CBI primary legal-document review; operational availability remains unresolved",
+    "observedAt": "2026-10-25",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [
+      "No personal eligibility, inventory, contractual refund, asset quality or resale outcome is established."
+    ],
+    "revisionId": "cbi-lca-built-property-single_adult-capital-de96def6c647475f"
+  },
+  {
+    "id": "cbi-lca-built-property-single_adult-government_charge",
+    "subject": "cbi-lca",
+    "predicate": "scenario_cost_item",
+    "value": {
+      "label": "Principal administration",
+      "amount": "30000",
+      "currency": "USD",
+      "category": "government_charge",
+      "basis": "application_or_principal",
+      "quantity": 1,
+      "paymentStage": "application_evidence_requirements_apply",
+      "recoverability": "not_established",
+      "frequency": "once",
+      "scenario": "single_adult"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [
+      "Enacted route tariff only. Gazette-approved project, actual operating intake and inventory not established.",
+      "Qualifying dependant acceptance and additional family charges require separate assessment."
+    ],
+    "evidence": [
+      {
+        "sourceId": "lc-regulations-2026",
+        "locator": "Regulation 10A and amended schedules, printed pp224–226 and pp232–233",
+        "scope": "USD500000 qualifying capital and USD30000 applicant administration; other fees are additional."
+      }
+    ],
+    "reviewedAt": "2026-10-25",
+    "reviewDueAt": "2026-11-08",
+    "reviewMethod": "Original CBI primary legal-document review; operational availability remains unresolved",
+    "observedAt": "2026-10-25",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [
+      "No personal eligibility, inventory, contractual refund, asset quality or resale outcome is established."
+    ],
+    "revisionId": "cbi-lca-built-property-single_adult-government_charge-4fa69aa82f57a53f"
+  },
+  {
+    "id": "cbi-lca-built-property-couple_two_children_under12-capital",
+    "subject": "cbi-lca",
+    "predicate": "scenario_cost_item",
+    "value": {
+      "label": "Built-property qualifying capital",
+      "amount": "500000",
+      "currency": "USD",
+      "category": "capital",
+      "basis": "application_or_principal",
+      "quantity": 1,
+      "paymentStage": "application_evidence_requirements_apply",
+      "recoverability": "not_established",
+      "frequency": "once",
+      "scenario": "couple_two_children_under12"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [
+      "Enacted route tariff only. Gazette-approved project, actual operating intake and inventory not established.",
+      "Qualifying dependant acceptance and additional family charges require separate assessment."
+    ],
+    "evidence": [
+      {
+        "sourceId": "lc-regulations-2026",
+        "locator": "Regulation 10A and amended schedules, printed pp224–226 and pp232–233",
+        "scope": "USD500000 qualifying capital and USD30000 applicant administration; other fees are additional."
+      }
+    ],
+    "reviewedAt": "2026-10-25",
+    "reviewDueAt": "2026-11-08",
+    "reviewMethod": "Original CBI primary legal-document review; operational availability remains unresolved",
+    "observedAt": "2026-10-25",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [
+      "No personal eligibility, inventory, contractual refund, asset quality or resale outcome is established."
+    ],
+    "revisionId": "cbi-lca-built-property-couple_two_children_under12-capital-dae91f3181571e30"
+  },
+  {
+    "id": "cbi-lca-built-property-couple_two_children_under12-government_charge",
+    "subject": "cbi-lca",
+    "predicate": "scenario_cost_item",
+    "value": {
+      "label": "Principal administration",
+      "amount": "30000",
+      "currency": "USD",
+      "category": "government_charge",
+      "basis": "application_or_principal",
+      "quantity": 1,
+      "paymentStage": "application_evidence_requirements_apply",
+      "recoverability": "not_established",
+      "frequency": "once",
+      "scenario": "couple_two_children_under12"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [
+      "Enacted route tariff only. Gazette-approved project, actual operating intake and inventory not established.",
+      "Qualifying dependant acceptance and additional family charges require separate assessment."
+    ],
+    "evidence": [
+      {
+        "sourceId": "lc-regulations-2026",
+        "locator": "Regulation 10A and amended schedules, printed pp224–226 and pp232–233",
+        "scope": "USD500000 qualifying capital and USD30000 applicant administration; other fees are additional."
+      }
+    ],
+    "reviewedAt": "2026-10-25",
+    "reviewDueAt": "2026-11-08",
+    "reviewMethod": "Original CBI primary legal-document review; operational availability remains unresolved",
+    "observedAt": "2026-10-25",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [
+      "No personal eligibility, inventory, contractual refund, asset quality or resale outcome is established."
+    ],
+    "revisionId": "cbi-lca-built-property-couple_two_children_under12-government_charge-d06732c449a31b1c"
   }
 ]

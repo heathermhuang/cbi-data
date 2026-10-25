@@ -1,0 +1,28 @@
+{
+  "id": "ag-ab10-2020",
+  "publisher": "Antigua and Barbuda CIU",
+  "title": "AB10 five-year renewal form, version 3 May 2020",
+  "url": "https://cip.gov.ag/wp-content/uploads/2020/05/AB10-Citizenship-by-Investment-5-year-renewal-application-form-May-2020.pdf",
+  "authorityType": "Dated government form",
+  "documentDate": "2020-05-03",
+  "rights": {
+    "disposition": "link_only",
+    "use": "CBI original factual normalization and source pointers only; no upstream documents or excerpts redistributed",
+    "basis": "Original CBI compilation; upstream rights retained"
+  },
+  "reviewObservation": {
+    "date": "2026-10-25",
+    "method": "Independent primary-source CBI review; legal document locators and limitations recorded"
+  },
+  "retrieval": {
+    "retrievedAt": "2026-10-25T09:14:10.344Z",
+    "lastAttempt": "2026-10-25T09:14:10.344Z",
+    "method": "manual_pdf_review_required",
+    "health": "available",
+    "hash": "e4a9290694fd78a8ccfae6cb42729016aade4505a664001f5c2d2a037de82ecc"
+  },
+  "manualReview": {
+    "intervalDays": 14,
+    "rationale": "Review exact legal/operational scope; retrieval cannot refresh the factual review."
+  }
+}

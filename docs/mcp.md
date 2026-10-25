@@ -9,7 +9,7 @@ Private authentication remains a separate endpoint and is absent in this package
 {"mcpServers":{"cbi-data":{"command":"node","args":["/absolute/path/to/pinned-cbi-data/src/cli/stdio.mjs"]}}}
 ```
 
-After cloning tag `data-2026-10-25.1`, run `npm ci --ignore-scripts` and `npm run
+After cloning tag `data-2026-10-25.2`, run `npm ci --ignore-scripts` and `npm run
 build` before local use. See `examples/mcp-client.mjs` for an executable SDK client.
 Local stdio and hosted tools call exactly the same pure core. Every tool has a
 strict input/output envelope schema, read-only annotations, structuredContent and

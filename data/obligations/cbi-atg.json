@@ -1,0 +1,37 @@
+[
+  {
+    "id": "cbi-atg-afterapproval-1",
+    "programmeId": "cbi-atg",
+    "claimId": "cbi-atg-obligations",
+    "section": "afterApproval",
+    "itemIndex": 0
+  },
+  {
+    "id": "cbi-atg-afterapproval-2",
+    "programmeId": "cbi-atg",
+    "claimId": "cbi-atg-obligations",
+    "section": "afterApproval",
+    "itemIndex": 1
+  },
+  {
+    "id": "cbi-atg-afterapproval-3",
+    "programmeId": "cbi-atg",
+    "claimId": "cbi-atg-obligations",
+    "section": "afterApproval",
+    "itemIndex": 2
+  },
+  {
+    "id": "cbi-atg-afterapproval-4",
+    "programmeId": "cbi-atg",
+    "claimId": "cbi-atg-obligations",
+    "section": "afterApproval",
+    "itemIndex": 3
+  },
+  {
+    "id": "cbi-atg-paymentrisk-1",
+    "programmeId": "cbi-atg",
+    "claimId": "cbi-atg-obligations",
+    "section": "paymentRisk",
+    "itemIndex": 0
+  }
+]

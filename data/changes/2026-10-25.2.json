@@ -1,0 +1,52 @@
+[
+  {
+    "id": "cbi-atg-new-duty-coverage",
+    "programmeId": "cbi-atg",
+    "from": "2026-10-25.1",
+    "to": "2026-10-25.2",
+    "classification": "new_coverage",
+    "observedAt": "2026-10-25",
+    "effectiveAt": null,
+    "beforeRevisionIds": [],
+    "afterRevisionIds": [
+      "cbi-atg-obligations-ca986e8902c0462a"
+    ],
+    "note": "Adds independently reviewed resource, eligibility, route and ongoing-duty evidence. Review observation is not legal commencement."
+  },
+  {
+    "id": "cbi-lca-new-duty-coverage",
+    "programmeId": "cbi-lca",
+    "from": "2026-10-25.1",
+    "to": "2026-10-25.2",
+    "classification": "new_coverage",
+    "observedAt": "2026-10-25",
+    "effectiveAt": null,
+    "beforeRevisionIds": [
+      "cbi-lca-hold-fac1a850cd967b98",
+      "cbi-lca-presence-b48c72c1bf198695",
+      "cbi-lca-family-c373cb3a8e76bb6b",
+      "cbi-lca-caveat-e2c19f28e7941682",
+      "cbi-lca-alert-818ca47971371a88",
+      "cbi-lca-presenceShort-bd23995fa4d85a67",
+      "cbi-lca-keyNote-0de7991c8b39f7e7",
+      "cbi-lca-routes-d48ec0b32c0d136a"
+    ],
+    "afterRevisionIds": [
+      "cbi-lca-hold-e08dd0925d889d85",
+      "cbi-lca-presence-b716bf2168868910",
+      "cbi-lca-family-4fe7d8a0c53904b1",
+      "cbi-lca-caveat-547bb9be2cd24c62",
+      "cbi-lca-alert-f7dacd57828ae082",
+      "cbi-lca-presenceShort-83a9bb3747d53678",
+      "cbi-lca-keyNote-3e96402383f3e6bc",
+      "cbi-lca-routes-b7b0120ba224fcbf",
+      "cbi-lca-obligations-590ad1d5b82256c9",
+      "cbi-lca-financial-resources-e06c0edc9b24e873",
+      "cbi-lca-built-property-single_adult-capital-de96def6c647475f",
+      "cbi-lca-built-property-single_adult-government_charge-4fa69aa82f57a53f",
+      "cbi-lca-built-property-couple_two_children_under12-capital-dae91f3181571e30",
+      "cbi-lca-built-property-couple_two_children_under12-government_charge-d06732c449a31b1c"
+    ],
+    "note": "Adds independently reviewed resource, eligibility, route and ongoing-duty evidence. Review observation is not legal commencement."
+  }
+]

@@ -1,0 +1,1553 @@
+{
+  "programme": {
+    "id": "cbi-dma",
+    "aliases": [
+      "dm"
+    ],
+    "jurisdiction": "DMA",
+    "country": "Dominica",
+    "name": "Citizenship by Investment",
+    "kind": "citizenship",
+    "mechanism": "investment_subject_to_nationality_decision",
+    "profileURL": "https://cbi.me/citizenship-by-investment/dominica/",
+    "region": "Caribbean",
+    "period": "1993–present",
+    "start": 1993,
+    "end": null,
+    "optionIds": [
+      "cbi-dma-option-1",
+      "cbi-dma-option-2"
+    ],
+    "options": [
+      {
+        "id": "cbi-dma-option-1",
+        "label": "EDF contribution",
+        "classification": "contribution",
+        "amountClaimId": "cbi-dma-routes",
+        "conditions": "Non-refundable"
+      },
+      {
+        "id": "cbi-dma-option-2",
+        "label": "Approved property",
+        "classification": "asset",
+        "amountClaimId": "cbi-dma-routes",
+        "conditions": "3-year hold; government fees extra"
+      }
+    ],
+    "fields": {
+      "capital": "cbi-dma-capital",
+      "capitalType": "cbi-dma-capitalType",
+      "hold": "cbi-dma-hold",
+      "presence": "cbi-dma-presence",
+      "family": "cbi-dma-family",
+      "caveat": "cbi-dma-caveat",
+      "alert": "cbi-dma-alert",
+      "processing": "cbi-dma-processing",
+      "presenceShort": "cbi-dma-presenceShort",
+      "feeNote": "cbi-dma-feeNote",
+      "keyNote": "cbi-dma-keyNote",
+      "familyScenario": "cbi-dma-familyScenario",
+      "passportDelivery": "cbi-dma-passportDelivery",
+      "routeType": "cbi-dma-routeType",
+      "amount": "cbi-dma-amount",
+      "familyAmount": "cbi-dma-family-amount",
+      "routes": "cbi-dma-routes",
+      "legalOutcome": "cbi-dma-legal-outcome",
+      "intake": "cbi-dma-intake-observation",
+      "processStages": "cbi-dma-process-stages"
+    },
+    "requiredFields": {
+      "legal_outcome": {
+        "claimIds": [
+          "cbi-dma-legal-outcome"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "legal_basis": {
+        "claimIds": [],
+        "state": "gap",
+        "gap": "Exact legal basis requirements not fully established in this release."
+      },
+      "operational_intake": {
+        "claimIds": [
+          "cbi-dma-intake-observation"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "decision_stage": {
+        "claimIds": [
+          "cbi-dma-intake-observation"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "passport_issuance": {
+        "claimIds": [
+          "cbi-dma-passportDelivery",
+          "cbi-dma-intake-observation"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "investment_options": {
+        "claimIds": [
+          "cbi-dma-routes"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "minimum_capital": {
+        "claimIds": [
+          "cbi-dma-amount",
+          "cbi-dma-capital"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "financial_resources": {
+        "claimIds": [],
+        "state": "gap",
+        "gap": "Exact financial resources requirements not fully established in this release."
+      },
+      "published_fees": {
+        "claimIds": [
+          "cbi-dma-cost-3",
+          "cbi-dma-cost-22",
+          "cbi-dma-dated-single-fee-2",
+          "cbi-dma-dated-single-fee-3",
+          "cbi-dma-dated-single-fee-4",
+          "cbi-dma-dated-single-fee-5",
+          "cbi-dma-scenario-item-30",
+          "cbi-dma-scenario-item-31",
+          "cbi-dma-scenario-item-32",
+          "cbi-dma-scenario-item-33",
+          "cbi-dma-scenario-item-34",
+          "cbi-dma-feeNote"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "dependants": {
+        "claimIds": [
+          "cbi-dma-family",
+          "cbi-dma-familyScenario"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "screening": {
+        "claimIds": [],
+        "state": "gap",
+        "gap": "Exact screening requirements not fully established in this release."
+      },
+      "presence_holding": {
+        "claimIds": [
+          "cbi-dma-presence",
+          "cbi-dma-hold"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "post_grant": {
+        "claimIds": [
+          "cbi-dma-presence",
+          "cbi-dma-hold"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "withdrawal_recovery": {
+        "claimIds": [
+          "cbi-dma-capitalType",
+          "cbi-dma-hold"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "process_timing": {
+        "claimIds": [
+          "cbi-dma-processing",
+          "cbi-dma-passportDelivery",
+          "cbi-dma-process-stages"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      },
+      "nationality_document_restrictions": {
+        "claimIds": [
+          "cbi-dma-caveat"
+        ],
+        "state": "partial",
+        "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+      }
+    },
+    "qualifications": [
+      "Property attracts government fees from US$75,000. Screening, interview, documents and agent costs are extra.",
+      "Passport, document, agent and enhanced due diligence costs are not included.",
+      "No independently verified end-to-end passport delivery time"
+    ]
+  },
+  "claims": [
+    {
+      "id": "cbi-dma-capital",
+      "revisionId": "cbi-dma-capital-ffbc8341e5bb802f",
+      "subject": "cbi-dma",
+      "predicate": "capital",
+      "value": "US$200,000 EDF contribution",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "dm",
+          "locator": "US$200,000 single; US$250,000 up to four; additional fees and dependants.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-dma-capitalType",
+      "revisionId": "cbi-dma-capitalType-95f7752d3193948f",
+      "subject": "cbi-dma",
+      "predicate": "capitalType",
+      "value": "Non-refundable contribution",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "dm",
+          "locator": "US$200,000 single; US$250,000 up to four; additional fees and dependants.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "dm-property",
+          "locator": "Approved property US$200,000; three-year hold; government fees from US$75,000.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "dm-timing",
+          "locator": "Approval timing is not passport delivery; passport requires a separate application",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-dma-hold",
+      "revisionId": "cbi-dma-hold-8176ca6c2008dfcb",
+      "subject": "cbi-dma",
+      "predicate": "hold",
+      "value": "Approved property USD 200,000; hold 3 years, or 5 years before resale to a subsequent CBI applicant.",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "dm",
+          "locator": "US$200,000 single; US$250,000 up to four; additional fees and dependants.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "dm-property",
+          "locator": "Approved property US$200,000; three-year hold; government fees from US$75,000.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "dm-timing",
+          "locator": "Approval timing is not passport delivery; passport requires a separate application",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-dma-presence",
+      "revisionId": "cbi-dma-presence-e4def1ce00ccfc28",
+      "subject": "cbi-dma",
+      "predicate": "presence",
+      "value": "Direct naturalisation; current presence obligations must be checked for the applicant cohort",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "dm",
+          "locator": "US$200,000 single; US$250,000 up to four; additional fees and dependants.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "dm-property",
+          "locator": "Approved property US$200,000; three-year hold; government fees from US$75,000.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "dm-timing",
+          "locator": "Approval timing is not passport delivery; passport requires a separate application",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-dma-family",
+      "revisionId": "cbi-dma-family-188b6184e77532d6",
+      "subject": "cbi-dma",
+      "predicate": "family",
+      "value": "US$250,000 main applicant + up to 3 qualifying dependants",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "dm",
+          "locator": "US$200,000 single; US$250,000 up to four; additional fees and dependants.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "dm-property",
+          "locator": "Approved property US$200,000; three-year hold; government fees from US$75,000.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "dm-timing",
+          "locator": "Approval timing is not passport delivery; passport requires a separate application",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-dma-caveat",
+      "revisionId": "cbi-dma-caveat-0dd8293e6064c7cb",
+      "subject": "cbi-dma",
+      "predicate": "caveat",
+      "value": "Property attracts government fees from US$75,000. Screening, interview, documents and agent costs are extra.",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "dm",
+          "locator": "US$200,000 single; US$250,000 up to four; additional fees and dependants.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "dm-property",
+          "locator": "Approved property US$200,000; three-year hold; government fees from US$75,000.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "dm-timing",
+          "locator": "Approval timing is not passport delivery; passport requires a separate application",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-dma-alert",
+      "revisionId": "cbi-dma-alert-708f8de80e979aa7",
+      "subject": "cbi-dma",
+      "predicate": "alert",
+      "value": "",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "dm",
+          "locator": "US$200,000 single; US$250,000 up to four; additional fees and dependants.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "dm-property",
+          "locator": "Approved property US$200,000; three-year hold; government fees from US$75,000.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "dm-timing",
+          "locator": "Approval timing is not passport delivery; passport requires a separate application",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-dma-processing",
+      "revisionId": "cbi-dma-processing-b8a3615002db9b64",
+      "subject": "cbi-dma",
+      "predicate": "processing",
+      "value": "3–6 months to approval (most complete files)",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "dm",
+          "locator": "US$200,000 single; US$250,000 up to four; additional fees and dependants.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "dm-property",
+          "locator": "Approved property US$200,000; three-year hold; government fees from US$75,000.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "dm-timing",
+          "locator": "Approval timing is not passport delivery; passport requires a separate application",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-dma-presenceShort",
+      "revisionId": "cbi-dma-presenceShort-0fb7914397dd791a",
+      "subject": "cbi-dma",
+      "predicate": "presenceShort",
+      "value": "Confirm current rules",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "dm",
+          "locator": "US$200,000 single; US$250,000 up to four; additional fees and dependants.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "dm-property",
+          "locator": "Approved property US$200,000; three-year hold; government fees from US$75,000.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "dm-timing",
+          "locator": "Approval timing is not passport delivery; passport requires a separate application",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-dma-feeNote",
+      "revisionId": "cbi-dma-feeNote-f0b43e6c69335bae",
+      "subject": "cbi-dma",
+      "predicate": "feeNote",
+      "value": "Passport, document, agent and enhanced due diligence costs are not included.",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "dm",
+          "locator": "US$200,000 single; US$250,000 up to four; additional fees and dependants.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "dm-property",
+          "locator": "Approved property US$200,000; three-year hold; government fees from US$75,000.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "dm-timing",
+          "locator": "Approval timing is not passport delivery; passport requires a separate application",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-dma-keyNote",
+      "revisionId": "cbi-dma-keyNote-b10f966de1cede63",
+      "subject": "cbi-dma",
+      "predicate": "keyNote",
+      "value": "Family contribution rises to US$250,000.",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "dm",
+          "locator": "US$200,000 single; US$250,000 up to four; additional fees and dependants.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "dm-property",
+          "locator": "Approved property US$200,000; three-year hold; government fees from US$75,000.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "dm-timing",
+          "locator": "Approval timing is not passport delivery; passport requires a separate application",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-dma-familyScenario",
+      "revisionId": "cbi-dma-familyScenario-03c9e6acb74c315a",
+      "subject": "cbi-dma",
+      "predicate": "familyScenario",
+      "value": "Principal, spouse and two children aged under 12; qualifying family only.",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "dm",
+          "locator": "US$200,000 single; US$250,000 up to four; additional fees and dependants.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "dm-property",
+          "locator": "Approved property US$200,000; three-year hold; government fees from US$75,000.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "dm-timing",
+          "locator": "Approval timing is not passport delivery; passport requires a separate application",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-dma-passportDelivery",
+      "revisionId": "cbi-dma-passportDelivery-e83184660a7a4d5a",
+      "subject": "cbi-dma",
+      "predicate": "passportDelivery",
+      "value": "No independently verified end-to-end passport delivery time",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "dm",
+          "locator": "US$200,000 single; US$250,000 up to four; additional fees and dependants.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "dm-property",
+          "locator": "Approved property US$200,000; three-year hold; government fees from US$75,000.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "dm-timing",
+          "locator": "Approval timing is not passport delivery; passport requires a separate application",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-dma-routeType",
+      "revisionId": "cbi-dma-routeType-95709d1da1d5fccf",
+      "subject": "cbi-dma",
+      "predicate": "routeType",
+      "value": "Contribution",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "dm",
+          "locator": "US$200,000 single; US$250,000 up to four; additional fees and dependants.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "dm-property",
+          "locator": "Approved property US$200,000; three-year hold; government fees from US$75,000.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "dm-timing",
+          "locator": "Approval timing is not passport delivery; passport requires a separate application",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-dma-amount",
+      "revisionId": "cbi-dma-amount-5f593174d583f62a",
+      "subject": "cbi-dma",
+      "predicate": "amount",
+      "value": {
+        "amount": "200000",
+        "currency": "USD"
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "dm",
+          "locator": "US$200,000 single; US$250,000 up to four; additional fees and dependants.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-dma-family-amount",
+      "revisionId": "cbi-dma-family-amount-eda8468671b09c5e",
+      "subject": "cbi-dma",
+      "predicate": "family_amount",
+      "value": {
+        "amount": "250000",
+        "currency": "USD"
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "dm",
+          "locator": "US$200,000 single; US$250,000 up to four; additional fees and dependants.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "dm-property",
+          "locator": "Approved property US$200,000; three-year hold; government fees from US$75,000.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "dm-timing",
+          "locator": "Approval timing is not passport delivery; passport requires a separate application",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [
+        "An amount alone does not establish dependant eligibility."
+      ]
+    },
+    {
+      "id": "cbi-dma-routes",
+      "revisionId": "cbi-dma-routes-28f12707ad161184",
+      "subject": "cbi-dma",
+      "predicate": "routes",
+      "value": [
+        {
+          "label": "EDF contribution",
+          "amount": "200000",
+          "currency": "USD",
+          "conditions": "Non-refundable"
+        },
+        {
+          "label": "Approved property",
+          "amount": "200000",
+          "currency": "USD",
+          "conditions": "3-year hold; government fees extra"
+        }
+      ],
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "dm",
+          "locator": "US$200,000 single; US$250,000 up to four; additional fees and dependants.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "dm-property",
+          "locator": "Approved property US$200,000; three-year hold; government fees from US$75,000.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "dm-timing",
+          "locator": "Approval timing is not passport delivery; passport requires a separate application",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-dma-legal-outcome",
+      "revisionId": "cbi-dma-legal-outcome-64c350ad6fffa2c9",
+      "subject": "cbi-dma",
+      "predicate": "legal_outcome",
+      "value": "Citizenship through investment subject to government approval, naturalisation or registration, followed by a separate passport process.",
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "dm",
+          "locator": "US$200,000 single; US$250,000 up to four; additional fees and dependants.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "dm-property",
+          "locator": "Approved property US$200,000; three-year hold; government fees from US$75,000.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "dm-timing",
+          "locator": "Approval timing is not passport delivery; passport requires a separate application",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-dma-intake-observation",
+      "revisionId": "cbi-dma-intake-observation-73451061a6405ab4",
+      "subject": "cbi-dma",
+      "predicate": "intake_observation",
+      "value": {
+        "legal": "published_citizenship_route",
+        "intake": "published_application_route",
+        "decision": "government_assessment_required",
+        "passportIssuance": "separate_stage_not_guaranteed"
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "dm",
+          "locator": "US$200,000 single; US$250,000 up to four; additional fees and dependants.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "dm-property",
+          "locator": "Approved property US$200,000; three-year hold; government fees from US$75,000.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "dm-timing",
+          "locator": "Approval timing is not passport delivery; passport requires a separate application",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-20",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [
+        "Property attracts government fees from US$75,000. Screening, interview, documents and agent costs are extra.",
+        "Publication of a route is not a successful live application or completed issuance observation."
+      ]
+    },
+    {
+      "id": "cbi-dma-travel-gbr",
+      "revisionId": "cbi-dma-travel-gbr-b278408f7a0c94a3",
+      "subject": "cbi-dma",
+      "predicate": "travel_gbr",
+      "value": {
+        "label": "Visa required",
+        "note": "Short visits on an ordinary national passport. ETA eligibility and visitor conditions apply."
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "uk-visits",
+          "locator": "Current ordinary-passport visit-visa requirements. Rules updated 8 October 2026.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [
+        "Ordinary national passport after issuance; acquisition-route and passport-series restrictions not comprehensively researched.",
+        "Individual status exemptions, admission decisions and separate territories are outside this rule."
+      ]
+    },
+    {
+      "id": "cbi-dma-travel-usa",
+      "revisionId": "cbi-dma-travel-usa-8ebd455ab4409ab3",
+      "subject": "cbi-dma",
+      "predicate": "travel_usa",
+      "value": {
+        "label": "Visa issuance restricted",
+        "note": "Antigua and Dominica are subject to partial B1/B2 restrictions. Applies to persons outside the US without a valid visa on 1 January 2026; existing valid visas, dual-national and other exceptions apply."
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "us-vwp",
+          "locator": "Ordinary-national-passport visitor rules; no current CBI nationality in the participating list",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        },
+        {
+          "sourceId": "us-restrictions",
+          "locator": "Antigua and Dominica visitor visa restrictions effective January 2026; valid-visa and other exceptions",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [
+        "Ordinary national passport after issuance; acquisition-route and passport-series restrictions not comprehensively researched.",
+        "Individual status exemptions, admission decisions and separate territories are outside this rule."
+      ]
+    },
+    {
+      "id": "cbi-dma-travel-can",
+      "revisionId": "cbi-dma-travel-can-b46131982a69ba00",
+      "subject": "cbi-dma",
+      "predicate": "travel_can",
+      "value": {
+        "label": "Visitor visa required",
+        "note": "No nationality-based visitor waiver is established here. Individual exemptions may apply."
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "publication-entry-nationality",
+          "locator": "Entry conditions depend on citizenship, travel document, status and transport. Foreign residence does not itself create a new nationality. Canadian and US permanent residents have separately described document rules.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [
+        "Ordinary national passport after issuance; acquisition-route and passport-series restrictions not comprehensively researched.",
+        "Individual status exemptions, admission decisions and separate territories are outside this rule."
+      ]
+    },
+    {
+      "id": "cbi-dma-travel-schengen-short-stay",
+      "revisionId": "cbi-dma-travel-schengen-short-stay-867cd8a6963c0ee7",
+      "subject": "cbi-dma",
+      "predicate": "travel_schengen_short_stay",
+      "value": {
+        "label": "Visa-exempt · 90/180",
+        "note": "Ordinary national passport, short visits; entry conditions and document validity still apply."
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "eu-visa-list",
+          "locator": "Annexes I/II and qualifying footnotes; ordinary national passports only",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [
+        "Ordinary national passport after issuance; acquisition-route and passport-series restrictions not comprehensively researched.",
+        "Individual status exemptions, admission decisions and separate territories are outside this rule."
+      ]
+    },
+    {
+      "id": "cbi-dma-cost-3",
+      "revisionId": "cbi-dma-cost-3-87f1e5b28498c1db",
+      "subject": "cbi-dma",
+      "predicate": "cost_3",
+      "value": {
+        "label": "EDF contribution",
+        "amount": "200000",
+        "currency": "USD",
+        "category": "capital",
+        "basis": "application",
+        "quantity": 1,
+        "paymentStage": "after_approval",
+        "recoverability": "nonrefundable_contribution_or_published_selling_price; withdrawal_and_refund_terms_not_established",
+        "frequency": "once",
+        "scenario": "single_adult"
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "dm",
+          "locator": "US$200,000 single; US$250,000 up to four; additional fees and dependants.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-25",
+      "reviewDueAt": "2026-11-08",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-25",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-dma-cost-22",
+      "revisionId": "cbi-dma-cost-22-cf2f88e7b4921a18",
+      "subject": "cbi-dma",
+      "predicate": "cost_22",
+      "value": {
+        "label": "EDF contribution",
+        "amount": "250000",
+        "currency": "USD",
+        "category": "capital",
+        "basis": "application",
+        "quantity": 1,
+        "paymentStage": "after_approval",
+        "recoverability": "nonrefundable_contribution_or_published_selling_price; withdrawal_and_refund_terms_not_established",
+        "frequency": "once",
+        "scenario": "couple_two_children_under12"
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "dm",
+          "locator": "US$200,000 single; US$250,000 up to four; additional fees and dependants.",
+          "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        }
+      ],
+      "reviewedAt": "2026-10-25",
+      "reviewDueAt": "2026-11-08",
+      "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+      "observedAt": "2026-10-25",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": []
+    },
+    {
+      "id": "cbi-dma-process-stages",
+      "subject": "cbi-dma",
+      "predicate": "process_stages",
+      "value": {
+        "summary": "3–6 months: complete-application guide",
+        "stages": [
+          {
+            "label": "Application processing",
+            "text": "The CBIU gives approximately three to six months for most complete applications. Circumstances, missing documents and screening affect the time; approval is not guaranteed.",
+            "source": "official-dm-process"
+          }
+        ],
+        "agents": "official-dm-agents"
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "official-dm-process",
+          "locator": "Authorised-agent submission, a non-guaranteed three-to-six-month guide for complete applications, and government decision-making.",
+          "scope": "Stated dated CBI claim only; no general legal clearance"
+        }
+      ],
+      "reviewedAt": "2026-10-21",
+      "reviewDueAt": "2026-11-04",
+      "reviewMethod": "Migrated original CBI primary-source observation; original scope and review limits retained",
+      "observedAt": "2026-10-21",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [],
+      "revisionId": "cbi-dma-process-stages-4f0d19892b17a268"
+    },
+    {
+      "id": "cbi-dma-dated-single-fee-2",
+      "subject": "cbi-dma",
+      "predicate": "dated_single_fee_2",
+      "value": {
+        "label": "Processing",
+        "amount": "1000",
+        "currency": "USD",
+        "category": "government_charge",
+        "basis": "principal",
+        "quantity": 1,
+        "paymentStage": "not_established",
+        "recoverability": "not_established",
+        "frequency": "once",
+        "scenario": "single_adult"
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "dm",
+          "locator": "US$200,000 single; US$250,000 up to four; additional fees and dependants.",
+          "scope": "Stated dated CBI claim only; no general legal clearance"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated original CBI primary-source observation; original scope and review limits retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [],
+      "revisionId": "cbi-dma-dated-single-fee-2-55076fe3ef0b178e"
+    },
+    {
+      "id": "cbi-dma-dated-single-fee-3",
+      "subject": "cbi-dma",
+      "predicate": "dated_single_fee_3",
+      "value": {
+        "label": "Due diligence",
+        "amount": "7500",
+        "currency": "USD",
+        "category": "government_charge",
+        "basis": "principal",
+        "quantity": 1,
+        "paymentStage": "not_established",
+        "recoverability": "not_established",
+        "frequency": "once",
+        "scenario": "single_adult"
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "dm",
+          "locator": "US$200,000 single; US$250,000 up to four; additional fees and dependants.",
+          "scope": "Stated dated CBI claim only; no general legal clearance"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated original CBI primary-source observation; original scope and review limits retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [],
+      "revisionId": "cbi-dma-dated-single-fee-3-f601ba002ce26e13"
+    },
+    {
+      "id": "cbi-dma-dated-single-fee-4",
+      "subject": "cbi-dma",
+      "predicate": "dated_single_fee_4",
+      "value": {
+        "label": "Naturalisation certificate",
+        "amount": "500",
+        "currency": "USD",
+        "category": "government_charge",
+        "basis": "principal",
+        "quantity": 1,
+        "paymentStage": "not_established",
+        "recoverability": "not_established",
+        "frequency": "once",
+        "scenario": "single_adult"
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "dm",
+          "locator": "US$200,000 single; US$250,000 up to four; additional fees and dependants.",
+          "scope": "Stated dated CBI claim only; no general legal clearance"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated original CBI primary-source observation; original scope and review limits retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [],
+      "revisionId": "cbi-dma-dated-single-fee-4-25527d9590574448"
+    },
+    {
+      "id": "cbi-dma-dated-single-fee-5",
+      "subject": "cbi-dma",
+      "predicate": "dated_single_fee_5",
+      "value": {
+        "label": "Interview",
+        "amount": "1000",
+        "currency": "USD",
+        "category": "government_charge",
+        "basis": "principal",
+        "quantity": 1,
+        "paymentStage": "not_established",
+        "recoverability": "not_established",
+        "frequency": "once",
+        "scenario": "single_adult"
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [],
+      "evidence": [
+        {
+          "sourceId": "dm",
+          "locator": "US$200,000 single; US$250,000 up to four; additional fees and dependants.",
+          "scope": "Stated dated CBI claim only; no general legal clearance"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Migrated original CBI primary-source observation; original scope and review limits retained",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [],
+      "revisionId": "cbi-dma-dated-single-fee-5-946ead2744ad19ac"
+    },
+    {
+      "id": "cbi-dma-scenario-item-30",
+      "subject": "cbi-dma",
+      "predicate": "scenario_cost_item",
+      "value": {
+        "label": "Processing",
+        "amount": "1000",
+        "currency": "USD",
+        "category": "government_charge",
+        "basis": "application",
+        "quantity": 1,
+        "paymentStage": "not_established",
+        "recoverability": "not_established",
+        "frequency": "once",
+        "scenario": "couple_two_children_under12"
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [
+        "Conditional on government acceptance of the named household and source-specific eligibility."
+      ],
+      "evidence": [
+        {
+          "sourceId": "dm",
+          "locator": "Published contribution and fee schedule; applicant age bands and per-person/application distinctions",
+          "scope": "Dated fee evidence; eligibility, additional charges and refund terms remain separate"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Original CBI itemization, retaining source-specific limitations",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [],
+      "revisionId": "cbi-dma-scenario-item-30-2d8074d4587e3897"
+    },
+    {
+      "id": "cbi-dma-scenario-item-31",
+      "subject": "cbi-dma",
+      "predicate": "scenario_cost_item",
+      "value": {
+        "label": "Principal diligence",
+        "amount": "7500",
+        "currency": "USD",
+        "category": "government_charge",
+        "basis": "application",
+        "quantity": 1,
+        "paymentStage": "not_established",
+        "recoverability": "not_established",
+        "frequency": "once",
+        "scenario": "couple_two_children_under12"
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [
+        "Conditional on government acceptance of the named household and source-specific eligibility."
+      ],
+      "evidence": [
+        {
+          "sourceId": "dm",
+          "locator": "Published contribution and fee schedule; applicant age bands and per-person/application distinctions",
+          "scope": "Dated fee evidence; eligibility, additional charges and refund terms remain separate"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Original CBI itemization, retaining source-specific limitations",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [],
+      "revisionId": "cbi-dma-scenario-item-31-fab68ca48594abd0"
+    },
+    {
+      "id": "cbi-dma-scenario-item-32",
+      "subject": "cbi-dma",
+      "predicate": "scenario_cost_item",
+      "value": {
+        "label": "Spouse diligence",
+        "amount": "4000",
+        "currency": "USD",
+        "category": "government_charge",
+        "basis": "application",
+        "quantity": 1,
+        "paymentStage": "not_established",
+        "recoverability": "not_established",
+        "frequency": "once",
+        "scenario": "couple_two_children_under12"
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [
+        "Conditional on government acceptance of the named household and source-specific eligibility."
+      ],
+      "evidence": [
+        {
+          "sourceId": "dm",
+          "locator": "Published contribution and fee schedule; applicant age bands and per-person/application distinctions",
+          "scope": "Dated fee evidence; eligibility, additional charges and refund terms remain separate"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Original CBI itemization, retaining source-specific limitations",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [],
+      "revisionId": "cbi-dma-scenario-item-32-9f216deaa72e6ff4"
+    },
+    {
+      "id": "cbi-dma-scenario-item-33",
+      "subject": "cbi-dma",
+      "predicate": "scenario_cost_item",
+      "value": {
+        "label": "Naturalisation certificate",
+        "amount": "500",
+        "currency": "USD",
+        "category": "government_charge",
+        "basis": "persons",
+        "quantity": 4,
+        "paymentStage": "not_established",
+        "recoverability": "not_established",
+        "frequency": "once",
+        "scenario": "couple_two_children_under12"
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [
+        "Conditional on government acceptance of the named household and source-specific eligibility."
+      ],
+      "evidence": [
+        {
+          "sourceId": "dm",
+          "locator": "Published contribution and fee schedule; applicant age bands and per-person/application distinctions",
+          "scope": "Dated fee evidence; eligibility, additional charges and refund terms remain separate"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Original CBI itemization, retaining source-specific limitations",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [],
+      "revisionId": "cbi-dma-scenario-item-33-6ad88a36fb7512ce"
+    },
+    {
+      "id": "cbi-dma-scenario-item-34",
+      "subject": "cbi-dma",
+      "predicate": "scenario_cost_item",
+      "value": {
+        "label": "Adult interviews",
+        "amount": "1000",
+        "currency": "USD",
+        "category": "government_charge",
+        "basis": "persons",
+        "quantity": 2,
+        "paymentStage": "not_established",
+        "recoverability": "not_established",
+        "frequency": "once",
+        "scenario": "couple_two_children_under12"
+      },
+      "verification": "partial",
+      "valueStatus": "known",
+      "conditions": [
+        "Conditional on government acceptance of the named household and source-specific eligibility."
+      ],
+      "evidence": [
+        {
+          "sourceId": "dm",
+          "locator": "Published contribution and fee schedule; applicant age bands and per-person/application distinctions",
+          "scope": "Dated fee evidence; eligibility, additional charges and refund terms remain separate"
+        }
+      ],
+      "reviewedAt": "2026-10-13",
+      "reviewDueAt": "2026-10-27",
+      "reviewMethod": "Original CBI itemization, retaining source-specific limitations",
+      "observedAt": "2026-10-13",
+      "effectiveFrom": null,
+      "effectiveUntil": null,
+      "limitations": [],
+      "revisionId": "cbi-dma-scenario-item-34-be50d6838306fe1f"
+    }
+  ],
+  "costItems": [
+    {
+      "id": "cbi-dma-cost-3",
+      "programmeId": "cbi-dma",
+      "optionId": "cbi-dma-option-1",
+      "claimId": "cbi-dma-cost-3"
+    },
+    {
+      "id": "cbi-dma-cost-22",
+      "programmeId": "cbi-dma",
+      "optionId": "cbi-dma-option-1",
+      "claimId": "cbi-dma-cost-22"
+    },
+    {
+      "id": "cbi-dma-dated-cost-2",
+      "programmeId": "cbi-dma",
+      "optionId": "cbi-dma-option-1",
+      "claimId": "cbi-dma-dated-single-fee-2"
+    },
+    {
+      "id": "cbi-dma-dated-cost-3",
+      "programmeId": "cbi-dma",
+      "optionId": "cbi-dma-option-1",
+      "claimId": "cbi-dma-dated-single-fee-3"
+    },
+    {
+      "id": "cbi-dma-dated-cost-4",
+      "programmeId": "cbi-dma",
+      "optionId": "cbi-dma-option-1",
+      "claimId": "cbi-dma-dated-single-fee-4"
+    },
+    {
+      "id": "cbi-dma-dated-cost-5",
+      "programmeId": "cbi-dma",
+      "optionId": "cbi-dma-option-1",
+      "claimId": "cbi-dma-dated-single-fee-5"
+    },
+    {
+      "id": "cbi-dma-scenario-item-30",
+      "programmeId": "cbi-dma",
+      "optionId": "cbi-dma-option-1",
+      "claimId": "cbi-dma-scenario-item-30"
+    },
+    {
+      "id": "cbi-dma-scenario-item-31",
+      "programmeId": "cbi-dma",
+      "optionId": "cbi-dma-option-1",
+      "claimId": "cbi-dma-scenario-item-31"
+    },
+    {
+      "id": "cbi-dma-scenario-item-32",
+      "programmeId": "cbi-dma",
+      "optionId": "cbi-dma-option-1",
+      "claimId": "cbi-dma-scenario-item-32"
+    },
+    {
+      "id": "cbi-dma-scenario-item-33",
+      "programmeId": "cbi-dma",
+      "optionId": "cbi-dma-option-1",
+      "claimId": "cbi-dma-scenario-item-33"
+    },
+    {
+      "id": "cbi-dma-scenario-item-34",
+      "programmeId": "cbi-dma",
+      "optionId": "cbi-dma-option-1",
+      "claimId": "cbi-dma-scenario-item-34"
+    }
+  ],
+  "travel": [
+    {
+      "id": "DMA-GBR",
+      "programmeId": "cbi-dma",
+      "passport": "DMA",
+      "destination": "GBR",
+      "documentType": "ordinary",
+      "purpose": "short_visit",
+      "route": "advance_visa",
+      "outcome": "supported",
+      "claimId": "cbi-dma-travel-gbr",
+      "transport": [
+        "air",
+        "land",
+        "sea"
+      ],
+      "conditions": [],
+      "permittedStay": null,
+      "documentRecognition": "Valid ordinary national passport; individual and series exceptions not fully checked",
+      "acquisitionRestrictions": "not_researched"
+    },
+    {
+      "id": "DMA-USA",
+      "programmeId": "cbi-dma",
+      "passport": "DMA",
+      "destination": "USA",
+      "documentType": "ordinary",
+      "purpose": "short_visit",
+      "route": "visa_issuance_restricted",
+      "outcome": "conditional",
+      "claimId": "cbi-dma-travel-usa",
+      "transport": [
+        "air",
+        "land",
+        "sea"
+      ],
+      "conditions": [],
+      "permittedStay": null,
+      "documentRecognition": "Valid ordinary national passport; individual and series exceptions not fully checked",
+      "acquisitionRestrictions": "not_researched"
+    },
+    {
+      "id": "DMA-CAN",
+      "programmeId": "cbi-dma",
+      "passport": "DMA",
+      "destination": "CAN",
+      "documentType": "ordinary",
+      "purpose": "short_visit",
+      "route": "advance_visa",
+      "outcome": "supported",
+      "claimId": "cbi-dma-travel-can",
+      "transport": [
+        "air",
+        "land",
+        "sea"
+      ],
+      "conditions": [],
+      "permittedStay": null,
+      "documentRecognition": "Valid ordinary national passport; individual and series exceptions not fully checked",
+      "acquisitionRestrictions": "not_researched"
+    },
+    {
+      "id": "DMA-SCHENGEN_SHORT_STAY",
+      "programmeId": "cbi-dma",
+      "passport": "DMA",
+      "destination": "SCHENGEN_SHORT_STAY",
+      "documentType": "ordinary",
+      "purpose": "short_visit",
+      "route": "visa_exempt",
+      "outcome": "supported",
+      "claimId": "cbi-dma-travel-schengen-short-stay",
+      "transport": [
+        "air",
+        "land",
+        "sea"
+      ],
+      "conditions": [],
+      "permittedStay": "90 days in any 180-day period, subject to admission conditions",
+      "documentRecognition": "Common nationality regime only; member-specific recognition not fully checked",
+      "acquisitionRestrictions": "not_researched"
+    }
+  ]
+}

@@ -256,5 +256,250 @@
       "label",
       "note"
     ]
+  },
+  "obligations": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+      "checked": {
+        "type": "string"
+      },
+      "eligibilityResources": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "minimum": {
+            "type": "string"
+          },
+          "currency": {
+            "type": "string"
+          },
+          "kind": {
+            "type": "string"
+          },
+          "isGovernmentFee": {
+            "const": false
+          },
+          "isQualifyingInvestment": {
+            "const": false
+          },
+          "source": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "minimum",
+          "currency",
+          "kind",
+          "isGovernmentFee",
+          "isQualifyingInvestment",
+          "source"
+        ]
+      },
+      "eligibility": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "text": {
+              "type": "string"
+            },
+            "sources": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "route": {
+              "type": "string"
+            },
+            "checked": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "label",
+            "text",
+            "sources",
+            "route",
+            "checked"
+          ]
+        }
+      },
+      "routeOptions": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "id": {
+              "type": "string"
+            },
+            "legalBasis": {
+              "type": "string"
+            },
+            "legalStatus": {
+              "type": "string"
+            },
+            "availability": {
+              "type": "string"
+            },
+            "qualifyingAmount": {
+              "type": "string"
+            },
+            "currency": {
+              "type": "string"
+            },
+            "applicantAdministrationFee": {
+              "type": "string"
+            },
+            "otherFeesAdditional": {
+              "type": "boolean"
+            },
+            "holdingYears": {
+              "type": "integer"
+            },
+            "holdingStarts": {
+              "type": "string"
+            },
+            "sources": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "id",
+            "legalBasis",
+            "legalStatus",
+            "availability",
+            "qualifyingAmount",
+            "currency",
+            "applicantAdministrationFee",
+            "otherFeesAdditional",
+            "holdingYears",
+            "holdingStarts",
+            "sources"
+          ]
+        }
+      },
+      "afterApproval": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "text": {
+              "type": "string"
+            },
+            "sources": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "route": {
+              "type": "string"
+            },
+            "checked": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "label",
+            "text",
+            "sources",
+            "route",
+            "checked"
+          ]
+        }
+      },
+      "paymentRisk": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "text": {
+              "type": "string"
+            },
+            "sources": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "route": {
+              "type": "string"
+            },
+            "checked": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "label",
+            "text",
+            "sources",
+            "route",
+            "checked"
+          ]
+        }
+      },
+      "guides": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      }
+    },
+    "required": [
+      "checked",
+      "afterApproval",
+      "paymentRisk",
+      "guides"
+    ]
+  },
+  "financial_resources": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+      "amount": {
+        "type": "string"
+      },
+      "currency": {
+        "type": "string"
+      },
+      "kind": {
+        "type": "string"
+      },
+      "isGovernmentFee": {
+        "const": false
+      },
+      "isQualifyingInvestment": {
+        "const": false
+      },
+      "conditions": {
+        "type": "string"
+      }
+    },
+    "required": [
+      "amount",
+      "currency",
+      "kind",
+      "isGovernmentFee",
+      "isQualifyingInvestment",
+      "conditions"
+    ]
   }
 }

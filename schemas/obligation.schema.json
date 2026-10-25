@@ -1,0 +1,35 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "programmeId": {
+      "type": "string"
+    },
+    "claimId": {
+      "type": "string"
+    },
+    "section": {
+      "enum": [
+        "eligibility",
+        "afterApproval",
+        "paymentRisk"
+      ]
+    },
+    "itemIndex": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 30
+    }
+  },
+  "required": [
+    "id",
+    "programmeId",
+    "claimId",
+    "section",
+    "itemIndex"
+  ],
+  "additionalProperties": false
+}

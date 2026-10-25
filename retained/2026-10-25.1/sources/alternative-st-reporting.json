@@ -1,0 +1,28 @@
+{
+  "id": "alternative-st-reporting",
+  "publisher": "STP-PRESS, state news agency",
+  "title": "Prime minister opens the first citizenship-by-investment conference",
+  "url": "https://www.stp-press.st/2025/10/21/primeiro-ministro-preside-abertura-da-1-a-conferencia-sobre-cidadania-por-investimento/",
+  "authorityType": "State-news account of a prime-ministerial statement",
+  "documentDate": "2025-10-21",
+  "rights": {
+    "disposition": "link_only",
+    "use": "Original CBI normalized facts and pointers only. No upstream documents, images, or excerpts distributed.",
+    "basis": "CBI original compilation; upstream rights retained"
+  },
+  "retrieval": {
+    "retrievedAt": "2026-10-25T08:37:07.920Z",
+    "lastAttempt": "2026-10-25T08:37:07.920Z",
+    "method": "retrieval_hash_only",
+    "health": "available",
+    "hash": "fa9a1872ede8ecad73fe0e26ca2b488b13ef6cbd52325abb5d5bda3d353e5edd"
+  },
+  "manualReview": {
+    "intervalDays": 14,
+    "rationale": "Evidence interpretation requires editorial review; a successful fetch is not verification."
+  },
+  "reviewObservation": {
+    "date": "2026-10-23",
+    "method": "Original dated account read. A reporting commitment is kept separate from an issued report, audited accounts or verified delivery performance."
+  }
+}

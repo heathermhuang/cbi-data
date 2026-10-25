@@ -1,0 +1,28 @@
+{
+  "id": "follow-ag-eu-request",
+  "publisher": "Antigua and Barbuda, Office of the Prime Minister",
+  "title": "Government response to EU communication on CBI",
+  "url": "https://ab.gov.ag/detail_template.php?page=press_release%2F2026%2Fjuly%2F2026_july_07-govt_responds_to+eu_communication_on_cip",
+  "authorityType": "Official government statement",
+  "documentDate": "2026-07-07",
+  "rights": {
+    "disposition": "link_only",
+    "use": "Original CBI normalized facts and pointers only. No upstream documents, images, or excerpts distributed.",
+    "basis": "CBI original compilation; upstream rights retained"
+  },
+  "retrieval": {
+    "retrievedAt": "2026-10-25T08:37:07.920Z",
+    "lastAttempt": "2026-10-25T08:37:07.920Z",
+    "method": "retrieval_hash_only",
+    "health": "available",
+    "hash": "42941fafb689747654c2a81b41da0162519a05cbfe169da306c71e50bade854c"
+  },
+  "manualReview": {
+    "intervalDays": 14,
+    "rationale": "Evidence interpretation requires editorial review; a successful fetch is not verification."
+  },
+  "reviewObservation": {
+    "date": "2026-10-23",
+    "method": "Original government statement read. This verifies the reported request, not the complete letter, enacted closure or an actual visa suspension."
+  }
+}

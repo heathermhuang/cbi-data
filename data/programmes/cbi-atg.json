@@ -61,7 +61,8 @@
     "routes": "cbi-atg-routes",
     "legalOutcome": "cbi-atg-legal-outcome",
     "intake": "cbi-atg-intake-observation",
-    "editorialUpdate": "cbi-atg-editorial-update"
+    "editorialUpdate": "cbi-atg-editorial-update",
+    "obligations": "cbi-atg-obligations"
   },
   "requiredFields": {
     "legal_outcome": {
@@ -150,7 +151,8 @@
     "presence_holding": {
       "claimIds": [
         "cbi-atg-presence",
-        "cbi-atg-hold"
+        "cbi-atg-hold",
+        "cbi-atg-obligations"
       ],
       "state": "partial",
       "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
@@ -158,7 +160,8 @@
     "post_grant": {
       "claimIds": [
         "cbi-atg-presence",
-        "cbi-atg-hold"
+        "cbi-atg-hold",
+        "cbi-atg-obligations"
       ],
       "state": "partial",
       "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
@@ -166,7 +169,8 @@
     "withdrawal_recovery": {
       "claimIds": [
         "cbi-atg-capitalType",
-        "cbi-atg-hold"
+        "cbi-atg-hold",
+        "cbi-atg-obligations"
       ],
       "state": "partial",
       "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
@@ -190,6 +194,14 @@
   "qualifications": [
     "Five-day obligation can affect retention of citizenship. Due diligence and processing are additional.",
     "Interview, document, agent and any enhanced checks are additional if applicable.",
-    "No independently verified end-to-end passport delivery time"
+    "No independently verified end-to-end passport delivery time",
+    "Newly covered ongoing duties are route-specific; prescribed day counts, renewal charges or project availability remain gaps unless explicitly stated."
+  ],
+  "obligationIds": [
+    "cbi-atg-afterapproval-1",
+    "cbi-atg-afterapproval-2",
+    "cbi-atg-afterapproval-3",
+    "cbi-atg-afterapproval-4",
+    "cbi-atg-paymentrisk-1"
   ]
 }

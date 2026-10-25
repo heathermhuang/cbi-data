@@ -1,0 +1,28 @@
+{
+  "id": "uk-visits",
+  "publisher": "UK Home Office",
+  "title": "Appendix Visitor: visa national list",
+  "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+  "authorityType": "Immigration rules",
+  "documentDate": "2026-10-08",
+  "rights": {
+    "disposition": "link_only",
+    "use": "CBI original factual normalization and references only; no upstream pages, PDFs, images or excerpts redistributed",
+    "basis": "Original compilation; no upstream republication licence asserted"
+  },
+  "retrieval": {
+    "retrievedAt": "2026-10-25T08:26:36.066Z",
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "method": "retrieval_hash_only",
+    "health": "available",
+    "hash": "3eb99e55e7f03ff16268c04f6b4bc13077c611d2b33c43905f8276fb532d6927"
+  },
+  "manualReview": {
+    "intervalDays": 14,
+    "rationale": "Review exact claim and source applicability; retrieval success alone cannot refresh claims."
+  },
+  "reviewObservation": {
+    "date": "2026-10-13",
+    "method": "Rechecked relevant published claims; source-specific limits and conflicting terms remain explicit."
+  }
+}

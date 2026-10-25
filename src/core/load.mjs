@@ -1,7 +1,7 @@
 import {checkId,validateInput,QueryError} from './index.mjs';
 export async function loadDataset(read,op,input={}){
  validateInput(op,input);
- const index=await read('index.json');const release=input.release??index.defaultRelease;checkId(release);
+ const rootIndex=await read('index.json');const release=op==='release'?input.id:input.release??rootIndex.defaultRelease;checkId(release);const index={...rootIndex,...rootIndex.releaseMetadata?.[release]};
  if(index.withdrawnReleases?.includes(release))throw new QueryError('withdrawn_release','Release was withdrawn; consult the archive index.',410);
  if(!index.retainedReleases.includes(release))throw new QueryError('unknown_release','Unknown hosted release.',404);
  const base=release+'/';const [scope,manifest]=await Promise.all([read(base+'scope.json'),read(base+'manifest.json')]);
@@ -16,5 +16,5 @@ export async function loadDataset(read,op,input={}){
  const refs=new Set(input.include==='evidence'?claims.flatMap(c=>c.evidence.map(e=>e.sourceId)):[]);if(op==='source'){checkId(input.id);if(index.sourceClaims[input.id])refs.add(input.id);}
  const sources=await Promise.all([...refs].map(id=>read(base+'sources/'+id+'.json')));
  const changes=op==='changes'?await read(base+'changes.json'):[];
- return {index,scope,manifest,programmes,claims,costItems,travel,sources,changes};
+ const releaseManifests=op==='releases'?await Promise.all(index.retainedReleases.map(id=>read(id+'/manifest.json'))):undefined;return {index,scope,manifest,programmes,claims,costItems,travel,sources,changes,releaseManifests};
 }

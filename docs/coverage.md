@@ -1,6 +1,6 @@
 # Coverage and limits
 
-Release 2026-10-25.1: Antigua and Barbuda (ATG), Dominica (DMA), Grenada (GRD),
+Release 2026-10-25.2: Antigua and Barbuda (ATG), Dominica (DMA), Grenada (GRD),
 Saint Kitts and Nevis (KNA), Saint Lucia (LCA), Türkiye (TUR), Egypt (EGY),
 Vanuatu (VUT), Nauru (NRU), São Tomé and Príncipe (STP), El Salvador (SLV).
 Legacy IDs are aliases, not additional programmes. Each option has its own ID.

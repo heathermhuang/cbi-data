@@ -2,7 +2,7 @@
 
 Anonymous GET/HEAD under `https://cbi.me/api/v1`. OPTIONS permits public GET CORS
 without credentials. Unknown and duplicate query parameters are rejected.
-`release=2026-10-25.1` pins the first release; omission uses and echoes the default.
+`release=2026-10-25.2` pins the first release; omission uses and echoes the default.
 Every successful data response includes schemaVersion, datasetRelease, generatedAt,
 evaluatedAt, coverage, warnings and data. Optional `include=evidence` adds source
 metadata without stripping the original qualifications and revision references.
@@ -22,9 +22,7 @@ metadata without stripping the original qualifications and revision references.
 | `/openapi.json` | no parameters; root guide OpenAPI is preserved |
 
 Pagination defaults to 20, orders by stable ID and binds cursors to release,
-operation and filters. The first release has no previous public release:
-changes from/to the same release is empty; the archive records the baseline
-as new_coverage, not a retroactive law-change event.
+operation and filters. Both first releases are hosted. Query changes from 2026-10-25.1 to 2026-10-25.2 with release=2026-10-25.2. Same-release changes are empty. New evidence is recorded as new_coverage, not a retroactive legal commencement.
 
 Domain outcomes are HTTP 200: supported, conditional, insufficient_evidence,
 conflicting_evidence, not_covered, unsupported_scenario. Errors: 400 malformed or
