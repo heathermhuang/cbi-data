@@ -1,0 +1,415 @@
+{
+  "at": "2026-10-25T08:37:07.920Z",
+  "requests": 56,
+  "maximumRequests": 100,
+  "sourceCount": 50,
+  "observations": [
+    {
+      "sourceIds": [
+        "skn-presence"
+      ],
+      "state": "unavailable",
+      "unchanged": false,
+      "bytes": 0
+    },
+    {
+      "sourceIds": [
+        "skn-biometric"
+      ],
+      "state": "unavailable",
+      "unchanged": false,
+      "bytes": 0
+    },
+    {
+      "sourceIds": [
+        "ag"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 61419
+    },
+    {
+      "sourceIds": [
+        "skn-transition"
+      ],
+      "state": "unavailable",
+      "unchanged": false,
+      "bytes": 0
+    },
+    {
+      "sourceIds": [
+        "ag-ndf"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 59022
+    },
+    {
+      "sourceIds": [
+        "skn"
+      ],
+      "state": "unavailable",
+      "unchanged": false,
+      "bytes": 0
+    },
+    {
+      "sourceIds": [
+        "ag-fees"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 67426
+    },
+    {
+      "sourceIds": [
+        "skn-fees"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 433863
+    },
+    {
+      "sourceIds": [
+        "eu-visa-list"
+      ],
+      "state": "unavailable",
+      "unchanged": false,
+      "bytes": 0
+    },
+    {
+      "sourceIds": [
+        "gd"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 226658
+    },
+    {
+      "sourceIds": [
+        "st"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 24288
+    },
+    {
+      "sourceIds": [
+        "st-family"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 217950
+    },
+    {
+      "sourceIds": [
+        "us-restrictions"
+      ],
+      "state": "unavailable",
+      "unchanged": false,
+      "bytes": 0
+    },
+    {
+      "sourceIds": [
+        "us-vwp"
+      ],
+      "state": "unavailable",
+      "unchanged": false,
+      "bytes": 0
+    },
+    {
+      "sourceIds": [
+        "vu"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 43123
+    },
+    {
+      "sourceIds": [
+        "st-price"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 139951
+    },
+    {
+      "sourceIds": [
+        "comparison-vu-dsp-regulations25",
+        "vu-price"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 2056470
+    },
+    {
+      "sourceIds": [
+        "comparison-vu-dsp-amendment25"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 643830
+    },
+    {
+      "sourceIds": [
+        "comparison-vu-dsp-tariff25",
+        "vu-current"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 22421
+    },
+    {
+      "sourceIds": [
+        "sv"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 1383
+    },
+    {
+      "sourceIds": [
+        "publication-entry-nationality"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 66738
+    },
+    {
+      "sourceIds": [
+        "dm"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 464731
+    },
+    {
+      "sourceIds": [
+        "dm-property"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 472044
+    },
+    {
+      "sourceIds": [
+        "dm-timing"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 413608
+    },
+    {
+      "sourceIds": [
+        "ca-conditional-eta"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 29833
+    },
+    {
+      "sourceIds": [
+        "eu-nauru-condition"
+      ],
+      "state": "unavailable",
+      "unchanged": false,
+      "bytes": 0
+    },
+    {
+      "sourceIds": [
+        "eu-vanuatu-revoked",
+        "vu-eu"
+      ],
+      "state": "unavailable",
+      "unchanged": false,
+      "bytes": 0
+    },
+    {
+      "sourceIds": [
+        "lc"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 250941
+    },
+    {
+      "sourceIds": [
+        "lc-old"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 954880
+    },
+    {
+      "sourceIds": [
+        "nr"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 40778
+    },
+    {
+      "sourceIds": [
+        "eg-faq"
+      ],
+      "state": "unavailable",
+      "unchanged": false,
+      "bytes": 0
+    },
+    {
+      "sourceIds": [
+        "lc-uk"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 72414
+    },
+    {
+      "sourceIds": [
+        "comparison-eg-current"
+      ],
+      "state": "unavailable",
+      "unchanged": false,
+      "bytes": 0
+    },
+    {
+      "sourceIds": [
+        "uk-visits"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 75543
+    },
+    {
+      "sourceIds": [
+        "nr-imf"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 3304051
+    },
+    {
+      "sourceIds": [
+        "imf-history"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 935010
+    },
+    {
+      "sourceIds": [
+        "tr"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 178986
+    },
+    {
+      "sourceIds": [
+        "ch-nauru-visa"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 69093
+    },
+    {
+      "sourceIds": [
+        "skn-reform"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 168742
+    },
+    {
+      "sourceIds": [
+        "eg"
+      ],
+      "state": "unavailable",
+      "unchanged": false,
+      "bytes": 0
+    },
+    {
+      "sourceIds": [
+        "follow-ag-eu-request"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 17405
+    },
+    {
+      "sourceIds": [
+        "update-ag-property"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 58465
+    },
+    {
+      "sourceIds": [
+        "official-skn-agents"
+      ],
+      "state": "unavailable",
+      "unchanged": false,
+      "bytes": 0
+    },
+    {
+      "sourceIds": [
+        "official-skn-passport"
+      ],
+      "state": "unavailable",
+      "unchanged": false,
+      "bytes": 0
+    },
+    {
+      "sourceIds": [
+        "comparison-vu-distinct-formd25"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 22626
+    },
+    {
+      "sourceIds": [
+        "official-dm-agents"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 924004
+    },
+    {
+      "sourceIds": [
+        "update-lc-report"
+      ],
+      "state": "unavailable",
+      "unchanged": false,
+      "bytes": 0
+    },
+    {
+      "sourceIds": [
+        "update-tr-enforcement"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 117708
+    },
+    {
+      "sourceIds": [
+        "alternative-st-reporting"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 204256
+    },
+    {
+      "sourceIds": [
+        "official-gd-agents"
+      ],
+      "state": "unavailable",
+      "unchanged": false,
+      "bytes": 0
+    }
+  ],
+  "legalChangesConfirmed": 0,
+  "claimReviewsAdvanced": 0,
+  "weeklyDiscovery": "Manual review of official legislation and operational notices required; a retrieval hash is not discovery or legal interpretation.",
+  "workflowURL": null
+}
