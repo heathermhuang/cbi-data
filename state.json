@@ -1,0 +1,660 @@
+{
+  "https://ciu.gov.kn/application-process/": {
+    "sourceIds": [
+      "official-skn-process",
+      "skn-presence"
+    ],
+    "health": "unavailable",
+    "hash": null,
+    "etag": null,
+    "lastModified": null,
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "lastSuccessfulRetrieval": null,
+    "nextEligibleAt": null,
+    "extraction": "not_extracted"
+  },
+  "https://ciu.gov.kn/biometrics/": {
+    "sourceIds": [
+      "skn-biometric"
+    ],
+    "health": "unavailable",
+    "hash": null,
+    "etag": null,
+    "lastModified": null,
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "lastSuccessfulRetrieval": null,
+    "nextEligibleAt": null,
+    "extraction": "not_extracted"
+  },
+  "https://cip.gov.ag/citizenship/": {
+    "sourceIds": [
+      "ag"
+    ],
+    "health": "available",
+    "hash": "c68cf64ad60655c917c0e6b484a4f147ddedc45bf641586a5e8392167dd71545",
+    "etag": null,
+    "lastModified": null,
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "lastSuccessfulRetrieval": "2026-10-25T08:26:36.066Z",
+    "nextEligibleAt": null,
+    "extraction": "retrieval_hash_only"
+  },
+  "https://ciu.gov.kn/news-the-year-in-review/": {
+    "sourceIds": [
+      "skn-transition"
+    ],
+    "health": "unavailable",
+    "hash": null,
+    "etag": null,
+    "lastModified": null,
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "lastSuccessfulRetrieval": null,
+    "nextEligibleAt": null,
+    "extraction": "not_extracted"
+  },
+  "https://cip.gov.ag/investment-options/ndf/": {
+    "sourceIds": [
+      "ag-ndf"
+    ],
+    "health": "available",
+    "hash": "e3be5385ebc511be09b33c123efb173b87bdeffcda2626ef6a67dc9cd0664ba4",
+    "etag": null,
+    "lastModified": null,
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "lastSuccessfulRetrieval": "2026-10-25T08:26:36.066Z",
+    "nextEligibleAt": null,
+    "extraction": "retrieval_hash_only"
+  },
+  "https://ciu.gov.kn/sustainable-island-state-contribution/": {
+    "sourceIds": [
+      "skn"
+    ],
+    "health": "unavailable",
+    "hash": null,
+    "etag": null,
+    "lastModified": null,
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "lastSuccessfulRetrieval": null,
+    "nextEligibleAt": null,
+    "extraction": "not_extracted"
+  },
+  "https://cip.gov.ag/schedule-of-fees/": {
+    "sourceIds": [
+      "ag-fees"
+    ],
+    "health": "available",
+    "hash": "eb3a2324c3d90d2cc14aa44458274921f3b07cbc15cf42a45cadca7a78ee7adf",
+    "etag": null,
+    "lastModified": null,
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "lastSuccessfulRetrieval": "2026-10-25T08:26:36.066Z",
+    "nextEligibleAt": null,
+    "extraction": "retrieval_hash_only"
+  },
+  "https://ciu.gov.kn/wp-content/uploads/2025/01/sro-20-of-2024.pdf": {
+    "sourceIds": [
+      "skn-fees"
+    ],
+    "health": "available",
+    "hash": "3830e74bf523aabe72e4709c359cf76c4c5f86c4a17a8f8c2f8dce59a3b4561e",
+    "etag": "\"69ec7-62b0603ee2200\"",
+    "lastModified": "Mon, 06 Jan 2025 09:11:36 GMT",
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "lastSuccessfulRetrieval": "2026-10-25T08:26:36.066Z",
+    "nextEligibleAt": null,
+    "extraction": "manual_pdf_review_required"
+  },
+  "https://eur-lex.europa.eu/eli/reg/2018/1806/2025-12-30/eng": {
+    "sourceIds": [
+      "eu-visa-list"
+    ],
+    "health": "unavailable",
+    "hash": null,
+    "etag": null,
+    "lastModified": null,
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "lastSuccessfulRetrieval": null,
+    "nextEligibleAt": null,
+    "extraction": "not_extracted"
+  },
+  "https://imagrenada.gd/becoming-a-citizen/": {
+    "sourceIds": [
+      "gd",
+      "official-gd-process"
+    ],
+    "health": "available",
+    "hash": "2c21f59e834f980e0c2d8d11078ce0856628ca1d5a1b37e81f000df8d1da0de3",
+    "etag": null,
+    "lastModified": null,
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "lastSuccessfulRetrieval": "2026-10-25T08:26:36.066Z",
+    "nextEligibleAt": null,
+    "extraction": "retrieval_hash_only"
+  },
+  "https://stp.gov.st/noticeDetail?id=kva9jgmxtzvd4kzuw4pleldq": {
+    "sourceIds": [
+      "st"
+    ],
+    "health": "available",
+    "hash": "9e420544a5510dc4fed69f6626db836172e0973a5f597429ebfa71aa091e70eb",
+    "etag": "W/\"5ee0-Jl7YEExgK8L0ZofmALz40CSKchc\"",
+    "lastModified": null,
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "lastSuccessfulRetrieval": "2026-10-25T08:26:36.066Z",
+    "nextEligibleAt": null,
+    "extraction": "retrieval_hash_only"
+  },
+  "https://saotomeprincipe.de/2026/09/21/einbuergerung-sao-tome-e-principe-aktuelles/": {
+    "sourceIds": [
+      "st-family"
+    ],
+    "health": "available",
+    "hash": "e08626b783c99afc11a1b31de58480c95753038974db957bf7efbd4168cbeb30",
+    "etag": null,
+    "lastModified": null,
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "lastSuccessfulRetrieval": "2026-10-25T08:26:36.066Z",
+    "nextEligibleAt": null,
+    "extraction": "retrieval_hash_only"
+  },
+  "https://travel.state.gov/content/travel/en/News/visas-news/suspension-of-visa-issuance-to-foreign-nationals-to-protect-the-security-of-the-united-states.html": {
+    "sourceIds": [
+      "us-restrictions"
+    ],
+    "health": "unavailable",
+    "hash": null,
+    "etag": null,
+    "lastModified": null,
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "lastSuccessfulRetrieval": null,
+    "nextEligibleAt": null,
+    "extraction": "not_extracted"
+  },
+  "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html": {
+    "sourceIds": [
+      "us-vwp"
+    ],
+    "health": "unavailable",
+    "hash": null,
+    "etag": null,
+    "lastModified": null,
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "lastSuccessfulRetrieval": null,
+    "nextEligibleAt": null,
+    "extraction": "not_extracted"
+  },
+  "https://vancitizenship.gov.vu/": {
+    "sourceIds": [
+      "vu"
+    ],
+    "health": "available",
+    "hash": "530d11e67f3f4f129616949e739513ce19a507ed7c0e063e76f1c6d2095e738b",
+    "etag": null,
+    "lastModified": "Sun, 25 Oct 2026 08:28:32 GMT",
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "lastSuccessfulRetrieval": "2026-10-25T08:26:36.066Z",
+    "nextEligibleAt": null,
+    "extraction": "retrieval_hash_only"
+  },
+  "https://saotomeprincipe.de/en/citizenship-by-investing/": {
+    "sourceIds": [
+      "st-price"
+    ],
+    "health": "available",
+    "hash": "cade370cfa66cad4ca98cc8daa6fc3e155fe9d47433cadf3f5b2fa56ff309cf9",
+    "etag": null,
+    "lastModified": null,
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "lastSuccessfulRetrieval": "2026-10-25T08:26:36.066Z",
+    "nextEligibleAt": null,
+    "extraction": "retrieval_hash_only"
+  },
+  "https://vancitizenship.gov.vu/images/Order_No_33_of_2019_-_New_DSP_Regulations.pdf": {
+    "sourceIds": [
+      "comparison-vu-dsp-regulations25",
+      "vu-price"
+    ],
+    "health": "available",
+    "hash": "015318dbd3f65ec26f832c069cdc7a32d09e09c26da4258f5f5d623985e2a4b4",
+    "etag": "\"1f6116-5a2934e1d7980\"",
+    "lastModified": "Sun, 05 Apr 2020 23:13:58 GMT",
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "lastSuccessfulRetrieval": "2026-10-25T08:26:36.066Z",
+    "nextEligibleAt": null,
+    "extraction": "manual_pdf_review_required"
+  },
+  "https://vancitizenship.gov.vu/images/Order_No_39_of_2020_3.pdf": {
+    "sourceIds": [
+      "comparison-vu-dsp-amendment25"
+    ],
+    "health": "available",
+    "hash": "0396e9d658a17f8cdc7564ebff81390e26b2496e4860c849d45ee6b3e39b6648",
+    "etag": "\"9d2f6-5a24307a02e80\"",
+    "lastModified": "Wed, 01 Apr 2020 23:27:38 GMT",
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "lastSuccessfulRetrieval": "2026-10-25T08:26:36.066Z",
+    "nextEligibleAt": null,
+    "extraction": "manual_pdf_review_required"
+  },
+  "https://vancitizenship.gov.vu/index.php/citizenship/fees-and-charges": {
+    "sourceIds": [
+      "comparison-vu-dsp-tariff25",
+      "vu-current"
+    ],
+    "health": "available",
+    "hash": "ceab568221fa824e0545e2711d578e740aac1805fba84443f430935e898ad876",
+    "etag": null,
+    "lastModified": "Sun, 25 Oct 2026 08:28:33 GMT",
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "lastSuccessfulRetrieval": "2026-10-25T08:26:36.066Z",
+    "nextEligibleAt": null,
+    "extraction": "retrieval_hash_only"
+  },
+  "https://world.adoptingelsalvador.gob.sv/welcome": {
+    "sourceIds": [
+      "publication-sv-stages",
+      "sv"
+    ],
+    "health": "available",
+    "hash": "c22bdddc360ea9de2ca7588add3b992e291ce409ae3d77aad0fb53d350afbe80",
+    "etag": "\"41f30e48afa3351768ba764751dc6212\"",
+    "lastModified": "Fri, 14 Aug 2026 12:17:28 GMT",
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "lastSuccessfulRetrieval": "2026-10-25T08:26:36.066Z",
+    "nextEligibleAt": null,
+    "extraction": "retrieval_hash_only"
+  },
+  "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html": {
+    "sourceIds": [
+      "publication-entry-nationality"
+    ],
+    "health": "available",
+    "hash": "f9a20342e97c1277c62df42c2790055dccfae2222e56836dbf2c9b169698a9c1",
+    "etag": null,
+    "lastModified": "Sat, 24 Oct 2026 18:44:51 GMT",
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "lastSuccessfulRetrieval": "2026-10-25T08:26:36.066Z",
+    "nextEligibleAt": null,
+    "extraction": "retrieval_hash_only"
+  },
+  "https://www.cbiu.gov.dm/investment-options/economic-diversification-fund/": {
+    "sourceIds": [
+      "dm"
+    ],
+    "health": "available",
+    "hash": "3f7a3532c065bb1660e4a5bdf9bd07e854750e3fd8caa1329dd6dd2cc29f02e3",
+    "etag": null,
+    "lastModified": null,
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "lastSuccessfulRetrieval": "2026-10-25T08:26:36.066Z",
+    "nextEligibleAt": null,
+    "extraction": "retrieval_hash_only"
+  },
+  "https://www.cbiu.gov.dm/investment-options/real-estate/": {
+    "sourceIds": [
+      "dm-property"
+    ],
+    "health": "available",
+    "hash": "2789ddcc545daddee9c5ca8ba7631e3d9570cef03c32b7cd79eb480c00f8257c",
+    "etag": null,
+    "lastModified": null,
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "lastSuccessfulRetrieval": "2026-10-25T08:26:36.066Z",
+    "nextEligibleAt": null,
+    "extraction": "retrieval_hash_only"
+  },
+  "https://www.cbiu.gov.dm/news/dominica-citizenship/the-only-way-to-apply-for-dominica-citizenship-by-investment-is-through-an-authorised-agent/": {
+    "sourceIds": [
+      "dm-timing",
+      "official-dm-process"
+    ],
+    "health": "available",
+    "hash": "169b36d0c422bb1f893a4964ff8172a0e9dacb16695f67e9c66d9ee9fa18efd2",
+    "etag": null,
+    "lastModified": null,
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "lastSuccessfulRetrieval": "2026-10-25T08:26:36.066Z",
+    "nextEligibleAt": null,
+    "extraction": "retrieval_hash_only"
+  },
+  "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/eligibility/eta-x.html": {
+    "sourceIds": [
+      "ca-conditional-eta"
+    ],
+    "health": "available",
+    "hash": "72b5ff9165b7540742fb5a468459ccc6be527377e97f265f1fd80e3f00e6c8f7",
+    "etag": null,
+    "lastModified": "Sat, 24 Oct 2026 19:08:34 GMT",
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "lastSuccessfulRetrieval": "2026-10-25T08:26:36.066Z",
+    "nextEligibleAt": null,
+    "extraction": "retrieval_hash_only"
+  },
+  "https://www.consilium.europa.eu/en/infographics/eu-visa-agreements-with-non-eu-countries/": {
+    "sourceIds": [
+      "eu-nauru-condition"
+    ],
+    "health": "unavailable",
+    "hash": null,
+    "etag": null,
+    "lastModified": null,
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "lastSuccessfulRetrieval": null,
+    "nextEligibleAt": null,
+    "extraction": "not_extracted"
+  },
+  "https://www.consilium.europa.eu/en/press/press-releases/2024/12/12/vanuatu-council-ends-visa-exemption/": {
+    "sourceIds": [
+      "eu-vanuatu-revoked",
+      "vu-eu"
+    ],
+    "health": "unavailable",
+    "hash": null,
+    "etag": null,
+    "lastModified": null,
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "lastSuccessfulRetrieval": null,
+    "nextEligibleAt": null,
+    "extraction": "not_extracted"
+  },
+  "https://www.cipsaintlucia.com/citizenship-by-investment": {
+    "sourceIds": [
+      "lc"
+    ],
+    "health": "available",
+    "hash": "bbf22f690ab1c1e26c30fe1a187061ff67057c241f3e02d4c3c8092d4f332214",
+    "etag": null,
+    "lastModified": null,
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "lastSuccessfulRetrieval": "2026-10-25T08:26:36.066Z",
+    "nextEligibleAt": null,
+    "extraction": "retrieval_hash_only"
+  },
+  "https://www.cipsaintlucia.com/faqs": {
+    "sourceIds": [
+      "lc-old",
+      "update-lc-faq"
+    ],
+    "health": "available",
+    "hash": "858e6494a5f0b6e076923e4850cdc49646ce81cd40ae60bf864f57c8b9896935",
+    "etag": null,
+    "lastModified": null,
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "lastSuccessfulRetrieval": "2026-10-25T08:26:36.066Z",
+    "nextEligibleAt": null,
+    "extraction": "retrieval_hash_only"
+  },
+  "https://www.ecrcp.gov.nr/contribution": {
+    "sourceIds": [
+      "nr"
+    ],
+    "health": "available",
+    "hash": "5e0a76477a00ba9780dca07b953cc5408b563d581de28cedfb062ac5dc3609ec",
+    "etag": null,
+    "lastModified": null,
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "lastSuccessfulRetrieval": "2026-10-25T08:26:36.066Z",
+    "nextEligibleAt": null,
+    "extraction": "retrieval_hash_only"
+  },
+  "https://www.ecu.gov.eg/ECI/FQA/List.aspx": {
+    "sourceIds": [
+      "eg-faq"
+    ],
+    "health": "unavailable",
+    "hash": null,
+    "etag": null,
+    "lastModified": null,
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "lastSuccessfulRetrieval": null,
+    "nextEligibleAt": null,
+    "extraction": "not_extracted"
+  },
+  "https://www.gov.uk/government/news/over-370-million-saved-in-crackdown-on-asylum-claims-by-tourists": {
+    "sourceIds": [
+      "lc-uk"
+    ],
+    "health": "available",
+    "hash": "26ff33e5e8e270589b70bde042e7b9e7bb3cb020f35e496a10b8b6c4808b1f65",
+    "etag": "W/\"20f0112497cc50069cba03241becff40\"",
+    "lastModified": null,
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "lastSuccessfulRetrieval": "2026-10-25T08:26:36.066Z",
+    "nextEligibleAt": null,
+    "extraction": "retrieval_hash_only"
+  },
+  "https://www.egyptcitizenship.gov.eg/": {
+    "sourceIds": [
+      "comparison-eg-current"
+    ],
+    "health": "unavailable",
+    "hash": null,
+    "etag": null,
+    "lastModified": null,
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "lastSuccessfulRetrieval": null,
+    "nextEligibleAt": null,
+    "extraction": "not_extracted"
+  },
+  "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list": {
+    "sourceIds": [
+      "uk-visits"
+    ],
+    "health": "available",
+    "hash": "3eb99e55e7f03ff16268c04f6b4bc13077c611d2b33c43905f8276fb532d6927",
+    "etag": "W/\"d4a8fb5d422775f69671200edba0ca7b\"",
+    "lastModified": null,
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "lastSuccessfulRetrieval": "2026-10-25T08:26:36.066Z",
+    "nextEligibleAt": null,
+    "extraction": "retrieval_hash_only"
+  },
+  "https://www.imf.org/-/media/files/publications/cr/2025/english/1nruea2025001-source-pdf.pdf": {
+    "sourceIds": [
+      "nr-imf"
+    ],
+    "health": "available",
+    "hash": "df89de95e70277f7e34e3e53ca54fe417edfa51b4c85ed6eb3a4da4826b1afd2",
+    "etag": "\"0x8DF1AB711D7874C\"",
+    "lastModified": "Fri, 25 Sep 2026 03:42:49 GMT",
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "lastSuccessfulRetrieval": "2026-10-25T08:26:36.066Z",
+    "nextEligibleAt": null,
+    "extraction": "manual_pdf_review_required"
+  },
+  "https://www.imf.org/-/media/files/publications/wp/2025/english/wpiea2025008-print-pdf.pdf": {
+    "sourceIds": [
+      "imf-history"
+    ],
+    "health": "available",
+    "hash": "6927b78db5000630a0b4f47bd3de75de3af177abb242b760ff4eabbd8c85196e",
+    "etag": "\"0x8DF1AB7B70B184F\"",
+    "lastModified": "Fri, 25 Sep 2026 03:47:26 GMT",
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "lastSuccessfulRetrieval": "2026-10-25T08:26:36.066Z",
+    "nextEligibleAt": null,
+    "extraction": "manual_pdf_review_required"
+  },
+  "https://www.invest.gov.tr/en/InvestmentGuide/Pages/acquiring-property-and-citizenship.aspx": {
+    "sourceIds": [
+      "tr"
+    ],
+    "health": "available",
+    "hash": "d8a92ab8b38eb6673e38dd41b6b672be50cbc5b0c7554d00fce9b8334747574e",
+    "etag": null,
+    "lastModified": null,
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "lastSuccessfulRetrieval": "2026-10-25T08:26:36.066Z",
+    "nextEligibleAt": null,
+    "extraction": "retrieval_hash_only"
+  },
+  "https://www.sem.admin.ch/sem/en/home/publiservice/weisungen-kreisschreiben/visa/liste1_staatsangehoerigkeit/n.html": {
+    "sourceIds": [
+      "ch-nauru-visa"
+    ],
+    "health": "available",
+    "hash": "4a441027f4685b4c1f7b3deddf3c0b73290f8d9dae1e10329a9eae8571f03564",
+    "etag": null,
+    "lastModified": null,
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "lastSuccessfulRetrieval": "2026-10-25T08:26:36.066Z",
+    "nextEligibleAt": null,
+    "extraction": "retrieval_hash_only"
+  },
+  "https://www.sknis.gov.kn/2026/01/08/saint-kitts-and-nevis-announces-residency-and-biometric-reforms-to-strengthen-cbi-programme/": {
+    "sourceIds": [
+      "skn-reform"
+    ],
+    "health": "available",
+    "hash": "e9fd50293122039cc33da7a647d37a7142ddcaab025989875308edf0c9a3d113",
+    "etag": null,
+    "lastModified": null,
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "lastSuccessfulRetrieval": "2026-10-25T08:26:36.066Z",
+    "nextEligibleAt": null,
+    "extraction": "retrieval_hash_only"
+  },
+  "https://www.egyptcitizenship.gov.eg/ECI/InvestmentProgram/List.aspx": {
+    "sourceIds": [
+      "eg"
+    ],
+    "health": "unavailable",
+    "hash": null,
+    "etag": null,
+    "lastModified": null,
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "lastSuccessfulRetrieval": null,
+    "nextEligibleAt": null,
+    "extraction": "not_extracted"
+  },
+  "https://ab.gov.ag/detail_template.php?page=press_release%2F2026%2Fjuly%2F2026_july_07-govt_responds_to+eu_communication_on_cip": {
+    "sourceIds": [
+      "follow-ag-eu-request"
+    ],
+    "health": "available",
+    "hash": "42941fafb689747654c2a81b41da0162519a05cbfe169da306c71e50bade854c",
+    "etag": null,
+    "lastModified": null,
+    "lastAttempt": "2026-10-25T08:37:07.920Z",
+    "lastSuccessfulRetrieval": "2026-10-25T08:37:07.920Z",
+    "nextEligibleAt": null,
+    "extraction": "retrieval_hash_only"
+  },
+  "https://cip.gov.ag/investment-options/real-estate/": {
+    "sourceIds": [
+      "update-ag-property"
+    ],
+    "health": "available",
+    "hash": "95cd7decef732dbbf31c164b29272098fa2fd3dc0b45f31052d2a2c397cc30f0",
+    "etag": null,
+    "lastModified": null,
+    "lastAttempt": "2026-10-25T08:37:07.920Z",
+    "lastSuccessfulRetrieval": "2026-10-25T08:37:07.920Z",
+    "nextEligibleAt": null,
+    "extraction": "retrieval_hash_only"
+  },
+  "https://ciu.gov.kn/authorised-agents-list/": {
+    "sourceIds": [
+      "official-skn-agents"
+    ],
+    "health": "unavailable",
+    "hash": null,
+    "etag": null,
+    "lastModified": null,
+    "lastAttempt": "2026-10-25T08:37:07.920Z",
+    "lastSuccessfulRetrieval": null,
+    "nextEligibleAt": null,
+    "extraction": "not_extracted"
+  },
+  "https://ciu.gov.kn/st-kitts-and-nevis-integrates-biometric-enrolment-with-the-passport-process/": {
+    "sourceIds": [
+      "official-skn-passport"
+    ],
+    "health": "unavailable",
+    "hash": null,
+    "etag": null,
+    "lastModified": null,
+    "lastAttempt": "2026-10-25T08:37:07.920Z",
+    "lastSuccessfulRetrieval": null,
+    "nextEligibleAt": null,
+    "extraction": "not_extracted"
+  },
+  "https://vancitizenship.gov.vu/index.php/citizenship/forms": {
+    "sourceIds": [
+      "comparison-vu-distinct-formd25"
+    ],
+    "health": "available",
+    "hash": "16a5301dfc18b1d832a954c496a5d7639bfe53cb14d5e685e7edab91fce9d86d",
+    "etag": null,
+    "lastModified": "Sun, 25 Oct 2026 08:38:59 GMT",
+    "lastAttempt": "2026-10-25T08:37:07.920Z",
+    "lastSuccessfulRetrieval": "2026-10-25T08:37:07.920Z",
+    "nextEligibleAt": null,
+    "extraction": "retrieval_hash_only"
+  },
+  "https://www.cbiu.gov.dm/dominica-citizenship/authorised-agents/": {
+    "sourceIds": [
+      "official-dm-agents"
+    ],
+    "health": "available",
+    "hash": "9deaf8fcdd9da4ad81e886ca98f0c750b647dd0d2e456f3ec4d30a820df4acd8",
+    "etag": null,
+    "lastModified": null,
+    "lastAttempt": "2026-10-25T08:37:07.920Z",
+    "lastSuccessfulRetrieval": "2026-10-25T08:37:07.920Z",
+    "nextEligibleAt": null,
+    "extraction": "retrieval_hash_only"
+  },
+  "https://www.cipsaintlucia.com/s/CIP-AR-2024_web.pdf": {
+    "sourceIds": [
+      "update-lc-report"
+    ],
+    "health": "unavailable",
+    "hash": null,
+    "etag": null,
+    "lastModified": null,
+    "lastAttempt": "2026-10-25T08:37:07.920Z",
+    "lastSuccessfulRetrieval": null,
+    "nextEligibleAt": null,
+    "extraction": "not_extracted"
+  },
+  "https://www.icisleri.gov.tr/sahte-degerlemeekspertiz-operasyonu-ve-usulsuz-vatandaslik-islemleri-hakkinda-basin-aciklamasi": {
+    "sourceIds": [
+      "update-tr-enforcement"
+    ],
+    "health": "available",
+    "hash": "db80d20f876decb6839c5be3a63080d6462f38c7ccd70d06cfacd7f1de4fa1f4",
+    "etag": null,
+    "lastModified": "Sun, 25 Oct 2026 08:37:16 GMT",
+    "lastAttempt": "2026-10-25T08:37:07.920Z",
+    "lastSuccessfulRetrieval": "2026-10-25T08:37:07.920Z",
+    "nextEligibleAt": null,
+    "extraction": "retrieval_hash_only"
+  },
+  "https://www.stp-press.st/2025/10/21/primeiro-ministro-preside-abertura-da-1-a-conferencia-sobre-cidadania-por-investimento/": {
+    "sourceIds": [
+      "alternative-st-reporting"
+    ],
+    "health": "available",
+    "hash": "fa9a1872ede8ecad73fe0e26ca2b488b13ef6cbd52325abb5d5bda3d353e5edd",
+    "etag": null,
+    "lastModified": null,
+    "lastAttempt": "2026-10-25T08:37:07.920Z",
+    "lastSuccessfulRetrieval": "2026-10-25T08:37:07.920Z",
+    "nextEligibleAt": null,
+    "extraction": "retrieval_hash_only"
+  },
+  "https://imagrenada.gd/approved-agents/": {
+    "sourceIds": [
+      "official-gd-agents"
+    ],
+    "health": "unavailable",
+    "hash": null,
+    "etag": null,
+    "lastModified": null,
+    "lastAttempt": "2026-10-25T08:37:07.920Z",
+    "lastSuccessfulRetrieval": null,
+    "nextEligibleAt": null,
+    "extraction": "not_extracted"
+  }
+}
