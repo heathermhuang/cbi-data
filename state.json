@@ -542,6 +542,7 @@
   },
   "https://cip.gov.ag/investment-options/real-estate/": {
     "sourceIds": [
+      "ag-property-current",
       "update-ag-property"
     ],
     "health": "available",
@@ -656,5 +657,109 @@
     "lastSuccessfulRetrieval": null,
     "nextEligibleAt": null,
     "extraction": "not_extracted"
+  },
+  "https://pay.cipsaintlucia.com/p/no-refund-policy": {
+    "sourceIds": [
+      "lc-refund-policy"
+    ],
+    "health": "available",
+    "hash": "1a5b66469d74ca2ea86886dfb005593a9d6ed193ca302ab3bed1497344a49699",
+    "etag": null,
+    "lastModified": null,
+    "lastAttempt": "2026-10-25T09:14:10.344Z",
+    "lastSuccessfulRetrieval": "2026-10-25T09:14:10.344Z",
+    "nextEligibleAt": null,
+    "extraction": "retrieval_hash_only"
+  },
+  "https://cip.gov.ag/citizenship/antigua-and-barbuda-passport/": {
+    "sourceIds": [
+      "ag-passport-renewal"
+    ],
+    "health": "available",
+    "hash": "5e53201e53eb4c52680b90d9ca8a157cf0c593988644410bcdead16ab599d992",
+    "etag": null,
+    "lastModified": null,
+    "lastAttempt": "2026-10-25T09:14:10.344Z",
+    "lastSuccessfulRetrieval": "2026-10-25T09:14:10.344Z",
+    "nextEligibleAt": null,
+    "extraction": "retrieval_hash_only"
+  },
+  "https://cip.gov.ag/how-to-apply/application-forms/": {
+    "sourceIds": [
+      "ag-current-forms"
+    ],
+    "health": "available",
+    "hash": "b4d92f2129b087dd891b8b581ae65c0f6f60c459a4b5dd0d412fb4e90a1596cd",
+    "etag": null,
+    "lastModified": null,
+    "lastAttempt": "2026-10-25T09:14:10.344Z",
+    "lastSuccessfulRetrieval": "2026-10-25T09:14:10.344Z",
+    "nextEligibleAt": null,
+    "extraction": "retrieval_hash_only"
+  },
+  "https://www.cipsaintlucia.com/citizenship-legislation": {
+    "sourceIds": [
+      "lc-legislation-index"
+    ],
+    "health": "available",
+    "hash": "d47dc75f4bd2c734e42524c744e66350e094cfd7b104ed7a202b8d2d18345ea6",
+    "etag": null,
+    "lastModified": null,
+    "lastAttempt": "2026-10-25T09:14:10.344Z",
+    "lastSuccessfulRetrieval": "2026-10-25T09:14:10.344Z",
+    "nextEligibleAt": null,
+    "extraction": "retrieval_hash_only"
+  },
+  "https://www.cipsaintlucia.com/s/Act-22-Citizenship-by-Investment-Amendment-Act.pdf": {
+    "sourceIds": [
+      "lc-act-2025"
+    ],
+    "health": "unavailable",
+    "hash": null,
+    "etag": null,
+    "lastModified": null,
+    "lastAttempt": "2026-10-25T09:14:10.344Z",
+    "lastSuccessfulRetrieval": null,
+    "nextEligibleAt": null,
+    "extraction": "not_extracted"
+  },
+  "https://www.cipsaintlucia.com/s/SI-57-of-2026-Citizenship-by-Investment-Amendment-Regulations.pdf": {
+    "sourceIds": [
+      "lc-regulations-2026"
+    ],
+    "health": "unavailable",
+    "hash": null,
+    "etag": null,
+    "lastModified": null,
+    "lastAttempt": "2026-10-25T09:14:10.344Z",
+    "lastSuccessfulRetrieval": null,
+    "nextEligibleAt": null,
+    "extraction": "not_extracted"
+  },
+  "https://cip.gov.ag/wp-content/uploads/2020/05/AB10-Citizenship-by-Investment-5-year-renewal-application-form-May-2020.pdf": {
+    "sourceIds": [
+      "ag-ab10-2020"
+    ],
+    "health": "available",
+    "hash": "e4a9290694fd78a8ccfae6cb42729016aade4505a664001f5c2d2a037de82ecc",
+    "etag": null,
+    "lastModified": "Tue, 23 May 2023 18:06:45 GMT",
+    "lastAttempt": "2026-10-25T09:14:10.344Z",
+    "lastSuccessfulRetrieval": "2026-10-25T09:14:10.344Z",
+    "nextEligibleAt": null,
+    "extraction": "manual_pdf_review_required"
+  },
+  "https://www.sluembassy.tw/consular-services": {
+    "sourceIds": [
+      "lc-renewal-taipei"
+    ],
+    "health": "available",
+    "hash": "c00a717f87ef2877bd01795df1b77108c4286914d4aeb03ba53be0d79e88397d",
+    "etag": "W/\"b7c2797846b3ebddc52011e438c7b4cc\"",
+    "lastModified": null,
+    "lastAttempt": "2026-10-25T09:14:10.344Z",
+    "lastSuccessfulRetrieval": "2026-10-25T09:14:10.344Z",
+    "nextEligibleAt": null,
+    "extraction": "retrieval_hash_only"
   }
 }
