@@ -13,8 +13,7 @@ unapproved authorities, ports, local/private DNS and cross-host redirects fail.
 Conditional validators and stable byte normalization reduce unchanged work. PDF
 hashing is a retrieval observation; full PDF interpretation remains manual.
 
-Due work is ordered by oldest successful retrieval and failures/backlog remain
-visible. Retry-After defers work. Source hashes and safe health transitions use a
+Unattempted and oldest-attempt work is serviced before repeats; oldest successful retrieval breaks ties. Failed sources cannot starve untouched backlog. Failures remain visible. Retry-After defers work. Source hashes and safe health transitions use a
 monitor-state branch; routine successful fetch timestamps remain in bounded run
 artifacts. No full pages, private notes, tokens or application material are stored.
 Changed sources stay pending until a maintainer evidence decision. The weekly
@@ -35,3 +34,5 @@ factual corrections and review time separately from synthetic tests or stars.
 Expansion to residence/global travel remains gated by evidence and capacity.
 
 Latest public checkpoint: [monitor-state summary](https://github.com/heathermhuang/cbi-data/blob/monitor-state/latest.json). Immutable releases retain their dated health observations; the API does not fetch this live branch.
+
+The scheduled workflow runs reviewed default-branch maintenance code. A monitor-only patch does not change immutable data artifacts, query-library bytes or factual review dates.
