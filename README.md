@@ -17,7 +17,7 @@ currency and a null comprehensive total. Eligibility and admission are separate.
 Requires Node 24 LTS. No maintainer account, private repository or API key needed.
 
 ```sh
-git clone --branch data-2026-10-25.1 https://github.com/heathermhuang/cbi-data.git
+git clone --branch data-2026-10-25.2 https://github.com/heathermhuang/cbi-data.git
 cd cbi-data
 npm ci --ignore-scripts
 npm run check
@@ -31,8 +31,8 @@ The package tarball can be installed locally; npm registry publication is not
 required. Never substitute an unversioned installer for the pinned example.
 
 ```sh
-curl -fsS 'https://cbi.me/api/v1/travel-rules?passport=ATG&destination=CAN&release=2026-10-25.1'
-curl -fsS 'https://cbi.me/api/v1/coverage?release=2026-10-25.1'
+curl -fsS 'https://cbi.me/api/v1/travel-rules?passport=ATG&destination=CAN&release=2026-10-25.2'
+curl -fsS 'https://cbi.me/api/v1/coverage?release=2026-10-25.2'
 ```
 
 Remote MCP: `https://cbi.me/mcp` (Streamable HTTP, anonymous public reads).
