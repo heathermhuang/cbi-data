@@ -1,0 +1,82 @@
+[
+  {
+    "id": "GRD-GBR",
+    "programmeId": "cbi-grd",
+    "passport": "GRD",
+    "destination": "GBR",
+    "documentType": "ordinary",
+    "purpose": "short_visit",
+    "route": "eta",
+    "outcome": "supported",
+    "claimId": "cbi-grd-travel-gbr",
+    "transport": [
+      "air",
+      "land",
+      "sea"
+    ],
+    "conditions": [],
+    "permittedStay": null,
+    "documentRecognition": "Valid ordinary national passport; individual and series exceptions not fully checked",
+    "acquisitionRestrictions": "not_researched"
+  },
+  {
+    "id": "GRD-USA",
+    "programmeId": "cbi-grd",
+    "passport": "GRD",
+    "destination": "USA",
+    "documentType": "ordinary",
+    "purpose": "short_visit",
+    "route": "advance_visa",
+    "outcome": "supported",
+    "claimId": "cbi-grd-travel-usa",
+    "transport": [
+      "air",
+      "land",
+      "sea"
+    ],
+    "conditions": [],
+    "permittedStay": null,
+    "documentRecognition": "Valid ordinary national passport; individual and series exceptions not fully checked",
+    "acquisitionRestrictions": "not_researched"
+  },
+  {
+    "id": "GRD-CAN",
+    "programmeId": "cbi-grd",
+    "passport": "GRD",
+    "destination": "CAN",
+    "documentType": "ordinary",
+    "purpose": "short_visit",
+    "route": "advance_visa",
+    "outcome": "supported",
+    "claimId": "cbi-grd-travel-can",
+    "transport": [
+      "air",
+      "land",
+      "sea"
+    ],
+    "conditions": [],
+    "permittedStay": null,
+    "documentRecognition": "Valid ordinary national passport; individual and series exceptions not fully checked",
+    "acquisitionRestrictions": "not_researched"
+  },
+  {
+    "id": "GRD-SCHENGEN_SHORT_STAY",
+    "programmeId": "cbi-grd",
+    "passport": "GRD",
+    "destination": "SCHENGEN_SHORT_STAY",
+    "documentType": "ordinary",
+    "purpose": "short_visit",
+    "route": "visa_exempt",
+    "outcome": "supported",
+    "claimId": "cbi-grd-travel-schengen-short-stay",
+    "transport": [
+      "air",
+      "land",
+      "sea"
+    ],
+    "conditions": [],
+    "permittedStay": "90 days in any 180-day period, subject to admission conditions",
+    "documentRecognition": "Common nationality regime only; member-specific recognition not fully checked",
+    "acquisitionRestrictions": "not_researched"
+  }
+]

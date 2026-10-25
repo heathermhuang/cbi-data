@@ -1,0 +1,260 @@
+{
+  "amount": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+      "amount": {
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "currency": {
+        "type": "string"
+      }
+    },
+    "required": [
+      "amount",
+      "currency"
+    ]
+  },
+  "family_amount": {
+    "anyOf": [
+      {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "amount": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "currency": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "amount",
+          "currency"
+        ]
+      },
+      {
+        "type": "null"
+      }
+    ]
+  },
+  "routes": {
+    "type": "array",
+    "items": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "label": {
+          "type": "string"
+        },
+        "amount": {
+          "type": "string"
+        },
+        "currency": {
+          "type": "string"
+        },
+        "conditions": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "label",
+        "amount",
+        "currency",
+        "conditions"
+      ]
+    }
+  },
+  "intake_observation": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+      "legal": {
+        "type": "string"
+      },
+      "intake": {
+        "type": "string"
+      },
+      "decision": {
+        "type": "string"
+      },
+      "passportIssuance": {
+        "type": "string"
+      }
+    },
+    "required": [
+      "legal",
+      "intake",
+      "decision",
+      "passportIssuance"
+    ]
+  },
+  "process_stages": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+      "summary": {
+        "type": "string"
+      },
+      "stages": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "text": {
+              "type": "string"
+            },
+            "source": {
+              "type": "string"
+            },
+            "checked": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "label",
+            "text",
+            "source"
+          ]
+        }
+      },
+      "agents": {
+        "type": "string"
+      },
+      "statistics": {
+        "type": "string"
+      }
+    },
+    "required": [
+      "summary",
+      "stages",
+      "agents"
+    ]
+  },
+  "editorial_update": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+      "items": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "label": {
+              "type": "string"
+            },
+            "text": {
+              "type": "string"
+            },
+            "source": {
+              "type": "string"
+            },
+            "checked": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "label",
+            "text",
+            "source"
+          ]
+        }
+      },
+      "guides": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "checked": {
+        "type": "string"
+      },
+      "timingSummary": {
+        "type": "string"
+      }
+    },
+    "required": [
+      "items",
+      "guides"
+    ]
+  },
+  "cost": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+      "label": {
+        "type": "string"
+      },
+      "amount": {
+        "type": "string"
+      },
+      "currency": {
+        "type": "string"
+      },
+      "category": {
+        "enum": [
+          "capital",
+          "government_charge"
+        ]
+      },
+      "basis": {
+        "type": "string"
+      },
+      "quantity": {
+        "type": "integer",
+        "minimum": 1
+      },
+      "paymentStage": {
+        "type": "string"
+      },
+      "recoverability": {
+        "type": "string"
+      },
+      "frequency": {
+        "type": "string"
+      },
+      "scenario": {
+        "type": "string"
+      }
+    },
+    "required": [
+      "label",
+      "amount",
+      "currency",
+      "category",
+      "basis",
+      "quantity",
+      "paymentStage",
+      "recoverability",
+      "frequency",
+      "scenario"
+    ]
+  },
+  "travel": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+      "label": {
+        "type": "string"
+      },
+      "note": {
+        "type": "string"
+      }
+    },
+    "required": [
+      "label",
+      "note"
+    ]
+  }
+}

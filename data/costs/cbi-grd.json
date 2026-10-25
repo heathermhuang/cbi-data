@@ -1,0 +1,68 @@
+[
+  {
+    "id": "cbi-grd-dated-cost-0",
+    "programmeId": "cbi-grd",
+    "optionId": "cbi-grd-option-1",
+    "claimId": "cbi-grd-dated-single-fee-0"
+  },
+  {
+    "id": "cbi-grd-dated-cost-1",
+    "programmeId": "cbi-grd",
+    "optionId": "cbi-grd-option-1",
+    "claimId": "cbi-grd-dated-single-fee-1"
+  },
+  {
+    "id": "cbi-grd-dated-cost-2",
+    "programmeId": "cbi-grd",
+    "optionId": "cbi-grd-option-1",
+    "claimId": "cbi-grd-dated-single-fee-2"
+  },
+  {
+    "id": "cbi-grd-dated-cost-3",
+    "programmeId": "cbi-grd",
+    "optionId": "cbi-grd-option-1",
+    "claimId": "cbi-grd-dated-single-fee-3"
+  },
+  {
+    "id": "cbi-grd-dated-cost-4",
+    "programmeId": "cbi-grd",
+    "optionId": "cbi-grd-option-1",
+    "claimId": "cbi-grd-dated-single-fee-4"
+  },
+  {
+    "id": "cbi-grd-scenario-item-29",
+    "programmeId": "cbi-grd",
+    "optionId": "cbi-grd-option-1",
+    "claimId": "cbi-grd-scenario-item-29"
+  },
+  {
+    "id": "cbi-grd-scenario-item-30",
+    "programmeId": "cbi-grd",
+    "optionId": "cbi-grd-option-1",
+    "claimId": "cbi-grd-scenario-item-30"
+  },
+  {
+    "id": "cbi-grd-scenario-item-31",
+    "programmeId": "cbi-grd",
+    "optionId": "cbi-grd-option-1",
+    "claimId": "cbi-grd-scenario-item-31"
+  },
+  {
+    "id": "cbi-grd-scenario-item-32",
+    "programmeId": "cbi-grd",
+    "optionId": "cbi-grd-option-1",
+    "claimId": "cbi-grd-scenario-item-32"
+  },
+  {
+    "id": "cbi-grd-scenario-item-33",
+    "programmeId": "cbi-grd",
+    "optionId": "cbi-grd-option-1",
+    "claimId": "cbi-grd-scenario-item-33"
+  },
+  {
+    "id": "cbi-grd-scenario-item-34",
+    "programmeId": "cbi-grd",
+    "optionId": "cbi-grd-option-1",
+    "claimId": "cbi-grd-scenario-item-34"
+  }
+]

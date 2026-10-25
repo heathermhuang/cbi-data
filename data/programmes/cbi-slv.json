@@ -1,0 +1,172 @@
+{
+  "id": "cbi-slv",
+  "aliases": [
+    "sv"
+  ],
+  "jurisdiction": "SLV",
+  "country": "El Salvador",
+  "name": "Freedom Passport programme",
+  "kind": "citizenship",
+  "mechanism": "investment_subject_to_nationality_decision",
+  "profileURL": "https://cbi.me/citizenship-by-investment/el-salvador/",
+  "region": "Americas",
+  "period": "2023–present",
+  "start": 2023,
+  "end": null,
+  "optionIds": [
+    "cbi-slv-option-1"
+  ],
+  "options": [
+    {
+      "id": "cbi-slv-option-1",
+      "label": "Freedom programme payment",
+      "classification": "contribution",
+      "amountClaimId": "cbi-slv-routes",
+      "conditions": "BTC or USDt"
+    }
+  ],
+  "fields": {
+    "capital": "cbi-slv-capital",
+    "capitalType": "cbi-slv-capitalType",
+    "hold": "cbi-slv-hold",
+    "presence": "cbi-slv-presence",
+    "family": "cbi-slv-family",
+    "caveat": "cbi-slv-caveat",
+    "alert": "cbi-slv-alert",
+    "processing": "cbi-slv-processing",
+    "presenceShort": "cbi-slv-presenceShort",
+    "feeNote": "cbi-slv-feeNote",
+    "keyNote": "cbi-slv-keyNote",
+    "familyScenario": "cbi-slv-familyScenario",
+    "passportDelivery": "cbi-slv-passportDelivery",
+    "routeType": "cbi-slv-routeType",
+    "amount": "cbi-slv-amount",
+    "familyAmount": "cbi-slv-family-amount",
+    "routes": "cbi-slv-routes",
+    "legalOutcome": "cbi-slv-legal-outcome",
+    "intake": "cbi-slv-intake-observation",
+    "editorialUpdate": "cbi-slv-editorial-update"
+  },
+  "requiredFields": {
+    "legal_outcome": {
+      "claimIds": [
+        "cbi-slv-legal-outcome"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "legal_basis": {
+      "claimIds": [],
+      "state": "gap",
+      "gap": "Exact legal basis requirements not fully established in this release."
+    },
+    "operational_intake": {
+      "claimIds": [
+        "cbi-slv-intake-observation"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "decision_stage": {
+      "claimIds": [
+        "cbi-slv-intake-observation"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "passport_issuance": {
+      "claimIds": [
+        "cbi-slv-passportDelivery",
+        "cbi-slv-intake-observation"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "investment_options": {
+      "claimIds": [
+        "cbi-slv-routes"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "minimum_capital": {
+      "claimIds": [
+        "cbi-slv-amount",
+        "cbi-slv-capital"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "financial_resources": {
+      "claimIds": [],
+      "state": "gap",
+      "gap": "Exact financial resources requirements not fully established in this release."
+    },
+    "published_fees": {
+      "claimIds": [
+        "cbi-slv-scenario-item-24",
+        "cbi-slv-scenario-item-25",
+        "cbi-slv-feeNote"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "dependants": {
+      "claimIds": [
+        "cbi-slv-family",
+        "cbi-slv-familyScenario"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "screening": {
+      "claimIds": [],
+      "state": "gap",
+      "gap": "Exact screening requirements not fully established in this release."
+    },
+    "presence_holding": {
+      "claimIds": [
+        "cbi-slv-presence",
+        "cbi-slv-hold"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "post_grant": {
+      "claimIds": [
+        "cbi-slv-presence",
+        "cbi-slv-hold"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "withdrawal_recovery": {
+      "claimIds": [
+        "cbi-slv-capitalType",
+        "cbi-slv-hold"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "process_timing": {
+      "claimIds": [
+        "cbi-slv-processing",
+        "cbi-slv-passportDelivery"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "nationality_document_restrictions": {
+      "claimIds": [
+        "cbi-slv-caveat"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    }
+  },
+  "qualifications": [
+    "Portal offers 1,000 participants annually. Programme payment does not by itself confer nationality; eligibility and cryptocurrency payment rules apply.",
+    "The official page lists US$999 administration per family member; no derived all-in family quote is published here.",
+    "No independently verified end-to-end passport delivery time"
+  ]
+}

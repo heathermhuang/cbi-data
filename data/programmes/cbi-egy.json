@@ -1,0 +1,196 @@
+{
+  "id": "cbi-egy",
+  "aliases": [
+    "eg"
+  ],
+  "jurisdiction": "EGY",
+  "country": "Egypt",
+  "name": "Citizenship through investment",
+  "kind": "citizenship",
+  "mechanism": "investment_subject_to_nationality_decision",
+  "profileURL": "https://cbi.me/citizenship-by-investment/egypt/",
+  "region": "Africa",
+  "period": "2019–present",
+  "start": 2019,
+  "end": null,
+  "optionIds": [
+    "cbi-egy-option-1",
+    "cbi-egy-option-2",
+    "cbi-egy-option-3",
+    "cbi-egy-option-4"
+  ],
+  "options": [
+    {
+      "id": "cbi-egy-option-1",
+      "label": "Treasury contribution",
+      "classification": "contribution",
+      "amountClaimId": "cbi-egy-routes",
+      "conditions": "Non-refundable"
+    },
+    {
+      "id": "cbi-egy-option-2",
+      "label": "Qualifying property",
+      "classification": "asset",
+      "amountClaimId": "cbi-egy-routes",
+      "conditions": "Conditions apply"
+    },
+    {
+      "id": "cbi-egy-option-3",
+      "label": "Investment project",
+      "classification": "business",
+      "amountClaimId": "cbi-egy-routes",
+      "conditions": "Conditions apply"
+    },
+    {
+      "id": "cbi-egy-option-4",
+      "label": "Bank deposit",
+      "classification": "deposit",
+      "amountClaimId": "cbi-egy-routes",
+      "conditions": "3 years; repayment / FX terms matter"
+    }
+  ],
+  "fields": {
+    "capital": "cbi-egy-capital",
+    "capitalType": "cbi-egy-capitalType",
+    "hold": "cbi-egy-hold",
+    "presence": "cbi-egy-presence",
+    "family": "cbi-egy-family",
+    "caveat": "cbi-egy-caveat",
+    "alert": "cbi-egy-alert",
+    "processing": "cbi-egy-processing",
+    "presenceShort": "cbi-egy-presenceShort",
+    "feeNote": "cbi-egy-feeNote",
+    "keyNote": "cbi-egy-keyNote",
+    "familyScenario": "cbi-egy-familyScenario",
+    "passportDelivery": "cbi-egy-passportDelivery",
+    "routeType": "cbi-egy-routeType",
+    "amount": "cbi-egy-amount",
+    "familyAmount": "cbi-egy-family-amount",
+    "routes": "cbi-egy-routes",
+    "legalOutcome": "cbi-egy-legal-outcome",
+    "intake": "cbi-egy-intake-observation",
+    "editorialUpdate": "cbi-egy-editorial-update"
+  },
+  "requiredFields": {
+    "legal_outcome": {
+      "claimIds": [
+        "cbi-egy-legal-outcome"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "legal_basis": {
+      "claimIds": [],
+      "state": "gap",
+      "gap": "Exact legal basis requirements not fully established in this release."
+    },
+    "operational_intake": {
+      "claimIds": [
+        "cbi-egy-intake-observation"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "decision_stage": {
+      "claimIds": [
+        "cbi-egy-intake-observation"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "passport_issuance": {
+      "claimIds": [
+        "cbi-egy-passportDelivery",
+        "cbi-egy-intake-observation"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "investment_options": {
+      "claimIds": [
+        "cbi-egy-routes"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "minimum_capital": {
+      "claimIds": [
+        "cbi-egy-amount",
+        "cbi-egy-capital"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "financial_resources": {
+      "claimIds": [],
+      "state": "gap",
+      "gap": "Exact financial resources requirements not fully established in this release."
+    },
+    "published_fees": {
+      "claimIds": [
+        "cbi-egy-cost-15",
+        "cbi-egy-cost-16",
+        "cbi-egy-feeNote"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "dependants": {
+      "claimIds": [
+        "cbi-egy-family",
+        "cbi-egy-familyScenario"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "screening": {
+      "claimIds": [],
+      "state": "gap",
+      "gap": "Exact screening requirements not fully established in this release."
+    },
+    "presence_holding": {
+      "claimIds": [
+        "cbi-egy-presence",
+        "cbi-egy-hold"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "post_grant": {
+      "claimIds": [
+        "cbi-egy-presence",
+        "cbi-egy-hold"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "withdrawal_recovery": {
+      "claimIds": [
+        "cbi-egy-capitalType",
+        "cbi-egy-hold"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "process_timing": {
+      "claimIds": [
+        "cbi-egy-processing",
+        "cbi-egy-passportDelivery"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "nationality_document_restrictions": {
+      "claimIds": [
+        "cbi-egy-caveat"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    }
+  },
+  "qualifications": [
+    "Current Cabinet programme page confirms the four investment routes. The deposit is repaid in Egyptian pounds without interest; FX and asset-retention conditions matter. No 6–12-month completion promise is made.",
+    "Published contribution and application fee; other personal/document charges are separate.",
+    "No independently verified end-to-end passport delivery time"
+  ]
+}

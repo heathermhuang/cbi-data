@@ -1,0 +1,190 @@
+{
+  "id": "cbi-grd",
+  "aliases": [
+    "gd"
+  ],
+  "jurisdiction": "GRD",
+  "country": "Grenada",
+  "name": "Citizenship by Investment",
+  "kind": "citizenship",
+  "mechanism": "investment_subject_to_nationality_decision",
+  "profileURL": "https://cbi.me/citizenship-by-investment/grenada/",
+  "region": "Caribbean",
+  "period": "2013–present",
+  "start": 2013,
+  "end": null,
+  "optionIds": [
+    "cbi-grd-option-1",
+    "cbi-grd-option-2"
+  ],
+  "options": [
+    {
+      "id": "cbi-grd-option-1",
+      "label": "NTF contribution",
+      "classification": "contribution",
+      "amountClaimId": "cbi-grd-routes",
+      "conditions": "Non-refundable"
+    },
+    {
+      "id": "cbi-grd-option-2",
+      "label": "Approved project share",
+      "classification": "business",
+      "amountClaimId": "cbi-grd-routes",
+      "conditions": "US$50,000 government contribution extra"
+    }
+  ],
+  "fields": {
+    "capital": "cbi-grd-capital",
+    "capitalType": "cbi-grd-capitalType",
+    "hold": "cbi-grd-hold",
+    "presence": "cbi-grd-presence",
+    "family": "cbi-grd-family",
+    "caveat": "cbi-grd-caveat",
+    "alert": "cbi-grd-alert",
+    "processing": "cbi-grd-processing",
+    "presenceShort": "cbi-grd-presenceShort",
+    "feeNote": "cbi-grd-feeNote",
+    "keyNote": "cbi-grd-keyNote",
+    "familyScenario": "cbi-grd-familyScenario",
+    "passportDelivery": "cbi-grd-passportDelivery",
+    "routeType": "cbi-grd-routeType",
+    "amount": "cbi-grd-amount",
+    "familyAmount": "cbi-grd-family-amount",
+    "routes": "cbi-grd-routes",
+    "legalOutcome": "cbi-grd-legal-outcome",
+    "intake": "cbi-grd-intake-observation",
+    "processStages": "cbi-grd-process-stages"
+  },
+  "requiredFields": {
+    "legal_outcome": {
+      "claimIds": [
+        "cbi-grd-legal-outcome"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "legal_basis": {
+      "claimIds": [],
+      "state": "gap",
+      "gap": "Exact legal basis requirements not fully established in this release."
+    },
+    "operational_intake": {
+      "claimIds": [
+        "cbi-grd-intake-observation"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "decision_stage": {
+      "claimIds": [
+        "cbi-grd-intake-observation"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "passport_issuance": {
+      "claimIds": [
+        "cbi-grd-passportDelivery",
+        "cbi-grd-intake-observation"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "investment_options": {
+      "claimIds": [
+        "cbi-grd-routes"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "minimum_capital": {
+      "claimIds": [
+        "cbi-grd-amount",
+        "cbi-grd-capital"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "financial_resources": {
+      "claimIds": [],
+      "state": "gap",
+      "gap": "Exact financial resources requirements not fully established in this release."
+    },
+    "published_fees": {
+      "claimIds": [
+        "cbi-grd-dated-single-fee-0",
+        "cbi-grd-dated-single-fee-1",
+        "cbi-grd-dated-single-fee-2",
+        "cbi-grd-dated-single-fee-3",
+        "cbi-grd-dated-single-fee-4",
+        "cbi-grd-scenario-item-29",
+        "cbi-grd-scenario-item-30",
+        "cbi-grd-scenario-item-31",
+        "cbi-grd-scenario-item-32",
+        "cbi-grd-scenario-item-33",
+        "cbi-grd-scenario-item-34",
+        "cbi-grd-feeNote"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "dependants": {
+      "claimIds": [
+        "cbi-grd-family",
+        "cbi-grd-familyScenario"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "screening": {
+      "claimIds": [],
+      "state": "gap",
+      "gap": "Exact screening requirements not fully established in this release."
+    },
+    "presence_holding": {
+      "claimIds": [
+        "cbi-grd-presence",
+        "cbi-grd-hold"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "post_grant": {
+      "claimIds": [
+        "cbi-grd-presence",
+        "cbi-grd-hold"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "withdrawal_recovery": {
+      "claimIds": [
+        "cbi-grd-capitalType",
+        "cbi-grd-hold"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "process_timing": {
+      "claimIds": [
+        "cbi-grd-processing",
+        "cbi-grd-passportDelivery",
+        "cbi-grd-process-stages"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "nationality_document_restrictions": {
+      "claimIds": [
+        "cbi-grd-caveat"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    }
+  },
+  "qualifications": [
+    "Residence change is based on specialist reporting of an IMA circular; obtain the circular for current obligations.",
+    "Based on the programme fee table: USD 5,000 diligence plus USD 1,000 interview per adult. Another agency FAQ groups diligence differently. Passport, document, sponsor-interview and agent charges can remain extra.",
+    "No independently verified end-to-end passport delivery time"
+  ]
+}

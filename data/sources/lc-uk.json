@@ -1,0 +1,28 @@
+{
+  "id": "lc-uk",
+  "publisher": "UK Home Office",
+  "title": "Saint Lucia visit-visa requirement",
+  "url": "https://www.gov.uk/government/news/over-370-million-saved-in-crackdown-on-asylum-claims-by-tourists",
+  "authorityType": "Government announcement",
+  "documentDate": "2026-03-05",
+  "rights": {
+    "disposition": "link_only",
+    "use": "CBI original factual normalization and references only; no upstream pages, PDFs, images or excerpts redistributed",
+    "basis": "Original compilation; no upstream republication licence asserted"
+  },
+  "retrieval": {
+    "retrievedAt": "2026-10-25T08:26:36.066Z",
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "method": "retrieval_hash_only",
+    "health": "available",
+    "hash": "26ff33e5e8e270589b70bde042e7b9e7bb3cb020f35e496a10b8b6c4808b1f65"
+  },
+  "manualReview": {
+    "intervalDays": 14,
+    "rationale": "Review exact claim and source applicability; retrieval success alone cannot refresh claims."
+  },
+  "reviewObservation": {
+    "date": "2026-10-12",
+    "method": "Relevant official page text reviewed"
+  }
+}

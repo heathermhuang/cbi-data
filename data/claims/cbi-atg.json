@@ -1,0 +1,1163 @@
+[
+  {
+    "id": "cbi-atg-capital",
+    "revisionId": "cbi-atg-capital-36f9df5944125e12",
+    "subject": "cbi-atg",
+    "predicate": "capital",
+    "value": "US$230,000 NDF contribution",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "ag-fees",
+        "locator": "NDF contribution, processing, due diligence and passport fees for principal and dependants.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-atg-capitalType",
+    "revisionId": "cbi-atg-capitalType-cddb78a0e1929e2f",
+    "subject": "cbi-atg",
+    "predicate": "capitalType",
+    "value": "Non-refundable contribution",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "ag",
+        "locator": "US$230,000 NDF; US$300,000 property; five days in first five years; family and screening.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "ag-fees",
+        "locator": "NDF contribution, processing, due diligence and passport fees for principal and dependants.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "ag-ndf",
+        "locator": "US$230,000 contribution; US$10,000 single processing; US$20,000 family processing.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-atg-hold",
+    "revisionId": "cbi-atg-hold-fa3cbdd370f4fdb0",
+    "subject": "cbi-atg",
+    "predicate": "hold",
+    "value": "Property alternative: US$300,000, held 5 years",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "ag",
+        "locator": "US$230,000 NDF; US$300,000 property; five days in first five years; family and screening.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "ag-fees",
+        "locator": "NDF contribution, processing, due diligence and passport fees for principal and dependants.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "ag-ndf",
+        "locator": "US$230,000 contribution; US$10,000 single processing; US$20,000 family processing.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-atg-presence",
+    "revisionId": "cbi-atg-presence-c2dd000d1a4605b8",
+    "subject": "cbi-atg",
+    "predicate": "presence",
+    "value": "At least 5 days in first 5 calendar years after citizenship",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "ag",
+        "locator": "US$230,000 NDF; US$300,000 property; five days in first five years; family and screening.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "ag-fees",
+        "locator": "NDF contribution, processing, due diligence and passport fees for principal and dependants.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "ag-ndf",
+        "locator": "US$230,000 contribution; US$10,000 single processing; US$20,000 family processing.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-atg-family",
+    "revisionId": "cbi-atg-family-e95dc59541e8ae24",
+    "subject": "cbi-atg",
+    "predicate": "family",
+    "value": "Family allowed; dependants and government fees change total",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "ag",
+        "locator": "US$230,000 NDF; US$300,000 property; five days in first five years; family and screening.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "ag-fees",
+        "locator": "NDF contribution, processing, due diligence and passport fees for principal and dependants.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "ag-ndf",
+        "locator": "US$230,000 contribution; US$10,000 single processing; US$20,000 family processing.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-atg-caveat",
+    "revisionId": "cbi-atg-caveat-69235fb5d0593ea7",
+    "subject": "cbi-atg",
+    "predicate": "caveat",
+    "value": "Five-day obligation can affect retention of citizenship. Due diligence and processing are additional.",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "ag",
+        "locator": "US$230,000 NDF; US$300,000 property; five days in first five years; family and screening.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "ag-fees",
+        "locator": "NDF contribution, processing, due diligence and passport fees for principal and dependants.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "ag-ndf",
+        "locator": "US$230,000 contribution; US$10,000 single processing; US$20,000 family processing.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-atg-alert",
+    "revisionId": "cbi-atg-alert-e6ed6eb587cf0f38",
+    "subject": "cbi-atg",
+    "predicate": "alert",
+    "value": "",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "ag",
+        "locator": "US$230,000 NDF; US$300,000 property; five days in first five years; family and screening.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "ag-fees",
+        "locator": "NDF contribution, processing, due diligence and passport fees for principal and dependants.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "ag-ndf",
+        "locator": "US$230,000 contribution; US$10,000 single processing; US$20,000 family processing.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-atg-processing",
+    "revisionId": "cbi-atg-processing-2209f907a58079a3",
+    "subject": "cbi-atg",
+    "predicate": "processing",
+    "value": "Not published here",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "ag",
+        "locator": "US$230,000 NDF; US$300,000 property; five days in first five years; family and screening.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "ag-fees",
+        "locator": "NDF contribution, processing, due diligence and passport fees for principal and dependants.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "ag-ndf",
+        "locator": "US$230,000 contribution; US$10,000 single processing; US$20,000 family processing.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-atg-presenceShort",
+    "revisionId": "cbi-atg-presenceShort-f207d8994aa659d3",
+    "subject": "cbi-atg",
+    "predicate": "presenceShort",
+    "value": "5 days in first 5 years",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "ag",
+        "locator": "US$230,000 NDF; US$300,000 property; five days in first five years; family and screening.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "ag-fees",
+        "locator": "NDF contribution, processing, due diligence and passport fees for principal and dependants.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "ag-ndf",
+        "locator": "US$230,000 contribution; US$10,000 single processing; US$20,000 family processing.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-atg-feeNote",
+    "revisionId": "cbi-atg-feeNote-f8b4875f4a210a8c",
+    "subject": "cbi-atg",
+    "predicate": "feeNote",
+    "value": "Interview, document, agent and any enhanced checks are additional if applicable.",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "ag",
+        "locator": "US$230,000 NDF; US$300,000 property; five days in first five years; family and screening.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "ag-fees",
+        "locator": "NDF contribution, processing, due diligence and passport fees for principal and dependants.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "ag-ndf",
+        "locator": "US$230,000 contribution; US$10,000 single processing; US$20,000 family processing.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-atg-keyNote",
+    "revisionId": "cbi-atg-keyNote-a8ab5ebf17ae9896",
+    "subject": "cbi-atg",
+    "predicate": "keyNote",
+    "value": "Five-day visit obligation after citizenship.",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "ag",
+        "locator": "US$230,000 NDF; US$300,000 property; five days in first five years; family and screening.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "ag-fees",
+        "locator": "NDF contribution, processing, due diligence and passport fees for principal and dependants.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "ag-ndf",
+        "locator": "US$230,000 contribution; US$10,000 single processing; US$20,000 family processing.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-atg-familyScenario",
+    "revisionId": "cbi-atg-familyScenario-fbe576ee17a4a9d3",
+    "subject": "cbi-atg",
+    "predicate": "familyScenario",
+    "value": "Principal, spouse and two children aged under 12; qualifying family only.",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "ag",
+        "locator": "US$230,000 NDF; US$300,000 property; five days in first five years; family and screening.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "ag-fees",
+        "locator": "NDF contribution, processing, due diligence and passport fees for principal and dependants.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "ag-ndf",
+        "locator": "US$230,000 contribution; US$10,000 single processing; US$20,000 family processing.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-atg-passportDelivery",
+    "revisionId": "cbi-atg-passportDelivery-7665d78145a64c78",
+    "subject": "cbi-atg",
+    "predicate": "passportDelivery",
+    "value": "No independently verified end-to-end passport delivery time",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "ag",
+        "locator": "US$230,000 NDF; US$300,000 property; five days in first five years; family and screening.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "ag-fees",
+        "locator": "NDF contribution, processing, due diligence and passport fees for principal and dependants.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "ag-ndf",
+        "locator": "US$230,000 contribution; US$10,000 single processing; US$20,000 family processing.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-atg-routeType",
+    "revisionId": "cbi-atg-routeType-1ad1bef4fb809f0b",
+    "subject": "cbi-atg",
+    "predicate": "routeType",
+    "value": "Contribution",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "ag",
+        "locator": "US$230,000 NDF; US$300,000 property; five days in first five years; family and screening.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "ag-fees",
+        "locator": "NDF contribution, processing, due diligence and passport fees for principal and dependants.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "ag-ndf",
+        "locator": "US$230,000 contribution; US$10,000 single processing; US$20,000 family processing.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-atg-amount",
+    "revisionId": "cbi-atg-amount-193c3f816accc399",
+    "subject": "cbi-atg",
+    "predicate": "amount",
+    "value": {
+      "amount": "230000",
+      "currency": "USD"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "ag-fees",
+        "locator": "NDF contribution, processing, due diligence and passport fees for principal and dependants.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-atg-family-amount",
+    "revisionId": "cbi-atg-family-amount-b6cd751abfe01065",
+    "subject": "cbi-atg",
+    "predicate": "family_amount",
+    "value": {
+      "amount": "230000",
+      "currency": "USD"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "ag",
+        "locator": "US$230,000 NDF; US$300,000 property; five days in first five years; family and screening.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "ag-fees",
+        "locator": "NDF contribution, processing, due diligence and passport fees for principal and dependants.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "ag-ndf",
+        "locator": "US$230,000 contribution; US$10,000 single processing; US$20,000 family processing.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [
+      "An amount alone does not establish dependant eligibility."
+    ]
+  },
+  {
+    "id": "cbi-atg-routes",
+    "revisionId": "cbi-atg-routes-7499bc60ac6b7c4c",
+    "subject": "cbi-atg",
+    "predicate": "routes",
+    "value": [
+      {
+        "label": "NDF contribution",
+        "amount": "230000",
+        "currency": "USD",
+        "conditions": "Non-refundable"
+      },
+      {
+        "label": "Approved property",
+        "amount": "300000",
+        "currency": "USD",
+        "conditions": "5-year hold"
+      },
+      {
+        "label": "Joint business",
+        "amount": "400000",
+        "currency": "USD",
+        "conditions": "Minimum participant share; joint project conditions"
+      }
+    ],
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "ag",
+        "locator": "US$230,000 NDF; US$300,000 property; five days in first five years; family and screening.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "ag-fees",
+        "locator": "NDF contribution, processing, due diligence and passport fees for principal and dependants.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "ag-ndf",
+        "locator": "US$230,000 contribution; US$10,000 single processing; US$20,000 family processing.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-atg-legal-outcome",
+    "revisionId": "cbi-atg-legal-outcome-76c77ad53b925826",
+    "subject": "cbi-atg",
+    "predicate": "legal_outcome",
+    "value": "Citizenship through investment subject to government approval, naturalisation or registration, followed by a separate passport process.",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "ag",
+        "locator": "US$230,000 NDF; US$300,000 property; five days in first five years; family and screening.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "ag-fees",
+        "locator": "NDF contribution, processing, due diligence and passport fees for principal and dependants.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "ag-ndf",
+        "locator": "US$230,000 contribution; US$10,000 single processing; US$20,000 family processing.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-atg-intake-observation",
+    "revisionId": "cbi-atg-intake-observation-d98691a262a76c46",
+    "subject": "cbi-atg",
+    "predicate": "intake_observation",
+    "value": {
+      "legal": "published_citizenship_route",
+      "intake": "published_application_route",
+      "decision": "government_assessment_required",
+      "passportIssuance": "separate_stage_not_guaranteed"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "ag",
+        "locator": "US$230,000 NDF; US$300,000 property; five days in first five years; family and screening.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "ag-fees",
+        "locator": "NDF contribution, processing, due diligence and passport fees for principal and dependants.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "ag-ndf",
+        "locator": "US$230,000 contribution; US$10,000 single processing; US$20,000 family processing.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-20",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [
+      "Five-day obligation can affect retention of citizenship. Due diligence and processing are additional.",
+      "Publication of a route is not a successful live application or completed issuance observation."
+    ]
+  },
+  {
+    "id": "cbi-atg-travel-gbr",
+    "revisionId": "cbi-atg-travel-gbr-412bf9c1200b50e5",
+    "subject": "cbi-atg",
+    "predicate": "travel_gbr",
+    "value": {
+      "label": "ETA / visit-visa exempt",
+      "note": "Short visits on an ordinary national passport. ETA eligibility and visitor conditions apply."
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "uk-visits",
+        "locator": "Current ordinary-passport visit-visa requirements. Rules updated 8 October 2026.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [
+      "Ordinary national passport after issuance; acquisition-route and passport-series restrictions not comprehensively researched.",
+      "Individual status exemptions, admission decisions and separate territories are outside this rule."
+    ]
+  },
+  {
+    "id": "cbi-atg-travel-usa",
+    "revisionId": "cbi-atg-travel-usa-7a33450117eb48b0",
+    "subject": "cbi-atg",
+    "predicate": "travel_usa",
+    "value": {
+      "label": "Visa issuance restricted",
+      "note": "Antigua and Dominica are subject to partial B1/B2 restrictions. Applies to persons outside the US without a valid visa on 1 January 2026; existing valid visas, dual-national and other exceptions apply."
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "us-vwp",
+        "locator": "Ordinary-national-passport visitor rules; no current CBI nationality in the participating list",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "us-restrictions",
+        "locator": "Antigua and Dominica visitor visa restrictions effective January 2026; valid-visa and other exceptions",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [
+      "Ordinary national passport after issuance; acquisition-route and passport-series restrictions not comprehensively researched.",
+      "Individual status exemptions, admission decisions and separate territories are outside this rule."
+    ]
+  },
+  {
+    "id": "cbi-atg-travel-can",
+    "revisionId": "cbi-atg-travel-can-560a316fc9860aa2",
+    "subject": "cbi-atg",
+    "predicate": "travel_can",
+    "value": {
+      "label": "Conditional air eTA",
+      "note": "Only air travel / airport transit, plus Canadian visa held in past ten years OR a valid US nonimmigrant visa. Land/sea travel needs a visa; each traveller qualifies separately."
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "ca-conditional-eta",
+        "locator": "Antigua, St Kitts and St Lucia: conditional air-travel eTA; past Canadian visa or valid US nonimmigrant visa required",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [
+      "Ordinary national passport after issuance; acquisition-route and passport-series restrictions not comprehensively researched.",
+      "Individual status exemptions, admission decisions and separate territories are outside this rule."
+    ]
+  },
+  {
+    "id": "cbi-atg-travel-schengen-short-stay",
+    "revisionId": "cbi-atg-travel-schengen-short-stay-73a303c7ebafb3ad",
+    "subject": "cbi-atg",
+    "predicate": "travel_schengen_short_stay",
+    "value": {
+      "label": "Visa-exempt · 90/180",
+      "note": "Ordinary national passport, short visits; entry conditions and document validity still apply."
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "eu-visa-list",
+        "locator": "Annexes I/II and qualifying footnotes; ordinary national passports only",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [
+      "Ordinary national passport after issuance; acquisition-route and passport-series restrictions not comprehensively researched.",
+      "Individual status exemptions, admission decisions and separate territories are outside this rule."
+    ]
+  },
+  {
+    "id": "cbi-atg-cost-0",
+    "revisionId": "cbi-atg-cost-0-d8372f75a2ebdf36",
+    "subject": "cbi-atg",
+    "predicate": "cost_0",
+    "value": {
+      "label": "NDF contribution",
+      "amount": "230000",
+      "currency": "USD",
+      "category": "capital",
+      "basis": "application",
+      "quantity": 1,
+      "paymentStage": "after_approval",
+      "recoverability": "nonrefundable_contribution_or_published_selling_price; withdrawal_and_refund_terms_not_established",
+      "frequency": "once",
+      "scenario": "single_adult"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "ag-ndf",
+        "locator": "US$230,000 contribution; US$10,000 single processing; US$20,000 family processing.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-25",
+    "reviewDueAt": "2026-11-08",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-25",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-atg-cost-1",
+    "revisionId": "cbi-atg-cost-1-3589be1e521d232e",
+    "subject": "cbi-atg",
+    "predicate": "cost_1",
+    "value": {
+      "label": "Processing",
+      "amount": "10000",
+      "currency": "USD",
+      "category": "government_charge",
+      "basis": "application",
+      "quantity": 1,
+      "paymentStage": "10_percent_submission_balance_approval",
+      "recoverability": "not_established",
+      "frequency": "once",
+      "scenario": "single_adult"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "ag-fees",
+        "locator": "NDF contribution, processing, due diligence and passport fees for principal and dependants.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "ag-ndf",
+        "locator": "US$230,000 contribution; US$10,000 single processing; US$20,000 family processing.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-25",
+    "reviewDueAt": "2026-11-08",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-25",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-atg-cost-2",
+    "revisionId": "cbi-atg-cost-2-33ba7871dd24b98c",
+    "subject": "cbi-atg",
+    "predicate": "cost_2",
+    "value": {
+      "label": "Principal diligence",
+      "amount": "8500",
+      "currency": "USD",
+      "category": "government_charge",
+      "basis": "principal",
+      "quantity": 1,
+      "paymentStage": "submission",
+      "recoverability": "not_established",
+      "frequency": "once",
+      "scenario": "single_adult"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "ag-fees",
+        "locator": "NDF contribution, processing, due diligence and passport fees for principal and dependants.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-25",
+    "reviewDueAt": "2026-11-08",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-25",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-atg-cost-18",
+    "revisionId": "cbi-atg-cost-18-afdbec06e942127e",
+    "subject": "cbi-atg",
+    "predicate": "cost_18",
+    "value": {
+      "label": "NDF contribution",
+      "amount": "230000",
+      "currency": "USD",
+      "category": "capital",
+      "basis": "application",
+      "quantity": 1,
+      "paymentStage": "after_approval",
+      "recoverability": "nonrefundable_contribution_or_published_selling_price; withdrawal_and_refund_terms_not_established",
+      "frequency": "once",
+      "scenario": "couple_two_children_under12"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "ag-ndf",
+        "locator": "US$230,000 contribution; US$10,000 single processing; US$20,000 family processing.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-25",
+    "reviewDueAt": "2026-11-08",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-25",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-atg-cost-19",
+    "revisionId": "cbi-atg-cost-19-85dd76ada8f26776",
+    "subject": "cbi-atg",
+    "predicate": "cost_19",
+    "value": {
+      "label": "Processing",
+      "amount": "20000",
+      "currency": "USD",
+      "category": "government_charge",
+      "basis": "application",
+      "quantity": 1,
+      "paymentStage": "10_percent_submission_balance_approval",
+      "recoverability": "not_established",
+      "frequency": "once",
+      "scenario": "couple_two_children_under12"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "ag-fees",
+        "locator": "NDF contribution, processing, due diligence and passport fees for principal and dependants.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "ag-ndf",
+        "locator": "US$230,000 contribution; US$10,000 single processing; US$20,000 family processing.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-25",
+    "reviewDueAt": "2026-11-08",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-25",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-atg-cost-20",
+    "revisionId": "cbi-atg-cost-20-0b04811737fd9a05",
+    "subject": "cbi-atg",
+    "predicate": "cost_20",
+    "value": {
+      "label": "Principal diligence",
+      "amount": "8500",
+      "currency": "USD",
+      "category": "government_charge",
+      "basis": "principal",
+      "quantity": 1,
+      "paymentStage": "submission",
+      "recoverability": "not_established",
+      "frequency": "once",
+      "scenario": "couple_two_children_under12"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "ag-fees",
+        "locator": "NDF contribution, processing, due diligence and passport fees for principal and dependants.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-25",
+    "reviewDueAt": "2026-11-08",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-25",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-atg-cost-21",
+    "revisionId": "cbi-atg-cost-21-00eb1e9b839ed3a4",
+    "subject": "cbi-atg",
+    "predicate": "cost_21",
+    "value": {
+      "label": "Spouse diligence",
+      "amount": "5000",
+      "currency": "USD",
+      "category": "government_charge",
+      "basis": "spouse",
+      "quantity": 1,
+      "paymentStage": "submission",
+      "recoverability": "not_established",
+      "frequency": "once",
+      "scenario": "couple_two_children_under12"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "ag-fees",
+        "locator": "NDF contribution, processing, due diligence and passport fees for principal and dependants.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-25",
+    "reviewDueAt": "2026-11-08",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-25",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-atg-editorial-update",
+    "subject": "cbi-atg",
+    "predicate": "editorial_update",
+    "value": {
+      "items": [
+        {
+          "label": "Property and exit conditions",
+          "text": "The CIU describes approved property from $300,000 and a five-year resale restriction, subject to its alternative-approved-property exception. It warns that the property transaction can lengthen processing. Approval for CBI does not establish the asset’s market value or resale liquidity.",
+          "source": "update-ag-property",
+          "checked": "2026-10-22"
+        },
+        {
+          "label": "EU phase-out request",
+          "text": "The government’s 7 July statement reports a Commission request to phase out the programme by 1 June 2028, while saying the programme will continue. This verifies the reported request; it is not an enacted closure or proof that visa-free travel has already been suspended.",
+          "source": "follow-ag-eu-request"
+        }
+      ],
+      "guides": [
+        "cbi-real-estate-due-diligence",
+        "citizenship-and-travel-policy-risk"
+      ],
+      "checked": "2026-10-23"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "update-ag-property",
+        "locator": "Minimum $300,000 approved real estate, holding/resale conditions and property-related processing delays; programme eligibility is not investment-quality assurance.",
+        "scope": "Stated dated CBI claim only; no general legal clearance"
+      },
+      {
+        "sourceId": "follow-ag-eu-request",
+        "locator": "Government reports a 25 June Commission letter requesting phase-out by 1 June 2028 and a 24-month transition; government says its programme will continue.",
+        "scope": "Stated dated CBI claim only; no general legal clearance"
+      }
+    ],
+    "reviewedAt": "2026-10-23",
+    "reviewDueAt": "2026-11-06",
+    "reviewMethod": "Migrated original CBI primary-source observation; original scope and review limits retained",
+    "observedAt": "2026-10-23",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [],
+    "revisionId": "cbi-atg-editorial-update-5cce7d1fe984d3f8"
+  },
+  {
+    "id": "cbi-atg-dated-single-fee-7",
+    "subject": "cbi-atg",
+    "predicate": "dated_single_fee_7",
+    "value": {
+      "label": "Passport",
+      "amount": "300",
+      "currency": "USD",
+      "category": "government_charge",
+      "basis": "principal",
+      "quantity": 1,
+      "paymentStage": "not_established",
+      "recoverability": "not_established",
+      "frequency": "once",
+      "scenario": "single_adult"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "ag-fees",
+        "locator": "NDF contribution, processing, due diligence and passport fees for principal and dependants.",
+        "scope": "Stated dated CBI claim only; no general legal clearance"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated original CBI primary-source observation; original scope and review limits retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [],
+    "revisionId": "cbi-atg-dated-single-fee-7-4605cce1f35c0196"
+  },
+  {
+    "id": "cbi-atg-scenario-item-32",
+    "subject": "cbi-atg",
+    "predicate": "scenario_cost_item",
+    "value": {
+      "label": "Passport",
+      "amount": "300",
+      "currency": "USD",
+      "category": "government_charge",
+      "basis": "persons",
+      "quantity": 4,
+      "paymentStage": "not_established",
+      "recoverability": "not_established",
+      "frequency": "once",
+      "scenario": "couple_two_children_under12"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [
+      "Conditional on government acceptance of the named household and source-specific eligibility."
+    ],
+    "evidence": [
+      {
+        "sourceId": "ag-fees",
+        "locator": "Published contribution and fee schedule; applicant age bands and per-person/application distinctions",
+        "scope": "Dated fee evidence; eligibility, additional charges and refund terms remain separate"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Original CBI itemization, retaining source-specific limitations",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [],
+    "revisionId": "cbi-atg-scenario-item-32-8a264cd56400c3af"
+  }
+]

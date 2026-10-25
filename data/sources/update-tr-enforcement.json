@@ -1,0 +1,28 @@
+{
+  "id": "update-tr-enforcement",
+  "publisher": "Türkiye Ministry of Interior",
+  "title": "Statement on false valuation and irregular citizenship",
+  "url": "https://www.icisleri.gov.tr/sahte-degerlemeekspertiz-operasyonu-ve-usulsuz-vatandaslik-islemleri-hakkinda-basin-aciklamasi",
+  "authorityType": "Official publication",
+  "documentDate": "2026-08-04",
+  "rights": {
+    "disposition": "link_only",
+    "use": "Original CBI normalized facts and pointers only. No upstream documents, images, or excerpts distributed.",
+    "basis": "CBI original compilation; upstream rights retained"
+  },
+  "retrieval": {
+    "retrievedAt": "2026-10-25T08:37:07.920Z",
+    "lastAttempt": "2026-10-25T08:37:07.920Z",
+    "method": "retrieval_hash_only",
+    "health": "available",
+    "hash": "db80d20f876decb6839c5be3a63080d6462f38c7ccd70d06cfacd7f1de4fa1f4"
+  },
+  "manualReview": {
+    "intervalDays": 14,
+    "rationale": "Evidence interpretation requires editorial review; a successful fetch is not verification."
+  },
+  "reviewObservation": {
+    "date": "2026-10-22",
+    "method": "Official Turkish statement retrieved directly and reviewed, including the distinct grounds and population units. News figures are not used as a programme-wide probability."
+  }
+}

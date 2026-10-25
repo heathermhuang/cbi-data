@@ -1,0 +1,86 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "programmeId": {
+      "type": "string"
+    },
+    "passport": {
+      "type": "string"
+    },
+    "destination": {
+      "type": "string"
+    },
+    "documentType": {
+      "const": "ordinary"
+    },
+    "purpose": {
+      "const": "short_visit"
+    },
+    "route": {
+      "enum": [
+        "conditional_eta",
+        "eta",
+        "visa_issuance_restricted",
+        "visa_exempt",
+        "advance_visa"
+      ]
+    },
+    "outcome": {
+      "enum": [
+        "supported",
+        "conditional",
+        "insufficient_evidence",
+        "conflicting_evidence",
+        "not_covered"
+      ]
+    },
+    "claimId": {
+      "type": "string"
+    },
+    "transport": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "conditions": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "permittedStay": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "documentRecognition": {
+      "type": "string"
+    },
+    "acquisitionRestrictions": {
+      "const": "not_researched"
+    }
+  },
+  "required": [
+    "id",
+    "programmeId",
+    "passport",
+    "destination",
+    "documentType",
+    "purpose",
+    "route",
+    "outcome",
+    "claimId",
+    "transport",
+    "conditions",
+    "permittedStay",
+    "documentRecognition",
+    "acquisitionRestrictions"
+  ]
+}

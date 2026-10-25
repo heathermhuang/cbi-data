@@ -1,0 +1,1049 @@
+[
+  {
+    "id": "cbi-grd-capital",
+    "revisionId": "cbi-grd-capital-262576e972dbd19a",
+    "subject": "cbi-grd",
+    "predicate": "capital",
+    "value": "US$235,000 NTF contribution",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "gd",
+        "locator": "NTF US$235,000; approved-project investment options; fees, interview and personal requirements.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-grd-capitalType",
+    "revisionId": "cbi-grd-capitalType-1d8ca934821cba22",
+    "subject": "cbi-grd",
+    "predicate": "capitalType",
+    "value": "Non-refundable contribution",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "gd",
+        "locator": "NTF US$235,000; approved-project investment options; fees, interview and personal requirements.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-grd-hold",
+    "revisionId": "cbi-grd-hold-b7e046e80c6f8054",
+    "subject": "cbi-grd",
+    "predicate": "hold",
+    "value": "Approved property/project alternatives; confirm applicable hold",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "gd",
+        "locator": "NTF US$235,000; approved-project investment options; fees, interview and personal requirements.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-grd-presence",
+    "revisionId": "cbi-grd-presence-58d72d1fdd737415",
+    "subject": "cbi-grd",
+    "predicate": "presence",
+    "value": "A secondary report describes deferral of planned residence commencement; current duties and applicant-cohort applicability have not been verified against the circular.",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "gd",
+        "locator": "NTF US$235,000; approved-project investment options; fees, interview and personal requirements.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-grd-family",
+    "revisionId": "cbi-grd-family-3a78c16d33911489",
+    "subject": "cbi-grd",
+    "predicate": "family",
+    "value": "US$235,000 standard family up to 4; certain relatives cost extra",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "gd",
+        "locator": "NTF US$235,000; approved-project investment options; fees, interview and personal requirements.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-grd-caveat",
+    "revisionId": "cbi-grd-caveat-6dca695b5fd31dab",
+    "subject": "cbi-grd",
+    "predicate": "caveat",
+    "value": "Residence change is based on specialist reporting of an IMA circular; obtain the circular for current obligations.",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "gd",
+        "locator": "NTF US$235,000; approved-project investment options; fees, interview and personal requirements.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-grd-alert",
+    "revisionId": "cbi-grd-alert-ecf0bd2274776dfb",
+    "subject": "cbi-grd",
+    "predicate": "alert",
+    "value": "",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "gd",
+        "locator": "NTF US$235,000; approved-project investment options; fees, interview and personal requirements.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-grd-processing",
+    "revisionId": "cbi-grd-processing-d7bb343f587bd2f9",
+    "subject": "cbi-grd",
+    "predicate": "processing",
+    "value": "Not published here",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "gd",
+        "locator": "NTF US$235,000; approved-project investment options; fees, interview and personal requirements.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-grd-presenceShort",
+    "revisionId": "cbi-grd-presenceShort-1a5b2adba7e7fe72",
+    "subject": "cbi-grd",
+    "predicate": "presenceShort",
+    "value": "Current presence terms unconfirmed",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "gd",
+        "locator": "NTF US$235,000; approved-project investment options; fees, interview and personal requirements.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-grd-feeNote",
+    "revisionId": "cbi-grd-feeNote-29b2c16b4b1a0c88",
+    "subject": "cbi-grd",
+    "predicate": "feeNote",
+    "value": "Based on the programme fee table: USD 5,000 diligence plus USD 1,000 interview per adult. Another agency FAQ groups diligence differently. Passport, document, sponsor-interview and agent charges can remain extra.",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "gd",
+        "locator": "NTF US$235,000; approved-project investment options; fees, interview and personal requirements.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-grd-keyNote",
+    "revisionId": "cbi-grd-keyNote-1024010e844c01bb",
+    "subject": "cbi-grd",
+    "predicate": "keyNote",
+    "value": "Residence circular needs confirmation for the applicant cohort.",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "gd",
+        "locator": "NTF US$235,000; approved-project investment options; fees, interview and personal requirements.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-grd-familyScenario",
+    "revisionId": "cbi-grd-familyScenario-31e6f641bd1345ad",
+    "subject": "cbi-grd",
+    "predicate": "familyScenario",
+    "value": "Principal, spouse and two children aged under 12; qualifying family only.",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "gd",
+        "locator": "NTF US$235,000; approved-project investment options; fees, interview and personal requirements.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-grd-passportDelivery",
+    "revisionId": "cbi-grd-passportDelivery-0c3783ab389ef162",
+    "subject": "cbi-grd",
+    "predicate": "passportDelivery",
+    "value": "No independently verified end-to-end passport delivery time",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "gd",
+        "locator": "NTF US$235,000; approved-project investment options; fees, interview and personal requirements.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-grd-routeType",
+    "revisionId": "cbi-grd-routeType-689647c84cb0dade",
+    "subject": "cbi-grd",
+    "predicate": "routeType",
+    "value": "Contribution",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "gd",
+        "locator": "NTF US$235,000; approved-project investment options; fees, interview and personal requirements.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-grd-amount",
+    "revisionId": "cbi-grd-amount-98b1cb0eedda0af1",
+    "subject": "cbi-grd",
+    "predicate": "amount",
+    "value": {
+      "amount": "235000",
+      "currency": "USD"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "gd",
+        "locator": "NTF US$235,000; approved-project investment options; fees, interview and personal requirements.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-grd-family-amount",
+    "revisionId": "cbi-grd-family-amount-255374418f765d5c",
+    "subject": "cbi-grd",
+    "predicate": "family_amount",
+    "value": {
+      "amount": "235000",
+      "currency": "USD"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "gd",
+        "locator": "NTF US$235,000; approved-project investment options; fees, interview and personal requirements.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [
+      "An amount alone does not establish dependant eligibility."
+    ]
+  },
+  {
+    "id": "cbi-grd-routes",
+    "revisionId": "cbi-grd-routes-e00a17623e858a54",
+    "subject": "cbi-grd",
+    "predicate": "routes",
+    "value": [
+      {
+        "label": "NTF contribution",
+        "amount": "235000",
+        "currency": "USD",
+        "conditions": "Non-refundable"
+      },
+      {
+        "label": "Approved project share",
+        "amount": "270000",
+        "currency": "USD",
+        "conditions": "US$50,000 government contribution extra"
+      }
+    ],
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "gd",
+        "locator": "NTF US$235,000; approved-project investment options; fees, interview and personal requirements.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-grd-legal-outcome",
+    "revisionId": "cbi-grd-legal-outcome-372f58c0bb6220a6",
+    "subject": "cbi-grd",
+    "predicate": "legal_outcome",
+    "value": "Citizenship through investment subject to government approval, naturalisation or registration, followed by a separate passport process.",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "gd",
+        "locator": "NTF US$235,000; approved-project investment options; fees, interview and personal requirements.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-grd-intake-observation",
+    "revisionId": "cbi-grd-intake-observation-9ee737dc327e912c",
+    "subject": "cbi-grd",
+    "predicate": "intake_observation",
+    "value": {
+      "legal": "published_citizenship_route",
+      "intake": "published_application_route",
+      "decision": "government_assessment_required",
+      "passportIssuance": "separate_stage_not_guaranteed"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "gd",
+        "locator": "NTF US$235,000; approved-project investment options; fees, interview and personal requirements.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-20",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [
+      "Residence change is based on specialist reporting of an IMA circular; obtain the circular for current obligations.",
+      "Publication of a route is not a successful live application or completed issuance observation."
+    ]
+  },
+  {
+    "id": "cbi-grd-travel-gbr",
+    "revisionId": "cbi-grd-travel-gbr-4eac067622a0cd34",
+    "subject": "cbi-grd",
+    "predicate": "travel_gbr",
+    "value": {
+      "label": "ETA / visit-visa exempt",
+      "note": "Short visits on an ordinary national passport. ETA eligibility and visitor conditions apply."
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "uk-visits",
+        "locator": "Current ordinary-passport visit-visa requirements. Rules updated 8 October 2026.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [
+      "Ordinary national passport after issuance; acquisition-route and passport-series restrictions not comprehensively researched.",
+      "Individual status exemptions, admission decisions and separate territories are outside this rule."
+    ]
+  },
+  {
+    "id": "cbi-grd-travel-usa",
+    "revisionId": "cbi-grd-travel-usa-bf47e659d59d90b1",
+    "subject": "cbi-grd",
+    "predicate": "travel_usa",
+    "value": {
+      "label": "Visitor visa required",
+      "note": "This nationality is outside the Visa Waiver Program. Individual exceptions may apply."
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "us-vwp",
+        "locator": "Ordinary-national-passport visitor rules; no current CBI nationality in the participating list",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [
+      "Ordinary national passport after issuance; acquisition-route and passport-series restrictions not comprehensively researched.",
+      "Individual status exemptions, admission decisions and separate territories are outside this rule."
+    ]
+  },
+  {
+    "id": "cbi-grd-travel-can",
+    "revisionId": "cbi-grd-travel-can-179968dbc8305e5d",
+    "subject": "cbi-grd",
+    "predicate": "travel_can",
+    "value": {
+      "label": "Visitor visa required",
+      "note": "No nationality-based visitor waiver is established here. Individual exemptions may apply."
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "publication-entry-nationality",
+        "locator": "Entry conditions depend on citizenship, travel document, status and transport. Foreign residence does not itself create a new nationality. Canadian and US permanent residents have separately described document rules.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [
+      "Ordinary national passport after issuance; acquisition-route and passport-series restrictions not comprehensively researched.",
+      "Individual status exemptions, admission decisions and separate territories are outside this rule."
+    ]
+  },
+  {
+    "id": "cbi-grd-travel-schengen-short-stay",
+    "revisionId": "cbi-grd-travel-schengen-short-stay-604827d789f044fe",
+    "subject": "cbi-grd",
+    "predicate": "travel_schengen_short_stay",
+    "value": {
+      "label": "Visa-exempt · 90/180",
+      "note": "Ordinary national passport, short visits; entry conditions and document validity still apply."
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "eu-visa-list",
+        "locator": "Annexes I/II and qualifying footnotes; ordinary national passports only",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [
+      "Ordinary national passport after issuance; acquisition-route and passport-series restrictions not comprehensively researched.",
+      "Individual status exemptions, admission decisions and separate territories are outside this rule."
+    ]
+  },
+  {
+    "id": "cbi-grd-process-stages",
+    "subject": "cbi-grd",
+    "predicate": "process_stages",
+    "value": {
+      "summary": "Decision, payment, registration, then passport",
+      "stages": [
+        {
+          "label": "Decision and payment",
+          "text": "IMA describes screening and a ministerial decision before the successful applicant is instructed to complete the contribution or property purchase.",
+          "source": "official-gd-process"
+        },
+        {
+          "label": "Nationality and passport",
+          "text": "Proof of payment precedes the registration certificate. The local agent then applies for a passport using that certificate. No end-to-end duration is verified here.",
+          "source": "official-gd-process"
+        }
+      ],
+      "agents": "official-gd-agents",
+      "statistics": "grenada-q1-2026"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "official-gd-process",
+        "locator": "International marketing and local-agent roles, screening, payment after a successful decision, registration and a separate passport application.",
+        "scope": "Stated dated CBI claim only; no general legal clearance"
+      },
+      {
+        "sourceId": "official-gd-process",
+        "locator": "International marketing and local-agent roles, screening, payment after a successful decision, registration and a separate passport application.",
+        "scope": "Stated dated CBI claim only; no general legal clearance"
+      }
+    ],
+    "reviewedAt": "2026-10-21",
+    "reviewDueAt": "2026-11-04",
+    "reviewMethod": "Migrated original CBI primary-source observation; original scope and review limits retained",
+    "observedAt": "2026-10-21",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [],
+    "revisionId": "cbi-grd-process-stages-195b792f8e994930"
+  },
+  {
+    "id": "cbi-grd-dated-single-fee-0",
+    "subject": "cbi-grd",
+    "predicate": "dated_single_fee_0",
+    "value": {
+      "label": "NTF contribution",
+      "amount": "235000",
+      "currency": "USD",
+      "category": "capital",
+      "basis": "principal",
+      "quantity": 1,
+      "paymentStage": "not_established",
+      "recoverability": "not_established",
+      "frequency": "once",
+      "scenario": "single_adult"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "gd",
+        "locator": "NTF US$235,000; approved-project investment options; fees, interview and personal requirements.",
+        "scope": "Stated dated CBI claim only; no general legal clearance"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated original CBI primary-source observation; original scope and review limits retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [],
+    "revisionId": "cbi-grd-dated-single-fee-0-12989d819b8a37dc"
+  },
+  {
+    "id": "cbi-grd-dated-single-fee-1",
+    "subject": "cbi-grd",
+    "predicate": "dated_single_fee_1",
+    "value": {
+      "label": "Application",
+      "amount": "1500",
+      "currency": "USD",
+      "category": "government_charge",
+      "basis": "principal",
+      "quantity": 1,
+      "paymentStage": "not_established",
+      "recoverability": "not_established",
+      "frequency": "once",
+      "scenario": "single_adult"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "gd",
+        "locator": "NTF US$235,000; approved-project investment options; fees, interview and personal requirements.",
+        "scope": "Stated dated CBI claim only; no general legal clearance"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated original CBI primary-source observation; original scope and review limits retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [],
+    "revisionId": "cbi-grd-dated-single-fee-1-2c1eff986ea4d198"
+  },
+  {
+    "id": "cbi-grd-dated-single-fee-2",
+    "subject": "cbi-grd",
+    "predicate": "dated_single_fee_2",
+    "value": {
+      "label": "Due diligence",
+      "amount": "5000",
+      "currency": "USD",
+      "category": "government_charge",
+      "basis": "principal",
+      "quantity": 1,
+      "paymentStage": "not_established",
+      "recoverability": "not_established",
+      "frequency": "once",
+      "scenario": "single_adult"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "gd",
+        "locator": "NTF US$235,000; approved-project investment options; fees, interview and personal requirements.",
+        "scope": "Stated dated CBI claim only; no general legal clearance"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated original CBI primary-source observation; original scope and review limits retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [],
+    "revisionId": "cbi-grd-dated-single-fee-2-14a57a1212a2f9cf"
+  },
+  {
+    "id": "cbi-grd-dated-single-fee-3",
+    "subject": "cbi-grd",
+    "predicate": "dated_single_fee_3",
+    "value": {
+      "label": "Processing",
+      "amount": "1500",
+      "currency": "USD",
+      "category": "government_charge",
+      "basis": "principal",
+      "quantity": 1,
+      "paymentStage": "not_established",
+      "recoverability": "not_established",
+      "frequency": "once",
+      "scenario": "single_adult"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "gd",
+        "locator": "NTF US$235,000; approved-project investment options; fees, interview and personal requirements.",
+        "scope": "Stated dated CBI claim only; no general legal clearance"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated original CBI primary-source observation; original scope and review limits retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [],
+    "revisionId": "cbi-grd-dated-single-fee-3-273cfde8584bd722"
+  },
+  {
+    "id": "cbi-grd-dated-single-fee-4",
+    "subject": "cbi-grd",
+    "predicate": "dated_single_fee_4",
+    "value": {
+      "label": "Interview",
+      "amount": "1000",
+      "currency": "USD",
+      "category": "government_charge",
+      "basis": "principal",
+      "quantity": 1,
+      "paymentStage": "not_established",
+      "recoverability": "not_established",
+      "frequency": "once",
+      "scenario": "single_adult"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "gd",
+        "locator": "NTF US$235,000; approved-project investment options; fees, interview and personal requirements.",
+        "scope": "Stated dated CBI claim only; no general legal clearance"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated original CBI primary-source observation; original scope and review limits retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [],
+    "revisionId": "cbi-grd-dated-single-fee-4-988f8f3ad5c1b7d8"
+  },
+  {
+    "id": "cbi-grd-scenario-item-29",
+    "subject": "cbi-grd",
+    "predicate": "scenario_cost_item",
+    "value": {
+      "label": "NTF contribution",
+      "amount": "235000",
+      "currency": "USD",
+      "category": "capital",
+      "basis": "application",
+      "quantity": 1,
+      "paymentStage": "not_established",
+      "recoverability": "not_established",
+      "frequency": "once",
+      "scenario": "couple_two_children_under12"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [
+      "Conditional on government acceptance of the named household and source-specific eligibility."
+    ],
+    "evidence": [
+      {
+        "sourceId": "gd",
+        "locator": "Published contribution and fee schedule; applicant age bands and per-person/application distinctions",
+        "scope": "Dated fee evidence; eligibility, additional charges and refund terms remain separate"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Original CBI itemization, retaining source-specific limitations",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [],
+    "revisionId": "cbi-grd-scenario-item-29-bceb88ad32a986cc"
+  },
+  {
+    "id": "cbi-grd-scenario-item-30",
+    "subject": "cbi-grd",
+    "predicate": "scenario_cost_item",
+    "value": {
+      "label": "Application",
+      "amount": "1500",
+      "currency": "USD",
+      "category": "government_charge",
+      "basis": "persons",
+      "quantity": 4,
+      "paymentStage": "not_established",
+      "recoverability": "not_established",
+      "frequency": "once",
+      "scenario": "couple_two_children_under12"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [
+      "Conditional on government acceptance of the named household and source-specific eligibility."
+    ],
+    "evidence": [
+      {
+        "sourceId": "gd",
+        "locator": "Published contribution and fee schedule; applicant age bands and per-person/application distinctions",
+        "scope": "Dated fee evidence; eligibility, additional charges and refund terms remain separate"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Original CBI itemization, retaining source-specific limitations",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [],
+    "revisionId": "cbi-grd-scenario-item-30-22b9f791d323feca"
+  },
+  {
+    "id": "cbi-grd-scenario-item-31",
+    "subject": "cbi-grd",
+    "predicate": "scenario_cost_item",
+    "value": {
+      "label": "Adult diligence",
+      "amount": "5000",
+      "currency": "USD",
+      "category": "government_charge",
+      "basis": "persons",
+      "quantity": 2,
+      "paymentStage": "not_established",
+      "recoverability": "not_established",
+      "frequency": "once",
+      "scenario": "couple_two_children_under12"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [
+      "Conditional on government acceptance of the named household and source-specific eligibility."
+    ],
+    "evidence": [
+      {
+        "sourceId": "gd",
+        "locator": "Published contribution and fee schedule; applicant age bands and per-person/application distinctions",
+        "scope": "Dated fee evidence; eligibility, additional charges and refund terms remain separate"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Original CBI itemization, retaining source-specific limitations",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [],
+    "revisionId": "cbi-grd-scenario-item-31-221993fcdcda41d2"
+  },
+  {
+    "id": "cbi-grd-scenario-item-32",
+    "subject": "cbi-grd",
+    "predicate": "scenario_cost_item",
+    "value": {
+      "label": "Adult processing",
+      "amount": "1500",
+      "currency": "USD",
+      "category": "government_charge",
+      "basis": "persons",
+      "quantity": 2,
+      "paymentStage": "not_established",
+      "recoverability": "not_established",
+      "frequency": "once",
+      "scenario": "couple_two_children_under12"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [
+      "Conditional on government acceptance of the named household and source-specific eligibility."
+    ],
+    "evidence": [
+      {
+        "sourceId": "gd",
+        "locator": "Published contribution and fee schedule; applicant age bands and per-person/application distinctions",
+        "scope": "Dated fee evidence; eligibility, additional charges and refund terms remain separate"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Original CBI itemization, retaining source-specific limitations",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [],
+    "revisionId": "cbi-grd-scenario-item-32-f0c992b5eb5f8321"
+  },
+  {
+    "id": "cbi-grd-scenario-item-33",
+    "subject": "cbi-grd",
+    "predicate": "scenario_cost_item",
+    "value": {
+      "label": "Child processing",
+      "amount": "500",
+      "currency": "USD",
+      "category": "government_charge",
+      "basis": "persons",
+      "quantity": 2,
+      "paymentStage": "not_established",
+      "recoverability": "not_established",
+      "frequency": "once",
+      "scenario": "couple_two_children_under12"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [
+      "Conditional on government acceptance of the named household and source-specific eligibility."
+    ],
+    "evidence": [
+      {
+        "sourceId": "gd",
+        "locator": "Published contribution and fee schedule; applicant age bands and per-person/application distinctions",
+        "scope": "Dated fee evidence; eligibility, additional charges and refund terms remain separate"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Original CBI itemization, retaining source-specific limitations",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [],
+    "revisionId": "cbi-grd-scenario-item-33-9d27cacfee058b0e"
+  },
+  {
+    "id": "cbi-grd-scenario-item-34",
+    "subject": "cbi-grd",
+    "predicate": "scenario_cost_item",
+    "value": {
+      "label": "Adult interviews",
+      "amount": "1000",
+      "currency": "USD",
+      "category": "government_charge",
+      "basis": "persons",
+      "quantity": 2,
+      "paymentStage": "not_established",
+      "recoverability": "not_established",
+      "frequency": "once",
+      "scenario": "couple_two_children_under12"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [
+      "Conditional on government acceptance of the named household and source-specific eligibility."
+    ],
+    "evidence": [
+      {
+        "sourceId": "gd",
+        "locator": "Published contribution and fee schedule; applicant age bands and per-person/application distinctions",
+        "scope": "Dated fee evidence; eligibility, additional charges and refund terms remain separate"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Original CBI itemization, retaining source-specific limitations",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [],
+    "revisionId": "cbi-grd-scenario-item-34-dc11bc4173c7c959"
+  }
+]

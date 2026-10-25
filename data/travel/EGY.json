@@ -1,0 +1,82 @@
+[
+  {
+    "id": "EGY-GBR",
+    "programmeId": "cbi-egy",
+    "passport": "EGY",
+    "destination": "GBR",
+    "documentType": "ordinary",
+    "purpose": "short_visit",
+    "route": "advance_visa",
+    "outcome": "supported",
+    "claimId": "cbi-egy-travel-gbr",
+    "transport": [
+      "air",
+      "land",
+      "sea"
+    ],
+    "conditions": [],
+    "permittedStay": null,
+    "documentRecognition": "Valid ordinary national passport; individual and series exceptions not fully checked",
+    "acquisitionRestrictions": "not_researched"
+  },
+  {
+    "id": "EGY-USA",
+    "programmeId": "cbi-egy",
+    "passport": "EGY",
+    "destination": "USA",
+    "documentType": "ordinary",
+    "purpose": "short_visit",
+    "route": "advance_visa",
+    "outcome": "supported",
+    "claimId": "cbi-egy-travel-usa",
+    "transport": [
+      "air",
+      "land",
+      "sea"
+    ],
+    "conditions": [],
+    "permittedStay": null,
+    "documentRecognition": "Valid ordinary national passport; individual and series exceptions not fully checked",
+    "acquisitionRestrictions": "not_researched"
+  },
+  {
+    "id": "EGY-CAN",
+    "programmeId": "cbi-egy",
+    "passport": "EGY",
+    "destination": "CAN",
+    "documentType": "ordinary",
+    "purpose": "short_visit",
+    "route": "advance_visa",
+    "outcome": "supported",
+    "claimId": "cbi-egy-travel-can",
+    "transport": [
+      "air",
+      "land",
+      "sea"
+    ],
+    "conditions": [],
+    "permittedStay": null,
+    "documentRecognition": "Valid ordinary national passport; individual and series exceptions not fully checked",
+    "acquisitionRestrictions": "not_researched"
+  },
+  {
+    "id": "EGY-SCHENGEN_SHORT_STAY",
+    "programmeId": "cbi-egy",
+    "passport": "EGY",
+    "destination": "SCHENGEN_SHORT_STAY",
+    "documentType": "ordinary",
+    "purpose": "short_visit",
+    "route": "advance_visa",
+    "outcome": "supported",
+    "claimId": "cbi-egy-travel-schengen-short-stay",
+    "transport": [
+      "air",
+      "land",
+      "sea"
+    ],
+    "conditions": [],
+    "permittedStay": null,
+    "documentRecognition": "Common nationality regime only; member-specific recognition not fully checked",
+    "acquisitionRestrictions": "not_researched"
+  }
+]

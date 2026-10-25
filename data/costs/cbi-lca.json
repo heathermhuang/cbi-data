@@ -1,0 +1,50 @@
+[
+  {
+    "id": "cbi-lca-cost-9",
+    "programmeId": "cbi-lca",
+    "optionId": "cbi-lca-option-1",
+    "claimId": "cbi-lca-cost-9"
+  },
+  {
+    "id": "cbi-lca-cost-28",
+    "programmeId": "cbi-lca",
+    "optionId": "cbi-lca-option-1",
+    "claimId": "cbi-lca-cost-28"
+  },
+  {
+    "id": "cbi-lca-scenario-item-26",
+    "programmeId": "cbi-lca",
+    "optionId": "cbi-lca-option-1",
+    "claimId": "cbi-lca-scenario-item-26"
+  },
+  {
+    "id": "cbi-lca-scenario-item-27",
+    "programmeId": "cbi-lca",
+    "optionId": "cbi-lca-option-1",
+    "claimId": "cbi-lca-scenario-item-27"
+  },
+  {
+    "id": "cbi-lca-scenario-item-28",
+    "programmeId": "cbi-lca",
+    "optionId": "cbi-lca-option-1",
+    "claimId": "cbi-lca-scenario-item-28"
+  },
+  {
+    "id": "cbi-lca-scenario-item-29",
+    "programmeId": "cbi-lca",
+    "optionId": "cbi-lca-option-1",
+    "claimId": "cbi-lca-scenario-item-29"
+  },
+  {
+    "id": "cbi-lca-scenario-item-30",
+    "programmeId": "cbi-lca",
+    "optionId": "cbi-lca-option-1",
+    "claimId": "cbi-lca-scenario-item-30"
+  },
+  {
+    "id": "cbi-lca-scenario-item-31",
+    "programmeId": "cbi-lca",
+    "optionId": "cbi-lca-option-1",
+    "claimId": "cbi-lca-scenario-item-31"
+  }
+]

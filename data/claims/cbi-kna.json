@@ -1,0 +1,1501 @@
+[
+  {
+    "id": "cbi-kna-capital",
+    "revisionId": "cbi-kna-capital-a7cb981c3a348d98",
+    "subject": "cbi-kna",
+    "predicate": "capital",
+    "value": "US$250,000 SISC contribution",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "skn",
+        "locator": "US$250,000 main applicant or family of four; interview and due diligence.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-kna-capitalType",
+    "revisionId": "cbi-kna-capitalType-9c02e9ca413c24b5",
+    "subject": "cbi-kna",
+    "predicate": "capitalType",
+    "value": "Non-refundable contribution",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "skn",
+        "locator": "US$250,000 main applicant or family of four; interview and due diligence.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-presence",
+        "locator": "Current page says no mandatory residence to maintain citizenship.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-transition",
+        "locator": "2026 transition and genuine-link framework; physical presence discussed.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-fees",
+        "locator": "Regulation25: USD250 processing per applicant. Contribution-route fees differ from property and public-benefit fees.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-biometric",
+        "locator": "Mandatory for new applications from14April2026. Standard fees: principal2500, second adult2000, under16 child1300; conditional10% enrolment-window discount ends31December2026.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-reform",
+        "locator": "Residency reform announced; this announcement does not provide implemented stay-day/cohort rules.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-kna-hold",
+    "revisionId": "cbi-kna-hold-073cb376b8e96ce8",
+    "subject": "cbi-kna",
+    "predicate": "hold",
+    "value": "Contribution unrecoverable; approved investment alternatives exist",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "skn",
+        "locator": "US$250,000 main applicant or family of four; interview and due diligence.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-presence",
+        "locator": "Current page says no mandatory residence to maintain citizenship.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-transition",
+        "locator": "2026 transition and genuine-link framework; physical presence discussed.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-fees",
+        "locator": "Regulation25: USD250 processing per applicant. Contribution-route fees differ from property and public-benefit fees.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-biometric",
+        "locator": "Mandatory for new applications from14April2026. Standard fees: principal2500, second adult2000, under16 child1300; conditional10% enrolment-window discount ends31December2026.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-reform",
+        "locator": "Residency reform announced; this announcement does not provide implemented stay-day/cohort rules.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-kna-presence",
+    "revisionId": "cbi-kna-presence-03934ed3ec7ae928",
+    "subject": "cbi-kna",
+    "predicate": "presence",
+    "value": "Mandatory biometric appointment at an approved collection centre.",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "skn",
+        "locator": "US$250,000 main applicant or family of four; interview and due diligence.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-presence",
+        "locator": "Current page says no mandatory residence to maintain citizenship.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-transition",
+        "locator": "2026 transition and genuine-link framework; physical presence discussed.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-fees",
+        "locator": "Regulation25: USD250 processing per applicant. Contribution-route fees differ from property and public-benefit fees.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-biometric",
+        "locator": "Mandatory for new applications from14April2026. Standard fees: principal2500, second adult2000, under16 child1300; conditional10% enrolment-window discount ends31December2026.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-reform",
+        "locator": "Residency reform announced; this announcement does not provide implemented stay-day/cohort rules.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-kna-family",
+    "revisionId": "cbi-kna-family-843b91714fd0efec",
+    "subject": "cbi-kna",
+    "predicate": "family",
+    "value": "US$250,000 main applicant or family up to 4",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "skn",
+        "locator": "US$250,000 main applicant or family of four; interview and due diligence.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-presence",
+        "locator": "Current page says no mandatory residence to maintain citizenship.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-transition",
+        "locator": "2026 transition and genuine-link framework; physical presence discussed.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-fees",
+        "locator": "Regulation25: USD250 processing per applicant. Contribution-route fees differ from property and public-benefit fees.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-biometric",
+        "locator": "Mandatory for new applications from14April2026. Standard fees: principal2500, second adult2000, under16 child1300; conditional10% enrolment-window discount ends31December2026.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-reform",
+        "locator": "Residency reform announced; this announcement does not provide implemented stay-day/cohort rules.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-kna-caveat",
+    "revisionId": "cbi-kna-caveat-454dc8a713326e1e",
+    "subject": "cbi-kna",
+    "predicate": "caveat",
+    "value": "SISC contribution remains published at USD 250,000 for a principal or family up to four. Mandatory biometrics apply to new applications from 14 April 2026. Residency-reform announcements do not establish a universal current stay-day rule.",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "skn",
+        "locator": "US$250,000 main applicant or family of four; interview and due diligence.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-presence",
+        "locator": "Current page says no mandatory residence to maintain citizenship.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-transition",
+        "locator": "2026 transition and genuine-link framework; physical presence discussed.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-fees",
+        "locator": "Regulation25: USD250 processing per applicant. Contribution-route fees differ from property and public-benefit fees.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-biometric",
+        "locator": "Mandatory for new applications from14April2026. Standard fees: principal2500, second adult2000, under16 child1300; conditional10% enrolment-window discount ends31December2026.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-reform",
+        "locator": "Residency reform announced; this announcement does not provide implemented stay-day/cohort rules.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-kna-alert",
+    "revisionId": "cbi-kna-alert-846da9835dbb2509",
+    "subject": "cbi-kna",
+    "predicate": "alert",
+    "value": "",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "skn",
+        "locator": "US$250,000 main applicant or family of four; interview and due diligence.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-presence",
+        "locator": "Current page says no mandatory residence to maintain citizenship.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-transition",
+        "locator": "2026 transition and genuine-link framework; physical presence discussed.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-fees",
+        "locator": "Regulation25: USD250 processing per applicant. Contribution-route fees differ from property and public-benefit fees.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-biometric",
+        "locator": "Mandatory for new applications from14April2026. Standard fees: principal2500, second adult2000, under16 child1300; conditional10% enrolment-window discount ends31December2026.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-reform",
+        "locator": "Residency reform announced; this announcement does not provide implemented stay-day/cohort rules.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-kna-processing",
+    "revisionId": "cbi-kna-processing-28df097c96358b53",
+    "subject": "cbi-kna",
+    "predicate": "processing",
+    "value": "120–180 days to approval in principle (CIU target)",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "skn",
+        "locator": "US$250,000 main applicant or family of four; interview and due diligence.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-presence",
+        "locator": "Current page says no mandatory residence to maintain citizenship.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-transition",
+        "locator": "2026 transition and genuine-link framework; physical presence discussed.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-fees",
+        "locator": "Regulation25: USD250 processing per applicant. Contribution-route fees differ from property and public-benefit fees.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-biometric",
+        "locator": "Mandatory for new applications from14April2026. Standard fees: principal2500, second adult2000, under16 child1300; conditional10% enrolment-window discount ends31December2026.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-reform",
+        "locator": "Residency reform announced; this announcement does not provide implemented stay-day/cohort rules.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-kna-presenceShort",
+    "revisionId": "cbi-kna-presenceShort-857cc56aa2f4914f",
+    "subject": "cbi-kna",
+    "predicate": "presenceShort",
+    "value": "Biometrics appointment required",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "skn",
+        "locator": "US$250,000 main applicant or family of four; interview and due diligence.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-presence",
+        "locator": "Current page says no mandatory residence to maintain citizenship.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-transition",
+        "locator": "2026 transition and genuine-link framework; physical presence discussed.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-fees",
+        "locator": "Regulation25: USD250 processing per applicant. Contribution-route fees differ from property and public-benefit fees.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-biometric",
+        "locator": "Mandatory for new applications from14April2026. Standard fees: principal2500, second adult2000, under16 child1300; conditional10% enrolment-window discount ends31December2026.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-reform",
+        "locator": "Residency reform announced; this announcement does not provide implemented stay-day/cohort rules.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-kna-feeNote",
+    "revisionId": "cbi-kna-feeNote-323cb39ce2e82b96",
+    "subject": "cbi-kna",
+    "predicate": "feeNote",
+    "value": "Standard biometric fees are counted. A 10% discount requires qualifying bookings AND enrolment by 31 December 2026 and is not assumed. Agent, document and any unlisted charges remain extra.",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "skn",
+        "locator": "US$250,000 main applicant or family of four; interview and due diligence.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-presence",
+        "locator": "Current page says no mandatory residence to maintain citizenship.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-transition",
+        "locator": "2026 transition and genuine-link framework; physical presence discussed.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-fees",
+        "locator": "Regulation25: USD250 processing per applicant. Contribution-route fees differ from property and public-benefit fees.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-biometric",
+        "locator": "Mandatory for new applications from14April2026. Standard fees: principal2500, second adult2000, under16 child1300; conditional10% enrolment-window discount ends31December2026.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-reform",
+        "locator": "Residency reform announced; this announcement does not provide implemented stay-day/cohort rules.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-kna-keyNote",
+    "revisionId": "cbi-kna-keyNote-af3d04f51982095a",
+    "subject": "cbi-kna",
+    "predicate": "keyNote",
+    "value": "2026 biometric/passport fees apply; enrolment discount is conditional.",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "skn",
+        "locator": "US$250,000 main applicant or family of four; interview and due diligence.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-presence",
+        "locator": "Current page says no mandatory residence to maintain citizenship.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-transition",
+        "locator": "2026 transition and genuine-link framework; physical presence discussed.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-fees",
+        "locator": "Regulation25: USD250 processing per applicant. Contribution-route fees differ from property and public-benefit fees.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-biometric",
+        "locator": "Mandatory for new applications from14April2026. Standard fees: principal2500, second adult2000, under16 child1300; conditional10% enrolment-window discount ends31December2026.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-reform",
+        "locator": "Residency reform announced; this announcement does not provide implemented stay-day/cohort rules.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-kna-familyScenario",
+    "revisionId": "cbi-kna-familyScenario-7602b70504589e95",
+    "subject": "cbi-kna",
+    "predicate": "familyScenario",
+    "value": "Principal, spouse and two children aged under 12; qualifying family only.",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "skn",
+        "locator": "US$250,000 main applicant or family of four; interview and due diligence.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-presence",
+        "locator": "Current page says no mandatory residence to maintain citizenship.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-transition",
+        "locator": "2026 transition and genuine-link framework; physical presence discussed.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-fees",
+        "locator": "Regulation25: USD250 processing per applicant. Contribution-route fees differ from property and public-benefit fees.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-biometric",
+        "locator": "Mandatory for new applications from14April2026. Standard fees: principal2500, second adult2000, under16 child1300; conditional10% enrolment-window discount ends31December2026.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-reform",
+        "locator": "Residency reform announced; this announcement does not provide implemented stay-day/cohort rules.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-kna-passportDelivery",
+    "revisionId": "cbi-kna-passportDelivery-bfec06a90230c467",
+    "subject": "cbi-kna",
+    "predicate": "passportDelivery",
+    "value": "No independently verified end-to-end passport delivery time",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "skn",
+        "locator": "US$250,000 main applicant or family of four; interview and due diligence.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-presence",
+        "locator": "Current page says no mandatory residence to maintain citizenship.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-transition",
+        "locator": "2026 transition and genuine-link framework; physical presence discussed.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-fees",
+        "locator": "Regulation25: USD250 processing per applicant. Contribution-route fees differ from property and public-benefit fees.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-biometric",
+        "locator": "Mandatory for new applications from14April2026. Standard fees: principal2500, second adult2000, under16 child1300; conditional10% enrolment-window discount ends31December2026.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-reform",
+        "locator": "Residency reform announced; this announcement does not provide implemented stay-day/cohort rules.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-kna-routeType",
+    "revisionId": "cbi-kna-routeType-a68bbb4149729e87",
+    "subject": "cbi-kna",
+    "predicate": "routeType",
+    "value": "Contribution",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "skn",
+        "locator": "US$250,000 main applicant or family of four; interview and due diligence.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-presence",
+        "locator": "Current page says no mandatory residence to maintain citizenship.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-transition",
+        "locator": "2026 transition and genuine-link framework; physical presence discussed.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-fees",
+        "locator": "Regulation25: USD250 processing per applicant. Contribution-route fees differ from property and public-benefit fees.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-biometric",
+        "locator": "Mandatory for new applications from14April2026. Standard fees: principal2500, second adult2000, under16 child1300; conditional10% enrolment-window discount ends31December2026.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-reform",
+        "locator": "Residency reform announced; this announcement does not provide implemented stay-day/cohort rules.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-kna-amount",
+    "revisionId": "cbi-kna-amount-44cf98220d528546",
+    "subject": "cbi-kna",
+    "predicate": "amount",
+    "value": {
+      "amount": "250000",
+      "currency": "USD"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "skn",
+        "locator": "US$250,000 main applicant or family of four; interview and due diligence.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-kna-family-amount",
+    "revisionId": "cbi-kna-family-amount-cd2ce8778892f2e0",
+    "subject": "cbi-kna",
+    "predicate": "family_amount",
+    "value": {
+      "amount": "250000",
+      "currency": "USD"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "skn",
+        "locator": "US$250,000 main applicant or family of four; interview and due diligence.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-presence",
+        "locator": "Current page says no mandatory residence to maintain citizenship.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-transition",
+        "locator": "2026 transition and genuine-link framework; physical presence discussed.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-fees",
+        "locator": "Regulation25: USD250 processing per applicant. Contribution-route fees differ from property and public-benefit fees.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-biometric",
+        "locator": "Mandatory for new applications from14April2026. Standard fees: principal2500, second adult2000, under16 child1300; conditional10% enrolment-window discount ends31December2026.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-reform",
+        "locator": "Residency reform announced; this announcement does not provide implemented stay-day/cohort rules.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [
+      "An amount alone does not establish dependant eligibility."
+    ]
+  },
+  {
+    "id": "cbi-kna-routes",
+    "revisionId": "cbi-kna-routes-865e2956c9b8602e",
+    "subject": "cbi-kna",
+    "predicate": "routes",
+    "value": [
+      {
+        "label": "SISC contribution",
+        "amount": "250000",
+        "currency": "USD",
+        "conditions": "Non-refundable"
+      }
+    ],
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "skn",
+        "locator": "US$250,000 main applicant or family of four; interview and due diligence.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-presence",
+        "locator": "Current page says no mandatory residence to maintain citizenship.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-transition",
+        "locator": "2026 transition and genuine-link framework; physical presence discussed.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-fees",
+        "locator": "Regulation25: USD250 processing per applicant. Contribution-route fees differ from property and public-benefit fees.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-biometric",
+        "locator": "Mandatory for new applications from14April2026. Standard fees: principal2500, second adult2000, under16 child1300; conditional10% enrolment-window discount ends31December2026.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-reform",
+        "locator": "Residency reform announced; this announcement does not provide implemented stay-day/cohort rules.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-kna-legal-outcome",
+    "revisionId": "cbi-kna-legal-outcome-39ec0149f82befce",
+    "subject": "cbi-kna",
+    "predicate": "legal_outcome",
+    "value": "Citizenship through investment subject to government approval, naturalisation or registration, followed by a separate passport process.",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "skn",
+        "locator": "US$250,000 main applicant or family of four; interview and due diligence.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-presence",
+        "locator": "Current page says no mandatory residence to maintain citizenship.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-transition",
+        "locator": "2026 transition and genuine-link framework; physical presence discussed.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-fees",
+        "locator": "Regulation25: USD250 processing per applicant. Contribution-route fees differ from property and public-benefit fees.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-biometric",
+        "locator": "Mandatory for new applications from14April2026. Standard fees: principal2500, second adult2000, under16 child1300; conditional10% enrolment-window discount ends31December2026.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-reform",
+        "locator": "Residency reform announced; this announcement does not provide implemented stay-day/cohort rules.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-kna-intake-observation",
+    "revisionId": "cbi-kna-intake-observation-3b11a2036403a89b",
+    "subject": "cbi-kna",
+    "predicate": "intake_observation",
+    "value": {
+      "legal": "published_citizenship_route",
+      "intake": "published_application_route",
+      "decision": "government_assessment_required",
+      "passportIssuance": "separate_stage_not_guaranteed"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "skn",
+        "locator": "US$250,000 main applicant or family of four; interview and due diligence.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-presence",
+        "locator": "Current page says no mandatory residence to maintain citizenship.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-transition",
+        "locator": "2026 transition and genuine-link framework; physical presence discussed.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-fees",
+        "locator": "Regulation25: USD250 processing per applicant. Contribution-route fees differ from property and public-benefit fees.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-biometric",
+        "locator": "Mandatory for new applications from14April2026. Standard fees: principal2500, second adult2000, under16 child1300; conditional10% enrolment-window discount ends31December2026.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "skn-reform",
+        "locator": "Residency reform announced; this announcement does not provide implemented stay-day/cohort rules.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-20",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [
+      "SISC contribution remains published at USD 250,000 for a principal or family up to four. Mandatory biometrics apply to new applications from 14 April 2026. Residency-reform announcements do not establish a universal current stay-day rule.",
+      "Publication of a route is not a successful live application or completed issuance observation."
+    ]
+  },
+  {
+    "id": "cbi-kna-travel-gbr",
+    "revisionId": "cbi-kna-travel-gbr-c81917c3daa5d69b",
+    "subject": "cbi-kna",
+    "predicate": "travel_gbr",
+    "value": {
+      "label": "ETA / visit-visa exempt",
+      "note": "Short visits on an ordinary national passport. ETA eligibility and visitor conditions apply."
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "uk-visits",
+        "locator": "Current ordinary-passport visit-visa requirements. Rules updated 8 October 2026.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [
+      "Ordinary national passport after issuance; acquisition-route and passport-series restrictions not comprehensively researched.",
+      "Individual status exemptions, admission decisions and separate territories are outside this rule."
+    ]
+  },
+  {
+    "id": "cbi-kna-travel-usa",
+    "revisionId": "cbi-kna-travel-usa-df9d4a246ec96816",
+    "subject": "cbi-kna",
+    "predicate": "travel_usa",
+    "value": {
+      "label": "Visitor visa required",
+      "note": "This nationality is outside the Visa Waiver Program. Individual exceptions may apply."
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "us-vwp",
+        "locator": "Ordinary-national-passport visitor rules; no current CBI nationality in the participating list",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [
+      "Ordinary national passport after issuance; acquisition-route and passport-series restrictions not comprehensively researched.",
+      "Individual status exemptions, admission decisions and separate territories are outside this rule."
+    ]
+  },
+  {
+    "id": "cbi-kna-travel-can",
+    "revisionId": "cbi-kna-travel-can-8afbb972dc8589b0",
+    "subject": "cbi-kna",
+    "predicate": "travel_can",
+    "value": {
+      "label": "Conditional air eTA",
+      "note": "Only air travel / airport transit, plus Canadian visa held in past ten years OR a valid US nonimmigrant visa. Land/sea travel needs a visa; each traveller qualifies separately."
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "ca-conditional-eta",
+        "locator": "Antigua, St Kitts and St Lucia: conditional air-travel eTA; past Canadian visa or valid US nonimmigrant visa required",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [
+      "Ordinary national passport after issuance; acquisition-route and passport-series restrictions not comprehensively researched.",
+      "Individual status exemptions, admission decisions and separate territories are outside this rule."
+    ]
+  },
+  {
+    "id": "cbi-kna-travel-schengen-short-stay",
+    "revisionId": "cbi-kna-travel-schengen-short-stay-bcd35945eb7e0c22",
+    "subject": "cbi-kna",
+    "predicate": "travel_schengen_short_stay",
+    "value": {
+      "label": "Visa-exempt · 90/180",
+      "note": "Ordinary national passport, short visits; entry conditions and document validity still apply."
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "eu-visa-list",
+        "locator": "Annexes I/II and qualifying footnotes; ordinary national passports only",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [
+      "Ordinary national passport after issuance; acquisition-route and passport-series restrictions not comprehensively researched.",
+      "Individual status exemptions, admission decisions and separate territories are outside this rule."
+    ]
+  },
+  {
+    "id": "cbi-kna-process-stages",
+    "subject": "cbi-kna",
+    "predicate": "process_stages",
+    "value": {
+      "summary": "Decision and passport production are separate",
+      "stages": [
+        {
+          "label": "Application sequence",
+          "text": "An authorised agent submits the file. The CIU describes approval in principle before the qualifying investment, followed by the citizenship certificate.",
+          "source": "official-skn-process"
+        },
+        {
+          "label": "Dated passport-production estimate",
+          "text": "A 2 September 2026 notice described an initial four-to-six-week production period, starting at the later of 1 September or completed biometric enrolment. Delivery and agent charges are separate. Reconfirm the current production window; this is not total application time.",
+          "source": "official-skn-passport"
+        }
+      ],
+      "agents": "official-skn-agents"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "official-skn-process",
+        "locator": "Agent submission, approval in principle, subsequent qualifying investment and citizenship certificate.",
+        "scope": "Stated dated CBI claim only; no general legal clearance"
+      },
+      {
+        "sourceId": "official-skn-passport",
+        "locator": "Initial four-to-six-week passport-production lead time from the later of 1 September 2026 or completed enrolment, and separate delivery costs.",
+        "scope": "Stated dated CBI claim only; no general legal clearance"
+      }
+    ],
+    "reviewedAt": "2026-10-21",
+    "reviewDueAt": "2026-11-04",
+    "reviewMethod": "Migrated original CBI primary-source observation; original scope and review limits retained",
+    "observedAt": "2026-10-21",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [],
+    "revisionId": "cbi-kna-process-stages-d814f8abf7fe928a"
+  },
+  {
+    "id": "cbi-kna-dated-single-fee-0",
+    "subject": "cbi-kna",
+    "predicate": "dated_single_fee_0",
+    "value": {
+      "label": "Principal due diligence",
+      "amount": "10000",
+      "currency": "USD",
+      "category": "government_charge",
+      "basis": "principal",
+      "quantity": 1,
+      "paymentStage": "not_established",
+      "recoverability": "not_established",
+      "frequency": "once",
+      "scenario": "single_adult"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "skn-fees",
+        "locator": "Regulation25: USD250 processing per applicant. Contribution-route fees differ from property and public-benefit fees.",
+        "scope": "Stated dated CBI claim only; no general legal clearance"
+      },
+      {
+        "sourceId": "skn-biometric",
+        "locator": "Mandatory for new applications from14April2026. Standard fees: principal2500, second adult2000, under16 child1300; conditional10% enrolment-window discount ends31December2026.",
+        "scope": "Stated dated CBI claim only; no general legal clearance"
+      },
+      {
+        "sourceId": "skn",
+        "locator": "US$250,000 main applicant or family of four; interview and due diligence.",
+        "scope": "Stated dated CBI claim only; no general legal clearance"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated original CBI primary-source observation; original scope and review limits retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [],
+    "revisionId": "cbi-kna-dated-single-fee-0-f8c7a25b5144dc15"
+  },
+  {
+    "id": "cbi-kna-dated-single-fee-1",
+    "subject": "cbi-kna",
+    "predicate": "dated_single_fee_1",
+    "value": {
+      "label": "Application processing",
+      "amount": "250",
+      "currency": "USD",
+      "category": "government_charge",
+      "basis": "principal",
+      "quantity": 1,
+      "paymentStage": "not_established",
+      "recoverability": "not_established",
+      "frequency": "once",
+      "scenario": "single_adult"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "skn-fees",
+        "locator": "Regulation25: USD250 processing per applicant. Contribution-route fees differ from property and public-benefit fees.",
+        "scope": "Stated dated CBI claim only; no general legal clearance"
+      },
+      {
+        "sourceId": "skn-biometric",
+        "locator": "Mandatory for new applications from14April2026. Standard fees: principal2500, second adult2000, under16 child1300; conditional10% enrolment-window discount ends31December2026.",
+        "scope": "Stated dated CBI claim only; no general legal clearance"
+      },
+      {
+        "sourceId": "skn",
+        "locator": "US$250,000 main applicant or family of four; interview and due diligence.",
+        "scope": "Stated dated CBI claim only; no general legal clearance"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated original CBI primary-source observation; original scope and review limits retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [],
+    "revisionId": "cbi-kna-dated-single-fee-1-fc0a326598cd4713"
+  },
+  {
+    "id": "cbi-kna-dated-single-fee-2",
+    "subject": "cbi-kna",
+    "predicate": "dated_single_fee_2",
+    "value": {
+      "label": "Standard biometric enrolment / passport upgrade",
+      "amount": "2500",
+      "currency": "USD",
+      "category": "government_charge",
+      "basis": "principal",
+      "quantity": 1,
+      "paymentStage": "not_established",
+      "recoverability": "not_established",
+      "frequency": "once",
+      "scenario": "single_adult"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "skn-fees",
+        "locator": "Regulation25: USD250 processing per applicant. Contribution-route fees differ from property and public-benefit fees.",
+        "scope": "Stated dated CBI claim only; no general legal clearance"
+      },
+      {
+        "sourceId": "skn-biometric",
+        "locator": "Mandatory for new applications from14April2026. Standard fees: principal2500, second adult2000, under16 child1300; conditional10% enrolment-window discount ends31December2026.",
+        "scope": "Stated dated CBI claim only; no general legal clearance"
+      },
+      {
+        "sourceId": "skn",
+        "locator": "US$250,000 main applicant or family of four; interview and due diligence.",
+        "scope": "Stated dated CBI claim only; no general legal clearance"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated original CBI primary-source observation; original scope and review limits retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [],
+    "revisionId": "cbi-kna-dated-single-fee-2-2e10a4dbcb551491"
+  },
+  {
+    "id": "cbi-kna-scenario-item-27",
+    "subject": "cbi-kna",
+    "predicate": "scenario_cost_item",
+    "value": {
+      "label": "SISC contribution",
+      "amount": "250000",
+      "currency": "USD",
+      "category": "capital",
+      "basis": "application",
+      "quantity": 1,
+      "paymentStage": "not_established",
+      "recoverability": "not_established",
+      "frequency": "once",
+      "scenario": "single_adult"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [
+      "Conditional on government acceptance of the named household and source-specific eligibility."
+    ],
+    "evidence": [
+      {
+        "sourceId": "skn",
+        "locator": "Published contribution and fee schedule; applicant age bands and per-person/application distinctions",
+        "scope": "Dated fee evidence; eligibility, additional charges and refund terms remain separate"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Original CBI itemization, retaining source-specific limitations",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [],
+    "revisionId": "cbi-kna-scenario-item-27-1eb9a9c9ae7d399d"
+  },
+  {
+    "id": "cbi-kna-scenario-item-28",
+    "subject": "cbi-kna",
+    "predicate": "scenario_cost_item",
+    "value": {
+      "label": "SISC contribution",
+      "amount": "250000",
+      "currency": "USD",
+      "category": "capital",
+      "basis": "application",
+      "quantity": 1,
+      "paymentStage": "not_established",
+      "recoverability": "not_established",
+      "frequency": "once",
+      "scenario": "couple_two_children_under12"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [
+      "Conditional on government acceptance of the named household and source-specific eligibility."
+    ],
+    "evidence": [
+      {
+        "sourceId": "skn",
+        "locator": "Published contribution and fee schedule; applicant age bands and per-person/application distinctions",
+        "scope": "Dated fee evidence; eligibility, additional charges and refund terms remain separate"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Original CBI itemization, retaining source-specific limitations",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [],
+    "revisionId": "cbi-kna-scenario-item-28-ec27a1219eb9feac"
+  },
+  {
+    "id": "cbi-kna-scenario-item-29",
+    "subject": "cbi-kna",
+    "predicate": "scenario_cost_item",
+    "value": {
+      "label": "Principal diligence",
+      "amount": "10000",
+      "currency": "USD",
+      "category": "government_charge",
+      "basis": "application",
+      "quantity": 1,
+      "paymentStage": "not_established",
+      "recoverability": "not_established",
+      "frequency": "once",
+      "scenario": "couple_two_children_under12"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [
+      "Conditional on government acceptance of the named household and source-specific eligibility."
+    ],
+    "evidence": [
+      {
+        "sourceId": "skn",
+        "locator": "Published contribution and fee schedule; applicant age bands and per-person/application distinctions",
+        "scope": "Dated fee evidence; eligibility, additional charges and refund terms remain separate"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Original CBI itemization, retaining source-specific limitations",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [],
+    "revisionId": "cbi-kna-scenario-item-29-421b3aa01b14215f"
+  },
+  {
+    "id": "cbi-kna-scenario-item-30",
+    "subject": "cbi-kna",
+    "predicate": "scenario_cost_item",
+    "value": {
+      "label": "Spouse diligence",
+      "amount": "7500",
+      "currency": "USD",
+      "category": "government_charge",
+      "basis": "application",
+      "quantity": 1,
+      "paymentStage": "not_established",
+      "recoverability": "not_established",
+      "frequency": "once",
+      "scenario": "couple_two_children_under12"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [
+      "Conditional on government acceptance of the named household and source-specific eligibility."
+    ],
+    "evidence": [
+      {
+        "sourceId": "skn",
+        "locator": "Published contribution and fee schedule; applicant age bands and per-person/application distinctions",
+        "scope": "Dated fee evidence; eligibility, additional charges and refund terms remain separate"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Original CBI itemization, retaining source-specific limitations",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [],
+    "revisionId": "cbi-kna-scenario-item-30-44765252db9ac866"
+  },
+  {
+    "id": "cbi-kna-scenario-item-31",
+    "subject": "cbi-kna",
+    "predicate": "scenario_cost_item",
+    "value": {
+      "label": "Application processing",
+      "amount": "250",
+      "currency": "USD",
+      "category": "government_charge",
+      "basis": "persons",
+      "quantity": 4,
+      "paymentStage": "not_established",
+      "recoverability": "not_established",
+      "frequency": "once",
+      "scenario": "couple_two_children_under12"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [
+      "Conditional on government acceptance of the named household and source-specific eligibility."
+    ],
+    "evidence": [
+      {
+        "sourceId": "skn-fees",
+        "locator": "Published contribution and fee schedule; applicant age bands and per-person/application distinctions",
+        "scope": "Dated fee evidence; eligibility, additional charges and refund terms remain separate"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Original CBI itemization, retaining source-specific limitations",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [],
+    "revisionId": "cbi-kna-scenario-item-31-7da38ef57a29302d"
+  },
+  {
+    "id": "cbi-kna-scenario-item-32",
+    "subject": "cbi-kna",
+    "predicate": "scenario_cost_item",
+    "value": {
+      "label": "Principal biometrics",
+      "amount": "2500",
+      "currency": "USD",
+      "category": "government_charge",
+      "basis": "application",
+      "quantity": 1,
+      "paymentStage": "not_established",
+      "recoverability": "not_established",
+      "frequency": "once",
+      "scenario": "couple_two_children_under12"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [
+      "Conditional on government acceptance of the named household and source-specific eligibility."
+    ],
+    "evidence": [
+      {
+        "sourceId": "skn-biometric",
+        "locator": "Published contribution and fee schedule; applicant age bands and per-person/application distinctions",
+        "scope": "Dated fee evidence; eligibility, additional charges and refund terms remain separate"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Original CBI itemization, retaining source-specific limitations",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [],
+    "revisionId": "cbi-kna-scenario-item-32-f40841bf32f3980d"
+  },
+  {
+    "id": "cbi-kna-scenario-item-33",
+    "subject": "cbi-kna",
+    "predicate": "scenario_cost_item",
+    "value": {
+      "label": "Spouse biometrics",
+      "amount": "2000",
+      "currency": "USD",
+      "category": "government_charge",
+      "basis": "application",
+      "quantity": 1,
+      "paymentStage": "not_established",
+      "recoverability": "not_established",
+      "frequency": "once",
+      "scenario": "couple_two_children_under12"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [
+      "Conditional on government acceptance of the named household and source-specific eligibility."
+    ],
+    "evidence": [
+      {
+        "sourceId": "skn-biometric",
+        "locator": "Published contribution and fee schedule; applicant age bands and per-person/application distinctions",
+        "scope": "Dated fee evidence; eligibility, additional charges and refund terms remain separate"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Original CBI itemization, retaining source-specific limitations",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [],
+    "revisionId": "cbi-kna-scenario-item-33-d85a4271fea760f5"
+  },
+  {
+    "id": "cbi-kna-scenario-item-34",
+    "subject": "cbi-kna",
+    "predicate": "scenario_cost_item",
+    "value": {
+      "label": "Child biometrics",
+      "amount": "1300",
+      "currency": "USD",
+      "category": "government_charge",
+      "basis": "persons",
+      "quantity": 2,
+      "paymentStage": "not_established",
+      "recoverability": "not_established",
+      "frequency": "once",
+      "scenario": "couple_two_children_under12"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [
+      "Conditional on government acceptance of the named household and source-specific eligibility."
+    ],
+    "evidence": [
+      {
+        "sourceId": "skn-biometric",
+        "locator": "Published contribution and fee schedule; applicant age bands and per-person/application distinctions",
+        "scope": "Dated fee evidence; eligibility, additional charges and refund terms remain separate"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Original CBI itemization, retaining source-specific limitations",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [],
+    "revisionId": "cbi-kna-scenario-item-34-d7a82a3a88d08046"
+  }
+]

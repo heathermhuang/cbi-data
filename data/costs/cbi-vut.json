@@ -1,0 +1,50 @@
+[
+  {
+    "id": "cbi-vut-cost-4",
+    "programmeId": "cbi-vut",
+    "optionId": "cbi-vut-option-1",
+    "claimId": "cbi-vut-cost-4"
+  },
+  {
+    "id": "cbi-vut-cost-5",
+    "programmeId": "cbi-vut",
+    "optionId": "cbi-vut-option-1",
+    "claimId": "cbi-vut-cost-5"
+  },
+  {
+    "id": "cbi-vut-cost-6",
+    "programmeId": "cbi-vut",
+    "optionId": "cbi-vut-option-1",
+    "claimId": "cbi-vut-cost-6"
+  },
+  {
+    "id": "cbi-vut-cost-7",
+    "programmeId": "cbi-vut",
+    "optionId": "cbi-vut-option-1",
+    "claimId": "cbi-vut-cost-7"
+  },
+  {
+    "id": "cbi-vut-cost-23",
+    "programmeId": "cbi-vut",
+    "optionId": "cbi-vut-option-1",
+    "claimId": "cbi-vut-cost-23"
+  },
+  {
+    "id": "cbi-vut-cost-24",
+    "programmeId": "cbi-vut",
+    "optionId": "cbi-vut-option-1",
+    "claimId": "cbi-vut-cost-24"
+  },
+  {
+    "id": "cbi-vut-cost-25",
+    "programmeId": "cbi-vut",
+    "optionId": "cbi-vut-option-1",
+    "claimId": "cbi-vut-cost-25"
+  },
+  {
+    "id": "cbi-vut-cost-26",
+    "programmeId": "cbi-vut",
+    "optionId": "cbi-vut-option-1",
+    "claimId": "cbi-vut-cost-26"
+  }
+]

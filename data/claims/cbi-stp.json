@@ -1,0 +1,881 @@
+[
+  {
+    "id": "cbi-stp-capital",
+    "revisionId": "cbi-stp-capital-62ac471eb1b1a01d",
+    "subject": "cbi-stp",
+    "predicate": "capital",
+    "value": "US$90,000 FNT contribution",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "st",
+        "locator": "Government confirms citizenship program and National Transformation Fund.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-stp-capitalType",
+    "revisionId": "cbi-stp-capitalType-8682fa79795556a8",
+    "subject": "cbi-stp",
+    "predicate": "capitalType",
+    "value": "Non-refundable contribution",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "st",
+        "locator": "Government confirms citizenship program and National Transformation Fund.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "st-price",
+        "locator": "US$90,000 single, US$95,000 up to four; no residence/visit; advertised timing, not a guarantee.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "st-family",
+        "locator": "Adult dependant naturalisation/passport stage suspended pending new law; submission/approval can continue.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-stp-hold",
+    "revisionId": "cbi-stp-hold-42f041ab707e373f",
+    "subject": "cbi-stp",
+    "predicate": "hold",
+    "value": "No redeemable investment on cited fund option",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "st",
+        "locator": "Government confirms citizenship program and National Transformation Fund.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "st-price",
+        "locator": "US$90,000 single, US$95,000 up to four; no residence/visit; advertised timing, not a guarantee.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "st-family",
+        "locator": "Adult dependant naturalisation/passport stage suspended pending new law; submission/approval can continue.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-stp-presence",
+    "revisionId": "cbi-stp-presence-22d5fc04b78c0e6b",
+    "subject": "cbi-stp",
+    "predicate": "presence",
+    "value": "Consular guidance says no residence or visit",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "st",
+        "locator": "Government confirms citizenship program and National Transformation Fund.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "st-price",
+        "locator": "US$90,000 single, US$95,000 up to four; no residence/visit; advertised timing, not a guarantee.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "st-family",
+        "locator": "Adult dependant naturalisation/passport stage suspended pending new law; submission/approval can continue.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-stp-family",
+    "revisionId": "cbi-stp-family-118ddc6af608f401",
+    "subject": "cbi-stp",
+    "predicate": "family",
+    "value": "US$95,000 up to 4; adult dependant completion currently restricted",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "st",
+        "locator": "Government confirms citizenship program and National Transformation Fund.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "st-price",
+        "locator": "US$90,000 single, US$95,000 up to four; no residence/visit; advertised timing, not a guarantee.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "st-family",
+        "locator": "Adult dependant naturalisation/passport stage suspended pending new law; submission/approval can continue.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-stp-caveat",
+    "revisionId": "cbi-stp-caveat-784d429d62e2d31f",
+    "subject": "cbi-stp",
+    "predicate": "caveat",
+    "value": "21 September 2026 notice: adult children 18–30 and dependent parents/grandparents 55 + can be processed/approved, but naturalisation and passport issuance pause pending law. Two-month target is not proven delivery.",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "st",
+        "locator": "Government confirms citizenship program and National Transformation Fund.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "st-price",
+        "locator": "US$90,000 single, US$95,000 up to four; no residence/visit; advertised timing, not a guarantee.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "st-family",
+        "locator": "Adult dependant naturalisation/passport stage suspended pending new law; submission/approval can continue.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-stp-alert",
+    "revisionId": "cbi-stp-alert-224ac78d1180ec99",
+    "subject": "cbi-stp",
+    "predicate": "alert",
+    "value": "Affected adult dependant naturalisation and passports are paused pending new law.",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "st",
+        "locator": "Government confirms citizenship program and National Transformation Fund.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "st-price",
+        "locator": "US$90,000 single, US$95,000 up to four; no residence/visit; advertised timing, not a guarantee.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "st-family",
+        "locator": "Adult dependant naturalisation/passport stage suspended pending new law; submission/approval can continue.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-stp-processing",
+    "revisionId": "cbi-stp-processing-2b6fcb27fb8a1acb",
+    "subject": "cbi-stp",
+    "predicate": "processing",
+    "value": "2 months (consular target)",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "st",
+        "locator": "Government confirms citizenship program and National Transformation Fund.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "st-price",
+        "locator": "US$90,000 single, US$95,000 up to four; no residence/visit; advertised timing, not a guarantee.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "st-family",
+        "locator": "Adult dependant naturalisation/passport stage suspended pending new law; submission/approval can continue.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-stp-presenceShort",
+    "revisionId": "cbi-stp-presenceShort-30cf9b41d4e89e3d",
+    "subject": "cbi-stp",
+    "predicate": "presenceShort",
+    "value": "No residence / visit",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "st",
+        "locator": "Government confirms citizenship program and National Transformation Fund.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "st-price",
+        "locator": "US$90,000 single, US$95,000 up to four; no residence/visit; advertised timing, not a guarantee.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "st-family",
+        "locator": "Adult dependant naturalisation/passport stage suspended pending new law; submission/approval can continue.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-stp-feeNote",
+    "revisionId": "cbi-stp-feeNote-22efcfe25c6b1266",
+    "subject": "cbi-stp",
+    "predicate": "feeNote",
+    "value": "Processing, due diligence, passport and professional fees require a current itemised quote.",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "st",
+        "locator": "Government confirms citizenship program and National Transformation Fund.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "st-price",
+        "locator": "US$90,000 single, US$95,000 up to four; no residence/visit; advertised timing, not a guarantee.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "st-family",
+        "locator": "Adult dependant naturalisation/passport stage suspended pending new law; submission/approval can continue.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-stp-keyNote",
+    "revisionId": "cbi-stp-keyNote-559498a2a60b12a5",
+    "subject": "cbi-stp",
+    "predicate": "keyNote",
+    "value": "Affected adult dependant completion is paused.",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "st",
+        "locator": "Government confirms citizenship program and National Transformation Fund.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "st-price",
+        "locator": "US$90,000 single, US$95,000 up to four; no residence/visit; advertised timing, not a guarantee.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "st-family",
+        "locator": "Adult dependant naturalisation/passport stage suspended pending new law; submission/approval can continue.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-stp-familyScenario",
+    "revisionId": "cbi-stp-familyScenario-3be8408500f08074",
+    "subject": "cbi-stp",
+    "predicate": "familyScenario",
+    "value": "Principal, spouse and two children aged under 12; qualifying family only.",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "st",
+        "locator": "Government confirms citizenship program and National Transformation Fund.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "st-price",
+        "locator": "US$90,000 single, US$95,000 up to four; no residence/visit; advertised timing, not a guarantee.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "st-family",
+        "locator": "Adult dependant naturalisation/passport stage suspended pending new law; submission/approval can continue.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-stp-passportDelivery",
+    "revisionId": "cbi-stp-passportDelivery-0fcacbf5ddeeced3",
+    "subject": "cbi-stp",
+    "predicate": "passportDelivery",
+    "value": "No independently verified end-to-end passport delivery time",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "st",
+        "locator": "Government confirms citizenship program and National Transformation Fund.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "st-price",
+        "locator": "US$90,000 single, US$95,000 up to four; no residence/visit; advertised timing, not a guarantee.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "st-family",
+        "locator": "Adult dependant naturalisation/passport stage suspended pending new law; submission/approval can continue.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-stp-routeType",
+    "revisionId": "cbi-stp-routeType-b1f8be22b2f4f844",
+    "subject": "cbi-stp",
+    "predicate": "routeType",
+    "value": "Contribution",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "st",
+        "locator": "Government confirms citizenship program and National Transformation Fund.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "st-price",
+        "locator": "US$90,000 single, US$95,000 up to four; no residence/visit; advertised timing, not a guarantee.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "st-family",
+        "locator": "Adult dependant naturalisation/passport stage suspended pending new law; submission/approval can continue.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-stp-amount",
+    "revisionId": "cbi-stp-amount-b0f8605b417fab8b",
+    "subject": "cbi-stp",
+    "predicate": "amount",
+    "value": {
+      "amount": "90000",
+      "currency": "USD"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "st",
+        "locator": "Government confirms citizenship program and National Transformation Fund.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-stp-family-amount",
+    "revisionId": "cbi-stp-family-amount-3fd1ff31084491c6",
+    "subject": "cbi-stp",
+    "predicate": "family_amount",
+    "value": {
+      "amount": "95000",
+      "currency": "USD"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "st",
+        "locator": "Government confirms citizenship program and National Transformation Fund.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "st-price",
+        "locator": "US$90,000 single, US$95,000 up to four; no residence/visit; advertised timing, not a guarantee.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "st-family",
+        "locator": "Adult dependant naturalisation/passport stage suspended pending new law; submission/approval can continue.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [
+      "An amount alone does not establish dependant eligibility."
+    ]
+  },
+  {
+    "id": "cbi-stp-routes",
+    "revisionId": "cbi-stp-routes-7c8813121cb243a1",
+    "subject": "cbi-stp",
+    "predicate": "routes",
+    "value": [
+      {
+        "label": "National Transformation Fund",
+        "amount": "90000",
+        "currency": "USD",
+        "conditions": "Non-refundable"
+      }
+    ],
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "st",
+        "locator": "Government confirms citizenship program and National Transformation Fund.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "st-price",
+        "locator": "US$90,000 single, US$95,000 up to four; no residence/visit; advertised timing, not a guarantee.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "st-family",
+        "locator": "Adult dependant naturalisation/passport stage suspended pending new law; submission/approval can continue.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-stp-legal-outcome",
+    "revisionId": "cbi-stp-legal-outcome-f6104e5212911a4b",
+    "subject": "cbi-stp",
+    "predicate": "legal_outcome",
+    "value": "Citizenship through investment subject to government approval, naturalisation or registration, followed by a separate passport process.",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "st",
+        "locator": "Government confirms citizenship program and National Transformation Fund.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "st-price",
+        "locator": "US$90,000 single, US$95,000 up to four; no residence/visit; advertised timing, not a guarantee.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "st-family",
+        "locator": "Adult dependant naturalisation/passport stage suspended pending new law; submission/approval can continue.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-stp-intake-observation",
+    "revisionId": "cbi-stp-intake-observation-8363d69e61e80436",
+    "subject": "cbi-stp",
+    "predicate": "intake_observation",
+    "value": {
+      "legal": "published_citizenship_route",
+      "intake": "published_with_limits",
+      "decision": "government_assessment_required",
+      "passportIssuance": "separate_stage_not_guaranteed"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "st",
+        "locator": "Government confirms citizenship program and National Transformation Fund.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "st-price",
+        "locator": "US$90,000 single, US$95,000 up to four; no residence/visit; advertised timing, not a guarantee.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "st-family",
+        "locator": "Adult dependant naturalisation/passport stage suspended pending new law; submission/approval can continue.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-20",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [
+      "21 September 2026 notice: adult children 18–30 and dependent parents/grandparents 55 + can be processed/approved, but naturalisation and passport issuance pause pending law. Two-month target is not proven delivery.",
+      "Publication of a route is not a successful live application or completed issuance observation."
+    ]
+  },
+  {
+    "id": "cbi-stp-travel-gbr",
+    "revisionId": "cbi-stp-travel-gbr-8c21e9824ca6f3bc",
+    "subject": "cbi-stp",
+    "predicate": "travel_gbr",
+    "value": {
+      "label": "Visa required",
+      "note": "Short visits on an ordinary national passport. ETA eligibility and visitor conditions apply."
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "uk-visits",
+        "locator": "Current ordinary-passport visit-visa requirements. Rules updated 8 October 2026.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [
+      "Ordinary national passport after issuance; acquisition-route and passport-series restrictions not comprehensively researched.",
+      "Individual status exemptions, admission decisions and separate territories are outside this rule."
+    ]
+  },
+  {
+    "id": "cbi-stp-travel-usa",
+    "revisionId": "cbi-stp-travel-usa-bf9dd6884bdc673a",
+    "subject": "cbi-stp",
+    "predicate": "travel_usa",
+    "value": {
+      "label": "Visitor visa required",
+      "note": "This nationality is outside the Visa Waiver Program. Individual exceptions may apply."
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "us-vwp",
+        "locator": "Ordinary-national-passport visitor rules; no current CBI nationality in the participating list",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [
+      "Ordinary national passport after issuance; acquisition-route and passport-series restrictions not comprehensively researched.",
+      "Individual status exemptions, admission decisions and separate territories are outside this rule."
+    ]
+  },
+  {
+    "id": "cbi-stp-travel-can",
+    "revisionId": "cbi-stp-travel-can-7bbf35f97989e94d",
+    "subject": "cbi-stp",
+    "predicate": "travel_can",
+    "value": {
+      "label": "Visitor visa required",
+      "note": "No nationality-based visitor waiver is established here. Individual exemptions may apply."
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "publication-entry-nationality",
+        "locator": "Entry conditions depend on citizenship, travel document, status and transport. Foreign residence does not itself create a new nationality. Canadian and US permanent residents have separately described document rules.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [
+      "Ordinary national passport after issuance; acquisition-route and passport-series restrictions not comprehensively researched.",
+      "Individual status exemptions, admission decisions and separate territories are outside this rule."
+    ]
+  },
+  {
+    "id": "cbi-stp-travel-schengen-short-stay",
+    "revisionId": "cbi-stp-travel-schengen-short-stay-6e2ef60a1d28e4cc",
+    "subject": "cbi-stp",
+    "predicate": "travel_schengen_short_stay",
+    "value": {
+      "label": "Visa required",
+      "note": "Ordinary national passport, short visits; entry conditions and document validity still apply."
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "eu-visa-list",
+        "locator": "Annexes I/II and qualifying footnotes; ordinary national passports only",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [
+      "Ordinary national passport after issuance; acquisition-route and passport-series restrictions not comprehensively researched.",
+      "Individual status exemptions, admission decisions and separate territories are outside this rule."
+    ]
+  },
+  {
+    "id": "cbi-stp-cost-8",
+    "revisionId": "cbi-stp-cost-8-5dc5b999768a45d1",
+    "subject": "cbi-stp",
+    "predicate": "cost_8",
+    "value": {
+      "label": "FNT contribution",
+      "amount": "90000",
+      "currency": "USD",
+      "category": "capital",
+      "basis": "application",
+      "quantity": 1,
+      "paymentStage": "not_established",
+      "recoverability": "nonrefundable_contribution_or_published_selling_price; withdrawal_and_refund_terms_not_established",
+      "frequency": "once",
+      "scenario": "single_adult"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "st-price",
+        "locator": "US$90,000 single, US$95,000 up to four; no residence/visit; advertised timing, not a guarantee.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-25",
+    "reviewDueAt": "2026-11-08",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-25",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [
+      "Consular advertised family price does not establish exact dependant definitions; family applicability remains unresolved."
+    ]
+  },
+  {
+    "id": "cbi-stp-cost-27",
+    "revisionId": "cbi-stp-cost-27-4087a5d0dd548e82",
+    "subject": "cbi-stp",
+    "predicate": "cost_27",
+    "value": {
+      "label": "FNT contribution",
+      "amount": "95000",
+      "currency": "USD",
+      "category": "capital",
+      "basis": "application",
+      "quantity": 1,
+      "paymentStage": "not_established",
+      "recoverability": "nonrefundable_contribution_or_published_selling_price; withdrawal_and_refund_terms_not_established",
+      "frequency": "once",
+      "scenario": "couple_two_children_under12"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "st-price",
+        "locator": "US$90,000 single, US$95,000 up to four; no residence/visit; advertised timing, not a guarantee.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-25",
+    "reviewDueAt": "2026-11-08",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-25",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [
+      "Consular advertised family price does not establish exact dependant definitions; family applicability remains unresolved."
+    ]
+  },
+  {
+    "id": "cbi-stp-editorial-update",
+    "subject": "cbi-stp",
+    "predicate": "editorial_update",
+    "value": {
+      "items": [
+        {
+          "label": "Reporting commitment is not verified first-year performance",
+          "text": "STP-PRESS’s 21 October 2025 account records the prime minister’s promise of periodic application and fund reports. It does not authenticate the September 2026 first-year figures; those statistics remain unpublished here.",
+          "source": "alternative-st-reporting"
+        }
+      ],
+      "guides": [
+        "official-programme-statistics-and-processing"
+      ],
+      "checked": "2026-10-23"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "alternative-st-reporting",
+        "locator": "The prime minister promised periodic reporting of applications, amounts allocated, fund balance and sector use. This does not authenticate the September 2026 first-year report or its figures.",
+        "scope": "Stated dated CBI claim only; no general legal clearance"
+      }
+    ],
+    "reviewedAt": "2026-10-23",
+    "reviewDueAt": "2026-11-06",
+    "reviewMethod": "Migrated original CBI primary-source observation; original scope and review limits retained",
+    "observedAt": "2026-10-23",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [],
+    "revisionId": "cbi-stp-editorial-update-564ec441f6d21c59"
+  }
+]

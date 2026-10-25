@@ -1,0 +1,123 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "revisionId": {
+      "type": "string"
+    },
+    "subject": {
+      "type": "string"
+    },
+    "predicate": {
+      "type": "string"
+    },
+    "value": {},
+    "verification": {
+      "enum": [
+        "confirmed",
+        "partial",
+        "disputed",
+        "unverified",
+        "not_applicable"
+      ]
+    },
+    "valueStatus": {
+      "enum": [
+        "known",
+        "unknown",
+        "not_stated",
+        "not_applicable"
+      ]
+    },
+    "conditions": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "evidence": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "sourceId": {
+            "type": "string"
+          },
+          "locator": {
+            "type": "string"
+          },
+          "scope": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "sourceId",
+          "locator",
+          "scope"
+        ]
+      }
+    },
+    "reviewedAt": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "reviewDueAt": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "reviewMethod": {
+      "type": "string"
+    },
+    "observedAt": {
+      "type": "string"
+    },
+    "effectiveFrom": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "effectiveUntil": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "limitations": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "locator": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "id",
+    "revisionId",
+    "subject",
+    "predicate",
+    "value",
+    "verification",
+    "valueStatus",
+    "conditions",
+    "evidence",
+    "reviewedAt",
+    "reviewDueAt",
+    "reviewMethod",
+    "observedAt",
+    "effectiveFrom",
+    "effectiveUntil",
+    "limitations"
+  ]
+}

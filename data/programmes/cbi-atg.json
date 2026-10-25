@@ -1,0 +1,195 @@
+{
+  "id": "cbi-atg",
+  "aliases": [
+    "ag"
+  ],
+  "jurisdiction": "ATG",
+  "country": "Antigua and Barbuda",
+  "name": "Citizenship by Investment",
+  "kind": "citizenship",
+  "mechanism": "investment_subject_to_nationality_decision",
+  "profileURL": "https://cbi.me/citizenship-by-investment/antigua-and-barbuda/",
+  "region": "Caribbean",
+  "period": "2013–present",
+  "start": 2013,
+  "end": null,
+  "optionIds": [
+    "cbi-atg-option-1",
+    "cbi-atg-option-2",
+    "cbi-atg-option-3"
+  ],
+  "options": [
+    {
+      "id": "cbi-atg-option-1",
+      "label": "NDF contribution",
+      "classification": "contribution",
+      "amountClaimId": "cbi-atg-routes",
+      "conditions": "Non-refundable"
+    },
+    {
+      "id": "cbi-atg-option-2",
+      "label": "Approved property",
+      "classification": "asset",
+      "amountClaimId": "cbi-atg-routes",
+      "conditions": "5-year hold"
+    },
+    {
+      "id": "cbi-atg-option-3",
+      "label": "Joint business",
+      "classification": "business",
+      "amountClaimId": "cbi-atg-routes",
+      "conditions": "Minimum participant share; joint project conditions"
+    }
+  ],
+  "fields": {
+    "capital": "cbi-atg-capital",
+    "capitalType": "cbi-atg-capitalType",
+    "hold": "cbi-atg-hold",
+    "presence": "cbi-atg-presence",
+    "family": "cbi-atg-family",
+    "caveat": "cbi-atg-caveat",
+    "alert": "cbi-atg-alert",
+    "processing": "cbi-atg-processing",
+    "presenceShort": "cbi-atg-presenceShort",
+    "feeNote": "cbi-atg-feeNote",
+    "keyNote": "cbi-atg-keyNote",
+    "familyScenario": "cbi-atg-familyScenario",
+    "passportDelivery": "cbi-atg-passportDelivery",
+    "routeType": "cbi-atg-routeType",
+    "amount": "cbi-atg-amount",
+    "familyAmount": "cbi-atg-family-amount",
+    "routes": "cbi-atg-routes",
+    "legalOutcome": "cbi-atg-legal-outcome",
+    "intake": "cbi-atg-intake-observation",
+    "editorialUpdate": "cbi-atg-editorial-update"
+  },
+  "requiredFields": {
+    "legal_outcome": {
+      "claimIds": [
+        "cbi-atg-legal-outcome"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "legal_basis": {
+      "claimIds": [],
+      "state": "gap",
+      "gap": "Exact legal basis requirements not fully established in this release."
+    },
+    "operational_intake": {
+      "claimIds": [
+        "cbi-atg-intake-observation"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "decision_stage": {
+      "claimIds": [
+        "cbi-atg-intake-observation"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "passport_issuance": {
+      "claimIds": [
+        "cbi-atg-passportDelivery",
+        "cbi-atg-intake-observation"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "investment_options": {
+      "claimIds": [
+        "cbi-atg-routes"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "minimum_capital": {
+      "claimIds": [
+        "cbi-atg-amount",
+        "cbi-atg-capital"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "financial_resources": {
+      "claimIds": [],
+      "state": "gap",
+      "gap": "Exact financial resources requirements not fully established in this release."
+    },
+    "published_fees": {
+      "claimIds": [
+        "cbi-atg-cost-0",
+        "cbi-atg-cost-1",
+        "cbi-atg-cost-2",
+        "cbi-atg-cost-18",
+        "cbi-atg-cost-19",
+        "cbi-atg-cost-20",
+        "cbi-atg-cost-21",
+        "cbi-atg-dated-single-fee-7",
+        "cbi-atg-scenario-item-32",
+        "cbi-atg-feeNote"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "dependants": {
+      "claimIds": [
+        "cbi-atg-family",
+        "cbi-atg-familyScenario"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "screening": {
+      "claimIds": [],
+      "state": "gap",
+      "gap": "Exact screening requirements not fully established in this release."
+    },
+    "presence_holding": {
+      "claimIds": [
+        "cbi-atg-presence",
+        "cbi-atg-hold"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "post_grant": {
+      "claimIds": [
+        "cbi-atg-presence",
+        "cbi-atg-hold"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "withdrawal_recovery": {
+      "claimIds": [
+        "cbi-atg-capitalType",
+        "cbi-atg-hold"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "process_timing": {
+      "claimIds": [
+        "cbi-atg-processing",
+        "cbi-atg-passportDelivery"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "nationality_document_restrictions": {
+      "claimIds": [
+        "cbi-atg-caveat"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    }
+  },
+  "qualifications": [
+    "Five-day obligation can affect retention of citizenship. Due diligence and processing are additional.",
+    "Interview, document, agent and any enhanced checks are additional if applicable.",
+    "No independently verified end-to-end passport delivery time"
+  ]
+}

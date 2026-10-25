@@ -1,0 +1,68 @@
+[
+  {
+    "id": "cbi-kna-dated-cost-0",
+    "programmeId": "cbi-kna",
+    "optionId": "cbi-kna-option-1",
+    "claimId": "cbi-kna-dated-single-fee-0"
+  },
+  {
+    "id": "cbi-kna-dated-cost-1",
+    "programmeId": "cbi-kna",
+    "optionId": "cbi-kna-option-1",
+    "claimId": "cbi-kna-dated-single-fee-1"
+  },
+  {
+    "id": "cbi-kna-dated-cost-2",
+    "programmeId": "cbi-kna",
+    "optionId": "cbi-kna-option-1",
+    "claimId": "cbi-kna-dated-single-fee-2"
+  },
+  {
+    "id": "cbi-kna-scenario-item-27",
+    "programmeId": "cbi-kna",
+    "optionId": "cbi-kna-option-1",
+    "claimId": "cbi-kna-scenario-item-27"
+  },
+  {
+    "id": "cbi-kna-scenario-item-28",
+    "programmeId": "cbi-kna",
+    "optionId": "cbi-kna-option-1",
+    "claimId": "cbi-kna-scenario-item-28"
+  },
+  {
+    "id": "cbi-kna-scenario-item-29",
+    "programmeId": "cbi-kna",
+    "optionId": "cbi-kna-option-1",
+    "claimId": "cbi-kna-scenario-item-29"
+  },
+  {
+    "id": "cbi-kna-scenario-item-30",
+    "programmeId": "cbi-kna",
+    "optionId": "cbi-kna-option-1",
+    "claimId": "cbi-kna-scenario-item-30"
+  },
+  {
+    "id": "cbi-kna-scenario-item-31",
+    "programmeId": "cbi-kna",
+    "optionId": "cbi-kna-option-1",
+    "claimId": "cbi-kna-scenario-item-31"
+  },
+  {
+    "id": "cbi-kna-scenario-item-32",
+    "programmeId": "cbi-kna",
+    "optionId": "cbi-kna-option-1",
+    "claimId": "cbi-kna-scenario-item-32"
+  },
+  {
+    "id": "cbi-kna-scenario-item-33",
+    "programmeId": "cbi-kna",
+    "optionId": "cbi-kna-option-1",
+    "claimId": "cbi-kna-scenario-item-33"
+  },
+  {
+    "id": "cbi-kna-scenario-item-34",
+    "programmeId": "cbi-kna",
+    "optionId": "cbi-kna-option-1",
+    "claimId": "cbi-kna-scenario-item-34"
+  }
+]

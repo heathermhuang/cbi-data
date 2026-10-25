@@ -1,0 +1,42 @@
+name: Bounded official-source comparison
+on:
+  schedule:
+    - cron: '23 3 * * *'
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: source-monitor
+  cancel-in-progress: false
+jobs:
+  compare:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020
+        with:
+          node-version: '24'
+      - name: Load bounded prior checkpoint
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p monitor
+          gh api "repos/$GITHUB_REPOSITORY/contents/state.json?ref=monitor-state" --jq .content | base64 -d > monitor/state.json || printf '{}\n' > monitor/state.json
+      - run: node scripts/monitor-sources.mjs
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: source-health
+          path: |
+            monitor/latest.json
+            monitor/state.json
+          retention-days: 30
+      - name: Persist safe bounded checkpoint (no pages or claim edits)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: node scripts/save-monitor-state.mjs

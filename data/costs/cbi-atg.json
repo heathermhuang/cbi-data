@@ -1,0 +1,56 @@
+[
+  {
+    "id": "cbi-atg-cost-0",
+    "programmeId": "cbi-atg",
+    "optionId": "cbi-atg-option-1",
+    "claimId": "cbi-atg-cost-0"
+  },
+  {
+    "id": "cbi-atg-cost-1",
+    "programmeId": "cbi-atg",
+    "optionId": "cbi-atg-option-1",
+    "claimId": "cbi-atg-cost-1"
+  },
+  {
+    "id": "cbi-atg-cost-2",
+    "programmeId": "cbi-atg",
+    "optionId": "cbi-atg-option-1",
+    "claimId": "cbi-atg-cost-2"
+  },
+  {
+    "id": "cbi-atg-cost-18",
+    "programmeId": "cbi-atg",
+    "optionId": "cbi-atg-option-1",
+    "claimId": "cbi-atg-cost-18"
+  },
+  {
+    "id": "cbi-atg-cost-19",
+    "programmeId": "cbi-atg",
+    "optionId": "cbi-atg-option-1",
+    "claimId": "cbi-atg-cost-19"
+  },
+  {
+    "id": "cbi-atg-cost-20",
+    "programmeId": "cbi-atg",
+    "optionId": "cbi-atg-option-1",
+    "claimId": "cbi-atg-cost-20"
+  },
+  {
+    "id": "cbi-atg-cost-21",
+    "programmeId": "cbi-atg",
+    "optionId": "cbi-atg-option-1",
+    "claimId": "cbi-atg-cost-21"
+  },
+  {
+    "id": "cbi-atg-dated-cost-7",
+    "programmeId": "cbi-atg",
+    "optionId": "cbi-atg-option-1",
+    "claimId": "cbi-atg-dated-single-fee-7"
+  },
+  {
+    "id": "cbi-atg-scenario-item-32",
+    "programmeId": "cbi-atg",
+    "optionId": "cbi-atg-option-1",
+    "claimId": "cbi-atg-scenario-item-32"
+  }
+]

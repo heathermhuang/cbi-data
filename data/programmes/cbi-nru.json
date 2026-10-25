@@ -1,0 +1,181 @@
+{
+  "id": "cbi-nru",
+  "aliases": [
+    "nr"
+  ],
+  "jurisdiction": "NRU",
+  "country": "Nauru / Naoero",
+  "name": "Economic and Climate Resilience Citizenship",
+  "kind": "citizenship",
+  "mechanism": "investment_subject_to_nationality_decision",
+  "profileURL": "https://cbi.me/citizenship-by-investment/nauru/",
+  "region": "Oceania",
+  "period": "2024–present",
+  "start": 2024,
+  "end": null,
+  "optionIds": [
+    "cbi-nru-option-1"
+  ],
+  "options": [
+    {
+      "id": "cbi-nru-option-1",
+      "label": "Treasury contribution",
+      "classification": "contribution",
+      "amountClaimId": "cbi-nru-routes",
+      "conditions": "Temporary 2026 offer; non-refundable"
+    }
+  ],
+  "fields": {
+    "capital": "cbi-nru-capital",
+    "capitalType": "cbi-nru-capitalType",
+    "hold": "cbi-nru-hold",
+    "presence": "cbi-nru-presence",
+    "family": "cbi-nru-family",
+    "caveat": "cbi-nru-caveat",
+    "alert": "cbi-nru-alert",
+    "processing": "cbi-nru-processing",
+    "presenceShort": "cbi-nru-presenceShort",
+    "feeNote": "cbi-nru-feeNote",
+    "keyNote": "cbi-nru-keyNote",
+    "familyScenario": "cbi-nru-familyScenario",
+    "passportDelivery": "cbi-nru-passportDelivery",
+    "routeType": "cbi-nru-routeType",
+    "amount": "cbi-nru-amount",
+    "familyAmount": "cbi-nru-family-amount",
+    "routes": "cbi-nru-routes",
+    "legalOutcome": "cbi-nru-legal-outcome",
+    "intake": "cbi-nru-intake-observation"
+  },
+  "requiredFields": {
+    "legal_outcome": {
+      "claimIds": [
+        "cbi-nru-legal-outcome"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "legal_basis": {
+      "claimIds": [],
+      "state": "gap",
+      "gap": "Exact legal basis requirements not fully established in this release."
+    },
+    "operational_intake": {
+      "claimIds": [
+        "cbi-nru-intake-observation"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "decision_stage": {
+      "claimIds": [
+        "cbi-nru-intake-observation"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "passport_issuance": {
+      "claimIds": [
+        "cbi-nru-passportDelivery",
+        "cbi-nru-intake-observation"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "investment_options": {
+      "claimIds": [
+        "cbi-nru-routes"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "minimum_capital": {
+      "claimIds": [
+        "cbi-nru-amount",
+        "cbi-nru-capital"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "financial_resources": {
+      "claimIds": [],
+      "state": "gap",
+      "gap": "Exact financial resources requirements not fully established in this release."
+    },
+    "published_fees": {
+      "claimIds": [
+        "cbi-nru-cost-10",
+        "cbi-nru-cost-11",
+        "cbi-nru-cost-12",
+        "cbi-nru-cost-13",
+        "cbi-nru-cost-14",
+        "cbi-nru-scenario-item-28",
+        "cbi-nru-scenario-item-29",
+        "cbi-nru-scenario-item-30",
+        "cbi-nru-scenario-item-31",
+        "cbi-nru-scenario-item-32",
+        "cbi-nru-scenario-item-33",
+        "cbi-nru-scenario-item-34",
+        "cbi-nru-feeNote"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "dependants": {
+      "claimIds": [
+        "cbi-nru-family",
+        "cbi-nru-familyScenario"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "screening": {
+      "claimIds": [],
+      "state": "gap",
+      "gap": "Exact screening requirements not fully established in this release."
+    },
+    "presence_holding": {
+      "claimIds": [
+        "cbi-nru-presence",
+        "cbi-nru-hold"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "post_grant": {
+      "claimIds": [
+        "cbi-nru-presence",
+        "cbi-nru-hold"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "withdrawal_recovery": {
+      "claimIds": [
+        "cbi-nru-capitalType",
+        "cbi-nru-hold"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "process_timing": {
+      "claimIds": [
+        "cbi-nru-processing",
+        "cbi-nru-passportDelivery"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "nationality_document_restrictions": {
+      "claimIds": [
+        "cbi-nru-caveat"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    }
+  },
+  "qualifications": [
+    "Published single-applicant government items total US$102,700 before agent/document costs: 90 k + 5 k + 6 k + 1.2 k + 0.5 k. Recheck tariff after offer expiry.",
+    "Offer expires 31 December 2026. Benefactor, agent, document and any additional charges excluded.",
+    "No independently verified end-to-end passport delivery time"
+  ]
+}

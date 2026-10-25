@@ -1,0 +1,2 @@
+import {readFile} from 'node:fs/promises';import {query} from '../src/core/index.mjs';import {loadDataset} from '../src/core/load.mjs';
+const read=async p=>JSON.parse(await readFile(new URL('../dist/'+p,import.meta.url),'utf8'));const input={ids:['cbi-atg','cbi-stp'],scenario:'couple_two_children_under12',release:'2026-10-25.1'};console.log(JSON.stringify(query(await loadDataset(read,'compare',input),'compare',input,'2026-10-25T08:00:00Z'),null,2));

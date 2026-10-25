@@ -1,0 +1,74 @@
+[
+  {
+    "id": "cbi-nru-cost-10",
+    "programmeId": "cbi-nru",
+    "optionId": "cbi-nru-option-1",
+    "claimId": "cbi-nru-cost-10"
+  },
+  {
+    "id": "cbi-nru-cost-11",
+    "programmeId": "cbi-nru",
+    "optionId": "cbi-nru-option-1",
+    "claimId": "cbi-nru-cost-11"
+  },
+  {
+    "id": "cbi-nru-cost-12",
+    "programmeId": "cbi-nru",
+    "optionId": "cbi-nru-option-1",
+    "claimId": "cbi-nru-cost-12"
+  },
+  {
+    "id": "cbi-nru-cost-13",
+    "programmeId": "cbi-nru",
+    "optionId": "cbi-nru-option-1",
+    "claimId": "cbi-nru-cost-13"
+  },
+  {
+    "id": "cbi-nru-cost-14",
+    "programmeId": "cbi-nru",
+    "optionId": "cbi-nru-option-1",
+    "claimId": "cbi-nru-cost-14"
+  },
+  {
+    "id": "cbi-nru-scenario-item-28",
+    "programmeId": "cbi-nru",
+    "optionId": "cbi-nru-option-1",
+    "claimId": "cbi-nru-scenario-item-28"
+  },
+  {
+    "id": "cbi-nru-scenario-item-29",
+    "programmeId": "cbi-nru",
+    "optionId": "cbi-nru-option-1",
+    "claimId": "cbi-nru-scenario-item-29"
+  },
+  {
+    "id": "cbi-nru-scenario-item-30",
+    "programmeId": "cbi-nru",
+    "optionId": "cbi-nru-option-1",
+    "claimId": "cbi-nru-scenario-item-30"
+  },
+  {
+    "id": "cbi-nru-scenario-item-31",
+    "programmeId": "cbi-nru",
+    "optionId": "cbi-nru-option-1",
+    "claimId": "cbi-nru-scenario-item-31"
+  },
+  {
+    "id": "cbi-nru-scenario-item-32",
+    "programmeId": "cbi-nru",
+    "optionId": "cbi-nru-option-1",
+    "claimId": "cbi-nru-scenario-item-32"
+  },
+  {
+    "id": "cbi-nru-scenario-item-33",
+    "programmeId": "cbi-nru",
+    "optionId": "cbi-nru-option-1",
+    "claimId": "cbi-nru-scenario-item-33"
+  },
+  {
+    "id": "cbi-nru-scenario-item-34",
+    "programmeId": "cbi-nru",
+    "optionId": "cbi-nru-option-1",
+    "claimId": "cbi-nru-scenario-item-34"
+  }
+]

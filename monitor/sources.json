@@ -1,0 +1,1195 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "url": "https://ab.gov.ag/detail_template.php?page=press_release%2F2026%2Fjuly%2F2026_july_07-govt_responds_to+eu_communication_on_cip",
+      "sourceIds": [
+        "follow-ag-eu-request"
+      ],
+      "claimIds": [
+        "cbi-atg-editorial-update"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://cip.gov.ag/citizenship/",
+      "sourceIds": [
+        "ag"
+      ],
+      "claimIds": [
+        "cbi-atg-capitalType",
+        "cbi-atg-hold",
+        "cbi-atg-presence",
+        "cbi-atg-family",
+        "cbi-atg-caveat",
+        "cbi-atg-alert",
+        "cbi-atg-processing",
+        "cbi-atg-presenceShort",
+        "cbi-atg-feeNote",
+        "cbi-atg-keyNote",
+        "cbi-atg-familyScenario",
+        "cbi-atg-passportDelivery",
+        "cbi-atg-routeType",
+        "cbi-atg-family-amount",
+        "cbi-atg-routes",
+        "cbi-atg-legal-outcome",
+        "cbi-atg-intake-observation"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://cip.gov.ag/investment-options/ndf/",
+      "sourceIds": [
+        "ag-ndf"
+      ],
+      "claimIds": [
+        "cbi-atg-capitalType",
+        "cbi-atg-hold",
+        "cbi-atg-presence",
+        "cbi-atg-family",
+        "cbi-atg-caveat",
+        "cbi-atg-alert",
+        "cbi-atg-processing",
+        "cbi-atg-presenceShort",
+        "cbi-atg-feeNote",
+        "cbi-atg-keyNote",
+        "cbi-atg-familyScenario",
+        "cbi-atg-passportDelivery",
+        "cbi-atg-routeType",
+        "cbi-atg-family-amount",
+        "cbi-atg-routes",
+        "cbi-atg-legal-outcome",
+        "cbi-atg-intake-observation",
+        "cbi-atg-cost-0",
+        "cbi-atg-cost-1",
+        "cbi-atg-cost-18",
+        "cbi-atg-cost-19"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://cip.gov.ag/investment-options/real-estate/",
+      "sourceIds": [
+        "update-ag-property"
+      ],
+      "claimIds": [
+        "cbi-atg-editorial-update"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://cip.gov.ag/schedule-of-fees/",
+      "sourceIds": [
+        "ag-fees"
+      ],
+      "claimIds": [
+        "cbi-atg-capital",
+        "cbi-atg-capitalType",
+        "cbi-atg-hold",
+        "cbi-atg-presence",
+        "cbi-atg-family",
+        "cbi-atg-caveat",
+        "cbi-atg-alert",
+        "cbi-atg-processing",
+        "cbi-atg-presenceShort",
+        "cbi-atg-feeNote",
+        "cbi-atg-keyNote",
+        "cbi-atg-familyScenario",
+        "cbi-atg-passportDelivery",
+        "cbi-atg-routeType",
+        "cbi-atg-amount",
+        "cbi-atg-family-amount",
+        "cbi-atg-routes",
+        "cbi-atg-legal-outcome",
+        "cbi-atg-intake-observation",
+        "cbi-atg-cost-1",
+        "cbi-atg-cost-2",
+        "cbi-atg-cost-19",
+        "cbi-atg-cost-20",
+        "cbi-atg-cost-21",
+        "cbi-atg-dated-single-fee-7",
+        "cbi-atg-scenario-item-32"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://ciu.gov.kn/application-process/",
+      "sourceIds": [
+        "official-skn-process",
+        "skn-presence"
+      ],
+      "claimIds": [
+        "cbi-kna-capitalType",
+        "cbi-kna-hold",
+        "cbi-kna-presence",
+        "cbi-kna-family",
+        "cbi-kna-caveat",
+        "cbi-kna-alert",
+        "cbi-kna-processing",
+        "cbi-kna-presenceShort",
+        "cbi-kna-feeNote",
+        "cbi-kna-keyNote",
+        "cbi-kna-familyScenario",
+        "cbi-kna-passportDelivery",
+        "cbi-kna-routeType",
+        "cbi-kna-family-amount",
+        "cbi-kna-routes",
+        "cbi-kna-legal-outcome",
+        "cbi-kna-intake-observation",
+        "cbi-kna-process-stages"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://ciu.gov.kn/authorised-agents-list/",
+      "sourceIds": [
+        "official-skn-agents"
+      ],
+      "claimIds": [],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://ciu.gov.kn/biometrics/",
+      "sourceIds": [
+        "skn-biometric"
+      ],
+      "claimIds": [
+        "cbi-kna-capitalType",
+        "cbi-kna-hold",
+        "cbi-kna-presence",
+        "cbi-kna-family",
+        "cbi-kna-caveat",
+        "cbi-kna-alert",
+        "cbi-kna-processing",
+        "cbi-kna-presenceShort",
+        "cbi-kna-feeNote",
+        "cbi-kna-keyNote",
+        "cbi-kna-familyScenario",
+        "cbi-kna-passportDelivery",
+        "cbi-kna-routeType",
+        "cbi-kna-family-amount",
+        "cbi-kna-routes",
+        "cbi-kna-legal-outcome",
+        "cbi-kna-intake-observation",
+        "cbi-kna-dated-single-fee-0",
+        "cbi-kna-dated-single-fee-1",
+        "cbi-kna-dated-single-fee-2",
+        "cbi-kna-scenario-item-32",
+        "cbi-kna-scenario-item-33",
+        "cbi-kna-scenario-item-34"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://ciu.gov.kn/news-the-year-in-review/",
+      "sourceIds": [
+        "skn-transition"
+      ],
+      "claimIds": [
+        "cbi-kna-capitalType",
+        "cbi-kna-hold",
+        "cbi-kna-presence",
+        "cbi-kna-family",
+        "cbi-kna-caveat",
+        "cbi-kna-alert",
+        "cbi-kna-processing",
+        "cbi-kna-presenceShort",
+        "cbi-kna-feeNote",
+        "cbi-kna-keyNote",
+        "cbi-kna-familyScenario",
+        "cbi-kna-passportDelivery",
+        "cbi-kna-routeType",
+        "cbi-kna-family-amount",
+        "cbi-kna-routes",
+        "cbi-kna-legal-outcome",
+        "cbi-kna-intake-observation"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://ciu.gov.kn/st-kitts-and-nevis-integrates-biometric-enrolment-with-the-passport-process/",
+      "sourceIds": [
+        "official-skn-passport"
+      ],
+      "claimIds": [
+        "cbi-kna-process-stages"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://ciu.gov.kn/sustainable-island-state-contribution/",
+      "sourceIds": [
+        "skn"
+      ],
+      "claimIds": [
+        "cbi-kna-capital",
+        "cbi-kna-capitalType",
+        "cbi-kna-hold",
+        "cbi-kna-presence",
+        "cbi-kna-family",
+        "cbi-kna-caveat",
+        "cbi-kna-alert",
+        "cbi-kna-processing",
+        "cbi-kna-presenceShort",
+        "cbi-kna-feeNote",
+        "cbi-kna-keyNote",
+        "cbi-kna-familyScenario",
+        "cbi-kna-passportDelivery",
+        "cbi-kna-routeType",
+        "cbi-kna-amount",
+        "cbi-kna-family-amount",
+        "cbi-kna-routes",
+        "cbi-kna-legal-outcome",
+        "cbi-kna-intake-observation",
+        "cbi-kna-dated-single-fee-0",
+        "cbi-kna-dated-single-fee-1",
+        "cbi-kna-dated-single-fee-2",
+        "cbi-kna-scenario-item-27",
+        "cbi-kna-scenario-item-28",
+        "cbi-kna-scenario-item-29",
+        "cbi-kna-scenario-item-30"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://ciu.gov.kn/wp-content/uploads/2025/01/sro-20-of-2024.pdf",
+      "sourceIds": [
+        "skn-fees"
+      ],
+      "claimIds": [
+        "cbi-kna-capitalType",
+        "cbi-kna-hold",
+        "cbi-kna-presence",
+        "cbi-kna-family",
+        "cbi-kna-caveat",
+        "cbi-kna-alert",
+        "cbi-kna-processing",
+        "cbi-kna-presenceShort",
+        "cbi-kna-feeNote",
+        "cbi-kna-keyNote",
+        "cbi-kna-familyScenario",
+        "cbi-kna-passportDelivery",
+        "cbi-kna-routeType",
+        "cbi-kna-family-amount",
+        "cbi-kna-routes",
+        "cbi-kna-legal-outcome",
+        "cbi-kna-intake-observation",
+        "cbi-kna-dated-single-fee-0",
+        "cbi-kna-dated-single-fee-1",
+        "cbi-kna-dated-single-fee-2",
+        "cbi-kna-scenario-item-31"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://eur-lex.europa.eu/eli/reg/2018/1806/2025-12-30/eng",
+      "sourceIds": [
+        "eu-visa-list"
+      ],
+      "claimIds": [
+        "cbi-atg-travel-schengen-short-stay",
+        "cbi-dma-travel-schengen-short-stay",
+        "cbi-egy-travel-schengen-short-stay",
+        "cbi-grd-travel-schengen-short-stay",
+        "cbi-kna-travel-schengen-short-stay",
+        "cbi-lca-travel-schengen-short-stay",
+        "cbi-nru-travel-schengen-short-stay",
+        "cbi-slv-travel-schengen-short-stay",
+        "cbi-stp-travel-schengen-short-stay",
+        "cbi-tur-travel-schengen-short-stay",
+        "cbi-vut-travel-schengen-short-stay"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://imagrenada.gd/approved-agents/",
+      "sourceIds": [
+        "official-gd-agents"
+      ],
+      "claimIds": [],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://imagrenada.gd/becoming-a-citizen/",
+      "sourceIds": [
+        "gd",
+        "official-gd-process"
+      ],
+      "claimIds": [
+        "cbi-grd-capital",
+        "cbi-grd-capitalType",
+        "cbi-grd-hold",
+        "cbi-grd-presence",
+        "cbi-grd-family",
+        "cbi-grd-caveat",
+        "cbi-grd-alert",
+        "cbi-grd-processing",
+        "cbi-grd-presenceShort",
+        "cbi-grd-feeNote",
+        "cbi-grd-keyNote",
+        "cbi-grd-familyScenario",
+        "cbi-grd-passportDelivery",
+        "cbi-grd-routeType",
+        "cbi-grd-amount",
+        "cbi-grd-family-amount",
+        "cbi-grd-routes",
+        "cbi-grd-legal-outcome",
+        "cbi-grd-intake-observation",
+        "cbi-grd-process-stages",
+        "cbi-grd-dated-single-fee-0",
+        "cbi-grd-dated-single-fee-1",
+        "cbi-grd-dated-single-fee-2",
+        "cbi-grd-dated-single-fee-3",
+        "cbi-grd-dated-single-fee-4",
+        "cbi-grd-scenario-item-29",
+        "cbi-grd-scenario-item-30",
+        "cbi-grd-scenario-item-31",
+        "cbi-grd-scenario-item-32",
+        "cbi-grd-scenario-item-33",
+        "cbi-grd-scenario-item-34"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://saotomeprincipe.de/2026/09/21/einbuergerung-sao-tome-e-principe-aktuelles/",
+      "sourceIds": [
+        "st-family"
+      ],
+      "claimIds": [
+        "cbi-stp-capitalType",
+        "cbi-stp-hold",
+        "cbi-stp-presence",
+        "cbi-stp-family",
+        "cbi-stp-caveat",
+        "cbi-stp-alert",
+        "cbi-stp-processing",
+        "cbi-stp-presenceShort",
+        "cbi-stp-feeNote",
+        "cbi-stp-keyNote",
+        "cbi-stp-familyScenario",
+        "cbi-stp-passportDelivery",
+        "cbi-stp-routeType",
+        "cbi-stp-family-amount",
+        "cbi-stp-routes",
+        "cbi-stp-legal-outcome",
+        "cbi-stp-intake-observation"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://saotomeprincipe.de/en/citizenship-by-investing/",
+      "sourceIds": [
+        "st-price"
+      ],
+      "claimIds": [
+        "cbi-stp-capitalType",
+        "cbi-stp-hold",
+        "cbi-stp-presence",
+        "cbi-stp-family",
+        "cbi-stp-caveat",
+        "cbi-stp-alert",
+        "cbi-stp-processing",
+        "cbi-stp-presenceShort",
+        "cbi-stp-feeNote",
+        "cbi-stp-keyNote",
+        "cbi-stp-familyScenario",
+        "cbi-stp-passportDelivery",
+        "cbi-stp-routeType",
+        "cbi-stp-family-amount",
+        "cbi-stp-routes",
+        "cbi-stp-legal-outcome",
+        "cbi-stp-intake-observation",
+        "cbi-stp-cost-8",
+        "cbi-stp-cost-27"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://stp.gov.st/noticeDetail?id=kva9jgmxtzvd4kzuw4pleldq",
+      "sourceIds": [
+        "st"
+      ],
+      "claimIds": [
+        "cbi-stp-capital",
+        "cbi-stp-capitalType",
+        "cbi-stp-hold",
+        "cbi-stp-presence",
+        "cbi-stp-family",
+        "cbi-stp-caveat",
+        "cbi-stp-alert",
+        "cbi-stp-processing",
+        "cbi-stp-presenceShort",
+        "cbi-stp-feeNote",
+        "cbi-stp-keyNote",
+        "cbi-stp-familyScenario",
+        "cbi-stp-passportDelivery",
+        "cbi-stp-routeType",
+        "cbi-stp-amount",
+        "cbi-stp-family-amount",
+        "cbi-stp-routes",
+        "cbi-stp-legal-outcome",
+        "cbi-stp-intake-observation"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://travel.state.gov/content/travel/en/News/visas-news/suspension-of-visa-issuance-to-foreign-nationals-to-protect-the-security-of-the-united-states.html",
+      "sourceIds": [
+        "us-restrictions"
+      ],
+      "claimIds": [
+        "cbi-atg-travel-usa",
+        "cbi-dma-travel-usa"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html",
+      "sourceIds": [
+        "us-vwp"
+      ],
+      "claimIds": [
+        "cbi-atg-travel-usa",
+        "cbi-dma-travel-usa",
+        "cbi-egy-travel-usa",
+        "cbi-grd-travel-usa",
+        "cbi-kna-travel-usa",
+        "cbi-lca-travel-usa",
+        "cbi-nru-travel-usa",
+        "cbi-slv-travel-usa",
+        "cbi-stp-travel-usa",
+        "cbi-tur-travel-usa",
+        "cbi-vut-travel-usa"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://vancitizenship.gov.vu/",
+      "sourceIds": [
+        "vu"
+      ],
+      "claimIds": [
+        "cbi-vut-capitalType",
+        "cbi-vut-hold",
+        "cbi-vut-presence",
+        "cbi-vut-alert",
+        "cbi-vut-processing",
+        "cbi-vut-presenceShort",
+        "cbi-vut-keyNote",
+        "cbi-vut-familyScenario",
+        "cbi-vut-passportDelivery",
+        "cbi-vut-routeType",
+        "cbi-vut-amount",
+        "cbi-vut-family-amount",
+        "cbi-vut-routes",
+        "cbi-vut-legal-outcome",
+        "cbi-vut-intake-observation"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://vancitizenship.gov.vu/images/Order_No_33_of_2019_-_New_DSP_Regulations.pdf",
+      "sourceIds": [
+        "comparison-vu-dsp-regulations25",
+        "vu-price"
+      ],
+      "claimIds": [
+        "cbi-vut-capital",
+        "cbi-vut-capitalType",
+        "cbi-vut-hold",
+        "cbi-vut-presence",
+        "cbi-vut-family",
+        "cbi-vut-caveat",
+        "cbi-vut-alert",
+        "cbi-vut-processing",
+        "cbi-vut-presenceShort",
+        "cbi-vut-feeNote",
+        "cbi-vut-keyNote",
+        "cbi-vut-familyScenario",
+        "cbi-vut-passportDelivery",
+        "cbi-vut-routeType",
+        "cbi-vut-family-amount",
+        "cbi-vut-routes",
+        "cbi-vut-legal-outcome",
+        "cbi-vut-intake-observation",
+        "cbi-vut-cost-4",
+        "cbi-vut-cost-6",
+        "cbi-vut-cost-7",
+        "cbi-vut-cost-23",
+        "cbi-vut-cost-25",
+        "cbi-vut-cost-26",
+        "cbi-vut-editorial-update"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://vancitizenship.gov.vu/images/Order_No_39_of_2020_3.pdf",
+      "sourceIds": [
+        "comparison-vu-dsp-amendment25"
+      ],
+      "claimIds": [
+        "cbi-vut-capital",
+        "cbi-vut-family",
+        "cbi-vut-caveat",
+        "cbi-vut-feeNote",
+        "cbi-vut-cost-5",
+        "cbi-vut-cost-24",
+        "cbi-vut-editorial-update"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://vancitizenship.gov.vu/index.php/citizenship/fees-and-charges",
+      "sourceIds": [
+        "comparison-vu-dsp-tariff25",
+        "vu-current"
+      ],
+      "claimIds": [
+        "cbi-vut-capital",
+        "cbi-vut-capitalType",
+        "cbi-vut-hold",
+        "cbi-vut-presence",
+        "cbi-vut-family",
+        "cbi-vut-caveat",
+        "cbi-vut-alert",
+        "cbi-vut-processing",
+        "cbi-vut-presenceShort",
+        "cbi-vut-feeNote",
+        "cbi-vut-keyNote",
+        "cbi-vut-familyScenario",
+        "cbi-vut-passportDelivery",
+        "cbi-vut-routeType",
+        "cbi-vut-family-amount",
+        "cbi-vut-routes",
+        "cbi-vut-legal-outcome",
+        "cbi-vut-intake-observation",
+        "cbi-vut-cost-4",
+        "cbi-vut-cost-23",
+        "cbi-vut-editorial-update"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://vancitizenship.gov.vu/index.php/citizenship/forms",
+      "sourceIds": [
+        "comparison-vu-distinct-formd25"
+      ],
+      "claimIds": [
+        "cbi-vut-editorial-update"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://world.adoptingelsalvador.gob.sv/welcome",
+      "sourceIds": [
+        "publication-sv-stages",
+        "sv"
+      ],
+      "claimIds": [
+        "cbi-slv-capital",
+        "cbi-slv-capitalType",
+        "cbi-slv-hold",
+        "cbi-slv-presence",
+        "cbi-slv-family",
+        "cbi-slv-caveat",
+        "cbi-slv-alert",
+        "cbi-slv-processing",
+        "cbi-slv-presenceShort",
+        "cbi-slv-feeNote",
+        "cbi-slv-keyNote",
+        "cbi-slv-familyScenario",
+        "cbi-slv-passportDelivery",
+        "cbi-slv-routeType",
+        "cbi-slv-amount",
+        "cbi-slv-family-amount",
+        "cbi-slv-routes",
+        "cbi-slv-legal-outcome",
+        "cbi-slv-intake-observation",
+        "cbi-slv-editorial-update",
+        "cbi-slv-scenario-item-24",
+        "cbi-slv-scenario-item-25"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html",
+      "sourceIds": [
+        "publication-entry-nationality"
+      ],
+      "claimIds": [
+        "cbi-dma-travel-can",
+        "cbi-egy-travel-can",
+        "cbi-grd-travel-can",
+        "cbi-nru-travel-can",
+        "cbi-slv-travel-can",
+        "cbi-stp-travel-can",
+        "cbi-tur-travel-can",
+        "cbi-vut-travel-can"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/eligibility/eta-x.html",
+      "sourceIds": [
+        "ca-conditional-eta"
+      ],
+      "claimIds": [
+        "cbi-atg-travel-can",
+        "cbi-kna-travel-can",
+        "cbi-lca-travel-can"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://www.cbiu.gov.dm/dominica-citizenship/authorised-agents/",
+      "sourceIds": [
+        "official-dm-agents"
+      ],
+      "claimIds": [],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://www.cbiu.gov.dm/investment-options/economic-diversification-fund/",
+      "sourceIds": [
+        "dm"
+      ],
+      "claimIds": [
+        "cbi-dma-capital",
+        "cbi-dma-capitalType",
+        "cbi-dma-hold",
+        "cbi-dma-presence",
+        "cbi-dma-family",
+        "cbi-dma-caveat",
+        "cbi-dma-alert",
+        "cbi-dma-processing",
+        "cbi-dma-presenceShort",
+        "cbi-dma-feeNote",
+        "cbi-dma-keyNote",
+        "cbi-dma-familyScenario",
+        "cbi-dma-passportDelivery",
+        "cbi-dma-routeType",
+        "cbi-dma-amount",
+        "cbi-dma-family-amount",
+        "cbi-dma-routes",
+        "cbi-dma-legal-outcome",
+        "cbi-dma-intake-observation",
+        "cbi-dma-cost-3",
+        "cbi-dma-cost-22",
+        "cbi-dma-dated-single-fee-2",
+        "cbi-dma-dated-single-fee-3",
+        "cbi-dma-dated-single-fee-4",
+        "cbi-dma-dated-single-fee-5",
+        "cbi-dma-scenario-item-30",
+        "cbi-dma-scenario-item-31",
+        "cbi-dma-scenario-item-32",
+        "cbi-dma-scenario-item-33",
+        "cbi-dma-scenario-item-34"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://www.cbiu.gov.dm/investment-options/real-estate/",
+      "sourceIds": [
+        "dm-property"
+      ],
+      "claimIds": [
+        "cbi-dma-capitalType",
+        "cbi-dma-hold",
+        "cbi-dma-presence",
+        "cbi-dma-family",
+        "cbi-dma-caveat",
+        "cbi-dma-alert",
+        "cbi-dma-processing",
+        "cbi-dma-presenceShort",
+        "cbi-dma-feeNote",
+        "cbi-dma-keyNote",
+        "cbi-dma-familyScenario",
+        "cbi-dma-passportDelivery",
+        "cbi-dma-routeType",
+        "cbi-dma-family-amount",
+        "cbi-dma-routes",
+        "cbi-dma-legal-outcome",
+        "cbi-dma-intake-observation"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://www.cbiu.gov.dm/news/dominica-citizenship/the-only-way-to-apply-for-dominica-citizenship-by-investment-is-through-an-authorised-agent/",
+      "sourceIds": [
+        "dm-timing",
+        "official-dm-process"
+      ],
+      "claimIds": [
+        "cbi-dma-capitalType",
+        "cbi-dma-hold",
+        "cbi-dma-presence",
+        "cbi-dma-family",
+        "cbi-dma-caveat",
+        "cbi-dma-alert",
+        "cbi-dma-processing",
+        "cbi-dma-presenceShort",
+        "cbi-dma-feeNote",
+        "cbi-dma-keyNote",
+        "cbi-dma-familyScenario",
+        "cbi-dma-passportDelivery",
+        "cbi-dma-routeType",
+        "cbi-dma-family-amount",
+        "cbi-dma-routes",
+        "cbi-dma-legal-outcome",
+        "cbi-dma-intake-observation",
+        "cbi-dma-process-stages"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://www.cipsaintlucia.com/citizenship-by-investment",
+      "sourceIds": [
+        "lc"
+      ],
+      "claimIds": [
+        "cbi-lca-capital",
+        "cbi-lca-capitalType",
+        "cbi-lca-hold",
+        "cbi-lca-presence",
+        "cbi-lca-family",
+        "cbi-lca-caveat",
+        "cbi-lca-alert",
+        "cbi-lca-processing",
+        "cbi-lca-presenceShort",
+        "cbi-lca-feeNote",
+        "cbi-lca-keyNote",
+        "cbi-lca-familyScenario",
+        "cbi-lca-passportDelivery",
+        "cbi-lca-routeType",
+        "cbi-lca-amount",
+        "cbi-lca-family-amount",
+        "cbi-lca-routes",
+        "cbi-lca-legal-outcome",
+        "cbi-lca-intake-observation",
+        "cbi-lca-cost-9",
+        "cbi-lca-cost-28",
+        "cbi-lca-scenario-item-26",
+        "cbi-lca-scenario-item-27",
+        "cbi-lca-scenario-item-28",
+        "cbi-lca-scenario-item-29",
+        "cbi-lca-scenario-item-30",
+        "cbi-lca-scenario-item-31"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://www.cipsaintlucia.com/faqs",
+      "sourceIds": [
+        "lc-old",
+        "update-lc-faq"
+      ],
+      "claimIds": [
+        "cbi-lca-capitalType",
+        "cbi-lca-hold",
+        "cbi-lca-presence",
+        "cbi-lca-family",
+        "cbi-lca-caveat",
+        "cbi-lca-alert",
+        "cbi-lca-processing",
+        "cbi-lca-presenceShort",
+        "cbi-lca-feeNote",
+        "cbi-lca-keyNote",
+        "cbi-lca-familyScenario",
+        "cbi-lca-passportDelivery",
+        "cbi-lca-routeType",
+        "cbi-lca-family-amount",
+        "cbi-lca-routes",
+        "cbi-lca-legal-outcome",
+        "cbi-lca-intake-observation",
+        "cbi-lca-cost-9",
+        "cbi-lca-cost-28",
+        "cbi-lca-editorial-update",
+        "cbi-lca-scenario-item-27",
+        "cbi-lca-scenario-item-29"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://www.cipsaintlucia.com/s/CIP-AR-2024_web.pdf",
+      "sourceIds": [
+        "update-lc-report"
+      ],
+      "claimIds": [
+        "cbi-lca-editorial-update"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://www.consilium.europa.eu/en/infographics/eu-visa-agreements-with-non-eu-countries/",
+      "sourceIds": [
+        "eu-nauru-condition"
+      ],
+      "claimIds": [
+        "cbi-nru-travel-schengen-short-stay"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2024/12/12/vanuatu-council-ends-visa-exemption/",
+      "sourceIds": [
+        "eu-vanuatu-revoked",
+        "vu-eu"
+      ],
+      "claimIds": [
+        "cbi-vut-capitalType",
+        "cbi-vut-hold",
+        "cbi-vut-presence",
+        "cbi-vut-alert",
+        "cbi-vut-processing",
+        "cbi-vut-presenceShort",
+        "cbi-vut-keyNote",
+        "cbi-vut-familyScenario",
+        "cbi-vut-passportDelivery",
+        "cbi-vut-routeType",
+        "cbi-vut-family-amount",
+        "cbi-vut-routes",
+        "cbi-vut-legal-outcome",
+        "cbi-vut-intake-observation",
+        "cbi-vut-travel-schengen-short-stay"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://www.ecrcp.gov.nr/contribution",
+      "sourceIds": [
+        "nr"
+      ],
+      "claimIds": [
+        "cbi-nru-capital",
+        "cbi-nru-capitalType",
+        "cbi-nru-hold",
+        "cbi-nru-presence",
+        "cbi-nru-family",
+        "cbi-nru-caveat",
+        "cbi-nru-alert",
+        "cbi-nru-processing",
+        "cbi-nru-presenceShort",
+        "cbi-nru-feeNote",
+        "cbi-nru-keyNote",
+        "cbi-nru-familyScenario",
+        "cbi-nru-passportDelivery",
+        "cbi-nru-routeType",
+        "cbi-nru-amount",
+        "cbi-nru-family-amount",
+        "cbi-nru-routes",
+        "cbi-nru-legal-outcome",
+        "cbi-nru-intake-observation",
+        "cbi-nru-cost-10",
+        "cbi-nru-cost-11",
+        "cbi-nru-cost-12",
+        "cbi-nru-cost-13",
+        "cbi-nru-cost-14",
+        "cbi-nru-scenario-item-28",
+        "cbi-nru-scenario-item-29",
+        "cbi-nru-scenario-item-30",
+        "cbi-nru-scenario-item-31",
+        "cbi-nru-scenario-item-32",
+        "cbi-nru-scenario-item-33",
+        "cbi-nru-scenario-item-34"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://www.ecu.gov.eg/ECI/FQA/List.aspx",
+      "sourceIds": [
+        "eg-faq"
+      ],
+      "claimIds": [
+        "cbi-egy-capitalType",
+        "cbi-egy-hold",
+        "cbi-egy-presence",
+        "cbi-egy-family",
+        "cbi-egy-caveat",
+        "cbi-egy-alert",
+        "cbi-egy-processing",
+        "cbi-egy-presenceShort",
+        "cbi-egy-feeNote",
+        "cbi-egy-keyNote",
+        "cbi-egy-familyScenario",
+        "cbi-egy-passportDelivery",
+        "cbi-egy-routeType",
+        "cbi-egy-family-amount",
+        "cbi-egy-routes",
+        "cbi-egy-legal-outcome",
+        "cbi-egy-intake-observation"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://www.egyptcitizenship.gov.eg/",
+      "sourceIds": [
+        "comparison-eg-current"
+      ],
+      "claimIds": [
+        "cbi-egy-cost-15",
+        "cbi-egy-cost-16",
+        "cbi-egy-editorial-update"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://www.egyptcitizenship.gov.eg/ECI/InvestmentProgram/List.aspx",
+      "sourceIds": [
+        "eg"
+      ],
+      "claimIds": [
+        "cbi-egy-capital",
+        "cbi-egy-capitalType",
+        "cbi-egy-hold",
+        "cbi-egy-presence",
+        "cbi-egy-family",
+        "cbi-egy-caveat",
+        "cbi-egy-alert",
+        "cbi-egy-processing",
+        "cbi-egy-presenceShort",
+        "cbi-egy-feeNote",
+        "cbi-egy-keyNote",
+        "cbi-egy-familyScenario",
+        "cbi-egy-passportDelivery",
+        "cbi-egy-routeType",
+        "cbi-egy-amount",
+        "cbi-egy-family-amount",
+        "cbi-egy-routes",
+        "cbi-egy-legal-outcome",
+        "cbi-egy-intake-observation",
+        "cbi-egy-cost-15"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://www.gov.uk/government/news/over-370-million-saved-in-crackdown-on-asylum-claims-by-tourists",
+      "sourceIds": [
+        "lc-uk"
+      ],
+      "claimIds": [
+        "cbi-lca-capitalType",
+        "cbi-lca-hold",
+        "cbi-lca-presence",
+        "cbi-lca-family",
+        "cbi-lca-caveat",
+        "cbi-lca-alert",
+        "cbi-lca-processing",
+        "cbi-lca-presenceShort",
+        "cbi-lca-feeNote",
+        "cbi-lca-keyNote",
+        "cbi-lca-familyScenario",
+        "cbi-lca-passportDelivery",
+        "cbi-lca-routeType",
+        "cbi-lca-family-amount",
+        "cbi-lca-routes",
+        "cbi-lca-legal-outcome",
+        "cbi-lca-intake-observation"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list",
+      "sourceIds": [
+        "uk-visits"
+      ],
+      "claimIds": [
+        "cbi-atg-travel-gbr",
+        "cbi-dma-travel-gbr",
+        "cbi-egy-travel-gbr",
+        "cbi-grd-travel-gbr",
+        "cbi-kna-travel-gbr",
+        "cbi-lca-travel-gbr",
+        "cbi-nru-travel-gbr",
+        "cbi-slv-travel-gbr",
+        "cbi-stp-travel-gbr",
+        "cbi-tur-travel-gbr",
+        "cbi-vut-travel-gbr"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://www.icisleri.gov.tr/sahte-degerlemeekspertiz-operasyonu-ve-usulsuz-vatandaslik-islemleri-hakkinda-basin-aciklamasi",
+      "sourceIds": [
+        "update-tr-enforcement"
+      ],
+      "claimIds": [
+        "cbi-tur-editorial-update"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://www.imf.org/-/media/files/publications/cr/2025/english/1nruea2025001-source-pdf.pdf",
+      "sourceIds": [
+        "nr-imf"
+      ],
+      "claimIds": [
+        "cbi-nru-capitalType",
+        "cbi-nru-hold",
+        "cbi-nru-presence",
+        "cbi-nru-family",
+        "cbi-nru-caveat",
+        "cbi-nru-alert",
+        "cbi-nru-processing",
+        "cbi-nru-presenceShort",
+        "cbi-nru-feeNote",
+        "cbi-nru-keyNote",
+        "cbi-nru-familyScenario",
+        "cbi-nru-passportDelivery",
+        "cbi-nru-routeType",
+        "cbi-nru-family-amount",
+        "cbi-nru-routes",
+        "cbi-nru-legal-outcome",
+        "cbi-nru-intake-observation"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://www.imf.org/-/media/files/publications/wp/2025/english/wpiea2025008-print-pdf.pdf",
+      "sourceIds": [
+        "imf-history"
+      ],
+      "claimIds": [
+        "cbi-vut-capitalType",
+        "cbi-vut-hold",
+        "cbi-vut-presence",
+        "cbi-vut-alert",
+        "cbi-vut-processing",
+        "cbi-vut-presenceShort",
+        "cbi-vut-keyNote",
+        "cbi-vut-familyScenario",
+        "cbi-vut-passportDelivery",
+        "cbi-vut-routeType",
+        "cbi-vut-family-amount",
+        "cbi-vut-routes",
+        "cbi-vut-legal-outcome",
+        "cbi-vut-intake-observation"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://www.invest.gov.tr/en/InvestmentGuide/Pages/acquiring-property-and-citizenship.aspx",
+      "sourceIds": [
+        "tr"
+      ],
+      "claimIds": [
+        "cbi-tur-capital",
+        "cbi-tur-capitalType",
+        "cbi-tur-hold",
+        "cbi-tur-presence",
+        "cbi-tur-family",
+        "cbi-tur-caveat",
+        "cbi-tur-alert",
+        "cbi-tur-processing",
+        "cbi-tur-presenceShort",
+        "cbi-tur-feeNote",
+        "cbi-tur-keyNote",
+        "cbi-tur-familyScenario",
+        "cbi-tur-passportDelivery",
+        "cbi-tur-routeType",
+        "cbi-tur-amount",
+        "cbi-tur-family-amount",
+        "cbi-tur-routes",
+        "cbi-tur-legal-outcome",
+        "cbi-tur-intake-observation",
+        "cbi-tur-cost-17"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://www.sem.admin.ch/sem/en/home/publiservice/weisungen-kreisschreiben/visa/liste1_staatsangehoerigkeit/n.html",
+      "sourceIds": [
+        "ch-nauru-visa"
+      ],
+      "claimIds": [
+        "cbi-nru-travel-schengen-short-stay"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://www.sknis.gov.kn/2026/01/08/saint-kitts-and-nevis-announces-residency-and-biometric-reforms-to-strengthen-cbi-programme/",
+      "sourceIds": [
+        "skn-reform"
+      ],
+      "claimIds": [
+        "cbi-kna-capitalType",
+        "cbi-kna-hold",
+        "cbi-kna-presence",
+        "cbi-kna-family",
+        "cbi-kna-caveat",
+        "cbi-kna-alert",
+        "cbi-kna-processing",
+        "cbi-kna-presenceShort",
+        "cbi-kna-feeNote",
+        "cbi-kna-keyNote",
+        "cbi-kna-familyScenario",
+        "cbi-kna-passportDelivery",
+        "cbi-kna-routeType",
+        "cbi-kna-family-amount",
+        "cbi-kna-routes",
+        "cbi-kna-legal-outcome",
+        "cbi-kna-intake-observation"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    },
+    {
+      "url": "https://www.stp-press.st/2025/10/21/primeiro-ministro-preside-abertura-da-1-a-conferencia-sobre-cidadania-por-investimento/",
+      "sourceIds": [
+        "alternative-st-reporting"
+      ],
+      "claimIds": [
+        "cbi-stp-editorial-update"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 14
+    }
+  ]
+}

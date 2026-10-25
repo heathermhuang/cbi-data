@@ -1,0 +1,28 @@
+{
+  "id": "ca-conditional-eta",
+  "publisher": "Immigration, Refugees and Citizenship Canada",
+  "title": "Visa-required travellers who may qualify for an eTA",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/eligibility/eta-x.html",
+  "authorityType": "Government guidance",
+  "documentDate": null,
+  "rights": {
+    "disposition": "link_only",
+    "use": "CBI original factual normalization and references only; no upstream pages, PDFs, images or excerpts redistributed",
+    "basis": "Original compilation; no upstream republication licence asserted"
+  },
+  "retrieval": {
+    "retrievedAt": "2026-10-25T08:26:36.066Z",
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "method": "retrieval_hash_only",
+    "health": "available",
+    "hash": "72b5ff9165b7540742fb5a468459ccc6be527377e97f265f1fd80e3f00e6c8f7"
+  },
+  "manualReview": {
+    "intervalDays": 14,
+    "rationale": "Review exact claim and source applicability; retrieval success alone cannot refresh claims."
+  },
+  "reviewObservation": {
+    "date": "2026-10-13",
+    "method": "Primary source reviewed; conditions retained"
+  }
+}

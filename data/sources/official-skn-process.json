@@ -1,0 +1,28 @@
+{
+  "id": "official-skn-process",
+  "publisher": "St Kitts and Nevis Citizenship Unit",
+  "title": "St Kitts and Nevis application process",
+  "url": "https://ciu.gov.kn/application-process/",
+  "authorityType": "Official programme guidance",
+  "documentDate": null,
+  "rights": {
+    "disposition": "link_only",
+    "use": "Original CBI normalized facts and pointers only. No upstream documents, images, or excerpts distributed.",
+    "basis": "CBI original compilation; upstream rights retained"
+  },
+  "retrieval": {
+    "retrievedAt": null,
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "method": "not_extracted",
+    "health": "unavailable",
+    "hash": null
+  },
+  "manualReview": {
+    "intervalDays": 14,
+    "rationale": "Evidence interpretation requires editorial review; a successful fetch is not verification."
+  },
+  "reviewObservation": {
+    "date": "2026-10-21",
+    "method": "Full official process read. The five-step sequence does not establish an end-to-end passport delivery promise."
+  }
+}

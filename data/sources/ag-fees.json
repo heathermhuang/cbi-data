@@ -1,0 +1,28 @@
+{
+  "id": "ag-fees",
+  "publisher": "Antigua and Barbuda CIU",
+  "title": "NDF and government fee schedule",
+  "url": "https://cip.gov.ag/schedule-of-fees/",
+  "authorityType": "Government guidance",
+  "documentDate": null,
+  "rights": {
+    "disposition": "link_only",
+    "use": "CBI original factual normalization and references only; no upstream pages, PDFs, images or excerpts redistributed",
+    "basis": "Original compilation; no upstream republication licence asserted"
+  },
+  "retrieval": {
+    "retrievedAt": "2026-10-25T08:26:36.066Z",
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "method": "retrieval_hash_only",
+    "health": "available",
+    "hash": "eb3a2324c3d90d2cc14aa44458274921f3b07cbc15cf42a45cadca7a78ee7adf"
+  },
+  "manualReview": {
+    "intervalDays": 14,
+    "rationale": "Review exact claim and source applicability; retrieval success alone cannot refresh claims."
+  },
+  "reviewObservation": {
+    "date": "2026-10-13",
+    "method": "Rechecked relevant published claims; source-specific limits and conflicting terms remain explicit."
+  }
+}

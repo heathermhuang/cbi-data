@@ -1,0 +1,1280 @@
+[
+  {
+    "id": "cbi-vut-capital",
+    "revisionId": "cbi-vut-capital-e274821345dfa6e7",
+    "subject": "cbi-vut",
+    "predicate": "capital",
+    "value": "US$130,000 DSP minimum selling price",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "comparison-vu-dsp-tariff25",
+        "locator": "DSP selling-price table and clauses 4 and 7 of Order 33/2019 read with Order 39/2020",
+        "scope": "Published DSP minimum selling price; USD and VUV charges remain separate; other route Form D excluded."
+      },
+      {
+        "sourceId": "comparison-vu-dsp-regulations25",
+        "locator": "DSP selling-price table and clauses 4 and 7 of Order 33/2019 read with Order 39/2020",
+        "scope": "Published DSP minimum selling price; USD and VUV charges remain separate; other route Form D excluded."
+      },
+      {
+        "sourceId": "comparison-vu-dsp-amendment25",
+        "locator": "DSP selling-price table and clauses 4 and 7 of Order 33/2019 read with Order 39/2020",
+        "scope": "Published DSP minimum selling price; USD and VUV charges remain separate; other route Form D excluded."
+      }
+    ],
+    "reviewedAt": "2026-10-25",
+    "reviewDueAt": "2026-11-08",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-vut-capitalType",
+    "revisionId": "cbi-vut-capitalType-db9efca5230cf211",
+    "subject": "cbi-vut",
+    "predicate": "capitalType",
+    "value": "Contribution; other structures vary",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "vu",
+        "locator": "Current citizenship office and DSP application information.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "vu-price",
+        "locator": "Government remittance structure differs from agent retail price; not treated as a current all-in tariff.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "vu-eu",
+        "locator": "EU removed Vanuatu from visa-exempt list.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "imf-history",
+        "locator": "Inventory through 2024; historical periods/indicative USD prices; not 2026 status.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "vu-current",
+        "locator": "Published government tariff: US$130,000 single; US$180,000 married couple and two children; US$5,000 FIU diligence.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-vut-hold",
+    "revisionId": "cbi-vut-hold-2b183eebf9add599",
+    "subject": "cbi-vut",
+    "predicate": "hold",
+    "value": "Government remittance and agent retail price differ",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "vu",
+        "locator": "Current citizenship office and DSP application information.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "vu-price",
+        "locator": "Government remittance structure differs from agent retail price; not treated as a current all-in tariff.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "vu-eu",
+        "locator": "EU removed Vanuatu from visa-exempt list.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "imf-history",
+        "locator": "Inventory through 2024; historical periods/indicative USD prices; not 2026 status.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "vu-current",
+        "locator": "Published government tariff: US$130,000 single; US$180,000 married couple and two children; US$5,000 FIU diligence.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-vut-presence",
+    "revisionId": "cbi-vut-presence-12bb1a283c7e911a",
+    "subject": "cbi-vut",
+    "predicate": "presence",
+    "value": "No ordinary multi-year residence route; oath/biometrics rules require confirmation",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "vu",
+        "locator": "Current citizenship office and DSP application information.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "vu-price",
+        "locator": "Government remittance structure differs from agent retail price; not treated as a current all-in tariff.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "vu-eu",
+        "locator": "EU removed Vanuatu from visa-exempt list.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "imf-history",
+        "locator": "Inventory through 2024; historical periods/indicative USD prices; not 2026 status.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "vu-current",
+        "locator": "Published government tariff: US$130,000 single; US$180,000 married couple and two children; US$5,000 FIU diligence.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-vut-family",
+    "revisionId": "cbi-vut-family-39b217b0204a6bad",
+    "subject": "cbi-vut",
+    "predicate": "family",
+    "value": "DSP: spouse and two children under 18 at USD180,000 minimum selling price; other dependants are separate",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "comparison-vu-dsp-tariff25",
+        "locator": "DSP selling-price table and clauses 4 and 7 of Order 33/2019 read with Order 39/2020",
+        "scope": "Published DSP minimum selling price; USD and VUV charges remain separate; other route Form D excluded."
+      },
+      {
+        "sourceId": "comparison-vu-dsp-regulations25",
+        "locator": "DSP selling-price table and clauses 4 and 7 of Order 33/2019 read with Order 39/2020",
+        "scope": "Published DSP minimum selling price; USD and VUV charges remain separate; other route Form D excluded."
+      },
+      {
+        "sourceId": "comparison-vu-dsp-amendment25",
+        "locator": "DSP selling-price table and clauses 4 and 7 of Order 33/2019 read with Order 39/2020",
+        "scope": "Published DSP minimum selling price; USD and VUV charges remain separate; other route Form D excluded."
+      }
+    ],
+    "reviewedAt": "2026-10-25",
+    "reviewDueAt": "2026-11-08",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-vut-caveat",
+    "revisionId": "cbi-vut-caveat-fa14d3bf70f6c612",
+    "subject": "cbi-vut",
+    "predicate": "caveat",
+    "value": "DSP minimum selling prices are USD130,000 single or USD180,000 for a couple and two children under 18. Add USD5,000 diligence per application. Vatu-denominated application and certificate charges remain separate. Form D belongs to the separate Capital Investment Immigration Plan; its figures are not the DSP tariff. Passport, oath, biometric, travel and separately quoted service costs are additional. EU exemption ended in December 2024.",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "comparison-vu-dsp-tariff25",
+        "locator": "DSP selling-price table and clauses 4 and 7 of Order 33/2019 read with Order 39/2020",
+        "scope": "Published DSP minimum selling price; USD and VUV charges remain separate; other route Form D excluded."
+      },
+      {
+        "sourceId": "comparison-vu-dsp-regulations25",
+        "locator": "DSP selling-price table and clauses 4 and 7 of Order 33/2019 read with Order 39/2020",
+        "scope": "Published DSP minimum selling price; USD and VUV charges remain separate; other route Form D excluded."
+      },
+      {
+        "sourceId": "comparison-vu-dsp-amendment25",
+        "locator": "DSP selling-price table and clauses 4 and 7 of Order 33/2019 read with Order 39/2020",
+        "scope": "Published DSP minimum selling price; USD and VUV charges remain separate; other route Form D excluded."
+      }
+    ],
+    "reviewedAt": "2026-10-25",
+    "reviewDueAt": "2026-11-08",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-vut-alert",
+    "revisionId": "cbi-vut-alert-6880c09d82f49fbf",
+    "subject": "cbi-vut",
+    "predicate": "alert",
+    "value": "EU visa exemption has ended.",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "vu",
+        "locator": "Current citizenship office and DSP application information.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "vu-price",
+        "locator": "Government remittance structure differs from agent retail price; not treated as a current all-in tariff.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "vu-eu",
+        "locator": "EU removed Vanuatu from visa-exempt list.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "imf-history",
+        "locator": "Inventory through 2024; historical periods/indicative USD prices; not 2026 status.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "vu-current",
+        "locator": "Published government tariff: US$130,000 single; US$180,000 married couple and two children; US$5,000 FIU diligence.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-vut-processing",
+    "revisionId": "cbi-vut-processing-2231dec794b165cd",
+    "subject": "cbi-vut",
+    "predicate": "processing",
+    "value": "Not published here",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "vu",
+        "locator": "Current citizenship office and DSP application information.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "vu-price",
+        "locator": "Government remittance structure differs from agent retail price; not treated as a current all-in tariff.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "vu-eu",
+        "locator": "EU removed Vanuatu from visa-exempt list.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "imf-history",
+        "locator": "Inventory through 2024; historical periods/indicative USD prices; not 2026 status.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "vu-current",
+        "locator": "Published government tariff: US$130,000 single; US$180,000 married couple and two children; US$5,000 FIU diligence.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-vut-presenceShort",
+    "revisionId": "cbi-vut-presenceShort-2f28114ed09c7f18",
+    "subject": "cbi-vut",
+    "predicate": "presenceShort",
+    "value": "Confirm oath / visit rules",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "vu",
+        "locator": "Current citizenship office and DSP application information.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "vu-price",
+        "locator": "Government remittance structure differs from agent retail price; not treated as a current all-in tariff.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "vu-eu",
+        "locator": "EU removed Vanuatu from visa-exempt list.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "imf-history",
+        "locator": "Inventory through 2024; historical periods/indicative USD prices; not 2026 status.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "vu-current",
+        "locator": "Published government tariff: US$130,000 single; US$180,000 married couple and two children; US$5,000 FIU diligence.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-vut-feeNote",
+    "revisionId": "cbi-vut-feeNote-246207af4043a11e",
+    "subject": "cbi-vut",
+    "predicate": "feeNote",
+    "value": "Known USD subtotals are USD135,000 single and USD185,000 for the example family. DSP application is additionally VT5,000 once, plus VT10,000 per citizenship certificate: VT15,000 single or VT45,000 for four people. These vatu amounts are not converted into the USD subtotal. Passport, oath, biometric, travel and separately quoted service costs remain additional. Form D is a separate CIIP route.",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "comparison-vu-dsp-tariff25",
+        "locator": "DSP selling-price table and clauses 4 and 7 of Order 33/2019 read with Order 39/2020",
+        "scope": "Published DSP minimum selling price; USD and VUV charges remain separate; other route Form D excluded."
+      },
+      {
+        "sourceId": "comparison-vu-dsp-regulations25",
+        "locator": "DSP selling-price table and clauses 4 and 7 of Order 33/2019 read with Order 39/2020",
+        "scope": "Published DSP minimum selling price; USD and VUV charges remain separate; other route Form D excluded."
+      },
+      {
+        "sourceId": "comparison-vu-dsp-amendment25",
+        "locator": "DSP selling-price table and clauses 4 and 7 of Order 33/2019 read with Order 39/2020",
+        "scope": "Published DSP minimum selling price; USD and VUV charges remain separate; other route Form D excluded."
+      }
+    ],
+    "reviewedAt": "2026-10-25",
+    "reviewDueAt": "2026-11-08",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-vut-keyNote",
+    "revisionId": "cbi-vut-keyNote-120fb5719b94917f",
+    "subject": "cbi-vut",
+    "predicate": "keyNote",
+    "value": "EU and UK visa exemptions have ended.",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "vu",
+        "locator": "Current citizenship office and DSP application information.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "vu-price",
+        "locator": "Government remittance structure differs from agent retail price; not treated as a current all-in tariff.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "vu-eu",
+        "locator": "EU removed Vanuatu from visa-exempt list.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "imf-history",
+        "locator": "Inventory through 2024; historical periods/indicative USD prices; not 2026 status.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "vu-current",
+        "locator": "Published government tariff: US$130,000 single; US$180,000 married couple and two children; US$5,000 FIU diligence.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-vut-familyScenario",
+    "revisionId": "cbi-vut-familyScenario-3c7b7b1da0260709",
+    "subject": "cbi-vut",
+    "predicate": "familyScenario",
+    "value": "Principal, spouse and two children aged under 12; qualifying family only.",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "vu",
+        "locator": "Current citizenship office and DSP application information.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "vu-price",
+        "locator": "Government remittance structure differs from agent retail price; not treated as a current all-in tariff.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "vu-eu",
+        "locator": "EU removed Vanuatu from visa-exempt list.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "imf-history",
+        "locator": "Inventory through 2024; historical periods/indicative USD prices; not 2026 status.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "vu-current",
+        "locator": "Published government tariff: US$130,000 single; US$180,000 married couple and two children; US$5,000 FIU diligence.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-vut-passportDelivery",
+    "revisionId": "cbi-vut-passportDelivery-2adc4412891698b3",
+    "subject": "cbi-vut",
+    "predicate": "passportDelivery",
+    "value": "No independently verified end-to-end passport delivery time",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "vu",
+        "locator": "Current citizenship office and DSP application information.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "vu-price",
+        "locator": "Government remittance structure differs from agent retail price; not treated as a current all-in tariff.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "vu-eu",
+        "locator": "EU removed Vanuatu from visa-exempt list.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "imf-history",
+        "locator": "Inventory through 2024; historical periods/indicative USD prices; not 2026 status.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "vu-current",
+        "locator": "Published government tariff: US$130,000 single; US$180,000 married couple and two children; US$5,000 FIU diligence.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-vut-routeType",
+    "revisionId": "cbi-vut-routeType-126c44974a0968b2",
+    "subject": "cbi-vut",
+    "predicate": "routeType",
+    "value": "Contribution",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "vu",
+        "locator": "Current citizenship office and DSP application information.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "vu-price",
+        "locator": "Government remittance structure differs from agent retail price; not treated as a current all-in tariff.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "vu-eu",
+        "locator": "EU removed Vanuatu from visa-exempt list.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "imf-history",
+        "locator": "Inventory through 2024; historical periods/indicative USD prices; not 2026 status.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "vu-current",
+        "locator": "Published government tariff: US$130,000 single; US$180,000 married couple and two children; US$5,000 FIU diligence.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-vut-amount",
+    "revisionId": "cbi-vut-amount-9e6cb32adfa85994",
+    "subject": "cbi-vut",
+    "predicate": "amount",
+    "value": {
+      "amount": "130000",
+      "currency": "USD"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "vu",
+        "locator": "Current citizenship office and DSP application information.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-vut-family-amount",
+    "revisionId": "cbi-vut-family-amount-843a37a4cb97ef48",
+    "subject": "cbi-vut",
+    "predicate": "family_amount",
+    "value": {
+      "amount": "180000",
+      "currency": "USD"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "vu",
+        "locator": "Current citizenship office and DSP application information.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "vu-price",
+        "locator": "Government remittance structure differs from agent retail price; not treated as a current all-in tariff.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "vu-eu",
+        "locator": "EU removed Vanuatu from visa-exempt list.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "imf-history",
+        "locator": "Inventory through 2024; historical periods/indicative USD prices; not 2026 status.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "vu-current",
+        "locator": "Published government tariff: US$130,000 single; US$180,000 married couple and two children; US$5,000 FIU diligence.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [
+      "An amount alone does not establish dependant eligibility."
+    ]
+  },
+  {
+    "id": "cbi-vut-routes",
+    "revisionId": "cbi-vut-routes-86a84a191e21749b",
+    "subject": "cbi-vut",
+    "predicate": "routes",
+    "value": [
+      {
+        "label": "DSP published tariff",
+        "amount": "130000",
+        "currency": "USD",
+        "conditions": "Non-refundable programme payment"
+      }
+    ],
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "vu",
+        "locator": "Current citizenship office and DSP application information.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "vu-price",
+        "locator": "Government remittance structure differs from agent retail price; not treated as a current all-in tariff.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "vu-eu",
+        "locator": "EU removed Vanuatu from visa-exempt list.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "imf-history",
+        "locator": "Inventory through 2024; historical periods/indicative USD prices; not 2026 status.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "vu-current",
+        "locator": "Published government tariff: US$130,000 single; US$180,000 married couple and two children; US$5,000 FIU diligence.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-vut-legal-outcome",
+    "revisionId": "cbi-vut-legal-outcome-295c13f4d19d0932",
+    "subject": "cbi-vut",
+    "predicate": "legal_outcome",
+    "value": "Citizenship through investment subject to government approval, naturalisation or registration, followed by a separate passport process.",
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "vu",
+        "locator": "Current citizenship office and DSP application information.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "vu-price",
+        "locator": "Government remittance structure differs from agent retail price; not treated as a current all-in tariff.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "vu-eu",
+        "locator": "EU removed Vanuatu from visa-exempt list.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "imf-history",
+        "locator": "Inventory through 2024; historical periods/indicative USD prices; not 2026 status.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "vu-current",
+        "locator": "Published government tariff: US$130,000 single; US$180,000 married couple and two children; US$5,000 FIU diligence.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-vut-intake-observation",
+    "revisionId": "cbi-vut-intake-observation-0b1240355a7a70f4",
+    "subject": "cbi-vut",
+    "predicate": "intake_observation",
+    "value": {
+      "legal": "published_citizenship_route",
+      "intake": "published_application_route",
+      "decision": "government_assessment_required",
+      "passportIssuance": "separate_stage_not_guaranteed"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "vu",
+        "locator": "Current citizenship office and DSP application information.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "vu-price",
+        "locator": "Government remittance structure differs from agent retail price; not treated as a current all-in tariff.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "vu-eu",
+        "locator": "EU removed Vanuatu from visa-exempt list.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "imf-history",
+        "locator": "Inventory through 2024; historical periods/indicative USD prices; not 2026 status.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "vu-current",
+        "locator": "Published government tariff: US$130,000 single; US$180,000 married couple and two children; US$5,000 FIU diligence.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-20",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [
+      "The current government tariff table lists USD 130,000 for a single and USD 180,000 for a couple with two children, plus an FIU item of USD 5,000. Other FormD figures appear on the same page; do not treat this table as a universal Vanuatu route or an all-in quote. EU exemption ended in December 2024.",
+      "Publication of a route is not a successful live application or completed issuance observation."
+    ]
+  },
+  {
+    "id": "cbi-vut-travel-gbr",
+    "revisionId": "cbi-vut-travel-gbr-dc937a1e9f8429c5",
+    "subject": "cbi-vut",
+    "predicate": "travel_gbr",
+    "value": {
+      "label": "Visa required",
+      "note": "Short visits on an ordinary national passport. ETA eligibility and visitor conditions apply."
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "uk-visits",
+        "locator": "Current ordinary-passport visit-visa requirements. Rules updated 8 October 2026.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [
+      "Ordinary national passport after issuance; acquisition-route and passport-series restrictions not comprehensively researched.",
+      "Individual status exemptions, admission decisions and separate territories are outside this rule."
+    ]
+  },
+  {
+    "id": "cbi-vut-travel-usa",
+    "revisionId": "cbi-vut-travel-usa-e6da3bfcb0537e93",
+    "subject": "cbi-vut",
+    "predicate": "travel_usa",
+    "value": {
+      "label": "Visitor visa required",
+      "note": "This nationality is outside the Visa Waiver Program. Individual exceptions may apply."
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "us-vwp",
+        "locator": "Ordinary-national-passport visitor rules; no current CBI nationality in the participating list",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [
+      "Ordinary national passport after issuance; acquisition-route and passport-series restrictions not comprehensively researched.",
+      "Individual status exemptions, admission decisions and separate territories are outside this rule."
+    ]
+  },
+  {
+    "id": "cbi-vut-travel-can",
+    "revisionId": "cbi-vut-travel-can-a5584d8fea160b08",
+    "subject": "cbi-vut",
+    "predicate": "travel_can",
+    "value": {
+      "label": "Visitor visa required",
+      "note": "No nationality-based visitor waiver is established here. Individual exemptions may apply."
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "publication-entry-nationality",
+        "locator": "Entry conditions depend on citizenship, travel document, status and transport. Foreign residence does not itself create a new nationality. Canadian and US permanent residents have separately described document rules.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [
+      "Ordinary national passport after issuance; acquisition-route and passport-series restrictions not comprehensively researched.",
+      "Individual status exemptions, admission decisions and separate territories are outside this rule."
+    ]
+  },
+  {
+    "id": "cbi-vut-travel-schengen-short-stay",
+    "revisionId": "cbi-vut-travel-schengen-short-stay-c931735e582d77d7",
+    "subject": "cbi-vut",
+    "predicate": "travel_schengen_short_stay",
+    "value": {
+      "label": "Visa required",
+      "note": "Ordinary national passport, short visits; entry conditions and document validity still apply."
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "eu-visa-list",
+        "locator": "Annexes I/II and qualifying footnotes; ordinary national passports only",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "eu-vanuatu-revoked",
+        "locator": "Vanuatu transferred to visa-required list",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [
+      "Ordinary national passport after issuance; acquisition-route and passport-series restrictions not comprehensively researched.",
+      "Individual status exemptions, admission decisions and separate territories are outside this rule."
+    ]
+  },
+  {
+    "id": "cbi-vut-cost-4",
+    "revisionId": "cbi-vut-cost-4-fc5f98f471eaf593",
+    "subject": "cbi-vut",
+    "predicate": "cost_4",
+    "value": {
+      "label": "DSP minimum selling price",
+      "amount": "130000",
+      "currency": "USD",
+      "category": "capital",
+      "basis": "application",
+      "quantity": 1,
+      "paymentStage": "not_established",
+      "recoverability": "nonrefundable_contribution_or_published_selling_price; withdrawal_and_refund_terms_not_established",
+      "frequency": "once",
+      "scenario": "single_adult"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "comparison-vu-dsp-tariff25",
+        "locator": "Current table lists USD130,000 single, USD180,000 couple and two children, plus USD5,000 FIU diligence. These are the published DSP dollar components, not a complete quote including other-currency and passport/service costs.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "comparison-vu-dsp-regulations25",
+        "locator": "Original visually reviewed: clause 4 sets minimum selling prices and includes two children under eighteen in the family tariff; clause 7 separates government remittances, VT5,000 application and VT10,000 per certificate. The older USD2,000 diligence amount is read with the separately cited 2020 amendment.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-25",
+    "reviewDueAt": "2026-11-08",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-25",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-vut-cost-5",
+    "revisionId": "cbi-vut-cost-5-95c8ad544eebf57b",
+    "subject": "cbi-vut",
+    "predicate": "cost_5",
+    "value": {
+      "label": "DSP diligence",
+      "amount": "5000",
+      "currency": "USD",
+      "category": "government_charge",
+      "basis": "application",
+      "quantity": 1,
+      "paymentStage": "not_established",
+      "recoverability": "not_established",
+      "frequency": "once",
+      "scenario": "single_adult"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "comparison-vu-dsp-amendment25",
+        "locator": "The original three-page amendment was visually read. Schedule item 5 replaces USD2,000 with USD5,000 in DSP clause 7(4), which covers diligence on the applicant and persons under that application.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-25",
+    "reviewDueAt": "2026-11-08",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-25",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-vut-cost-6",
+    "revisionId": "cbi-vut-cost-6-d31a01f7631fabdf",
+    "subject": "cbi-vut",
+    "predicate": "cost_6",
+    "value": {
+      "label": "Application",
+      "amount": "5000",
+      "currency": "VUV",
+      "category": "government_charge",
+      "basis": "application",
+      "quantity": 1,
+      "paymentStage": "submission",
+      "recoverability": "not_established",
+      "frequency": "once",
+      "scenario": "single_adult"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "comparison-vu-dsp-regulations25",
+        "locator": "Original visually reviewed: clause 4 sets minimum selling prices and includes two children under eighteen in the family tariff; clause 7 separates government remittances, VT5,000 application and VT10,000 per certificate. The older USD2,000 diligence amount is read with the separately cited 2020 amendment.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-25",
+    "reviewDueAt": "2026-11-08",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-25",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-vut-cost-7",
+    "revisionId": "cbi-vut-cost-7-844dc186128466c6",
+    "subject": "cbi-vut",
+    "predicate": "cost_7",
+    "value": {
+      "label": "Citizenship certificate",
+      "amount": "10000",
+      "currency": "VUV",
+      "category": "government_charge",
+      "basis": "person",
+      "quantity": 1,
+      "paymentStage": "not_established",
+      "recoverability": "not_established",
+      "frequency": "once",
+      "scenario": "single_adult"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "comparison-vu-dsp-regulations25",
+        "locator": "Original visually reviewed: clause 4 sets minimum selling prices and includes two children under eighteen in the family tariff; clause 7 separates government remittances, VT5,000 application and VT10,000 per certificate. The older USD2,000 diligence amount is read with the separately cited 2020 amendment.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-25",
+    "reviewDueAt": "2026-11-08",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-25",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-vut-cost-23",
+    "revisionId": "cbi-vut-cost-23-350189404c5d8d48",
+    "subject": "cbi-vut",
+    "predicate": "cost_23",
+    "value": {
+      "label": "DSP minimum selling price",
+      "amount": "180000",
+      "currency": "USD",
+      "category": "capital",
+      "basis": "application",
+      "quantity": 1,
+      "paymentStage": "not_established",
+      "recoverability": "nonrefundable_contribution_or_published_selling_price; withdrawal_and_refund_terms_not_established",
+      "frequency": "once",
+      "scenario": "couple_two_children_under12"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "comparison-vu-dsp-tariff25",
+        "locator": "Current table lists USD130,000 single, USD180,000 couple and two children, plus USD5,000 FIU diligence. These are the published DSP dollar components, not a complete quote including other-currency and passport/service costs.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "comparison-vu-dsp-regulations25",
+        "locator": "Original visually reviewed: clause 4 sets minimum selling prices and includes two children under eighteen in the family tariff; clause 7 separates government remittances, VT5,000 application and VT10,000 per certificate. The older USD2,000 diligence amount is read with the separately cited 2020 amendment.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-25",
+    "reviewDueAt": "2026-11-08",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-25",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-vut-cost-24",
+    "revisionId": "cbi-vut-cost-24-b374b3e1c997b473",
+    "subject": "cbi-vut",
+    "predicate": "cost_24",
+    "value": {
+      "label": "DSP diligence",
+      "amount": "5000",
+      "currency": "USD",
+      "category": "government_charge",
+      "basis": "application",
+      "quantity": 1,
+      "paymentStage": "not_established",
+      "recoverability": "not_established",
+      "frequency": "once",
+      "scenario": "couple_two_children_under12"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "comparison-vu-dsp-amendment25",
+        "locator": "The original three-page amendment was visually read. Schedule item 5 replaces USD2,000 with USD5,000 in DSP clause 7(4), which covers diligence on the applicant and persons under that application.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-25",
+    "reviewDueAt": "2026-11-08",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-25",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-vut-cost-25",
+    "revisionId": "cbi-vut-cost-25-fa386ff1016c8897",
+    "subject": "cbi-vut",
+    "predicate": "cost_25",
+    "value": {
+      "label": "Application",
+      "amount": "5000",
+      "currency": "VUV",
+      "category": "government_charge",
+      "basis": "application",
+      "quantity": 1,
+      "paymentStage": "submission",
+      "recoverability": "not_established",
+      "frequency": "once",
+      "scenario": "couple_two_children_under12"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "comparison-vu-dsp-regulations25",
+        "locator": "Original visually reviewed: clause 4 sets minimum selling prices and includes two children under eighteen in the family tariff; clause 7 separates government remittances, VT5,000 application and VT10,000 per certificate. The older USD2,000 diligence amount is read with the separately cited 2020 amendment.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-25",
+    "reviewDueAt": "2026-11-08",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-25",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-vut-cost-26",
+    "revisionId": "cbi-vut-cost-26-3b691bd4f18b3d2b",
+    "subject": "cbi-vut",
+    "predicate": "cost_26",
+    "value": {
+      "label": "Citizenship certificate",
+      "amount": "10000",
+      "currency": "VUV",
+      "category": "government_charge",
+      "basis": "person",
+      "quantity": 4,
+      "paymentStage": "not_established",
+      "recoverability": "not_established",
+      "frequency": "once",
+      "scenario": "couple_two_children_under12"
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "comparison-vu-dsp-regulations25",
+        "locator": "Original visually reviewed: clause 4 sets minimum selling prices and includes two children under eighteen in the family tariff; clause 7 separates government remittances, VT5,000 application and VT10,000 per certificate. The older USD2,000 diligence amount is read with the separately cited 2020 amendment.",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-25",
+    "reviewDueAt": "2026-11-08",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-25",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": []
+  },
+  {
+    "id": "cbi-vut-editorial-update",
+    "subject": "cbi-vut",
+    "predicate": "editorial_update",
+    "value": {
+      "checked": "2026-10-25",
+      "guides": [],
+      "items": [
+        {
+          "label": "DSP family cost scope",
+          "text": "Published DSP minimum selling price for a married couple with two children under eighteen is USD180,000. Together with the USD5,000 diligence item, the known dollar subtotal is USD185,000; this is not an all-in quote.",
+          "source": "comparison-vu-dsp-tariff25"
+        },
+        {
+          "label": "Additional vatu-denominated charges",
+          "text": "DSP clause 7 separates a VT5,000 application fee and VT10,000 for each citizenship certificate. The example family adds VT45,000; these charges are not converted into the dollar subtotal.",
+          "source": "comparison-vu-dsp-regulations25"
+        },
+        {
+          "label": "Amended diligence fee",
+          "text": "The 2020 DSP amendment replaces the older USD2,000 diligence figure with USD5,000 for the applicant and persons under the application.",
+          "source": "comparison-vu-dsp-amendment25"
+        },
+        {
+          "label": "Separate Form D route",
+          "text": "The government assigns Form D to the Capital Investment Immigration Plan. Its published prices do not replace the DSP selling-price tariff.",
+          "source": "comparison-vu-distinct-formd25"
+        }
+      ]
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "comparison-vu-dsp-tariff25",
+        "locator": "Current table lists USD130,000 single, USD180,000 couple and two children, plus USD5,000 FIU diligence. These are the published DSP dollar components, not a complete quote including other-currency and passport/service costs.",
+        "scope": "Stated dated CBI claim only; no general legal clearance"
+      },
+      {
+        "sourceId": "comparison-vu-dsp-regulations25",
+        "locator": "Original visually reviewed: clause 4 sets minimum selling prices and includes two children under eighteen in the family tariff; clause 7 separates government remittances, VT5,000 application and VT10,000 per certificate. The older USD2,000 diligence amount is read with the separately cited 2020 amendment.",
+        "scope": "Stated dated CBI claim only; no general legal clearance"
+      },
+      {
+        "sourceId": "comparison-vu-dsp-amendment25",
+        "locator": "The original three-page amendment was visually read. Schedule item 5 replaces USD2,000 with USD5,000 in DSP clause 7(4), which covers diligence on the applicant and persons under that application.",
+        "scope": "Stated dated CBI claim only; no general legal clearance"
+      },
+      {
+        "sourceId": "comparison-vu-distinct-formd25",
+        "locator": "The government explicitly assigns Form D to the Capital Investment Immigration Plan under section 13C. DSP is a separate route; the Form D dollar figures are not substituted into the DSP family example.",
+        "scope": "Stated dated CBI claim only; no general legal clearance"
+      }
+    ],
+    "reviewedAt": "2026-10-25",
+    "reviewDueAt": "2026-11-08",
+    "reviewMethod": "Migrated original CBI primary-source observation; original scope and review limits retained",
+    "observedAt": "2026-10-25",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [],
+    "revisionId": "cbi-vut-editorial-update-0366f83c71265ffc"
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "id": "st",
+  "publisher": "Government of São Tomé and Príncipe",
+  "title": "Government promotes responsible investment with PCID",
+  "url": "https://stp.gov.st/noticeDetail?id=kva9jgmxtzvd4kzuw4pleldq",
+  "authorityType": "Government guidance",
+  "documentDate": "2025-10-21",
+  "rights": {
+    "disposition": "link_only",
+    "use": "CBI original factual normalization and references only; no upstream pages, PDFs, images or excerpts redistributed",
+    "basis": "Original compilation; no upstream republication licence asserted"
+  },
+  "retrieval": {
+    "retrievedAt": "2026-10-25T08:26:36.066Z",
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "method": "retrieval_hash_only",
+    "health": "available",
+    "hash": "9e420544a5510dc4fed69f6626db836172e0973a5f597429ebfa71aa091e70eb"
+  },
+  "manualReview": {
+    "intervalDays": 14,
+    "rationale": "Review exact claim and source applicability; retrieval success alone cannot refresh claims."
+  },
+  "reviewObservation": {
+    "date": "2026-10-12",
+    "method": "Official indexed text reviewed"
+  }
+}

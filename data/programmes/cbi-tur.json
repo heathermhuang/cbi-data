@@ -1,0 +1,179 @@
+{
+  "id": "cbi-tur",
+  "aliases": [
+    "tr"
+  ],
+  "jurisdiction": "TUR",
+  "country": "Türkiye",
+  "name": "Exceptional citizenship for investors",
+  "kind": "citizenship",
+  "mechanism": "investment_subject_to_nationality_decision",
+  "profileURL": "https://cbi.me/citizenship-by-investment/turkey/",
+  "region": "Asia / Middle East",
+  "period": "2017–present",
+  "start": 2017,
+  "end": null,
+  "optionIds": [
+    "cbi-tur-option-1",
+    "cbi-tur-option-2"
+  ],
+  "options": [
+    {
+      "id": "cbi-tur-option-1",
+      "label": "Qualifying property",
+      "classification": "asset",
+      "amountClaimId": "cbi-tur-routes",
+      "conditions": "3-year resale restriction"
+    },
+    {
+      "id": "cbi-tur-option-2",
+      "label": "Bank deposit / capital routes",
+      "classification": "deposit",
+      "amountClaimId": "cbi-tur-routes",
+      "conditions": "Route-specific 3-year restrictions"
+    }
+  ],
+  "fields": {
+    "capital": "cbi-tur-capital",
+    "capitalType": "cbi-tur-capitalType",
+    "hold": "cbi-tur-hold",
+    "presence": "cbi-tur-presence",
+    "family": "cbi-tur-family",
+    "caveat": "cbi-tur-caveat",
+    "alert": "cbi-tur-alert",
+    "processing": "cbi-tur-processing",
+    "presenceShort": "cbi-tur-presenceShort",
+    "feeNote": "cbi-tur-feeNote",
+    "keyNote": "cbi-tur-keyNote",
+    "familyScenario": "cbi-tur-familyScenario",
+    "passportDelivery": "cbi-tur-passportDelivery",
+    "routeType": "cbi-tur-routeType",
+    "amount": "cbi-tur-amount",
+    "familyAmount": "cbi-tur-family-amount",
+    "routes": "cbi-tur-routes",
+    "legalOutcome": "cbi-tur-legal-outcome",
+    "intake": "cbi-tur-intake-observation",
+    "editorialUpdate": "cbi-tur-editorial-update"
+  },
+  "requiredFields": {
+    "legal_outcome": {
+      "claimIds": [
+        "cbi-tur-legal-outcome"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "legal_basis": {
+      "claimIds": [],
+      "state": "gap",
+      "gap": "Exact legal basis requirements not fully established in this release."
+    },
+    "operational_intake": {
+      "claimIds": [
+        "cbi-tur-intake-observation"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "decision_stage": {
+      "claimIds": [
+        "cbi-tur-intake-observation"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "passport_issuance": {
+      "claimIds": [
+        "cbi-tur-passportDelivery",
+        "cbi-tur-intake-observation"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "investment_options": {
+      "claimIds": [
+        "cbi-tur-routes"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "minimum_capital": {
+      "claimIds": [
+        "cbi-tur-amount",
+        "cbi-tur-capital"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "financial_resources": {
+      "claimIds": [],
+      "state": "gap",
+      "gap": "Exact financial resources requirements not fully established in this release."
+    },
+    "published_fees": {
+      "claimIds": [
+        "cbi-tur-cost-17",
+        "cbi-tur-feeNote"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "dependants": {
+      "claimIds": [
+        "cbi-tur-family",
+        "cbi-tur-familyScenario"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "screening": {
+      "claimIds": [],
+      "state": "gap",
+      "gap": "Exact screening requirements not fully established in this release."
+    },
+    "presence_holding": {
+      "claimIds": [
+        "cbi-tur-presence",
+        "cbi-tur-hold"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "post_grant": {
+      "claimIds": [
+        "cbi-tur-presence",
+        "cbi-tur-hold"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "withdrawal_recovery": {
+      "claimIds": [
+        "cbi-tur-capitalType",
+        "cbi-tur-hold"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "process_timing": {
+      "claimIds": [
+        "cbi-tur-processing",
+        "cbi-tur-passportDelivery"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "nationality_document_restrictions": {
+      "claimIds": [
+        "cbi-tur-caveat"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    }
+  },
+  "qualifications": [
+    "Property is capital at risk, not a government donation. Valuation, title, foreign-exchange and nationality rules apply; approval is discretionary.",
+    "Property, tax, valuation, title, translation, residence and professional costs apply.",
+    "No independently verified end-to-end passport delivery time"
+  ]
+}

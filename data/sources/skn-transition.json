@@ -1,0 +1,28 @@
+{
+  "id": "skn-transition",
+  "publisher": "St Kitts and Nevis CIU",
+  "title": "The year in review",
+  "url": "https://ciu.gov.kn/news-the-year-in-review/",
+  "authorityType": "Government guidance",
+  "documentDate": "2026-01-15",
+  "rights": {
+    "disposition": "link_only",
+    "use": "CBI original factual normalization and references only; no upstream pages, PDFs, images or excerpts redistributed",
+    "basis": "Original compilation; no upstream republication licence asserted"
+  },
+  "retrieval": {
+    "retrievedAt": null,
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "method": "not_extracted",
+    "health": "unavailable",
+    "hash": null
+  },
+  "manualReview": {
+    "intervalDays": 14,
+    "rationale": "Review exact claim and source applicability; retrieval success alone cannot refresh claims."
+  },
+  "reviewObservation": {
+    "date": "2026-10-12",
+    "method": "Official indexed text reviewed"
+  }
+}

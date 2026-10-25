@@ -1,0 +1,84 @@
+[
+  {
+    "id": "LCA-GBR",
+    "programmeId": "cbi-lca",
+    "passport": "LCA",
+    "destination": "GBR",
+    "documentType": "ordinary",
+    "purpose": "short_visit",
+    "route": "advance_visa",
+    "outcome": "supported",
+    "claimId": "cbi-lca-travel-gbr",
+    "transport": [
+      "air",
+      "land",
+      "sea"
+    ],
+    "conditions": [],
+    "permittedStay": null,
+    "documentRecognition": "Valid ordinary national passport; individual and series exceptions not fully checked",
+    "acquisitionRestrictions": "not_researched"
+  },
+  {
+    "id": "LCA-USA",
+    "programmeId": "cbi-lca",
+    "passport": "LCA",
+    "destination": "USA",
+    "documentType": "ordinary",
+    "purpose": "short_visit",
+    "route": "advance_visa",
+    "outcome": "supported",
+    "claimId": "cbi-lca-travel-usa",
+    "transport": [
+      "air",
+      "land",
+      "sea"
+    ],
+    "conditions": [],
+    "permittedStay": null,
+    "documentRecognition": "Valid ordinary national passport; individual and series exceptions not fully checked",
+    "acquisitionRestrictions": "not_researched"
+  },
+  {
+    "id": "LCA-CAN",
+    "programmeId": "cbi-lca",
+    "passport": "LCA",
+    "destination": "CAN",
+    "documentType": "ordinary",
+    "purpose": "short_visit",
+    "route": "conditional_eta",
+    "outcome": "conditional",
+    "claimId": "cbi-lca-travel-can",
+    "transport": [
+      "air"
+    ],
+    "conditions": [
+      "Valid qualifying Canadian visitor visa in previous ten years OR valid US nonimmigrant visa at eTA application",
+      "Each traveller must qualify individually",
+      "Land/sea requires a visitor visa unless a separately established status exemption applies"
+    ],
+    "permittedStay": null,
+    "documentRecognition": "Valid ordinary national passport; individual and series exceptions not fully checked",
+    "acquisitionRestrictions": "not_researched"
+  },
+  {
+    "id": "LCA-SCHENGEN_SHORT_STAY",
+    "programmeId": "cbi-lca",
+    "passport": "LCA",
+    "destination": "SCHENGEN_SHORT_STAY",
+    "documentType": "ordinary",
+    "purpose": "short_visit",
+    "route": "visa_exempt",
+    "outcome": "supported",
+    "claimId": "cbi-lca-travel-schengen-short-stay",
+    "transport": [
+      "air",
+      "land",
+      "sea"
+    ],
+    "conditions": [],
+    "permittedStay": "90 days in any 180-day period, subject to admission conditions",
+    "documentRecognition": "Common nationality regime only; member-specific recognition not fully checked",
+    "acquisitionRestrictions": "not_researched"
+  }
+]

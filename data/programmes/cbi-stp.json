@@ -1,0 +1,172 @@
+{
+  "id": "cbi-stp",
+  "aliases": [
+    "st"
+  ],
+  "jurisdiction": "STP",
+  "country": "São Tomé and Príncipe",
+  "name": "Citizenship through investment / PCID",
+  "kind": "citizenship",
+  "mechanism": "investment_subject_to_nationality_decision",
+  "profileURL": "https://cbi.me/citizenship-by-investment/sao-tome-and-principe/",
+  "region": "Africa",
+  "period": "2025–present",
+  "start": 2025,
+  "end": null,
+  "optionIds": [
+    "cbi-stp-option-1"
+  ],
+  "options": [
+    {
+      "id": "cbi-stp-option-1",
+      "label": "National Transformation Fund",
+      "classification": "contribution",
+      "amountClaimId": "cbi-stp-routes",
+      "conditions": "Non-refundable"
+    }
+  ],
+  "fields": {
+    "capital": "cbi-stp-capital",
+    "capitalType": "cbi-stp-capitalType",
+    "hold": "cbi-stp-hold",
+    "presence": "cbi-stp-presence",
+    "family": "cbi-stp-family",
+    "caveat": "cbi-stp-caveat",
+    "alert": "cbi-stp-alert",
+    "processing": "cbi-stp-processing",
+    "presenceShort": "cbi-stp-presenceShort",
+    "feeNote": "cbi-stp-feeNote",
+    "keyNote": "cbi-stp-keyNote",
+    "familyScenario": "cbi-stp-familyScenario",
+    "passportDelivery": "cbi-stp-passportDelivery",
+    "routeType": "cbi-stp-routeType",
+    "amount": "cbi-stp-amount",
+    "familyAmount": "cbi-stp-family-amount",
+    "routes": "cbi-stp-routes",
+    "legalOutcome": "cbi-stp-legal-outcome",
+    "intake": "cbi-stp-intake-observation",
+    "editorialUpdate": "cbi-stp-editorial-update"
+  },
+  "requiredFields": {
+    "legal_outcome": {
+      "claimIds": [
+        "cbi-stp-legal-outcome"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "legal_basis": {
+      "claimIds": [],
+      "state": "gap",
+      "gap": "Exact legal basis requirements not fully established in this release."
+    },
+    "operational_intake": {
+      "claimIds": [
+        "cbi-stp-intake-observation"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "decision_stage": {
+      "claimIds": [
+        "cbi-stp-intake-observation"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "passport_issuance": {
+      "claimIds": [
+        "cbi-stp-passportDelivery",
+        "cbi-stp-intake-observation"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "investment_options": {
+      "claimIds": [
+        "cbi-stp-routes"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "minimum_capital": {
+      "claimIds": [
+        "cbi-stp-amount",
+        "cbi-stp-capital"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "financial_resources": {
+      "claimIds": [],
+      "state": "gap",
+      "gap": "Exact financial resources requirements not fully established in this release."
+    },
+    "published_fees": {
+      "claimIds": [
+        "cbi-stp-cost-8",
+        "cbi-stp-cost-27",
+        "cbi-stp-feeNote"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "dependants": {
+      "claimIds": [
+        "cbi-stp-family",
+        "cbi-stp-familyScenario"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "screening": {
+      "claimIds": [],
+      "state": "gap",
+      "gap": "Exact screening requirements not fully established in this release."
+    },
+    "presence_holding": {
+      "claimIds": [
+        "cbi-stp-presence",
+        "cbi-stp-hold"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "post_grant": {
+      "claimIds": [
+        "cbi-stp-presence",
+        "cbi-stp-hold"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "withdrawal_recovery": {
+      "claimIds": [
+        "cbi-stp-capitalType",
+        "cbi-stp-hold"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "process_timing": {
+      "claimIds": [
+        "cbi-stp-processing",
+        "cbi-stp-passportDelivery"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "nationality_document_restrictions": {
+      "claimIds": [
+        "cbi-stp-caveat"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    }
+  },
+  "qualifications": [
+    "21 September 2026 notice: adult children 18–30 and dependent parents/grandparents 55 + can be processed/approved, but naturalisation and passport issuance pause pending law. Two-month target is not proven delivery.",
+    "Processing, due diligence, passport and professional fees require a current itemised quote.",
+    "No independently verified end-to-end passport delivery time"
+  ]
+}

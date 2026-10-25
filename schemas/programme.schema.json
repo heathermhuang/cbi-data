@@ -1,0 +1,152 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "aliases": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "jurisdiction": {
+      "type": "string"
+    },
+    "country": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "kind": {
+      "const": "citizenship"
+    },
+    "mechanism": {
+      "type": "string"
+    },
+    "profileURL": {
+      "type": "string"
+    },
+    "region": {
+      "type": "string"
+    },
+    "period": {
+      "type": "string"
+    },
+    "start": {
+      "type": "number"
+    },
+    "end": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "optionIds": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "options": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          },
+          "classification": {
+            "enum": [
+              "asset",
+              "deposit",
+              "business",
+              "contribution"
+            ]
+          },
+          "amountClaimId": {
+            "type": "string"
+          },
+          "conditions": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "id",
+          "label",
+          "classification",
+          "amountClaimId",
+          "conditions"
+        ]
+      }
+    },
+    "fields": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "string"
+      }
+    },
+    "requiredFields": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "claimIds": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "state": {
+            "enum": [
+              "gap",
+              "partial",
+              "supported"
+            ]
+          },
+          "gap": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "claimIds",
+          "state",
+          "gap"
+        ]
+      }
+    },
+    "qualifications": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "required": [
+    "id",
+    "aliases",
+    "jurisdiction",
+    "country",
+    "name",
+    "kind",
+    "mechanism",
+    "profileURL",
+    "region",
+    "period",
+    "start",
+    "end",
+    "optionIds",
+    "options",
+    "fields",
+    "requiredFields",
+    "qualifications"
+  ]
+}

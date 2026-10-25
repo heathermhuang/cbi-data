@@ -1,0 +1,190 @@
+{
+  "id": "cbi-dma",
+  "aliases": [
+    "dm"
+  ],
+  "jurisdiction": "DMA",
+  "country": "Dominica",
+  "name": "Citizenship by Investment",
+  "kind": "citizenship",
+  "mechanism": "investment_subject_to_nationality_decision",
+  "profileURL": "https://cbi.me/citizenship-by-investment/dominica/",
+  "region": "Caribbean",
+  "period": "1993–present",
+  "start": 1993,
+  "end": null,
+  "optionIds": [
+    "cbi-dma-option-1",
+    "cbi-dma-option-2"
+  ],
+  "options": [
+    {
+      "id": "cbi-dma-option-1",
+      "label": "EDF contribution",
+      "classification": "contribution",
+      "amountClaimId": "cbi-dma-routes",
+      "conditions": "Non-refundable"
+    },
+    {
+      "id": "cbi-dma-option-2",
+      "label": "Approved property",
+      "classification": "asset",
+      "amountClaimId": "cbi-dma-routes",
+      "conditions": "3-year hold; government fees extra"
+    }
+  ],
+  "fields": {
+    "capital": "cbi-dma-capital",
+    "capitalType": "cbi-dma-capitalType",
+    "hold": "cbi-dma-hold",
+    "presence": "cbi-dma-presence",
+    "family": "cbi-dma-family",
+    "caveat": "cbi-dma-caveat",
+    "alert": "cbi-dma-alert",
+    "processing": "cbi-dma-processing",
+    "presenceShort": "cbi-dma-presenceShort",
+    "feeNote": "cbi-dma-feeNote",
+    "keyNote": "cbi-dma-keyNote",
+    "familyScenario": "cbi-dma-familyScenario",
+    "passportDelivery": "cbi-dma-passportDelivery",
+    "routeType": "cbi-dma-routeType",
+    "amount": "cbi-dma-amount",
+    "familyAmount": "cbi-dma-family-amount",
+    "routes": "cbi-dma-routes",
+    "legalOutcome": "cbi-dma-legal-outcome",
+    "intake": "cbi-dma-intake-observation",
+    "processStages": "cbi-dma-process-stages"
+  },
+  "requiredFields": {
+    "legal_outcome": {
+      "claimIds": [
+        "cbi-dma-legal-outcome"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "legal_basis": {
+      "claimIds": [],
+      "state": "gap",
+      "gap": "Exact legal basis requirements not fully established in this release."
+    },
+    "operational_intake": {
+      "claimIds": [
+        "cbi-dma-intake-observation"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "decision_stage": {
+      "claimIds": [
+        "cbi-dma-intake-observation"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "passport_issuance": {
+      "claimIds": [
+        "cbi-dma-passportDelivery",
+        "cbi-dma-intake-observation"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "investment_options": {
+      "claimIds": [
+        "cbi-dma-routes"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "minimum_capital": {
+      "claimIds": [
+        "cbi-dma-amount",
+        "cbi-dma-capital"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "financial_resources": {
+      "claimIds": [],
+      "state": "gap",
+      "gap": "Exact financial resources requirements not fully established in this release."
+    },
+    "published_fees": {
+      "claimIds": [
+        "cbi-dma-cost-3",
+        "cbi-dma-cost-22",
+        "cbi-dma-dated-single-fee-2",
+        "cbi-dma-dated-single-fee-3",
+        "cbi-dma-dated-single-fee-4",
+        "cbi-dma-dated-single-fee-5",
+        "cbi-dma-scenario-item-30",
+        "cbi-dma-scenario-item-31",
+        "cbi-dma-scenario-item-32",
+        "cbi-dma-scenario-item-33",
+        "cbi-dma-scenario-item-34",
+        "cbi-dma-feeNote"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "dependants": {
+      "claimIds": [
+        "cbi-dma-family",
+        "cbi-dma-familyScenario"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "screening": {
+      "claimIds": [],
+      "state": "gap",
+      "gap": "Exact screening requirements not fully established in this release."
+    },
+    "presence_holding": {
+      "claimIds": [
+        "cbi-dma-presence",
+        "cbi-dma-hold"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "post_grant": {
+      "claimIds": [
+        "cbi-dma-presence",
+        "cbi-dma-hold"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "withdrawal_recovery": {
+      "claimIds": [
+        "cbi-dma-capitalType",
+        "cbi-dma-hold"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "process_timing": {
+      "claimIds": [
+        "cbi-dma-processing",
+        "cbi-dma-passportDelivery",
+        "cbi-dma-process-stages"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "nationality_document_restrictions": {
+      "claimIds": [
+        "cbi-dma-caveat"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    }
+  },
+  "qualifications": [
+    "Property attracts government fees from US$75,000. Screening, interview, documents and agent costs are extra.",
+    "Passport, document, agent and enhanced due diligence costs are not included.",
+    "No independently verified end-to-end passport delivery time"
+  ]
+}

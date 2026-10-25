@@ -1,0 +1,182 @@
+{
+  "id": "cbi-kna",
+  "aliases": [
+    "skn"
+  ],
+  "jurisdiction": "KNA",
+  "country": "St Kitts and Nevis",
+  "name": "Citizenship Programme / SISC",
+  "kind": "citizenship",
+  "mechanism": "investment_subject_to_nationality_decision",
+  "profileURL": "https://cbi.me/citizenship-by-investment/st-kitts-and-nevis/",
+  "region": "Caribbean",
+  "period": "1984–present",
+  "start": 1984,
+  "end": null,
+  "optionIds": [
+    "cbi-kna-option-1"
+  ],
+  "options": [
+    {
+      "id": "cbi-kna-option-1",
+      "label": "SISC contribution",
+      "classification": "contribution",
+      "amountClaimId": "cbi-kna-routes",
+      "conditions": "Non-refundable"
+    }
+  ],
+  "fields": {
+    "capital": "cbi-kna-capital",
+    "capitalType": "cbi-kna-capitalType",
+    "hold": "cbi-kna-hold",
+    "presence": "cbi-kna-presence",
+    "family": "cbi-kna-family",
+    "caveat": "cbi-kna-caveat",
+    "alert": "cbi-kna-alert",
+    "processing": "cbi-kna-processing",
+    "presenceShort": "cbi-kna-presenceShort",
+    "feeNote": "cbi-kna-feeNote",
+    "keyNote": "cbi-kna-keyNote",
+    "familyScenario": "cbi-kna-familyScenario",
+    "passportDelivery": "cbi-kna-passportDelivery",
+    "routeType": "cbi-kna-routeType",
+    "amount": "cbi-kna-amount",
+    "familyAmount": "cbi-kna-family-amount",
+    "routes": "cbi-kna-routes",
+    "legalOutcome": "cbi-kna-legal-outcome",
+    "intake": "cbi-kna-intake-observation",
+    "processStages": "cbi-kna-process-stages"
+  },
+  "requiredFields": {
+    "legal_outcome": {
+      "claimIds": [
+        "cbi-kna-legal-outcome"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "legal_basis": {
+      "claimIds": [],
+      "state": "gap",
+      "gap": "Exact legal basis requirements not fully established in this release."
+    },
+    "operational_intake": {
+      "claimIds": [
+        "cbi-kna-intake-observation"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "decision_stage": {
+      "claimIds": [
+        "cbi-kna-intake-observation"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "passport_issuance": {
+      "claimIds": [
+        "cbi-kna-passportDelivery",
+        "cbi-kna-intake-observation"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "investment_options": {
+      "claimIds": [
+        "cbi-kna-routes"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "minimum_capital": {
+      "claimIds": [
+        "cbi-kna-amount",
+        "cbi-kna-capital"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "financial_resources": {
+      "claimIds": [],
+      "state": "gap",
+      "gap": "Exact financial resources requirements not fully established in this release."
+    },
+    "published_fees": {
+      "claimIds": [
+        "cbi-kna-dated-single-fee-0",
+        "cbi-kna-dated-single-fee-1",
+        "cbi-kna-dated-single-fee-2",
+        "cbi-kna-scenario-item-27",
+        "cbi-kna-scenario-item-28",
+        "cbi-kna-scenario-item-29",
+        "cbi-kna-scenario-item-30",
+        "cbi-kna-scenario-item-31",
+        "cbi-kna-scenario-item-32",
+        "cbi-kna-scenario-item-33",
+        "cbi-kna-scenario-item-34",
+        "cbi-kna-feeNote"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "dependants": {
+      "claimIds": [
+        "cbi-kna-family",
+        "cbi-kna-familyScenario"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "screening": {
+      "claimIds": [],
+      "state": "gap",
+      "gap": "Exact screening requirements not fully established in this release."
+    },
+    "presence_holding": {
+      "claimIds": [
+        "cbi-kna-presence",
+        "cbi-kna-hold"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "post_grant": {
+      "claimIds": [
+        "cbi-kna-presence",
+        "cbi-kna-hold"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "withdrawal_recovery": {
+      "claimIds": [
+        "cbi-kna-capitalType",
+        "cbi-kna-hold"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "process_timing": {
+      "claimIds": [
+        "cbi-kna-processing",
+        "cbi-kna-passportDelivery",
+        "cbi-kna-process-stages"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "nationality_document_restrictions": {
+      "claimIds": [
+        "cbi-kna-caveat"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    }
+  },
+  "qualifications": [
+    "SISC contribution remains published at USD 250,000 for a principal or family up to four. Mandatory biometrics apply to new applications from 14 April 2026. Residency-reform announcements do not establish a universal current stay-day rule.",
+    "Standard biometric fees are counted. A 10% discount requires qualifying bookings AND enrolment by 31 December 2026 and is not assumed. Agent, document and any unlisted charges remain extra.",
+    "No independently verified end-to-end passport delivery time"
+  ]
+}

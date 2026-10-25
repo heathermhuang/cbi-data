@@ -1,0 +1,178 @@
+{
+  "id": "cbi-vut",
+  "aliases": [
+    "vu"
+  ],
+  "jurisdiction": "VUT",
+  "country": "Vanuatu",
+  "name": "Economic citizenship / DSP and related routes",
+  "kind": "citizenship",
+  "mechanism": "investment_subject_to_nationality_decision",
+  "profileURL": "https://cbi.me/citizenship-by-investment/vanuatu/",
+  "region": "Oceania",
+  "period": "2015–present; DSP from 2017",
+  "start": 2015,
+  "end": null,
+  "optionIds": [
+    "cbi-vut-option-1"
+  ],
+  "options": [
+    {
+      "id": "cbi-vut-option-1",
+      "label": "DSP published tariff",
+      "classification": "contribution",
+      "amountClaimId": "cbi-vut-routes",
+      "conditions": "Non-refundable programme payment"
+    }
+  ],
+  "fields": {
+    "capital": "cbi-vut-capital",
+    "capitalType": "cbi-vut-capitalType",
+    "hold": "cbi-vut-hold",
+    "presence": "cbi-vut-presence",
+    "family": "cbi-vut-family",
+    "caveat": "cbi-vut-caveat",
+    "alert": "cbi-vut-alert",
+    "processing": "cbi-vut-processing",
+    "presenceShort": "cbi-vut-presenceShort",
+    "feeNote": "cbi-vut-feeNote",
+    "keyNote": "cbi-vut-keyNote",
+    "familyScenario": "cbi-vut-familyScenario",
+    "passportDelivery": "cbi-vut-passportDelivery",
+    "routeType": "cbi-vut-routeType",
+    "amount": "cbi-vut-amount",
+    "familyAmount": "cbi-vut-family-amount",
+    "routes": "cbi-vut-routes",
+    "legalOutcome": "cbi-vut-legal-outcome",
+    "intake": "cbi-vut-intake-observation",
+    "editorialUpdate": "cbi-vut-editorial-update"
+  },
+  "requiredFields": {
+    "legal_outcome": {
+      "claimIds": [
+        "cbi-vut-legal-outcome"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "legal_basis": {
+      "claimIds": [],
+      "state": "gap",
+      "gap": "Exact legal basis requirements not fully established in this release."
+    },
+    "operational_intake": {
+      "claimIds": [
+        "cbi-vut-intake-observation"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "decision_stage": {
+      "claimIds": [
+        "cbi-vut-intake-observation"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "passport_issuance": {
+      "claimIds": [
+        "cbi-vut-passportDelivery",
+        "cbi-vut-intake-observation"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "investment_options": {
+      "claimIds": [
+        "cbi-vut-routes"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "minimum_capital": {
+      "claimIds": [
+        "cbi-vut-amount",
+        "cbi-vut-capital"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "financial_resources": {
+      "claimIds": [],
+      "state": "gap",
+      "gap": "Exact financial resources requirements not fully established in this release."
+    },
+    "published_fees": {
+      "claimIds": [
+        "cbi-vut-cost-4",
+        "cbi-vut-cost-5",
+        "cbi-vut-cost-6",
+        "cbi-vut-cost-7",
+        "cbi-vut-cost-23",
+        "cbi-vut-cost-24",
+        "cbi-vut-cost-25",
+        "cbi-vut-cost-26",
+        "cbi-vut-feeNote"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "dependants": {
+      "claimIds": [
+        "cbi-vut-family",
+        "cbi-vut-familyScenario"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "screening": {
+      "claimIds": [],
+      "state": "gap",
+      "gap": "Exact screening requirements not fully established in this release."
+    },
+    "presence_holding": {
+      "claimIds": [
+        "cbi-vut-presence",
+        "cbi-vut-hold"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "post_grant": {
+      "claimIds": [
+        "cbi-vut-presence",
+        "cbi-vut-hold"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "withdrawal_recovery": {
+      "claimIds": [
+        "cbi-vut-capitalType",
+        "cbi-vut-hold"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "process_timing": {
+      "claimIds": [
+        "cbi-vut-processing",
+        "cbi-vut-passportDelivery"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "nationality_document_restrictions": {
+      "claimIds": [
+        "cbi-vut-caveat"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    }
+  },
+  "qualifications": [
+    "DSP minimum selling prices are USD130,000 single or USD180,000 for a couple and two children under 18. Add USD5,000 diligence per application. Vatu-denominated application and certificate charges remain separate. Form D belongs to the separate Capital Investment Immigration Plan; its figures are not the DSP tariff. Passport, oath, biometric, travel and separately quoted service costs are additional. EU exemption ended in December 2024.",
+    "Known USD subtotals are USD135,000 single and USD185,000 for the example family. DSP application is additionally VT5,000 once, plus VT10,000 per citizenship certificate: VT15,000 single or VT45,000 for four people. These vatu amounts are not converted into the USD subtotal. Passport, oath, biometric, travel and separately quoted service costs remain additional. Form D is a separate CIIP route.",
+    "No independently verified end-to-end passport delivery time"
+  ]
+}

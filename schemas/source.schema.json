@@ -1,0 +1,135 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "publisher": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string"
+    },
+    "authorityType": {
+      "type": "string"
+    },
+    "documentDate": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "rights": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "disposition": {
+          "const": "link_only"
+        },
+        "use": {
+          "type": "string"
+        },
+        "basis": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "disposition",
+        "use",
+        "basis"
+      ]
+    },
+    "retrieval": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "retrievedAt": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "method": {
+          "type": "string"
+        },
+        "health": {
+          "enum": [
+            "available",
+            "changed_pending_review",
+            "unavailable",
+            "not_monitored"
+          ]
+        },
+        "hash": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "lastAttempt": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "required": [
+        "retrievedAt",
+        "method",
+        "health",
+        "hash",
+        "lastAttempt"
+      ]
+    },
+    "manualReview": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "intervalDays": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "rationale": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "intervalDays",
+        "rationale"
+      ]
+    },
+    "reviewObservation": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "date": {
+          "type": "string"
+        },
+        "method": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "date",
+        "method"
+      ]
+    }
+  },
+  "required": [
+    "id",
+    "publisher",
+    "title",
+    "url",
+    "authorityType",
+    "documentDate",
+    "rights",
+    "retrieval",
+    "manualReview",
+    "reviewObservation"
+  ]
+}

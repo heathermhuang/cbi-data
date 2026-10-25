@@ -1,0 +1,68 @@
+[
+  {
+    "id": "cbi-dma-cost-3",
+    "programmeId": "cbi-dma",
+    "optionId": "cbi-dma-option-1",
+    "claimId": "cbi-dma-cost-3"
+  },
+  {
+    "id": "cbi-dma-cost-22",
+    "programmeId": "cbi-dma",
+    "optionId": "cbi-dma-option-1",
+    "claimId": "cbi-dma-cost-22"
+  },
+  {
+    "id": "cbi-dma-dated-cost-2",
+    "programmeId": "cbi-dma",
+    "optionId": "cbi-dma-option-1",
+    "claimId": "cbi-dma-dated-single-fee-2"
+  },
+  {
+    "id": "cbi-dma-dated-cost-3",
+    "programmeId": "cbi-dma",
+    "optionId": "cbi-dma-option-1",
+    "claimId": "cbi-dma-dated-single-fee-3"
+  },
+  {
+    "id": "cbi-dma-dated-cost-4",
+    "programmeId": "cbi-dma",
+    "optionId": "cbi-dma-option-1",
+    "claimId": "cbi-dma-dated-single-fee-4"
+  },
+  {
+    "id": "cbi-dma-dated-cost-5",
+    "programmeId": "cbi-dma",
+    "optionId": "cbi-dma-option-1",
+    "claimId": "cbi-dma-dated-single-fee-5"
+  },
+  {
+    "id": "cbi-dma-scenario-item-30",
+    "programmeId": "cbi-dma",
+    "optionId": "cbi-dma-option-1",
+    "claimId": "cbi-dma-scenario-item-30"
+  },
+  {
+    "id": "cbi-dma-scenario-item-31",
+    "programmeId": "cbi-dma",
+    "optionId": "cbi-dma-option-1",
+    "claimId": "cbi-dma-scenario-item-31"
+  },
+  {
+    "id": "cbi-dma-scenario-item-32",
+    "programmeId": "cbi-dma",
+    "optionId": "cbi-dma-option-1",
+    "claimId": "cbi-dma-scenario-item-32"
+  },
+  {
+    "id": "cbi-dma-scenario-item-33",
+    "programmeId": "cbi-dma",
+    "optionId": "cbi-dma-option-1",
+    "claimId": "cbi-dma-scenario-item-33"
+  },
+  {
+    "id": "cbi-dma-scenario-item-34",
+    "programmeId": "cbi-dma",
+    "optionId": "cbi-dma-option-1",
+    "claimId": "cbi-dma-scenario-item-34"
+  }
+]

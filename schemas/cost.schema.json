@@ -1,0 +1,25 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "programmeId": {
+      "type": "string"
+    },
+    "optionId": {
+      "type": "string"
+    },
+    "claimId": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "id",
+    "programmeId",
+    "optionId",
+    "claimId"
+  ]
+}

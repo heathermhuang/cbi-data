@@ -1,0 +1,186 @@
+{
+  "id": "cbi-lca",
+  "aliases": [
+    "lc"
+  ],
+  "jurisdiction": "LCA",
+  "country": "Saint Lucia",
+  "name": "Citizenship by Investment",
+  "kind": "citizenship",
+  "mechanism": "investment_subject_to_nationality_decision",
+  "profileURL": "https://cbi.me/citizenship-by-investment/saint-lucia/",
+  "region": "Caribbean",
+  "period": "2016–present",
+  "start": 2016,
+  "end": null,
+  "optionIds": [
+    "cbi-lca-option-1",
+    "cbi-lca-option-2"
+  ],
+  "options": [
+    {
+      "id": "cbi-lca-option-1",
+      "label": "NEF contribution",
+      "classification": "contribution",
+      "amountClaimId": "cbi-lca-routes",
+      "conditions": "Non-refundable"
+    },
+    {
+      "id": "cbi-lca-option-2",
+      "label": "Government bonds",
+      "classification": "deposit",
+      "amountClaimId": "cbi-lca-routes",
+      "conditions": "5-year hold plus US$50,000 administration"
+    }
+  ],
+  "fields": {
+    "capital": "cbi-lca-capital",
+    "capitalType": "cbi-lca-capitalType",
+    "hold": "cbi-lca-hold",
+    "presence": "cbi-lca-presence",
+    "family": "cbi-lca-family",
+    "caveat": "cbi-lca-caveat",
+    "alert": "cbi-lca-alert",
+    "processing": "cbi-lca-processing",
+    "presenceShort": "cbi-lca-presenceShort",
+    "feeNote": "cbi-lca-feeNote",
+    "keyNote": "cbi-lca-keyNote",
+    "familyScenario": "cbi-lca-familyScenario",
+    "passportDelivery": "cbi-lca-passportDelivery",
+    "routeType": "cbi-lca-routeType",
+    "amount": "cbi-lca-amount",
+    "familyAmount": "cbi-lca-family-amount",
+    "routes": "cbi-lca-routes",
+    "legalOutcome": "cbi-lca-legal-outcome",
+    "intake": "cbi-lca-intake-observation",
+    "editorialUpdate": "cbi-lca-editorial-update"
+  },
+  "requiredFields": {
+    "legal_outcome": {
+      "claimIds": [
+        "cbi-lca-legal-outcome"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "legal_basis": {
+      "claimIds": [],
+      "state": "gap",
+      "gap": "Exact legal basis requirements not fully established in this release."
+    },
+    "operational_intake": {
+      "claimIds": [
+        "cbi-lca-intake-observation"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "decision_stage": {
+      "claimIds": [
+        "cbi-lca-intake-observation"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "passport_issuance": {
+      "claimIds": [
+        "cbi-lca-passportDelivery",
+        "cbi-lca-intake-observation"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "investment_options": {
+      "claimIds": [
+        "cbi-lca-routes"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "minimum_capital": {
+      "claimIds": [
+        "cbi-lca-amount",
+        "cbi-lca-capital"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "financial_resources": {
+      "claimIds": [],
+      "state": "gap",
+      "gap": "Exact financial resources requirements not fully established in this release."
+    },
+    "published_fees": {
+      "claimIds": [
+        "cbi-lca-cost-9",
+        "cbi-lca-cost-28",
+        "cbi-lca-scenario-item-26",
+        "cbi-lca-scenario-item-27",
+        "cbi-lca-scenario-item-28",
+        "cbi-lca-scenario-item-29",
+        "cbi-lca-scenario-item-30",
+        "cbi-lca-scenario-item-31",
+        "cbi-lca-feeNote"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "dependants": {
+      "claimIds": [
+        "cbi-lca-family",
+        "cbi-lca-familyScenario"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "screening": {
+      "claimIds": [],
+      "state": "gap",
+      "gap": "Exact screening requirements not fully established in this release."
+    },
+    "presence_holding": {
+      "claimIds": [
+        "cbi-lca-presence",
+        "cbi-lca-hold"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "post_grant": {
+      "claimIds": [
+        "cbi-lca-presence",
+        "cbi-lca-hold"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "withdrawal_recovery": {
+      "claimIds": [
+        "cbi-lca-capitalType",
+        "cbi-lca-hold"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "process_timing": {
+      "claimIds": [
+        "cbi-lca-processing",
+        "cbi-lca-passportDelivery"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    },
+    "nationality_document_restrictions": {
+      "claimIds": [
+        "cbi-lca-caveat"
+      ],
+      "state": "partial",
+      "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
+    }
+  },
+  "qualifications": [
+    "Official FAQ still shows an older US$100,000 figure. Use current investment page; bonds and donation have different economic costs.",
+    "Interview/identity verification is payable by the principal; its amount, passport, document and agent costs are excluded.",
+    "No independently verified end-to-end passport delivery time"
+  ]
+}
