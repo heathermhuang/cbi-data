@@ -8,7 +8,7 @@
     "hash": null,
     "etag": null,
     "lastModified": null,
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
     "lastSuccessfulRetrieval": null,
     "nextEligibleAt": null,
     "extraction": "not_extracted"
@@ -21,7 +21,7 @@
     "hash": null,
     "etag": null,
     "lastModified": null,
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
     "lastSuccessfulRetrieval": null,
     "nextEligibleAt": null,
     "extraction": "not_extracted"
@@ -31,11 +31,11 @@
       "ag"
     ],
     "health": "changed_pending_review",
-    "hash": "1907419b8f86455d7cf87479973d140959964dc5a94c81834f6942a5f655232c",
+    "hash": "72ae56fe5eeb834af2f42e6d0cb398b1e73ea740a2bf601c8e85f635b5c6544c",
     "etag": null,
     "lastModified": null,
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
-    "lastSuccessfulRetrieval": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
+    "lastSuccessfulRetrieval": "2026-10-26T03:42:26.266Z",
     "nextEligibleAt": null,
     "extraction": "retrieval_hash_only"
   },
@@ -47,7 +47,7 @@
     "hash": null,
     "etag": null,
     "lastModified": null,
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
     "lastSuccessfulRetrieval": null,
     "nextEligibleAt": null,
     "extraction": "not_extracted"
@@ -57,11 +57,11 @@
       "ag-ndf"
     ],
     "health": "changed_pending_review",
-    "hash": "a962ced5ec803443291bfb766cdf19d0836dcf3fcfe7325c708a0e1cfc2ad97d",
+    "hash": "e9f641b28bb2dcb46197dd13d94593d3174592b7ff30bfe456a3e43105885fca",
     "etag": null,
     "lastModified": null,
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
-    "lastSuccessfulRetrieval": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
+    "lastSuccessfulRetrieval": "2026-10-26T03:42:26.266Z",
     "nextEligibleAt": null,
     "extraction": "retrieval_hash_only"
   },
@@ -73,7 +73,7 @@
     "hash": null,
     "etag": null,
     "lastModified": null,
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
     "lastSuccessfulRetrieval": null,
     "nextEligibleAt": null,
     "extraction": "not_extracted"
@@ -83,11 +83,11 @@
       "ag-fees"
     ],
     "health": "changed_pending_review",
-    "hash": "4dfb4ab1f6599ce8440aeb54c9053dff3c56bcccfaea1fb560bb3e0e81788a3b",
+    "hash": "8c97ebe7b44ba56c32b8a78034d3c42e2d9b6a993abb6196dfa3d1899e930f38",
     "etag": null,
     "lastModified": null,
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
-    "lastSuccessfulRetrieval": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
+    "lastSuccessfulRetrieval": "2026-10-26T03:42:26.266Z",
     "nextEligibleAt": null,
     "extraction": "retrieval_hash_only"
   },
@@ -99,8 +99,8 @@
     "hash": "3830e74bf523aabe72e4709c359cf76c4c5f86c4a17a8f8c2f8dce59a3b4561e",
     "etag": "\"69ec7-62b0603ee2200\"",
     "lastModified": "Mon, 06 Jan 2025 09:11:36 GMT",
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
-    "lastSuccessfulRetrieval": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
+    "lastSuccessfulRetrieval": "2026-10-26T03:42:26.266Z",
     "nextEligibleAt": null,
     "extraction": "manual_pdf_review_required"
   },
@@ -112,7 +112,7 @@
     "hash": null,
     "etag": null,
     "lastModified": null,
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
     "lastSuccessfulRetrieval": null,
     "nextEligibleAt": null,
     "extraction": "not_extracted"
@@ -122,11 +122,11 @@
       "gd",
       "official-gd-process"
     ],
-    "health": "available",
+    "health": "unavailable",
     "hash": "2c21f59e834f980e0c2d8d11078ce0856628ca1d5a1b37e81f000df8d1da0de3",
     "etag": null,
     "lastModified": null,
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
     "lastSuccessfulRetrieval": "2026-10-25T09:43:23.782Z",
     "nextEligibleAt": null,
     "extraction": "retrieval_hash_only"
@@ -139,8 +139,8 @@
     "hash": "9e420544a5510dc4fed69f6626db836172e0973a5f597429ebfa71aa091e70eb",
     "etag": "W/\"5ee0-Jl7YEExgK8L0ZofmALz40CSKchc\"",
     "lastModified": null,
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
-    "lastSuccessfulRetrieval": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
+    "lastSuccessfulRetrieval": "2026-10-26T03:42:26.266Z",
     "nextEligibleAt": null,
     "extraction": "retrieval_hash_only"
   },
@@ -149,11 +149,11 @@
       "st-family"
     ],
     "health": "changed_pending_review",
-    "hash": "669ae66547d8414c9b1a4e409273ecd168e663a7ec8acc4c5e3d063ac65034cb",
+    "hash": "89d9e5ce3e9c18977eda0b8e79da3d7d93e6fb8e12c87f2380391f907c0a3bee",
     "etag": null,
     "lastModified": null,
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
-    "lastSuccessfulRetrieval": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
+    "lastSuccessfulRetrieval": "2026-10-26T03:42:26.266Z",
     "nextEligibleAt": null,
     "extraction": "retrieval_hash_only"
   },
@@ -165,7 +165,7 @@
     "hash": null,
     "etag": null,
     "lastModified": null,
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
     "lastSuccessfulRetrieval": null,
     "nextEligibleAt": null,
     "extraction": "not_extracted"
@@ -178,7 +178,7 @@
     "hash": null,
     "etag": null,
     "lastModified": null,
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
     "lastSuccessfulRetrieval": null,
     "nextEligibleAt": null,
     "extraction": "not_extracted"
@@ -188,11 +188,11 @@
       "vu"
     ],
     "health": "changed_pending_review",
-    "hash": "cd1e6c3aa156c62ddb4d71315603e57238f72971088dca0d41e1e332c7a1e869",
+    "hash": "05460196679a9357c4d7c64a365f73966166814062d5eff9ed3463286fd55ffc",
     "etag": null,
-    "lastModified": "Sun, 25 Oct 2026 09:45:21 GMT",
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
-    "lastSuccessfulRetrieval": "2026-10-25T09:43:23.782Z",
+    "lastModified": "Mon, 26 Oct 2026 03:44:20 GMT",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
+    "lastSuccessfulRetrieval": "2026-10-26T03:42:26.266Z",
     "nextEligibleAt": null,
     "extraction": "retrieval_hash_only"
   },
@@ -201,11 +201,11 @@
       "st-price"
     ],
     "health": "changed_pending_review",
-    "hash": "e01fb317c18c64174ba3db3612d5cd78a677f15fcd3b8113f5cc086f6ca532f7",
+    "hash": "4596a124bd1337ee4fffb281121819119be01f9d961a0d667417ca9dec77412b",
     "etag": null,
     "lastModified": null,
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
-    "lastSuccessfulRetrieval": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
+    "lastSuccessfulRetrieval": "2026-10-26T03:42:26.266Z",
     "nextEligibleAt": null,
     "extraction": "retrieval_hash_only"
   },
@@ -218,8 +218,8 @@
     "hash": "015318dbd3f65ec26f832c069cdc7a32d09e09c26da4258f5f5d623985e2a4b4",
     "etag": "\"1f6116-5a2934e1d7980\"",
     "lastModified": "Sun, 05 Apr 2020 23:13:58 GMT",
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
-    "lastSuccessfulRetrieval": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
+    "lastSuccessfulRetrieval": "2026-10-26T03:42:26.266Z",
     "nextEligibleAt": null,
     "extraction": "manual_pdf_review_required"
   },
@@ -231,8 +231,8 @@
     "hash": "0396e9d658a17f8cdc7564ebff81390e26b2496e4860c849d45ee6b3e39b6648",
     "etag": "\"9d2f6-5a24307a02e80\"",
     "lastModified": "Wed, 01 Apr 2020 23:27:38 GMT",
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
-    "lastSuccessfulRetrieval": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
+    "lastSuccessfulRetrieval": "2026-10-26T03:42:26.266Z",
     "nextEligibleAt": null,
     "extraction": "manual_pdf_review_required"
   },
@@ -242,11 +242,11 @@
       "vu-current"
     ],
     "health": "changed_pending_review",
-    "hash": "a8b3229f1ae6115391ae94a6a8608ef005829c731930872645085d6a69fd4d5a",
+    "hash": "a4d8d843da0d22f3a95d4b33e8c2e4c45b800c7dd969f06cc586419181e0856b",
     "etag": null,
-    "lastModified": "Sun, 25 Oct 2026 09:45:22 GMT",
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
-    "lastSuccessfulRetrieval": "2026-10-25T09:43:23.782Z",
+    "lastModified": "Mon, 26 Oct 2026 03:44:22 GMT",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
+    "lastSuccessfulRetrieval": "2026-10-26T03:42:26.266Z",
     "nextEligibleAt": null,
     "extraction": "retrieval_hash_only"
   },
@@ -259,8 +259,8 @@
     "hash": "c22bdddc360ea9de2ca7588add3b992e291ce409ae3d77aad0fb53d350afbe80",
     "etag": "\"41f30e48afa3351768ba764751dc6212\"",
     "lastModified": "Fri, 14 Aug 2026 12:17:28 GMT",
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
-    "lastSuccessfulRetrieval": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
+    "lastSuccessfulRetrieval": "2026-10-26T03:42:26.266Z",
     "nextEligibleAt": null,
     "extraction": "retrieval_hash_only"
   },
@@ -268,12 +268,12 @@
     "sourceIds": [
       "publication-entry-nationality"
     ],
-    "health": "available",
-    "hash": "f9a20342e97c1277c62df42c2790055dccfae2222e56836dbf2c9b169698a9c1",
+    "health": "changed_pending_review",
+    "hash": "3d4ab71856ce5ee572b50e79ad5a838353c4ddcf7a8a43105c3a2ab63bd24866",
     "etag": null,
-    "lastModified": "Sat, 24 Oct 2026 18:44:51 GMT",
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
-    "lastSuccessfulRetrieval": "2026-10-25T09:43:23.782Z",
+    "lastModified": "Mon, 26 Oct 2026 02:05:03 GMT",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
+    "lastSuccessfulRetrieval": "2026-10-26T03:42:26.266Z",
     "nextEligibleAt": null,
     "extraction": "retrieval_hash_only"
   },
@@ -281,11 +281,11 @@
     "sourceIds": [
       "dm"
     ],
-    "health": "available",
+    "health": "unavailable",
     "hash": "3f7a3532c065bb1660e4a5bdf9bd07e854750e3fd8caa1329dd6dd2cc29f02e3",
     "etag": null,
     "lastModified": null,
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
     "lastSuccessfulRetrieval": "2026-10-25T09:43:23.782Z",
     "nextEligibleAt": null,
     "extraction": "retrieval_hash_only"
@@ -294,11 +294,11 @@
     "sourceIds": [
       "dm-property"
     ],
-    "health": "available",
+    "health": "unavailable",
     "hash": "2789ddcc545daddee9c5ca8ba7631e3d9570cef03c32b7cd79eb480c00f8257c",
     "etag": null,
     "lastModified": null,
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
     "lastSuccessfulRetrieval": "2026-10-25T09:43:23.782Z",
     "nextEligibleAt": null,
     "extraction": "retrieval_hash_only"
@@ -308,11 +308,11 @@
       "dm-timing",
       "official-dm-process"
     ],
-    "health": "available",
+    "health": "unavailable",
     "hash": "169b36d0c422bb1f893a4964ff8172a0e9dacb16695f67e9c66d9ee9fa18efd2",
     "etag": null,
     "lastModified": null,
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
     "lastSuccessfulRetrieval": "2026-10-25T09:43:23.782Z",
     "nextEligibleAt": null,
     "extraction": "retrieval_hash_only"
@@ -321,12 +321,12 @@
     "sourceIds": [
       "ca-conditional-eta"
     ],
-    "health": "available",
-    "hash": "72b5ff9165b7540742fb5a468459ccc6be527377e97f265f1fd80e3f00e6c8f7",
+    "health": "changed_pending_review",
+    "hash": "b097752e10fd27452029aaca3cc3ed2c31cb07e0e29aca72dde0cf83e051594a",
     "etag": null,
-    "lastModified": "Sat, 24 Oct 2026 19:08:34 GMT",
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
-    "lastSuccessfulRetrieval": "2026-10-25T09:43:23.782Z",
+    "lastModified": "Sun, 25 Oct 2026 23:19:03 GMT",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
+    "lastSuccessfulRetrieval": "2026-10-26T03:42:26.266Z",
     "nextEligibleAt": null,
     "extraction": "retrieval_hash_only"
   },
@@ -338,7 +338,7 @@
     "hash": null,
     "etag": null,
     "lastModified": null,
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
     "lastSuccessfulRetrieval": null,
     "nextEligibleAt": null,
     "extraction": "not_extracted"
@@ -352,7 +352,7 @@
     "hash": null,
     "etag": null,
     "lastModified": null,
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
     "lastSuccessfulRetrieval": null,
     "nextEligibleAt": null,
     "extraction": "not_extracted"
@@ -362,11 +362,11 @@
       "lc"
     ],
     "health": "changed_pending_review",
-    "hash": "65e0d48fd3ecf441d87df016dd1f0da5f3b69f2562c4e4cf4d84df197b92e746",
+    "hash": "95ee97445c2339ca70b2acb42a919112a5612e3a678e926139db05eca77844bf",
     "etag": null,
     "lastModified": null,
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
-    "lastSuccessfulRetrieval": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
+    "lastSuccessfulRetrieval": "2026-10-26T03:42:26.266Z",
     "nextEligibleAt": null,
     "extraction": "retrieval_hash_only"
   },
@@ -376,11 +376,11 @@
       "update-lc-faq"
     ],
     "health": "changed_pending_review",
-    "hash": "c7fe51f925e7a92115f7e3861ef4b9c18b41c831a5ef576738da0af13581c188",
+    "hash": "dd115452329e35c39eabbd2dfc3cf22ab8184c17138981f6e1d39a9407aa7406",
     "etag": null,
     "lastModified": null,
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
-    "lastSuccessfulRetrieval": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
+    "lastSuccessfulRetrieval": "2026-10-26T03:42:26.266Z",
     "nextEligibleAt": null,
     "extraction": "retrieval_hash_only"
   },
@@ -389,11 +389,11 @@
       "nr"
     ],
     "health": "changed_pending_review",
-    "hash": "dbf037aa756b070eeccebc98abb4d96afaf92b8062fa598c865a63cfec218331",
+    "hash": "ff71392dc5d9e1e6bfbf65dc8642522b94c83014cfdb3274382a57e8c00aa28e",
     "etag": null,
     "lastModified": null,
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
-    "lastSuccessfulRetrieval": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
+    "lastSuccessfulRetrieval": "2026-10-26T03:42:26.266Z",
     "nextEligibleAt": null,
     "extraction": "retrieval_hash_only"
   },
@@ -405,7 +405,7 @@
     "hash": null,
     "etag": null,
     "lastModified": null,
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
     "lastSuccessfulRetrieval": null,
     "nextEligibleAt": null,
     "extraction": "not_extracted"
@@ -415,11 +415,11 @@
       "lc-uk"
     ],
     "health": "changed_pending_review",
-    "hash": "ba639ce49176a5344a71ad90fefdff48962de5bb7b6421e305ee0e26f2b98b23",
-    "etag": "W/\"9e831ccc39667a135ae96407f5854bbf\"",
+    "hash": "aec4d8988d59e39943ce72657093a1ac29e05f163dc56efe4b95bc11d9caa8bd",
+    "etag": "W/\"a09053a0ab1ed6f6e4e16c5c532bd105\"",
     "lastModified": null,
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
-    "lastSuccessfulRetrieval": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
+    "lastSuccessfulRetrieval": "2026-10-26T03:42:26.266Z",
     "nextEligibleAt": null,
     "extraction": "retrieval_hash_only"
   },
@@ -427,12 +427,12 @@
     "sourceIds": [
       "comparison-eg-current"
     ],
-    "health": "available",
-    "hash": "cdccfde371278ba6e698ebe055372e1974f3153fe5a9dfa432384e71bf58d1bf",
+    "health": "changed_pending_review",
+    "hash": "3426ba3df39443cf0e44355a5a7efe0646a95fc676b3e49880e8e4187c7fc14b",
     "etag": null,
     "lastModified": null,
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
-    "lastSuccessfulRetrieval": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
+    "lastSuccessfulRetrieval": "2026-10-26T03:42:26.266Z",
     "nextEligibleAt": null,
     "extraction": "retrieval_hash_only"
   },
@@ -441,11 +441,11 @@
       "uk-visits"
     ],
     "health": "changed_pending_review",
-    "hash": "d364ffc3d125e2aa2eb0b7a9155a00d524ca0e9dfb88f7cee235aca77a48093f",
-    "etag": "W/\"9ee9657cbf4999ae116a9607b3d0b665\"",
+    "hash": "3ae46043d88ef8ffb5fca55fb3b759b7c327f31669e9282fae6cb845c668b2c5",
+    "etag": "W/\"73f9c3502253afdebbd5c18de2925a09\"",
     "lastModified": null,
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
-    "lastSuccessfulRetrieval": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
+    "lastSuccessfulRetrieval": "2026-10-26T03:42:26.266Z",
     "nextEligibleAt": null,
     "extraction": "retrieval_hash_only"
   },
@@ -457,8 +457,8 @@
     "hash": "df89de95e70277f7e34e3e53ca54fe417edfa51b4c85ed6eb3a4da4826b1afd2",
     "etag": "\"0x8DF1AB711D7874C\"",
     "lastModified": "Fri, 25 Sep 2026 03:42:49 GMT",
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
-    "lastSuccessfulRetrieval": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
+    "lastSuccessfulRetrieval": "2026-10-26T03:42:26.266Z",
     "nextEligibleAt": null,
     "extraction": "manual_pdf_review_required"
   },
@@ -470,8 +470,8 @@
     "hash": "6927b78db5000630a0b4f47bd3de75de3af177abb242b760ff4eabbd8c85196e",
     "etag": "\"0x8DF1AB7B70B184F\"",
     "lastModified": "Fri, 25 Sep 2026 03:47:26 GMT",
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
-    "lastSuccessfulRetrieval": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
+    "lastSuccessfulRetrieval": "2026-10-26T03:42:26.266Z",
     "nextEligibleAt": null,
     "extraction": "manual_pdf_review_required"
   },
@@ -480,11 +480,11 @@
       "tr"
     ],
     "health": "changed_pending_review",
-    "hash": "605149df10606846c646bab0c2ce233139442c7b1ac2c0ddfb5ca28220cdd5b9",
+    "hash": "d9b023085d4804cd7207bd7f04c210e91a9ee557957b362194f660b82aa238a7",
     "etag": null,
     "lastModified": null,
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
-    "lastSuccessfulRetrieval": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
+    "lastSuccessfulRetrieval": "2026-10-26T03:42:26.266Z",
     "nextEligibleAt": null,
     "extraction": "retrieval_hash_only"
   },
@@ -496,8 +496,8 @@
     "hash": "4a441027f4685b4c1f7b3deddf3c0b73290f8d9dae1e10329a9eae8571f03564",
     "etag": null,
     "lastModified": null,
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
-    "lastSuccessfulRetrieval": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
+    "lastSuccessfulRetrieval": "2026-10-26T03:42:26.266Z",
     "nextEligibleAt": null,
     "extraction": "retrieval_hash_only"
   },
@@ -506,11 +506,11 @@
       "skn-reform"
     ],
     "health": "changed_pending_review",
-    "hash": "27a3eea10b935cc1c011db4deb449a44ae48ec2b451f3355f0517e29e5b68f67",
+    "hash": "d214eb8053fc516c3bb644b01ebb1a4b793d6d3e40f626f474ea69c102f5fcd2",
     "etag": null,
     "lastModified": null,
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
-    "lastSuccessfulRetrieval": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
+    "lastSuccessfulRetrieval": "2026-10-26T03:42:26.266Z",
     "nextEligibleAt": null,
     "extraction": "retrieval_hash_only"
   },
@@ -518,12 +518,12 @@
     "sourceIds": [
       "eg"
     ],
-    "health": "available",
-    "hash": "26be87ea08212b78bddd026f81d0e067258cd8918d01edc3f11dd72a79e698ac",
+    "health": "changed_pending_review",
+    "hash": "296586fc8309ecdc5c84012e3c980203269e4a1a09ff7080aeecb192965cfa3a",
     "etag": null,
     "lastModified": null,
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
-    "lastSuccessfulRetrieval": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
+    "lastSuccessfulRetrieval": "2026-10-26T03:42:26.266Z",
     "nextEligibleAt": null,
     "extraction": "retrieval_hash_only"
   },
@@ -535,8 +535,8 @@
     "hash": "42941fafb689747654c2a81b41da0162519a05cbfe169da306c71e50bade854c",
     "etag": null,
     "lastModified": null,
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
-    "lastSuccessfulRetrieval": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
+    "lastSuccessfulRetrieval": "2026-10-26T03:42:26.266Z",
     "nextEligibleAt": null,
     "extraction": "retrieval_hash_only"
   },
@@ -546,11 +546,11 @@
       "update-ag-property"
     ],
     "health": "changed_pending_review",
-    "hash": "9676c0a18a6ea8072087cb2832517032b68274d95a51b5ddacdefc0074288b70",
+    "hash": "853c9f2a7cdf2c8fcaab02c6898a706fbf64cbebe0474118d3d5447af895c47c",
     "etag": null,
     "lastModified": null,
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
-    "lastSuccessfulRetrieval": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
+    "lastSuccessfulRetrieval": "2026-10-26T03:42:26.266Z",
     "nextEligibleAt": null,
     "extraction": "retrieval_hash_only"
   },
@@ -562,7 +562,7 @@
     "hash": null,
     "etag": null,
     "lastModified": null,
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
     "lastSuccessfulRetrieval": null,
     "nextEligibleAt": null,
     "extraction": "not_extracted"
@@ -575,7 +575,7 @@
     "hash": null,
     "etag": null,
     "lastModified": null,
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
     "lastSuccessfulRetrieval": null,
     "nextEligibleAt": null,
     "extraction": "not_extracted"
@@ -585,11 +585,11 @@
       "comparison-vu-distinct-formd25"
     ],
     "health": "changed_pending_review",
-    "hash": "dc39a0dbae9acccec97f6bc82ad03415a12b8d131f7b3cbbff11248a1959e9d1",
+    "hash": "b0838fb4dc0114a484e2e8d523789b25d3ffb5dda8401169897523d1bf763188",
     "etag": null,
-    "lastModified": "Sun, 25 Oct 2026 09:45:31 GMT",
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
-    "lastSuccessfulRetrieval": "2026-10-25T09:43:23.782Z",
+    "lastModified": "Mon, 26 Oct 2026 03:44:23 GMT",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
+    "lastSuccessfulRetrieval": "2026-10-26T03:42:26.266Z",
     "nextEligibleAt": null,
     "extraction": "retrieval_hash_only"
   },
@@ -597,11 +597,11 @@
     "sourceIds": [
       "official-dm-agents"
     ],
-    "health": "changed_pending_review",
+    "health": "unavailable",
     "hash": "8a02c2ae35f9f6c74da4d49a1135835dfbef3c87a50db5f9c61d678b8038c87d",
     "etag": null,
     "lastModified": null,
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
     "lastSuccessfulRetrieval": "2026-10-25T09:43:23.782Z",
     "nextEligibleAt": null,
     "extraction": "retrieval_hash_only"
@@ -614,7 +614,7 @@
     "hash": null,
     "etag": null,
     "lastModified": null,
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
     "lastSuccessfulRetrieval": null,
     "nextEligibleAt": null,
     "extraction": "not_extracted"
@@ -624,11 +624,11 @@
       "update-tr-enforcement"
     ],
     "health": "changed_pending_review",
-    "hash": "29f6d53cdab79ab4d70195998035f22652eba6db07cd529f27759646f71f124d",
+    "hash": "3450dea8316e30f43908276282c4ac2ddc0a6d5cf30628904b197f351263adb1",
     "etag": null,
-    "lastModified": "Sun, 25 Oct 2026 09:43:44 GMT",
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
-    "lastSuccessfulRetrieval": "2026-10-25T09:43:23.782Z",
+    "lastModified": "Mon, 26 Oct 2026 03:42:40 GMT",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
+    "lastSuccessfulRetrieval": "2026-10-26T03:42:26.266Z",
     "nextEligibleAt": null,
     "extraction": "retrieval_hash_only"
   },
@@ -637,11 +637,11 @@
       "alternative-st-reporting"
     ],
     "health": "changed_pending_review",
-    "hash": "d85aa197c4a9018601c0dc046cf5f86557f23a5f3e76fbbbc6fd767df23963fb",
+    "hash": "71fd7d17fec92c244efb28d059d59b586242fef857394e4f02c6163f77ce1d48",
     "etag": null,
     "lastModified": null,
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
-    "lastSuccessfulRetrieval": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
+    "lastSuccessfulRetrieval": "2026-10-26T03:42:26.266Z",
     "nextEligibleAt": null,
     "extraction": "retrieval_hash_only"
   },
@@ -649,11 +649,11 @@
     "sourceIds": [
       "official-gd-agents"
     ],
-    "health": "available",
+    "health": "unavailable",
     "hash": "5643cd4b7a1424c03332fa30e8b3a1b1df83db0732b45c03fd0b4017a5fab3ab",
     "etag": null,
     "lastModified": null,
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
     "lastSuccessfulRetrieval": "2026-10-25T09:43:23.782Z",
     "nextEligibleAt": null,
     "extraction": "retrieval_hash_only"
@@ -666,8 +666,8 @@
     "hash": "1a5b66469d74ca2ea86886dfb005593a9d6ed193ca302ab3bed1497344a49699",
     "etag": null,
     "lastModified": null,
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
-    "lastSuccessfulRetrieval": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
+    "lastSuccessfulRetrieval": "2026-10-26T03:42:26.266Z",
     "nextEligibleAt": null,
     "extraction": "retrieval_hash_only"
   },
@@ -676,11 +676,11 @@
       "ag-passport-renewal"
     ],
     "health": "changed_pending_review",
-    "hash": "d62959e3884cc338e5edbac59a2653a1ad7553b47656f27ee53df383b5da0e13",
+    "hash": "6f1a98817e34e1449505736df0dd2a5b9ad343216674ea98cfd82f09cfb94839",
     "etag": null,
     "lastModified": null,
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
-    "lastSuccessfulRetrieval": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
+    "lastSuccessfulRetrieval": "2026-10-26T03:42:26.266Z",
     "nextEligibleAt": null,
     "extraction": "retrieval_hash_only"
   },
@@ -689,11 +689,11 @@
       "ag-current-forms"
     ],
     "health": "changed_pending_review",
-    "hash": "f60d49f002c6b86600c0db01196b6ab224e2b9fe3f16a7bf4df6c0de109eb365",
+    "hash": "04bf99396a3f463ad41a252de30032c25b13eb05e255f4557a0bed714b3b1033",
     "etag": null,
     "lastModified": null,
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
-    "lastSuccessfulRetrieval": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
+    "lastSuccessfulRetrieval": "2026-10-26T03:42:26.266Z",
     "nextEligibleAt": null,
     "extraction": "retrieval_hash_only"
   },
@@ -702,11 +702,11 @@
       "lc-legislation-index"
     ],
     "health": "changed_pending_review",
-    "hash": "7671e74225ddb816156b4e65c67b0ddf09ebfb965cb43133666510fae06fc76a",
+    "hash": "691d0b1724e5226512deb6d341841ab1c46cfbb969077cb9376bae51cadc23bc",
     "etag": null,
     "lastModified": null,
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
-    "lastSuccessfulRetrieval": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
+    "lastSuccessfulRetrieval": "2026-10-26T03:42:26.266Z",
     "nextEligibleAt": null,
     "extraction": "retrieval_hash_only"
   },
@@ -718,7 +718,7 @@
     "hash": null,
     "etag": null,
     "lastModified": null,
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
     "lastSuccessfulRetrieval": null,
     "nextEligibleAt": null,
     "extraction": "not_extracted"
@@ -731,7 +731,7 @@
     "hash": null,
     "etag": null,
     "lastModified": null,
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
     "lastSuccessfulRetrieval": null,
     "nextEligibleAt": null,
     "extraction": "not_extracted"
@@ -744,8 +744,8 @@
     "hash": "e4a9290694fd78a8ccfae6cb42729016aade4505a664001f5c2d2a037de82ecc",
     "etag": null,
     "lastModified": "Tue, 23 May 2023 18:06:45 GMT",
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
-    "lastSuccessfulRetrieval": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
+    "lastSuccessfulRetrieval": "2026-10-26T03:42:26.266Z",
     "nextEligibleAt": null,
     "extraction": "manual_pdf_review_required"
   },
@@ -753,12 +753,12 @@
     "sourceIds": [
       "lc-renewal-taipei"
     ],
-    "health": "available",
-    "hash": "c00a717f87ef2877bd01795df1b77108c4286914d4aeb03ba53be0d79e88397d",
-    "etag": "W/\"b7c2797846b3ebddc52011e438c7b4cc\"",
+    "health": "changed_pending_review",
+    "hash": "b1cea1cc5c8395134b688032fadf747677ef4d20a8c01aff58b2bcbd6cd6fc99",
+    "etag": "W/\"fc86ad9516892e2ec792415edb72e578\"",
     "lastModified": null,
-    "lastAttempt": "2026-10-25T09:43:23.782Z",
-    "lastSuccessfulRetrieval": "2026-10-25T09:43:23.782Z",
+    "lastAttempt": "2026-10-26T03:42:26.266Z",
+    "lastSuccessfulRetrieval": "2026-10-26T03:42:26.266Z",
     "nextEligibleAt": null,
     "extraction": "retrieval_hash_only"
   }
