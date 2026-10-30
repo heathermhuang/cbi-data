@@ -1,17 +1,9 @@
 {
-  "at": "2026-10-29T03:29:39.430Z",
+  "at": "2026-10-30T03:29:38.680Z",
   "requests": 59,
   "maximumRequests": 100,
   "sourceCount": 58,
   "observations": [
-    {
-      "sourceIds": [
-        "eu-visa-list"
-      ],
-      "state": "unavailable",
-      "unchanged": false,
-      "bytes": 0
-    },
     {
       "sourceIds": [
         "us-restrictions"
@@ -30,16 +22,7 @@
     },
     {
       "sourceIds": [
-        "eu-nauru-condition"
-      ],
-      "state": "unavailable",
-      "unchanged": false,
-      "bytes": 0
-    },
-    {
-      "sourceIds": [
-        "eu-vanuatu-revoked",
-        "vu-eu"
+        "eu-visa-list"
       ],
       "state": "unavailable",
       "unchanged": false,
@@ -71,19 +54,28 @@
     },
     {
       "sourceIds": [
+        "eu-nauru-condition"
+      ],
+      "state": "unavailable",
+      "unchanged": false,
+      "bytes": 0
+    },
+    {
+      "sourceIds": [
+        "eu-vanuatu-revoked",
+        "vu-eu"
+      ],
+      "state": "unavailable",
+      "unchanged": false,
+      "bytes": 0
+    },
+    {
+      "sourceIds": [
         "follow-ag-eu-request"
       ],
       "state": "available",
       "unchanged": true,
       "bytes": 17405
-    },
-    {
-      "sourceIds": [
-        "eg-faq"
-      ],
-      "state": "unavailable",
-      "unchanged": false,
-      "bytes": 0
     },
     {
       "sourceIds": [
@@ -103,6 +95,14 @@
     },
     {
       "sourceIds": [
+        "eg-faq"
+      ],
+      "state": "unavailable",
+      "unchanged": false,
+      "bytes": 0
+    },
+    {
+      "sourceIds": [
         "ag-current-forms"
       ],
       "state": "changed_pending_review",
@@ -111,36 +111,11 @@
     },
     {
       "sourceIds": [
-        "official-skn-process",
-        "skn-presence"
-      ],
-      "state": "changed_pending_review",
-      "unchanged": false,
-      "bytes": 178635
-    },
-    {
-      "sourceIds": [
-        "official-skn-agents"
-      ],
-      "state": "changed_pending_review",
-      "unchanged": false,
-      "bytes": 204585
-    },
-    {
-      "sourceIds": [
         "ag-ndf"
       ],
       "state": "changed_pending_review",
       "unchanged": false,
       "bytes": 59022
-    },
-    {
-      "sourceIds": [
-        "skn-biometric"
-      ],
-      "state": "changed_pending_review",
-      "unchanged": false,
-      "bytes": 190033
     },
     {
       "sourceIds": [
@@ -153,11 +128,12 @@
     },
     {
       "sourceIds": [
-        "skn-transition"
+        "official-skn-process",
+        "skn-presence"
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 139945
+      "bytes": 178635
     },
     {
       "sourceIds": [
@@ -169,14 +145,6 @@
     },
     {
       "sourceIds": [
-        "official-skn-passport"
-      ],
-      "state": "changed_pending_review",
-      "unchanged": false,
-      "bytes": 136691
-    },
-    {
-      "sourceIds": [
         "ag-ab10-2020"
       ],
       "state": "available",
@@ -185,11 +153,68 @@
     },
     {
       "sourceIds": [
+        "official-skn-agents"
+      ],
+      "state": "changed_pending_review",
+      "unchanged": false,
+      "bytes": 204585
+    },
+    {
+      "sourceIds": [
         "official-gd-agents"
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 209745
+      "bytes": 209731
+    },
+    {
+      "sourceIds": [
+        "gd",
+        "official-gd-process"
+      ],
+      "state": "changed_pending_review",
+      "unchanged": false,
+      "bytes": 226655
+    },
+    {
+      "sourceIds": [
+        "skn-biometric"
+      ],
+      "state": "changed_pending_review",
+      "unchanged": false,
+      "bytes": 190033
+    },
+    {
+      "sourceIds": [
+        "lc-refund-policy"
+      ],
+      "state": "available",
+      "unchanged": true,
+      "bytes": 6319
+    },
+    {
+      "sourceIds": [
+        "skn-transition"
+      ],
+      "state": "changed_pending_review",
+      "unchanged": false,
+      "bytes": 139945
+    },
+    {
+      "sourceIds": [
+        "official-skn-passport"
+      ],
+      "state": "changed_pending_review",
+      "unchanged": false,
+      "bytes": 136691
+    },
+    {
+      "sourceIds": [
+        "st-family"
+      ],
+      "state": "changed_pending_review",
+      "unchanged": false,
+      "bytes": 217950
     },
     {
       "sourceIds": [
@@ -209,23 +234,6 @@
     },
     {
       "sourceIds": [
-        "gd",
-        "official-gd-process"
-      ],
-      "state": "changed_pending_review",
-      "unchanged": false,
-      "bytes": 226655
-    },
-    {
-      "sourceIds": [
-        "lc-refund-policy"
-      ],
-      "state": "available",
-      "unchanged": true,
-      "bytes": 6319
-    },
-    {
-      "sourceIds": [
         "st"
       ],
       "state": "available",
@@ -234,11 +242,20 @@
     },
     {
       "sourceIds": [
-        "st-family"
+        "st-price"
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 217950
+      "bytes": 139951
+    },
+    {
+      "sourceIds": [
+        "publication-sv-stages",
+        "sv"
+      ],
+      "state": "available",
+      "unchanged": true,
+      "bytes": 0
     },
     {
       "sourceIds": [
@@ -247,14 +264,6 @@
       "state": "changed_pending_review",
       "unchanged": false,
       "bytes": 43123
-    },
-    {
-      "sourceIds": [
-        "st-price"
-      ],
-      "state": "changed_pending_review",
-      "unchanged": false,
-      "bytes": 139951
     },
     {
       "sourceIds": [
@@ -268,15 +277,6 @@
     {
       "sourceIds": [
         "comparison-vu-dsp-amendment25"
-      ],
-      "state": "available",
-      "unchanged": true,
-      "bytes": 0
-    },
-    {
-      "sourceIds": [
-        "publication-sv-stages",
-        "sv"
       ],
       "state": "available",
       "unchanged": true,
@@ -305,7 +305,7 @@
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 926117
+      "bytes": 926100
     },
     {
       "sourceIds": [
@@ -313,7 +313,7 @@
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 466449
+      "bytes": 466468
     },
     {
       "sourceIds": [
@@ -321,7 +321,7 @@
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 473912
+      "bytes": 473992
     },
     {
       "sourceIds": [
@@ -330,15 +330,7 @@
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 415455
-    },
-    {
-      "sourceIds": [
-        "publication-entry-nationality"
-      ],
-      "state": "changed_pending_review",
-      "unchanged": false,
-      "bytes": 66737
+      "bytes": 415448
     },
     {
       "sourceIds": [
@@ -346,7 +338,7 @@
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 255252
+      "bytes": 413822
     },
     {
       "sourceIds": [
@@ -354,7 +346,7 @@
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 175063
+      "bytes": 227365
     },
     {
       "sourceIds": [
@@ -363,7 +355,15 @@
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 331117
+      "bytes": 276205
+    },
+    {
+      "sourceIds": [
+        "publication-entry-nationality"
+      ],
+      "state": "changed_pending_review",
+      "unchanged": false,
+      "bytes": 66738
     },
     {
       "sourceIds": [
@@ -375,11 +375,27 @@
     },
     {
       "sourceIds": [
+        "comparison-eg-current"
+      ],
+      "state": "changed_pending_review",
+      "unchanged": false,
+      "bytes": 39081
+    },
+    {
+      "sourceIds": [
         "ca-conditional-eta"
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 29832
+      "bytes": 29833
+    },
+    {
+      "sourceIds": [
+        "eg"
+      ],
+      "state": "changed_pending_review",
+      "unchanged": false,
+      "bytes": 31712
     },
     {
       "sourceIds": [
@@ -391,27 +407,11 @@
     },
     {
       "sourceIds": [
-        "comparison-eg-current"
-      ],
-      "state": "changed_pending_review",
-      "unchanged": false,
-      "bytes": 39081
-    },
-    {
-      "sourceIds": [
         "uk-visits"
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 75543
-    },
-    {
-      "sourceIds": [
-        "eg"
-      ],
-      "state": "changed_pending_review",
-      "unchanged": false,
-      "bytes": 31712
+      "bytes": 75544
     },
     {
       "sourceIds": [
@@ -451,7 +451,7 @@
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 68451
+      "bytes": 69257
     },
     {
       "sourceIds": [
@@ -459,7 +459,7 @@
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 451307
+      "bytes": 453646
     },
     {
       "sourceIds": [
@@ -467,7 +467,7 @@
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 168325
+      "bytes": 168324
     },
     {
       "sourceIds": [
@@ -475,11 +475,11 @@
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 204261
+      "bytes": 204260
     }
   ],
   "legalChangesConfirmed": 0,
   "claimReviewsAdvanced": 0,
   "weeklyDiscovery": "Manual review of official legislation and operational notices required; a retrieval hash is not discovery or legal interpretation.",
-  "workflowURL": "https://github.com/heathermhuang/cbi-data/actions/runs/40812432407"
+  "workflowURL": "https://github.com/heathermhuang/cbi-data/actions/runs/40997672258"
 }
