@@ -1,9 +1,17 @@
 {
-  "at": "2026-10-31T03:25:37.579Z",
+  "at": "2026-11-01T03:28:57.132Z",
   "requests": 59,
   "maximumRequests": 100,
   "sourceCount": 58,
   "observations": [
+    {
+      "sourceIds": [
+        "eu-visa-list"
+      ],
+      "state": "unavailable",
+      "unchanged": false,
+      "bytes": 0
+    },
     {
       "sourceIds": [
         "us-restrictions"
@@ -15,14 +23,6 @@
     {
       "sourceIds": [
         "us-vwp"
-      ],
-      "state": "unavailable",
-      "unchanged": false,
-      "bytes": 0
-    },
-    {
-      "sourceIds": [
-        "eu-visa-list"
       ],
       "state": "unavailable",
       "unchanged": false,
@@ -119,15 +119,6 @@
     },
     {
       "sourceIds": [
-        "official-skn-process",
-        "skn-presence"
-      ],
-      "state": "changed_pending_review",
-      "unchanged": false,
-      "bytes": 178635
-    },
-    {
-      "sourceIds": [
         "ag-property-current",
         "update-ag-property"
       ],
@@ -145,11 +136,12 @@
     },
     {
       "sourceIds": [
-        "official-skn-agents"
+        "official-skn-process",
+        "skn-presence"
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 204585
+      "bytes": 178635
     },
     {
       "sourceIds": [
@@ -161,19 +153,19 @@
     },
     {
       "sourceIds": [
+        "official-skn-agents"
+      ],
+      "state": "changed_pending_review",
+      "unchanged": false,
+      "bytes": 204585
+    },
+    {
+      "sourceIds": [
         "official-gd-agents"
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 209741
-    },
-    {
-      "sourceIds": [
-        "skn-biometric"
-      ],
-      "state": "changed_pending_review",
-      "unchanged": false,
-      "bytes": 190033
+      "bytes": 209728
     },
     {
       "sourceIds": [
@@ -182,7 +174,15 @@
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 226651
+      "bytes": 226655
+    },
+    {
+      "sourceIds": [
+        "skn-biometric"
+      ],
+      "state": "changed_pending_review",
+      "unchanged": false,
+      "bytes": 190033
     },
     {
       "sourceIds": [
@@ -234,19 +234,19 @@
     },
     {
       "sourceIds": [
-        "st-price"
-      ],
-      "state": "changed_pending_review",
-      "unchanged": false,
-      "bytes": 139951
-    },
-    {
-      "sourceIds": [
         "st"
       ],
       "state": "available",
       "unchanged": true,
       "bytes": 0
+    },
+    {
+      "sourceIds": [
+        "st-price"
+      ],
+      "state": "changed_pending_review",
+      "unchanged": false,
+      "bytes": 139951
     },
     {
       "sourceIds": [
@@ -293,14 +293,6 @@
     },
     {
       "sourceIds": [
-        "comparison-vu-distinct-formd25"
-      ],
-      "state": "changed_pending_review",
-      "unchanged": false,
-      "bytes": 22626
-    },
-    {
-      "sourceIds": [
         "publication-entry-nationality"
       ],
       "state": "changed_pending_review",
@@ -309,52 +301,19 @@
     },
     {
       "sourceIds": [
+        "comparison-vu-distinct-formd25"
+      ],
+      "state": "changed_pending_review",
+      "unchanged": false,
+      "bytes": 22626
+    },
+    {
+      "sourceIds": [
         "official-dm-agents"
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 925883
-    },
-    {
-      "sourceIds": [
-        "dm"
-      ],
-      "state": "changed_pending_review",
-      "unchanged": false,
-      "bytes": 466445
-    },
-    {
-      "sourceIds": [
-        "dm-property"
-      ],
-      "state": "changed_pending_review",
-      "unchanged": false,
-      "bytes": 473797
-    },
-    {
-      "sourceIds": [
-        "dm-timing",
-        "official-dm-process"
-      ],
-      "state": "changed_pending_review",
-      "unchanged": false,
-      "bytes": 415447
-    },
-    {
-      "sourceIds": [
-        "lc"
-      ],
-      "state": "changed_pending_review",
-      "unchanged": false,
-      "bytes": 251002
-    },
-    {
-      "sourceIds": [
-        "lc-legislation-index"
-      ],
-      "state": "changed_pending_review",
-      "unchanged": false,
-      "bytes": 158629
+      "bytes": 925859
     },
     {
       "sourceIds": [
@@ -366,12 +325,53 @@
     },
     {
       "sourceIds": [
+        "dm"
+      ],
+      "state": "changed_pending_review",
+      "unchanged": false,
+      "bytes": 466442
+    },
+    {
+      "sourceIds": [
+        "dm-property"
+      ],
+      "state": "changed_pending_review",
+      "unchanged": false,
+      "bytes": 473899
+    },
+    {
+      "sourceIds": [
+        "dm-timing",
+        "official-dm-process"
+      ],
+      "state": "changed_pending_review",
+      "unchanged": false,
+      "bytes": 415444
+    },
+    {
+      "sourceIds": [
+        "lc"
+      ],
+      "state": "changed_pending_review",
+      "unchanged": false,
+      "bytes": 375442
+    },
+    {
+      "sourceIds": [
+        "lc-legislation-index"
+      ],
+      "state": "changed_pending_review",
+      "unchanged": false,
+      "bytes": 158629
+    },
+    {
+      "sourceIds": [
         "lc-old",
         "update-lc-faq"
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 207565
+      "bytes": 1602427
     },
     {
       "sourceIds": [
@@ -451,7 +451,7 @@
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 69038
+      "bytes": 68835
     },
     {
       "sourceIds": [
@@ -459,7 +459,7 @@
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 453756
+      "bytes": 453773
     },
     {
       "sourceIds": [
@@ -467,7 +467,7 @@
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 167486
+      "bytes": 167400
     },
     {
       "sourceIds": [
@@ -481,5 +481,5 @@
   "legalChangesConfirmed": 0,
   "claimReviewsAdvanced": 0,
   "weeklyDiscovery": "Manual review of official legislation and operational notices required; a retrieval hash is not discovery or legal interpretation.",
-  "workflowURL": "https://github.com/heathermhuang/cbi-data/actions/runs/41164320062"
+  "workflowURL": "https://github.com/heathermhuang/cbi-data/actions/runs/41269341145"
 }
