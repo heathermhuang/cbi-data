@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-01T03:28:57.132Z",
+  "at": "2026-11-02T03:28:28.342Z",
   "requests": 59,
   "maximumRequests": 100,
   "sourceCount": 58,
@@ -128,20 +128,20 @@
     },
     {
       "sourceIds": [
-        "ag-fees"
-      ],
-      "state": "changed_pending_review",
-      "unchanged": false,
-      "bytes": 67426
-    },
-    {
-      "sourceIds": [
         "official-skn-process",
         "skn-presence"
       ],
       "state": "changed_pending_review",
       "unchanged": false,
       "bytes": 178635
+    },
+    {
+      "sourceIds": [
+        "ag-fees"
+      ],
+      "state": "changed_pending_review",
+      "unchanged": false,
+      "bytes": 67426
     },
     {
       "sourceIds": [
@@ -165,7 +165,7 @@
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 209728
+      "bytes": 209739
     },
     {
       "sourceIds": [
@@ -174,15 +174,7 @@
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 226655
-    },
-    {
-      "sourceIds": [
-        "skn-biometric"
-      ],
-      "state": "changed_pending_review",
-      "unchanged": false,
-      "bytes": 190033
+      "bytes": 226657
     },
     {
       "sourceIds": [
@@ -194,11 +186,27 @@
     },
     {
       "sourceIds": [
+        "skn-biometric"
+      ],
+      "state": "changed_pending_review",
+      "unchanged": false,
+      "bytes": 190033
+    },
+    {
+      "sourceIds": [
         "skn-transition"
       ],
       "state": "changed_pending_review",
       "unchanged": false,
       "bytes": 139945
+    },
+    {
+      "sourceIds": [
+        "st-family"
+      ],
+      "state": "changed_pending_review",
+      "unchanged": false,
+      "bytes": 217950
     },
     {
       "sourceIds": [
@@ -210,19 +218,19 @@
     },
     {
       "sourceIds": [
+        "st-price"
+      ],
+      "state": "changed_pending_review",
+      "unchanged": false,
+      "bytes": 139951
+    },
+    {
+      "sourceIds": [
         "skn"
       ],
       "state": "changed_pending_review",
       "unchanged": false,
       "bytes": 141015
-    },
-    {
-      "sourceIds": [
-        "st-family"
-      ],
-      "state": "changed_pending_review",
-      "unchanged": false,
-      "bytes": 217950
     },
     {
       "sourceIds": [
@@ -242,11 +250,11 @@
     },
     {
       "sourceIds": [
-        "st-price"
+        "vu"
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 139951
+      "bytes": 43123
     },
     {
       "sourceIds": [
@@ -259,20 +267,20 @@
     },
     {
       "sourceIds": [
-        "vu"
-      ],
-      "state": "changed_pending_review",
-      "unchanged": false,
-      "bytes": 43123
-    },
-    {
-      "sourceIds": [
         "comparison-vu-dsp-regulations25",
         "vu-price"
       ],
       "state": "available",
       "unchanged": true,
       "bytes": 0
+    },
+    {
+      "sourceIds": [
+        "publication-entry-nationality"
+      ],
+      "state": "changed_pending_review",
+      "unchanged": false,
+      "bytes": 66735
     },
     {
       "sourceIds": [
@@ -293,14 +301,6 @@
     },
     {
       "sourceIds": [
-        "publication-entry-nationality"
-      ],
-      "state": "changed_pending_review",
-      "unchanged": false,
-      "bytes": 66737
-    },
-    {
-      "sourceIds": [
         "comparison-vu-distinct-formd25"
       ],
       "state": "changed_pending_review",
@@ -313,15 +313,7 @@
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 925859
-    },
-    {
-      "sourceIds": [
-        "ca-conditional-eta"
-      ],
-      "state": "changed_pending_review",
-      "unchanged": false,
-      "bytes": 31052
+      "bytes": 925860
     },
     {
       "sourceIds": [
@@ -329,7 +321,7 @@
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 466442
+      "bytes": 466447
     },
     {
       "sourceIds": [
@@ -337,7 +329,7 @@
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 473899
+      "bytes": 473900
     },
     {
       "sourceIds": [
@@ -346,7 +338,7 @@
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 415444
+      "bytes": 415447
     },
     {
       "sourceIds": [
@@ -354,7 +346,7 @@
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 375442
+      "bytes": 619862
     },
     {
       "sourceIds": [
@@ -362,7 +354,7 @@
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 158629
+      "bytes": 816925
     },
     {
       "sourceIds": [
@@ -371,7 +363,15 @@
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 1602427
+      "bytes": 189079
+    },
+    {
+      "sourceIds": [
+        "ca-conditional-eta"
+      ],
+      "state": "changed_pending_review",
+      "unchanged": false,
+      "bytes": 31050
     },
     {
       "sourceIds": [
@@ -451,15 +451,15 @@
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 68835
+      "bytes": 68739
     },
     {
       "sourceIds": [
         "lc-renewal-taipei"
       ],
       "state": "changed_pending_review",
-      "unchanged": false,
-      "bytes": 453773
+      "unchanged": true,
+      "bytes": 0
     },
     {
       "sourceIds": [
@@ -467,7 +467,7 @@
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 167400
+      "bytes": 167454
     },
     {
       "sourceIds": [
@@ -475,11 +475,11 @@
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 204256
+      "bytes": 204262
     }
   ],
   "legalChangesConfirmed": 0,
   "claimReviewsAdvanced": 0,
   "weeklyDiscovery": "Manual review of official legislation and operational notices required; a retrieval hash is not discovery or legal interpretation.",
-  "workflowURL": "https://github.com/heathermhuang/cbi-data/actions/runs/41269341145"
+  "workflowURL": "https://github.com/heathermhuang/cbi-data/actions/runs/41383287347"
 }
