@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-10T03:26:35.638Z",
+  "at": "2026-11-11T03:27:31.855Z",
   "requests": 58,
   "maximumRequests": 100,
   "sourceCount": 58,
@@ -15,23 +15,6 @@
     {
       "sourceIds": [
         "us-vwp"
-      ],
-      "state": "unavailable",
-      "unchanged": false,
-      "bytes": 0
-    },
-    {
-      "sourceIds": [
-        "eu-nauru-condition"
-      ],
-      "state": "unavailable",
-      "unchanged": false,
-      "bytes": 0
-    },
-    {
-      "sourceIds": [
-        "eu-vanuatu-revoked",
-        "vu-eu"
       ],
       "state": "unavailable",
       "unchanged": false,
@@ -63,7 +46,32 @@
     },
     {
       "sourceIds": [
+        "eu-nauru-condition"
+      ],
+      "state": "unavailable",
+      "unchanged": false,
+      "bytes": 0
+    },
+    {
+      "sourceIds": [
+        "eu-vanuatu-revoked",
+        "vu-eu"
+      ],
+      "state": "unavailable",
+      "unchanged": false,
+      "bytes": 0
+    },
+    {
+      "sourceIds": [
         "comparison-eg-current"
+      ],
+      "state": "unavailable",
+      "unchanged": false,
+      "bytes": 0
+    },
+    {
+      "sourceIds": [
+        "eg"
       ],
       "state": "unavailable",
       "unchanged": false,
@@ -79,6 +87,39 @@
     },
     {
       "sourceIds": [
+        "official-gd-agents"
+      ],
+      "state": "changed_pending_review",
+      "unchanged": false,
+      "bytes": 209739
+    },
+    {
+      "sourceIds": [
+        "official-dm-agents"
+      ],
+      "state": "changed_pending_review",
+      "unchanged": false,
+      "bytes": 927432
+    },
+    {
+      "sourceIds": [
+        "dm"
+      ],
+      "state": "changed_pending_review",
+      "unchanged": false,
+      "bytes": 468329
+    },
+    {
+      "sourceIds": [
+        "gd",
+        "official-gd-process"
+      ],
+      "state": "changed_pending_review",
+      "unchanged": false,
+      "bytes": 226651
+    },
+    {
+      "sourceIds": [
         "follow-ag-eu-request"
       ],
       "state": "available",
@@ -87,19 +128,52 @@
     },
     {
       "sourceIds": [
-        "eg"
-      ],
-      "state": "unavailable",
-      "unchanged": false,
-      "bytes": 0
-    },
-    {
-      "sourceIds": [
         "ag"
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 61419
+      "bytes": 61265
+    },
+    {
+      "sourceIds": [
+        "dm-property"
+      ],
+      "state": "changed_pending_review",
+      "unchanged": false,
+      "bytes": 475674
+    },
+    {
+      "sourceIds": [
+        "dm-timing",
+        "official-dm-process"
+      ],
+      "state": "changed_pending_review",
+      "unchanged": false,
+      "bytes": 413930
+    },
+    {
+      "sourceIds": [
+        "ag-passport-renewal"
+      ],
+      "state": "changed_pending_review",
+      "unchanged": false,
+      "bytes": 55464
+    },
+    {
+      "sourceIds": [
+        "ag-current-forms"
+      ],
+      "state": "changed_pending_review",
+      "unchanged": false,
+      "bytes": 57485
+    },
+    {
+      "sourceIds": [
+        "ag-ndf"
+      ],
+      "state": "changed_pending_review",
+      "unchanged": false,
+      "bytes": 58868
     },
     {
       "sourceIds": [
@@ -108,47 +182,7 @@
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 178538
-    },
-    {
-      "sourceIds": [
-        "ag-passport-renewal"
-      ],
-      "state": "changed_pending_review",
-      "unchanged": false,
-      "bytes": 55618
-    },
-    {
-      "sourceIds": [
-        "official-skn-agents"
-      ],
-      "state": "changed_pending_review",
-      "unchanged": false,
-      "bytes": 205608
-    },
-    {
-      "sourceIds": [
-        "ag-current-forms"
-      ],
-      "state": "changed_pending_review",
-      "unchanged": false,
-      "bytes": 57639
-    },
-    {
-      "sourceIds": [
-        "ag-ndf"
-      ],
-      "state": "changed_pending_review",
-      "unchanged": false,
-      "bytes": 59022
-    },
-    {
-      "sourceIds": [
-        "skn-biometric"
-      ],
-      "state": "changed_pending_review",
-      "unchanged": false,
-      "bytes": 190049
+      "bytes": 178391
     },
     {
       "sourceIds": [
@@ -157,7 +191,7 @@
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 58465
+      "bytes": 58311
     },
     {
       "sourceIds": [
@@ -165,15 +199,7 @@
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 67426
-    },
-    {
-      "sourceIds": [
-        "skn-transition"
-      ],
-      "state": "changed_pending_review",
-      "unchanged": false,
-      "bytes": 139848
+      "bytes": 67272
     },
     {
       "sourceIds": [
@@ -185,36 +211,35 @@
     },
     {
       "sourceIds": [
+        "official-skn-agents"
+      ],
+      "state": "changed_pending_review",
+      "unchanged": false,
+      "bytes": 205608
+    },
+    {
+      "sourceIds": [
+        "skn-biometric"
+      ],
+      "state": "changed_pending_review",
+      "unchanged": false,
+      "bytes": 190049
+    },
+    {
+      "sourceIds": [
+        "skn-transition"
+      ],
+      "state": "changed_pending_review",
+      "unchanged": false,
+      "bytes": 139848
+    },
+    {
+      "sourceIds": [
         "eu-visa-list"
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 392087
-    },
-    {
-      "sourceIds": [
-        "official-skn-passport"
-      ],
-      "state": "changed_pending_review",
-      "unchanged": false,
-      "bytes": 136594
-    },
-    {
-      "sourceIds": [
-        "official-gd-agents"
-      ],
-      "state": "unavailable",
-      "unchanged": false,
-      "bytes": 0
-    },
-    {
-      "sourceIds": [
-        "gd",
-        "official-gd-process"
-      ],
-      "state": "unavailable",
-      "unchanged": false,
-      "bytes": 0
+      "bytes": 392085
     },
     {
       "sourceIds": [
@@ -223,6 +248,14 @@
       "state": "available",
       "unchanged": true,
       "bytes": 6319
+    },
+    {
+      "sourceIds": [
+        "official-skn-passport"
+      ],
+      "state": "changed_pending_review",
+      "unchanged": false,
+      "bytes": 136594
     },
     {
       "sourceIds": [
@@ -242,6 +275,14 @@
     },
     {
       "sourceIds": [
+        "st-family"
+      ],
+      "state": "changed_pending_review",
+      "unchanged": false,
+      "bytes": 223041
+    },
+    {
+      "sourceIds": [
         "st"
       ],
       "state": "available",
@@ -250,11 +291,20 @@
     },
     {
       "sourceIds": [
-        "st-family"
+        "st-price"
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 223041
+      "bytes": 145362
+    },
+    {
+      "sourceIds": [
+        "publication-sv-stages",
+        "sv"
+      ],
+      "state": "available",
+      "unchanged": true,
+      "bytes": 0
     },
     {
       "sourceIds": [
@@ -275,19 +325,19 @@
     },
     {
       "sourceIds": [
-        "st-price"
-      ],
-      "state": "changed_pending_review",
-      "unchanged": false,
-      "bytes": 145362
-    },
-    {
-      "sourceIds": [
         "comparison-vu-dsp-amendment25"
       ],
       "state": "available",
       "unchanged": true,
       "bytes": 0
+    },
+    {
+      "sourceIds": [
+        "publication-entry-nationality"
+      ],
+      "state": "changed_pending_review",
+      "unchanged": false,
+      "bytes": 66740
     },
     {
       "sourceIds": [
@@ -300,15 +350,6 @@
     },
     {
       "sourceIds": [
-        "publication-sv-stages",
-        "sv"
-      ],
-      "state": "available",
-      "unchanged": true,
-      "bytes": 0
-    },
-    {
-      "sourceIds": [
         "comparison-vu-distinct-formd25"
       ],
       "state": "changed_pending_review",
@@ -317,44 +358,11 @@
     },
     {
       "sourceIds": [
-        "official-dm-agents"
-      ],
-      "state": "unavailable",
-      "unchanged": false,
-      "bytes": 0
-    },
-    {
-      "sourceIds": [
-        "dm"
-      ],
-      "state": "unavailable",
-      "unchanged": false,
-      "bytes": 0
-    },
-    {
-      "sourceIds": [
-        "dm-property"
-      ],
-      "state": "unavailable",
-      "unchanged": false,
-      "bytes": 0
-    },
-    {
-      "sourceIds": [
-        "dm-timing",
-        "official-dm-process"
-      ],
-      "state": "unavailable",
-      "unchanged": false,
-      "bytes": 0
-    },
-    {
-      "sourceIds": [
         "lc"
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 290535
+      "bytes": 299625
     },
     {
       "sourceIds": [
@@ -362,15 +370,7 @@
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 158209
-    },
-    {
-      "sourceIds": [
-        "publication-entry-nationality"
-      ],
-      "state": "changed_pending_review",
-      "unchanged": false,
-      "bytes": 66735
+      "bytes": 229399
     },
     {
       "sourceIds": [
@@ -379,7 +379,15 @@
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 200301
+      "bytes": 278093
+    },
+    {
+      "sourceIds": [
+        "ca-conditional-eta"
+      ],
+      "state": "changed_pending_review",
+      "unchanged": false,
+      "bytes": 31055
     },
     {
       "sourceIds": [
@@ -391,19 +399,11 @@
     },
     {
       "sourceIds": [
-        "ca-conditional-eta"
-      ],
-      "state": "changed_pending_review",
-      "unchanged": false,
-      "bytes": 31050
-    },
-    {
-      "sourceIds": [
         "lc-uk"
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 72418
+      "bytes": 72430
     },
     {
       "sourceIds": [
@@ -431,14 +431,6 @@
     },
     {
       "sourceIds": [
-        "tr"
-      ],
-      "state": "changed_pending_review",
-      "unchanged": false,
-      "bytes": 178986
-    },
-    {
-      "sourceIds": [
         "update-tr-enforcement"
       ],
       "state": "changed_pending_review",
@@ -447,11 +439,19 @@
     },
     {
       "sourceIds": [
-        "ch-nauru-visa"
+        "tr"
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 68692
+      "bytes": 178986
+    },
+    {
+      "sourceIds": [
+        "ch-nauru-visa"
+      ],
+      "state": "unavailable",
+      "unchanged": false,
+      "bytes": 0
     },
     {
       "sourceIds": [
@@ -459,7 +459,7 @@
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 461306
+      "bytes": 460697
     },
     {
       "sourceIds": [
@@ -467,7 +467,7 @@
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 168393
+      "bytes": 168528
     },
     {
       "sourceIds": [
@@ -481,5 +481,5 @@
   "legalChangesConfirmed": 0,
   "claimReviewsAdvanced": 0,
   "weeklyDiscovery": "Manual review of official legislation and operational notices required; a retrieval hash is not discovery or legal interpretation.",
-  "workflowURL": "https://github.com/heathermhuang/cbi-data/actions/runs/42749460689"
+  "workflowURL": "https://github.com/heathermhuang/cbi-data/actions/runs/42952878467"
 }
