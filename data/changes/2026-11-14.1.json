@@ -1,0 +1,99 @@
+[
+  {
+    "id": "cbi-kna-transition-20261114",
+    "programmeId": "cbi-kna",
+    "from": "2026-10-25.2",
+    "to": "2026-11-14.1",
+    "classification": "new_coverage",
+    "observedAt": "2026-11-14",
+    "effectiveAt": null,
+    "beforeRevisionIds": [
+      "cbi-kna-keyNote-af3d04f51982095a",
+      "cbi-kna-caveat-454dc8a713326e1e",
+      "cbi-kna-intake-observation-3b11a2036403a89b"
+    ],
+    "afterRevisionIds": [
+      "cbi-kna-keyNote-e8c6599245bb2c14",
+      "cbi-kna-caveat-b479441943be0c63",
+      "cbi-kna-intake-observation-72b1d063c81e17b2",
+      "cbi-kna-editorial-transition-c64ab86cb81c4307"
+    ],
+    "note": "Adds dated primary-source transition evidence. St Kitts intake is qualified by its announced wind-down; no final cutoff or destination-rule change is inferred. Unrelated review dates are retained."
+  },
+  {
+    "id": "cbi-lca-transition-20261114",
+    "programmeId": "cbi-lca",
+    "from": "2026-10-25.2",
+    "to": "2026-11-14.1",
+    "classification": "new_coverage",
+    "observedAt": "2026-11-14",
+    "effectiveAt": null,
+    "beforeRevisionIds": [
+      "cbi-lca-keyNote-3e96402383f3e6bc",
+      "cbi-lca-caveat-547bb9be2cd24c62"
+    ],
+    "afterRevisionIds": [
+      "cbi-lca-keyNote-481d69595f3147c1",
+      "cbi-lca-caveat-7b217bce708ac16b",
+      "cbi-lca-editorial-transition-28a8ea0408ad3dfe"
+    ],
+    "note": "Adds dated primary-source transition evidence. St Kitts intake is qualified by its announced wind-down; no final cutoff or destination-rule change is inferred. Unrelated review dates are retained."
+  },
+  {
+    "id": "cbi-dma-transition-20261114",
+    "programmeId": "cbi-dma",
+    "from": "2026-10-25.2",
+    "to": "2026-11-14.1",
+    "classification": "new_coverage",
+    "observedAt": "2026-11-14",
+    "effectiveAt": null,
+    "beforeRevisionIds": [
+      "cbi-dma-keyNote-b10f966de1cede63",
+      "cbi-dma-caveat-0dd8293e6064c7cb"
+    ],
+    "afterRevisionIds": [
+      "cbi-dma-keyNote-20a580f6fc521d44",
+      "cbi-dma-caveat-c48cf01d8831d1e4",
+      "cbi-dma-editorial-transition-8c642e06f326501b"
+    ],
+    "note": "Adds dated primary-source transition evidence. St Kitts intake is qualified by its announced wind-down; no final cutoff or destination-rule change is inferred. Unrelated review dates are retained."
+  },
+  {
+    "id": "cbi-atg-transition-20261114",
+    "programmeId": "cbi-atg",
+    "from": "2026-10-25.2",
+    "to": "2026-11-14.1",
+    "classification": "new_coverage",
+    "observedAt": "2026-11-14",
+    "effectiveAt": null,
+    "beforeRevisionIds": [
+      "cbi-atg-keyNote-a8ab5ebf17ae9896",
+      "cbi-atg-caveat-69235fb5d0593ea7"
+    ],
+    "afterRevisionIds": [
+      "cbi-atg-keyNote-b2bbb0c62554bce3",
+      "cbi-atg-caveat-87271c8441112a73",
+      "cbi-atg-editorial-transition-5fa6bda879a6d8a5"
+    ],
+    "note": "Adds dated primary-source transition evidence. St Kitts intake is qualified by its announced wind-down; no final cutoff or destination-rule change is inferred. Unrelated review dates are retained."
+  },
+  {
+    "id": "cbi-grd-transition-20261114",
+    "programmeId": "cbi-grd",
+    "from": "2026-10-25.2",
+    "to": "2026-11-14.1",
+    "classification": "new_coverage",
+    "observedAt": "2026-11-14",
+    "effectiveAt": null,
+    "beforeRevisionIds": [
+      "cbi-grd-keyNote-1024010e844c01bb",
+      "cbi-grd-caveat-6dca695b5fd31dab"
+    ],
+    "afterRevisionIds": [
+      "cbi-grd-keyNote-dd95d72b5feefc2b",
+      "cbi-grd-caveat-9acb40cda462ff9b",
+      "cbi-grd-editorial-transition-023472fbe08b05ac"
+    ],
+    "note": "Adds dated primary-source transition evidence. St Kitts intake is qualified by its announced wind-down; no final cutoff or destination-rule change is inferred. Unrelated review dates are retained."
+  }
+]

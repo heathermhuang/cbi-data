@@ -1,0 +1,28 @@
+{
+  "id": "transition-skn-address",
+  "publisher": "Prime Minister of St Kitts and Nevis / ZIZ Broadcasting Corporation",
+  "title": "National address on citizenship by investment, 13 November 2026",
+  "url": "https://www.youtube.com/watch?v=cXt4fjgzVP4&t=1135s",
+  "authorityType": "Official government statement",
+  "documentDate": "2026-11-13",
+  "rights": {
+    "disposition": "link_only",
+    "use": "Original factual paraphrases and source pointers only; no source documents or transcripts distributed.",
+    "basis": "Original compilation; linked publications retain their own rights"
+  },
+  "retrieval": {
+    "retrievedAt": "2026-11-14T11:40:00Z",
+    "lastAttempt": "2026-11-14T11:40:00Z",
+    "method": "browser_exported_auto_transcript",
+    "health": "not_monitored",
+    "hash": "06884f5417228cd4a7cf0816ef3bc4088d7bae0b85026077bfb226e5c52b9f94"
+  },
+  "manualReview": {
+    "intervalDays": 7,
+    "rationale": "Transition positions can change quickly; an announcement does not establish operative closure or a destination rule."
+  },
+  "reviewObservation": {
+    "date": "2026-11-14",
+    "method": "Original speaker’s statement on the government/national-broadcaster channel reviewed via timestamped automatic transcript; transcription names normalized. Original official publication reviewed for the stated transition facts; prices, travel rules and unrelated claims retain their own dates."
+  }
+}

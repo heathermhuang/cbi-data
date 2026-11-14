@@ -1,0 +1,28 @@
+{
+  "id": "vu-price",
+  "publisher": "Vanuatu Citizenship Commission",
+  "title": "DSP Regulations, Order 33 of 2019",
+  "url": "https://vancitizenship.gov.vu/images/Order_No_33_of_2019_-_New_DSP_Regulations.pdf",
+  "authorityType": "Historical regulation",
+  "documentDate": "2019",
+  "rights": {
+    "disposition": "link_only",
+    "use": "CBI original factual normalization and references only; no upstream pages, PDFs, images or excerpts redistributed",
+    "basis": "Original compilation; no upstream republication licence asserted"
+  },
+  "retrieval": {
+    "retrievedAt": "2026-10-25T08:26:36.066Z",
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "method": "manual_pdf_review_required",
+    "health": "available",
+    "hash": "015318dbd3f65ec26f832c069cdc7a32d09e09c26da4258f5f5d623985e2a4b4"
+  },
+  "manualReview": {
+    "intervalDays": 14,
+    "rationale": "Review exact claim and source applicability; retrieval success alone cannot refresh claims."
+  },
+  "reviewObservation": {
+    "date": "2026-10-12",
+    "method": "Official indexed text reviewed"
+  }
+}

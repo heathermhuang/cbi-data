@@ -161,10 +161,10 @@
   },
   {
     "id": "cbi-dma-caveat",
-    "revisionId": "cbi-dma-caveat-0dd8293e6064c7cb",
+    "revisionId": "cbi-dma-caveat-c48cf01d8831d1e4",
     "subject": "cbi-dma",
     "predicate": "caveat",
-    "value": "Property attracts government fees from US$75,000. Screening, interview, documents and agent costs are extra.",
+    "value": "EU transition discussions; no final application date in the statement. Property attracts government fees from US$75,000. Screening, interview, documents and agent costs are extra.",
     "verification": "partial",
     "valueStatus": "known",
     "conditions": [],
@@ -183,12 +183,17 @@
         "sourceId": "dm-timing",
         "locator": "Approval timing is not passport delivery; passport requires a separate application",
         "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "transition-dm-statement",
+        "locator": "Statement dated 28 October 2026: June 2028 request, transition/support discussions and communication by 12 November.",
+        "scope": "Dated announced government position only; not a final closure instrument or travel guarantee."
       }
     ],
-    "reviewedAt": "2026-10-13",
-    "reviewDueAt": "2026-10-27",
-    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
-    "observedAt": "2026-10-13",
+    "reviewedAt": "2026-11-14",
+    "reviewDueAt": "2026-11-21",
+    "reviewMethod": "Original official publication reviewed for the stated transition facts; prices, travel rules and unrelated claims retain their own dates.",
+    "observedAt": "2026-11-14",
     "effectiveFrom": null,
     "effectiveUntil": null,
     "limitations": []
@@ -331,34 +336,24 @@
   },
   {
     "id": "cbi-dma-keyNote",
-    "revisionId": "cbi-dma-keyNote-b10f966de1cede63",
+    "revisionId": "cbi-dma-keyNote-20a580f6fc521d44",
     "subject": "cbi-dma",
     "predicate": "keyNote",
-    "value": "Family contribution rises to US$250,000.",
+    "value": "EU transition discussions; no final application date in the statement.",
     "verification": "partial",
     "valueStatus": "known",
     "conditions": [],
     "evidence": [
       {
-        "sourceId": "dm",
-        "locator": "US$200,000 single; US$250,000 up to four; additional fees and dependants.",
-        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
-      },
-      {
-        "sourceId": "dm-property",
-        "locator": "Approved property US$200,000; three-year hold; government fees from US$75,000.",
-        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
-      },
-      {
-        "sourceId": "dm-timing",
-        "locator": "Approval timing is not passport delivery; passport requires a separate application",
-        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        "sourceId": "transition-dm-statement",
+        "locator": "Statement dated 28 October 2026: June 2028 request, transition/support discussions and communication by 12 November.",
+        "scope": "Dated announced government position only; not a final closure instrument or travel guarantee."
       }
     ],
-    "reviewedAt": "2026-10-13",
-    "reviewDueAt": "2026-10-27",
-    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
-    "observedAt": "2026-10-13",
+    "reviewedAt": "2026-11-14",
+    "reviewDueAt": "2026-11-21",
+    "reviewMethod": "Original official publication reviewed for the stated transition facts; prices, travel rules and unrelated claims retain their own dates.",
+    "observedAt": "2026-11-14",
     "effectiveFrom": null,
     "effectiveUntil": null,
     "limitations": []
@@ -1207,5 +1202,46 @@
     "effectiveUntil": null,
     "limitations": [],
     "revisionId": "cbi-dma-scenario-item-34-be50d6838306fe1f"
+  },
+  {
+    "id": "cbi-dma-editorial-transition",
+    "revisionId": "cbi-dma-editorial-transition-8c642e06f326501b",
+    "subject": "cbi-dma",
+    "predicate": "editorial_update",
+    "value": {
+      "checked": "2026-11-14",
+      "items": [
+        {
+          "label": "Government transition position",
+          "text": "Dominica’s government statement of 28 October 2026 says the EU indicated that Dominica and other OECS CBI countries should transition away from their programmes by June 2028 to retain Schengen visa-free access. It describes discussions over realistic timeframes and financial and technical support, and says Dominica would communicate further by 12 November. This statement does not publish a final phase-out agreement or application cutoff, or confirm a later reply. A stated communication date does not itself close intake.",
+          "source": "transition-dm-statement",
+          "checked": "2026-11-14"
+        }
+      ],
+      "guides": [
+        "caribbean-citizenship-eu-transition"
+      ]
+    },
+    "verification": "confirmed",
+    "valueStatus": "known",
+    "conditions": [
+      "Scope is the stated dated announcement, not operative legal closure."
+    ],
+    "evidence": [
+      {
+        "sourceId": "transition-dm-statement",
+        "locator": "Statement dated 28 October 2026: June 2028 request, transition/support discussions and communication by 12 November.",
+        "scope": "Primary-source statement and its express limits."
+      }
+    ],
+    "reviewedAt": "2026-11-14",
+    "reviewDueAt": "2026-11-21",
+    "reviewMethod": "Original official publication reviewed for the stated transition facts; prices, travel rules and unrelated claims retain their own dates.",
+    "observedAt": "2026-11-14",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [
+      "This statement does not publish a final phase-out agreement or application cutoff, or confirm a later reply. A stated communication date does not itself close intake."
+    ]
   }
 ]

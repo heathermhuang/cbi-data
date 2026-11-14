@@ -1,0 +1,28 @@
+{
+  "id": "eg-faq",
+  "publisher": "Egyptian Cabinet citizenship unit",
+  "title": "Frequently asked questions",
+  "url": "https://www.ecu.gov.eg/ECI/FQA/List.aspx",
+  "authorityType": "Government guidance",
+  "documentDate": null,
+  "rights": {
+    "disposition": "link_only",
+    "use": "CBI original factual normalization and references only; no upstream pages, PDFs, images or excerpts redistributed",
+    "basis": "Original compilation; no upstream republication licence asserted"
+  },
+  "retrieval": {
+    "retrievedAt": null,
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "method": "not_extracted",
+    "health": "unavailable",
+    "hash": null
+  },
+  "manualReview": {
+    "intervalDays": 14,
+    "rationale": "Review exact claim and source applicability; retrieval success alone cannot refresh claims."
+  },
+  "reviewObservation": {
+    "date": "2026-10-12",
+    "method": "Legacy endpoint unavailable in this audit; no timing/complete-fee claim depends on it."
+  }
+}

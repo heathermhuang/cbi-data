@@ -61,7 +61,7 @@
     "routes": "cbi-atg-routes",
     "legalOutcome": "cbi-atg-legal-outcome",
     "intake": "cbi-atg-intake-observation",
-    "editorialUpdate": "cbi-atg-editorial-update",
+    "editorialUpdate": "cbi-atg-editorial-transition",
     "obligations": "cbi-atg-obligations"
   },
   "requiredFields": {

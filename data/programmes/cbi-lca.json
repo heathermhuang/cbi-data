@@ -61,7 +61,7 @@
     "routes": "cbi-lca-routes",
     "legalOutcome": "cbi-lca-legal-outcome",
     "intake": "cbi-lca-intake-observation",
-    "editorialUpdate": "cbi-lca-editorial-update",
+    "editorialUpdate": "cbi-lca-editorial-transition",
     "obligations": "cbi-lca-obligations",
     "financialResources": "cbi-lca-financial-resources"
   },

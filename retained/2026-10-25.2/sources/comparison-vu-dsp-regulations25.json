@@ -1,0 +1,28 @@
+{
+  "id": "comparison-vu-dsp-regulations25",
+  "publisher": "Vanuatu Government",
+  "title": "DSP Regulations Order 33 of 2019, original six-page instrument",
+  "url": "https://vancitizenship.gov.vu/images/Order_No_33_of_2019_-_New_DSP_Regulations.pdf",
+  "authorityType": "Official regulation",
+  "documentDate": "2019-04-24",
+  "rights": {
+    "disposition": "link_only",
+    "use": "Original CBI normalized facts and pointers only. No upstream documents, images, or excerpts distributed.",
+    "basis": "CBI original compilation; upstream rights retained"
+  },
+  "retrieval": {
+    "retrievedAt": "2026-10-25T08:26:36.066Z",
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "method": "manual_pdf_review_required",
+    "health": "available",
+    "hash": "015318dbd3f65ec26f832c069cdc7a32d09e09c26da4258f5f5d623985e2a4b4"
+  },
+  "manualReview": {
+    "intervalDays": 14,
+    "rationale": "Evidence interpretation requires editorial review; a successful fetch is not verification."
+  },
+  "reviewObservation": {
+    "date": "2026-10-25",
+    "method": "Dated claim review"
+  }
+}

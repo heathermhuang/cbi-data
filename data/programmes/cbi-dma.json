@@ -53,7 +53,8 @@
     "routes": "cbi-dma-routes",
     "legalOutcome": "cbi-dma-legal-outcome",
     "intake": "cbi-dma-intake-observation",
-    "processStages": "cbi-dma-process-stages"
+    "processStages": "cbi-dma-process-stages",
+    "editorialUpdate": "cbi-dma-editorial-transition"
   },
   "requiredFields": {
     "legal_outcome": {
