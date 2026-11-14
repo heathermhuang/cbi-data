@@ -1,0 +1,18 @@
+[
+  {
+    "id": "cbi-lca-retain-processing-summary",
+    "programmeId": "cbi-lca",
+    "from": "2026-11-14.1",
+    "to": "2026-11-14.2",
+    "classification": "research_correction",
+    "observedAt": "2026-11-14",
+    "effectiveAt": null,
+    "beforeRevisionIds": [
+      "cbi-lca-editorial-transition-28a8ea0408ad3dfe"
+    ],
+    "afterRevisionIds": [
+      "cbi-lca-editorial-transition-dc914fb1303eafb2"
+    ],
+    "note": "Retains the inherited dated Saint Lucia processing-stage summary alongside the new transition context; no new timing estimate or legal change."
+  }
+]
