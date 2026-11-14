@@ -121,10 +121,10 @@
   },
   {
     "id": "cbi-grd-caveat",
-    "revisionId": "cbi-grd-caveat-6dca695b5fd31dab",
+    "revisionId": "cbi-grd-caveat-9acb40cda462ff9b",
     "subject": "cbi-grd",
     "predicate": "caveat",
-    "value": "Residence change is based on specialist reporting of an IMA circular; obtain the circular for current obligations.",
+    "value": "Official fiscal review identifies EU phase-out pressure and revenue risk. Residence change is based on specialist reporting of an IMA circular; obtain the circular for current obligations.",
     "verification": "partial",
     "valueStatus": "known",
     "conditions": [],
@@ -133,12 +133,17 @@
         "sourceId": "gd",
         "locator": "NTF US$235,000; approved-project investment options; fees, interview and personal requirements.",
         "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "transition-gd-fiscal-review",
+        "locator": "Printed pages 54–55 (PDF pages 54–55), section 12.1.2: EU phase-out pressure, due diligence, ECCIRA and diversification.",
+        "scope": "Dated announced government position only; not a final closure instrument or travel guarantee."
       }
     ],
-    "reviewedAt": "2026-10-13",
-    "reviewDueAt": "2026-10-27",
-    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
-    "observedAt": "2026-10-13",
+    "reviewedAt": "2026-11-14",
+    "reviewDueAt": "2026-11-21",
+    "reviewMethod": "Original official publication reviewed for the stated transition facts; prices, travel rules and unrelated claims retain their own dates.",
+    "observedAt": "2026-11-14",
     "effectiveFrom": null,
     "effectiveUntil": null,
     "limitations": []
@@ -241,24 +246,24 @@
   },
   {
     "id": "cbi-grd-keyNote",
-    "revisionId": "cbi-grd-keyNote-1024010e844c01bb",
+    "revisionId": "cbi-grd-keyNote-dd95d72b5feefc2b",
     "subject": "cbi-grd",
     "predicate": "keyNote",
-    "value": "Residence circular needs confirmation for the applicant cohort.",
+    "value": "Official fiscal review identifies EU phase-out pressure and revenue risk.",
     "verification": "partial",
     "valueStatus": "known",
     "conditions": [],
     "evidence": [
       {
-        "sourceId": "gd",
-        "locator": "NTF US$235,000; approved-project investment options; fees, interview and personal requirements.",
-        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        "sourceId": "transition-gd-fiscal-review",
+        "locator": "Printed pages 54–55 (PDF pages 54–55), section 12.1.2: EU phase-out pressure, due diligence, ECCIRA and diversification.",
+        "scope": "Dated announced government position only; not a final closure instrument or travel guarantee."
       }
     ],
-    "reviewedAt": "2026-10-13",
-    "reviewDueAt": "2026-10-27",
-    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
-    "observedAt": "2026-10-13",
+    "reviewedAt": "2026-11-14",
+    "reviewDueAt": "2026-11-21",
+    "reviewMethod": "Original official publication reviewed for the stated transition facts; prices, travel rules and unrelated claims retain their own dates.",
+    "observedAt": "2026-11-14",
     "effectiveFrom": null,
     "effectiveUntil": null,
     "limitations": []
@@ -1045,5 +1050,46 @@
     "effectiveUntil": null,
     "limitations": [],
     "revisionId": "cbi-grd-scenario-item-34-dc11bc4173c7c959"
+  },
+  {
+    "id": "cbi-grd-editorial-transition",
+    "revisionId": "cbi-grd-editorial-transition-023472fbe08b05ac",
+    "subject": "cbi-grd",
+    "predicate": "editorial_update",
+    "value": {
+      "checked": "2026-11-14",
+      "items": [
+        {
+          "label": "Government transition position",
+          "text": "Grenada’s 2026 Mid-Year Economic Review identifies the EU’s efforts to encourage CBI phase-outs as a risk to programme competitiveness and government revenue. It describes stronger due diligence, regulatory oversight through ECCIRA and economic diversification as responses. This fiscal report supplies no final closure date or application cutoff. It does not verify a later political statement, an agreed EU exemption or continued future Schengen access.",
+          "source": "transition-gd-fiscal-review",
+          "checked": "2026-11-14"
+        }
+      ],
+      "guides": [
+        "caribbean-citizenship-eu-transition"
+      ]
+    },
+    "verification": "confirmed",
+    "valueStatus": "known",
+    "conditions": [
+      "Scope is the stated dated announcement, not operative legal closure."
+    ],
+    "evidence": [
+      {
+        "sourceId": "transition-gd-fiscal-review",
+        "locator": "Printed pages 54–55 (PDF pages 54–55), section 12.1.2: EU phase-out pressure, due diligence, ECCIRA and diversification.",
+        "scope": "Primary-source statement and its express limits."
+      }
+    ],
+    "reviewedAt": "2026-11-14",
+    "reviewDueAt": "2026-11-21",
+    "reviewMethod": "Original official publication reviewed for the stated transition facts; prices, travel rules and unrelated claims retain their own dates.",
+    "observedAt": "2026-11-14",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [
+      "This fiscal report supplies no final closure date or application cutoff. It does not verify a later political statement, an agreed EU exemption or continued future Schengen access."
+    ]
   }
 ]

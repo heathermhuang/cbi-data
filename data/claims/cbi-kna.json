@@ -221,10 +221,10 @@
   },
   {
     "id": "cbi-kna-caveat",
-    "revisionId": "cbi-kna-caveat-454dc8a713326e1e",
+    "revisionId": "cbi-kna-caveat-b479441943be0c63",
     "subject": "cbi-kna",
     "predicate": "caveat",
-    "value": "SISC contribution remains published at USD 250,000 for a principal or family up to four. Mandatory biometrics apply to new applications from 14 April 2026. Residency-reform announcements do not establish a universal current stay-day rule.",
+    "value": "Wind-down announced; applications continue until an agreed deadline. SISC contribution remains published at USD 250,000 for a principal or family up to four. Mandatory biometrics apply to new applications from 14 April 2026. Residency-reform announcements do not establish a universal current stay-day rule.",
     "verification": "partial",
     "valueStatus": "known",
     "conditions": [],
@@ -258,12 +258,17 @@
         "sourceId": "skn-reform",
         "locator": "Residency reform announced; this announcement does not provide implemented stay-day/cohort rules.",
         "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "transition-skn-address",
+        "locator": "18:55–21:08: wind-down decision, negotiated timeline, existing lawful citizens and final application date.",
+        "scope": "Dated announced government position only; not a final closure instrument or travel guarantee."
       }
     ],
-    "reviewedAt": "2026-10-13",
-    "reviewDueAt": "2026-10-27",
-    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
-    "observedAt": "2026-10-13",
+    "reviewedAt": "2026-11-14",
+    "reviewDueAt": "2026-11-21",
+    "reviewMethod": "Original speaker’s statement on the government/national-broadcaster channel reviewed via timestamped automatic transcript; transcription names normalized. Original official publication reviewed for the stated transition facts; prices, travel rules and unrelated claims retain their own dates.",
+    "observedAt": "2026-11-14",
     "effectiveFrom": null,
     "effectiveUntil": null,
     "limitations": []
@@ -466,49 +471,24 @@
   },
   {
     "id": "cbi-kna-keyNote",
-    "revisionId": "cbi-kna-keyNote-af3d04f51982095a",
+    "revisionId": "cbi-kna-keyNote-e8c6599245bb2c14",
     "subject": "cbi-kna",
     "predicate": "keyNote",
-    "value": "2026 biometric/passport fees apply; enrolment discount is conditional.",
+    "value": "Wind-down announced; applications continue until an agreed deadline.",
     "verification": "partial",
     "valueStatus": "known",
     "conditions": [],
     "evidence": [
       {
-        "sourceId": "skn",
-        "locator": "US$250,000 main applicant or family of four; interview and due diligence.",
-        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
-      },
-      {
-        "sourceId": "skn-presence",
-        "locator": "Current page says no mandatory residence to maintain citizenship.",
-        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
-      },
-      {
-        "sourceId": "skn-transition",
-        "locator": "2026 transition and genuine-link framework; physical presence discussed.",
-        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
-      },
-      {
-        "sourceId": "skn-fees",
-        "locator": "Regulation25: USD250 processing per applicant. Contribution-route fees differ from property and public-benefit fees.",
-        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
-      },
-      {
-        "sourceId": "skn-biometric",
-        "locator": "Mandatory for new applications from14April2026. Standard fees: principal2500, second adult2000, under16 child1300; conditional10% enrolment-window discount ends31December2026.",
-        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
-      },
-      {
-        "sourceId": "skn-reform",
-        "locator": "Residency reform announced; this announcement does not provide implemented stay-day/cohort rules.",
-        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        "sourceId": "transition-skn-address",
+        "locator": "18:55–21:08: wind-down decision, negotiated timeline, existing lawful citizens and final application date.",
+        "scope": "Dated announced government position only; not a final closure instrument or travel guarantee."
       }
     ],
-    "reviewedAt": "2026-10-13",
-    "reviewDueAt": "2026-10-27",
-    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
-    "observedAt": "2026-10-13",
+    "reviewedAt": "2026-11-14",
+    "reviewDueAt": "2026-11-21",
+    "reviewMethod": "Original speaker’s statement on the government/national-broadcaster channel reviewed via timestamped automatic transcript; transcription names normalized. Original official publication reviewed for the stated transition facts; prices, travel rules and unrelated claims retain their own dates.",
+    "observedAt": "2026-11-14",
     "effectiveFrom": null,
     "effectiveUntil": null,
     "limitations": []
@@ -848,18 +828,20 @@
   },
   {
     "id": "cbi-kna-intake-observation",
-    "revisionId": "cbi-kna-intake-observation-3b11a2036403a89b",
+    "revisionId": "cbi-kna-intake-observation-72b1d063c81e17b2",
     "subject": "cbi-kna",
     "predicate": "intake_observation",
     "value": {
       "legal": "published_citizenship_route",
-      "intake": "published_application_route",
+      "intake": "published_with_limits",
       "decision": "government_assessment_required",
       "passportIssuance": "separate_stage_not_guaranteed"
     },
     "verification": "partial",
     "valueStatus": "known",
-    "conditions": [],
+    "conditions": [
+      "Applications continue pending an agreed final receipt date; wind-down announced on 13 November 2026."
+    ],
     "evidence": [
       {
         "sourceId": "skn",
@@ -890,17 +872,23 @@
         "sourceId": "skn-reform",
         "locator": "Residency reform announced; this announcement does not provide implemented stay-day/cohort rules.",
         "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "transition-skn-address",
+        "locator": "18:55–21:08: wind-down decision, negotiated timeline, existing lawful citizens and final application date.",
+        "scope": "Dated announced government position only; not a final closure instrument or travel guarantee."
       }
     ],
-    "reviewedAt": "2026-10-13",
-    "reviewDueAt": "2026-10-20",
-    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
-    "observedAt": "2026-10-13",
+    "reviewedAt": "2026-11-14",
+    "reviewDueAt": "2026-11-21",
+    "reviewMethod": "Original speaker’s statement on the government/national-broadcaster channel reviewed via timestamped automatic transcript; transcription names normalized. Original official publication reviewed for the stated transition facts; prices, travel rules and unrelated claims retain their own dates.",
+    "observedAt": "2026-11-14",
     "effectiveFrom": null,
     "effectiveUntil": null,
     "limitations": [
       "SISC contribution remains published at USD 250,000 for a principal or family up to four. Mandatory biometrics apply to new applications from 14 April 2026. Residency-reform announcements do not establish a universal current stay-day rule.",
-      "Publication of a route is not a successful live application or completed issuance observation."
+      "Publication of a route is not a successful live application or completed issuance observation.",
+      "The reviewed address gives no final application cutoff. A wind-down announcement is not an immediate closure, a guarantee of approval or a guarantee of future destination entry rules."
     ]
   },
   {
@@ -1497,5 +1485,46 @@
     "effectiveUntil": null,
     "limitations": [],
     "revisionId": "cbi-kna-scenario-item-34-d7a82a3a88d08046"
+  },
+  {
+    "id": "cbi-kna-editorial-transition",
+    "revisionId": "cbi-kna-editorial-transition-c64ab86cb81c4307",
+    "subject": "cbi-kna",
+    "predicate": "editorial_update",
+    "value": {
+      "checked": "2026-11-14",
+      "items": [
+        {
+          "label": "Government transition position",
+          "text": "In his 13 November 2026 national address, Prime Minister Terrance Drew announced that St Kitts and Nevis will wind down its CBI programme on a timeline being negotiated with the European Union. He said applications would continue under strict standards until a final receipt date is agreed and announced. He said nothing changed that evening for people lawfully holding citizenship and ruled out a rush, discounts or a fire sale. The reviewed address gives no final application cutoff. A wind-down announcement is not an immediate closure, a guarantee of approval or a guarantee of future destination entry rules.",
+          "source": "transition-skn-address",
+          "checked": "2026-11-14"
+        }
+      ],
+      "guides": [
+        "caribbean-citizenship-eu-transition"
+      ]
+    },
+    "verification": "confirmed",
+    "valueStatus": "known",
+    "conditions": [
+      "Scope is the stated dated announcement, not operative legal closure."
+    ],
+    "evidence": [
+      {
+        "sourceId": "transition-skn-address",
+        "locator": "18:55–21:08: wind-down decision, negotiated timeline, existing lawful citizens and final application date.",
+        "scope": "Primary-source statement and its express limits."
+      }
+    ],
+    "reviewedAt": "2026-11-14",
+    "reviewDueAt": "2026-11-21",
+    "reviewMethod": "Original speaker’s statement on the government/national-broadcaster channel reviewed via timestamped automatic transcript; transcription names normalized. Original official publication reviewed for the stated transition facts; prices, travel rules and unrelated claims retain their own dates.",
+    "observedAt": "2026-11-14",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [
+      "The reviewed address gives no final application cutoff. A wind-down announcement is not an immediate closure, a guarantee of approval or a guarantee of future destination entry rules."
+    ]
   }
 ]

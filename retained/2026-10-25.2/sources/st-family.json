@@ -1,0 +1,28 @@
+{
+  "id": "st-family",
+  "publisher": "Honorary Consulate of São Tomé and Príncipe, Berlin/Potsdam",
+  "title": "September 2026 naturalisation changes",
+  "url": "https://saotomeprincipe.de/2026/09/21/einbuergerung-sao-tome-e-principe-aktuelles/",
+  "authorityType": "Official consular notice",
+  "documentDate": "2026-09-21",
+  "rights": {
+    "disposition": "link_only",
+    "use": "CBI original factual normalization and references only; no upstream pages, PDFs, images or excerpts redistributed",
+    "basis": "Original compilation; no upstream republication licence asserted"
+  },
+  "retrieval": {
+    "retrievedAt": "2026-10-25T08:26:36.066Z",
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "method": "retrieval_hash_only",
+    "health": "available",
+    "hash": "e08626b783c99afc11a1b31de58480c95753038974db957bf7efbd4168cbeb30"
+  },
+  "manualReview": {
+    "intervalDays": 14,
+    "rationale": "Review exact claim and source applicability; retrieval success alone cannot refresh claims."
+  },
+  "reviewObservation": {
+    "date": "2026-10-13",
+    "method": "Rechecked relevant published claims; source-specific limits and conflicting terms remain explicit."
+  }
+}

@@ -6,18 +6,20 @@ It includes **44 ordinary-passport policy lookup slots** for the UK, US, Canada
 and Schengen short stays. These are qualified slots, not 44 unconditional waivers.
 Every required programme field has evidence or an explicit incomplete state.
 
-This first release retains dated editorial reviews with partial verification;
+The compilation retains dated editorial reviews with partial verification;
 it does not claim a newly completed legal audit. Conflicting Saint Lucia prices,
 São Tomé adult-dependant issuance limits, US issuance exceptions and conditional
 Canadian air eTA access remain explicit. Costs return exact known subtotals by
 currency and a null comprehensive total. Eligibility and admission are separate.
+
+The latest release adds [Caribbean transition announcements](docs/caribbean-transition-2026-11-14.md): St Kitts remains open with limits during its negotiated wind-down; other country positions retain their stated scope.
 
 ## Reproduce a pinned release
 
 Requires Node 24 LTS. No maintainer account, private repository or API key needed.
 
 ```sh
-git clone --branch data-2026-10-25.2 https://github.com/heathermhuang/cbi-data.git
+git clone --branch data-2026-11-14.1 https://github.com/heathermhuang/cbi-data.git
 cd cbi-data
 npm ci --ignore-scripts
 npm run check

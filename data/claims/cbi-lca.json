@@ -176,10 +176,10 @@
   },
   {
     "id": "cbi-lca-caveat",
-    "revisionId": "cbi-lca-caveat-547bb9be2cd24c62",
+    "revisionId": "cbi-lca-caveat-7b217bce708ac16b",
     "subject": "cbi-lca",
     "predicate": "caveat",
-    "value": "A sworn declaration of at least US$350,000 in financial resources is an eligibility requirement, separate from the US$240,000 NEF contribution and government fees. Apply the amended dependant and prior-visa-refusal rules. Built-property legislation does not by itself establish available projects. The investment page and older FAQ retain incompatible NEF and diligence figures; no unqualified subtotal is selected.",
+    "value": "EU response sent; its contents were withheld at the briefing. A sworn declaration of at least US$350,000 in financial resources is an eligibility requirement, separate from the US$240,000 NEF contribution and government fees. Apply the amended dependant and prior-visa-refusal rules. Built-property legislation does not by itself establish available projects. The investment page and older FAQ retain incompatible NEF and diligence figures; no unqualified subtotal is selected.",
     "verification": "partial",
     "valueStatus": "known",
     "conditions": [],
@@ -203,12 +203,17 @@
         "sourceId": "lc",
         "locator": "NEF US$240,000 up to four; bonds US$300,000 plus US$50,000 administration; other options.",
         "scope": "Updated exact duty/resource/option scope; no individual eligibility or operational project availability inferred."
+      },
+      {
+        "sourceId": "transition-lc-briefing",
+        "locator": "1:27:19–1:33:07: response deadline extension, letter sent, contents withheld and continuing dialogue.",
+        "scope": "Dated announced government position only; not a final closure instrument or travel guarantee."
       }
     ],
-    "reviewedAt": "2026-10-25",
-    "reviewDueAt": "2026-11-24",
-    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
-    "observedAt": "2026-10-13",
+    "reviewedAt": "2026-11-14",
+    "reviewDueAt": "2026-11-21",
+    "reviewMethod": "Original speaker’s statement on the government/national-broadcaster channel reviewed via timestamped automatic transcript; transcription names normalized. Original official publication reviewed for the stated transition facts; prices, travel rules and unrelated claims retain their own dates.",
+    "observedAt": "2026-11-14",
     "effectiveFrom": null,
     "effectiveUntil": null,
     "limitations": []
@@ -361,39 +366,24 @@
   },
   {
     "id": "cbi-lca-keyNote",
-    "revisionId": "cbi-lca-keyNote-3e96402383f3e6bc",
+    "revisionId": "cbi-lca-keyNote-481d69595f3147c1",
     "subject": "cbi-lca",
     "predicate": "keyNote",
-    "value": "US$350,000 resources declaration is separate from the US$240,000 NEF contribution. UK visit visa required since March 2026.",
+    "value": "EU response sent; its contents were withheld at the briefing.",
     "verification": "partial",
     "valueStatus": "known",
     "conditions": [],
     "evidence": [
       {
-        "sourceId": "lc-act-2025",
-        "locator": "Sections 3 and 7–10: dependant definitions, application documents, residency/genuine link from 1 January 2026, denial grounds and name changes. Read with the 2023 revised Act and current regulations.",
-        "scope": "Updated exact duty/resource/option scope; no individual eligibility or operational project availability inferred."
-      },
-      {
-        "sourceId": "lc-regulations-2026",
-        "locator": "Regulation 4: US$350,000 sworn resources declaration. Regulations 6–7: project approval cutoff and distinct built-property route, Gazette approval, payment evidence and post-grant duties. Regulations 9–12: escrow, biometrics, US$500,000 built-property minimum and US$30,000 applicant administration fee. No universal residency day count appears in this instrument.",
-        "scope": "Updated exact duty/resource/option scope; no individual eligibility or operational project availability inferred."
-      },
-      {
-        "sourceId": "lc-legislation-index",
-        "locator": "Index retrieved 25 October 2026; Act 22/2025 and S.I. 57/2026 are its latest listed amendments. An index is not proof that every operative instruction is online.",
-        "scope": "Updated exact duty/resource/option scope; no individual eligibility or operational project availability inferred."
-      },
-      {
-        "sourceId": "lc",
-        "locator": "NEF US$240,000 up to four; bonds US$300,000 plus US$50,000 administration; other options.",
-        "scope": "Updated exact duty/resource/option scope; no individual eligibility or operational project availability inferred."
+        "sourceId": "transition-lc-briefing",
+        "locator": "1:27:19–1:33:07: response deadline extension, letter sent, contents withheld and continuing dialogue.",
+        "scope": "Dated announced government position only; not a final closure instrument or travel guarantee."
       }
     ],
-    "reviewedAt": "2026-10-25",
-    "reviewDueAt": "2026-11-24",
-    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
-    "observedAt": "2026-10-13",
+    "reviewedAt": "2026-11-14",
+    "reviewDueAt": "2026-11-21",
+    "reviewMethod": "Original speaker’s statement on the government/national-broadcaster channel reviewed via timestamped automatic transcript; transcription names normalized. Original official publication reviewed for the stated transition facts; prices, travel rules and unrelated claims retain their own dates.",
+    "observedAt": "2026-11-14",
     "effectiveFrom": null,
     "effectiveUntil": null,
     "limitations": []
@@ -1600,5 +1590,67 @@
       "No personal eligibility, inventory, contractual refund, asset quality or resale outcome is established."
     ],
     "revisionId": "cbi-lca-built-property-couple_two_children_under12-government_charge-d06732c449a31b1c"
+  },
+  {
+    "id": "cbi-lca-editorial-transition",
+    "revisionId": "cbi-lca-editorial-transition-28a8ea0408ad3dfe",
+    "subject": "cbi-lca",
+    "predicate": "editorial_update",
+    "value": {
+      "checked": "2026-11-14",
+      "items": [
+        {
+          "label": "Government transition position",
+          "text": "At the government briefing dated 9 November 2026, Prime Minister Philip J. Pierre said Saint Lucia had written to the EU after the response deadline was extended to 12 November. He declined to disclose the letter until receipt was acknowledged and said dialogue was continuing. A diplomatic response deadline is not an application cutoff. This briefing does not reveal whether Saint Lucia offered a phase-out or establish a programme closure or visa suspension.",
+          "source": "transition-lc-briefing",
+          "checked": "2026-11-14"
+        },
+        {
+          "label": "Published processing guideline",
+          "text": "The CIU’s FAQ describes approximately 90 days from notification that an application is accepted for processing to grant of citizenship. It acknowledges possible delays. This is not measured current performance or a passport-delivery promise.",
+          "source": "update-lc-faq"
+        },
+        {
+          "label": "Official fiscal-year activity",
+          "text": "The 2024/25 annual report records 2,957 applications received and 2,633 processed: 2,278 grants and 355 denials. Decisions need not concern files received in the same period.",
+          "source": "update-lc-report"
+        }
+      ],
+      "guides": [
+        "caribbean-citizenship-eu-transition",
+        "official-programme-statistics-and-processing"
+      ]
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [
+      "Scope is the stated dated announcement, not operative legal closure."
+    ],
+    "evidence": [
+      {
+        "sourceId": "transition-lc-briefing",
+        "locator": "1:27:19–1:33:07: response deadline extension, letter sent, contents withheld and continuing dialogue.",
+        "scope": "Primary-source statement and its express limits."
+      },
+      {
+        "sourceId": "update-lc-faq",
+        "locator": "Licensed-agent submission and an approximately 90-day guideline from notification of acceptance for processing to citizenship grant; exceptional delays are acknowledged.",
+        "scope": "Stated dated CBI claim only; no general legal clearance"
+      },
+      {
+        "sourceId": "update-lc-report",
+        "locator": "FY2024/25 application activity: 2,957 received, 2,278 granted, 355 denied, 2,633 processed.",
+        "scope": "Stated dated CBI claim only; no general legal clearance"
+      }
+    ],
+    "reviewedAt": "2026-11-14",
+    "reviewDueAt": "2026-11-21",
+    "reviewMethod": "Original speaker’s statement on the government/national-broadcaster channel reviewed via timestamped automatic transcript; transcription names normalized. Original official publication reviewed for the stated transition facts; prices, travel rules and unrelated claims retain their own dates. New primary transition item reviewed on 14 November; inherited items keep their own dated scope and partial verification.",
+    "observedAt": "2026-11-14",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [
+      "A diplomatic response deadline is not an application cutoff. This briefing does not reveal whether Saint Lucia offered a phase-out or establish a programme closure or visa suspension."
+    ]
   }
 ]

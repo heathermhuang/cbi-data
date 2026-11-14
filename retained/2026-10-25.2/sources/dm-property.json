@@ -1,0 +1,28 @@
+{
+  "id": "dm-property",
+  "publisher": "Dominica CBIU",
+  "title": "Investment options",
+  "url": "https://www.cbiu.gov.dm/investment-options/real-estate/",
+  "authorityType": "Government guidance",
+  "documentDate": null,
+  "rights": {
+    "disposition": "link_only",
+    "use": "CBI original factual normalization and references only; no upstream pages, PDFs, images or excerpts redistributed",
+    "basis": "Original compilation; no upstream republication licence asserted"
+  },
+  "retrieval": {
+    "retrievedAt": "2026-10-25T08:26:36.066Z",
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "method": "retrieval_hash_only",
+    "health": "available",
+    "hash": "2789ddcc545daddee9c5ca8ba7631e3d9570cef03c32b7cd79eb480c00f8257c"
+  },
+  "manualReview": {
+    "intervalDays": 14,
+    "rationale": "Review exact claim and source applicability; retrieval success alone cannot refresh claims."
+  },
+  "reviewObservation": {
+    "date": "2026-10-13",
+    "method": "Official indexed text reviewed"
+  }
+}

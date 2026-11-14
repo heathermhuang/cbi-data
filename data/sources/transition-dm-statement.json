@@ -1,0 +1,28 @@
+{
+  "id": "transition-dm-statement",
+  "publisher": "Office of the Prime Minister, Commonwealth of Dominica",
+  "title": "Status of Dominica’s CBI programme and engagement with the EU",
+  "url": "https://pressroomopm.gov.dm/statement-status-of-dominicas-citizenship-by-investment-programme-and-engagement-with-the-european-union/",
+  "authorityType": "Official government statement",
+  "documentDate": "2026-10-28",
+  "rights": {
+    "disposition": "link_only",
+    "use": "Original factual paraphrases and source pointers only; no source documents or transcripts distributed.",
+    "basis": "Original compilation; linked publications retain their own rights"
+  },
+  "retrieval": {
+    "retrievedAt": "2026-11-14T11:40:00Z",
+    "lastAttempt": "2026-11-14T11:40:00Z",
+    "method": "original_document_review",
+    "health": "available",
+    "hash": "671eff28e3c1e2aff5c6cd261f4f208b611b4660dc50af570e2f136813b2f262"
+  },
+  "manualReview": {
+    "intervalDays": 7,
+    "rationale": "Transition positions can change quickly; an announcement does not establish operative closure or a destination rule."
+  },
+  "reviewObservation": {
+    "date": "2026-11-14",
+    "method": "Original official publication reviewed for the stated transition facts; prices, travel rules and unrelated claims retain their own dates."
+  }
+}

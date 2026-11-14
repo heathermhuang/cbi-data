@@ -45,7 +45,8 @@
     "routes": "cbi-kna-routes",
     "legalOutcome": "cbi-kna-legal-outcome",
     "intake": "cbi-kna-intake-observation",
-    "processStages": "cbi-kna-process-stages"
+    "processStages": "cbi-kna-process-stages",
+    "editorialUpdate": "cbi-kna-editorial-transition"
   },
   "requiredFields": {
     "legal_outcome": {

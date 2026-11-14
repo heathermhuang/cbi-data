@@ -53,7 +53,8 @@
     "routes": "cbi-grd-routes",
     "legalOutcome": "cbi-grd-legal-outcome",
     "intake": "cbi-grd-intake-observation",
-    "processStages": "cbi-grd-process-stages"
+    "processStages": "cbi-grd-process-stages",
+    "editorialUpdate": "cbi-grd-editorial-transition"
   },
   "requiredFields": {
     "legal_outcome": {

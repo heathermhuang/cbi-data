@@ -161,10 +161,10 @@
   },
   {
     "id": "cbi-atg-caveat",
-    "revisionId": "cbi-atg-caveat-69235fb5d0593ea7",
+    "revisionId": "cbi-atg-caveat-87271c8441112a73",
     "subject": "cbi-atg",
     "predicate": "caveat",
-    "value": "Five-day obligation can affect retention of citizenship. Due diligence and processing are additional.",
+    "value": "EU phase-out request; negotiations continue. Five-day obligation can affect retention of citizenship. Due diligence and processing are additional.",
     "verification": "partial",
     "valueStatus": "known",
     "conditions": [],
@@ -183,12 +183,17 @@
         "sourceId": "ag-ndf",
         "locator": "US$230,000 contribution; US$10,000 single processing; US$20,000 family processing.",
         "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      },
+      {
+        "sourceId": "transition-ag-address",
+        "locator": "PDF pages 4–5: EU June 2028 request, Schengen risk and continuing negotiations.",
+        "scope": "Dated announced government position only; not a final closure instrument or travel guarantee."
       }
     ],
-    "reviewedAt": "2026-10-13",
-    "reviewDueAt": "2026-10-27",
-    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
-    "observedAt": "2026-10-13",
+    "reviewedAt": "2026-11-14",
+    "reviewDueAt": "2026-11-21",
+    "reviewMethod": "Original official publication reviewed for the stated transition facts; prices, travel rules and unrelated claims retain their own dates.",
+    "observedAt": "2026-11-14",
     "effectiveFrom": null,
     "effectiveUntil": null,
     "limitations": []
@@ -331,34 +336,24 @@
   },
   {
     "id": "cbi-atg-keyNote",
-    "revisionId": "cbi-atg-keyNote-a8ab5ebf17ae9896",
+    "revisionId": "cbi-atg-keyNote-b2bbb0c62554bce3",
     "subject": "cbi-atg",
     "predicate": "keyNote",
-    "value": "Five-day visit obligation after citizenship.",
+    "value": "EU phase-out request; negotiations continue.",
     "verification": "partial",
     "valueStatus": "known",
     "conditions": [],
     "evidence": [
       {
-        "sourceId": "ag",
-        "locator": "US$230,000 NDF; US$300,000 property; five days in first five years; family and screening.",
-        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
-      },
-      {
-        "sourceId": "ag-fees",
-        "locator": "NDF contribution, processing, due diligence and passport fees for principal and dependants.",
-        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
-      },
-      {
-        "sourceId": "ag-ndf",
-        "locator": "US$230,000 contribution; US$10,000 single processing; US$20,000 family processing.",
-        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        "sourceId": "transition-ag-address",
+        "locator": "PDF pages 4–5: EU June 2028 request, Schengen risk and continuing negotiations.",
+        "scope": "Dated announced government position only; not a final closure instrument or travel guarantee."
       }
     ],
-    "reviewedAt": "2026-10-13",
-    "reviewDueAt": "2026-10-27",
-    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
-    "observedAt": "2026-10-13",
+    "reviewedAt": "2026-11-14",
+    "reviewDueAt": "2026-11-21",
+    "reviewMethod": "Original official publication reviewed for the stated transition facts; prices, travel rules and unrelated claims retain their own dates.",
+    "observedAt": "2026-11-14",
     "effectiveFrom": null,
     "effectiveUntil": null,
     "limitations": []
@@ -1271,5 +1266,69 @@
       "Partial research; unresolved operational applicability, appointments, charges and document duties remain explicit."
     ],
     "revisionId": "cbi-atg-obligations-ca986e8902c0462a"
+  },
+  {
+    "id": "cbi-atg-editorial-transition",
+    "revisionId": "cbi-atg-editorial-transition-5fa6bda879a6d8a5",
+    "subject": "cbi-atg",
+    "predicate": "editorial_update",
+    "value": {
+      "checked": "2026-11-14",
+      "items": [
+        {
+          "label": "Government transition position",
+          "text": "In the Independence address dated 1 November 2026, Prime Minister Gaston Browne states that the EU formally requested phase-out of Antigua and Barbuda’s CBI programme by June 2028, putting Schengen visa-free access at risk. The address says the government is negotiating and seeking mutually acceptable solutions. The address is not a final closure agreement, an application cutoff or an actual visa suspension. It does not establish acceptance of a different transition date.",
+          "source": "transition-ag-address",
+          "checked": "2026-11-14"
+        },
+        {
+          "label": "Property and exit conditions",
+          "text": "The CIU describes approved property from $300,000 and a five-year resale restriction, subject to its alternative-approved-property exception. It warns that the property transaction can lengthen processing. Approval for CBI does not establish the asset’s market value or resale liquidity.",
+          "source": "update-ag-property",
+          "checked": "2026-10-22"
+        },
+        {
+          "label": "EU phase-out request",
+          "text": "The government’s 7 July statement reports a Commission request to phase out the programme by 1 June 2028, while saying the programme will continue. This verifies the reported request; it is not an enacted closure or proof that visa-free travel has already been suspended.",
+          "source": "follow-ag-eu-request"
+        }
+      ],
+      "guides": [
+        "caribbean-citizenship-eu-transition",
+        "cbi-real-estate-due-diligence",
+        "citizenship-and-travel-policy-risk"
+      ]
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [
+      "Scope is the stated dated announcement, not operative legal closure."
+    ],
+    "evidence": [
+      {
+        "sourceId": "transition-ag-address",
+        "locator": "PDF pages 4–5: EU June 2028 request, Schengen risk and continuing negotiations.",
+        "scope": "Primary-source statement and its express limits."
+      },
+      {
+        "sourceId": "update-ag-property",
+        "locator": "Minimum $300,000 approved real estate, holding/resale conditions and property-related processing delays; programme eligibility is not investment-quality assurance.",
+        "scope": "Stated dated CBI claim only; no general legal clearance"
+      },
+      {
+        "sourceId": "follow-ag-eu-request",
+        "locator": "Government reports a 25 June Commission letter requesting phase-out by 1 June 2028 and a 24-month transition; government says its programme will continue.",
+        "scope": "Stated dated CBI claim only; no general legal clearance"
+      }
+    ],
+    "reviewedAt": "2026-11-14",
+    "reviewDueAt": "2026-11-21",
+    "reviewMethod": "Original official publication reviewed for the stated transition facts; prices, travel rules and unrelated claims retain their own dates. New primary transition item reviewed on 14 November; inherited items keep their own dated scope and partial verification.",
+    "observedAt": "2026-11-14",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [
+      "The address is not a final closure agreement, an application cutoff or an actual visa suspension. It does not establish acceptance of a different transition date."
+    ]
   }
 ]

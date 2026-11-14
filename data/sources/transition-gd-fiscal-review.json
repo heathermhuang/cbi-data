@@ -1,0 +1,28 @@
+{
+  "id": "transition-gd-fiscal-review",
+  "publisher": "Grenada Ministry of Finance",
+  "title": "2026 Mid-Year Economic Review: CBI revenue risks, section 12.1.2",
+  "url": "https://www.finance.gd/docs/2026/Mid_Year_Review_Report_2026.pdf",
+  "authorityType": "Official fiscal report",
+  "documentDate": "2026",
+  "rights": {
+    "disposition": "link_only",
+    "use": "Original factual paraphrases and source pointers only; no source documents or transcripts distributed.",
+    "basis": "Original compilation; linked publications retain their own rights"
+  },
+  "retrieval": {
+    "retrievedAt": "2026-11-14T11:40:00Z",
+    "lastAttempt": "2026-11-14T11:40:00Z",
+    "method": "original_document_review",
+    "health": "available",
+    "hash": "e10e4fed103c0193bd3ea848de0859c248f40a6cb9e60287c6cc94b9a9a706b5"
+  },
+  "manualReview": {
+    "intervalDays": 7,
+    "rationale": "Transition positions can change quickly; an announcement does not establish operative closure or a destination rule."
+  },
+  "reviewObservation": {
+    "date": "2026-11-14",
+    "method": "Original official publication reviewed for the stated transition facts; prices, travel rules and unrelated claims retain their own dates."
+  }
+}

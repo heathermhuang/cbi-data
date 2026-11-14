@@ -1,6 +1,6 @@
 # Releases and integrity
 
-API v1, schema 0.1.0, software 0.1.1, dataset 2026-10-25.2 are independently
+API v1, schema 0.1.0, software 0.1.1, dataset 2026-11-14.1 are independently
 versioned. A correction requires a new immutable dataset ID and GitHub tag.
 The manifest records the public canonical source commit, normalized-input hash,
 fixed generation time, build-tool/package versions, coverage and file SHA-256s.
@@ -13,7 +13,7 @@ Git tree, package tarball and dataset/source archives. A public release contains
 JSON shards, CSV, schemas, code/CLI, lockfile and reproducible instructions.
 No private source is required by public CI or examples.
 
-Both 2026-10-25.1 and 2026-10-25.2 are hosted. Retain all public archives; host the
+Releases 2026-11-14.1, 2026-10-25.2 and 2026-10-25.1 are hosted. Retain all public archives; host the
 current and previous three once available. Withdrawn releases remain identifiable
 in the index and return 410. Older downloadable data need not remain query-hosted.
 A factual correction normally publishes another release rather than overwriting
@@ -25,3 +25,5 @@ npm namespace availability is checked separately from ownership/publication acce
 This release uses GitHub artifacts; no npm registry release is asserted.
 
 A source archive has no Git metadata. Set CBI_SOURCE_COMMIT to the exact public commit recorded in the release manifest when rebuilding from that archive; a tagged Git checkout discovers its own commit. This changes provenance metadata only, never factual values or review dates.
+
+The November release adds [five scoped Caribbean government observations](caribbean-transition-2026-11-14.md), preserving unrelated review dates and all prior manifests.
