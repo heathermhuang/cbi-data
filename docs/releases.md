@@ -1,6 +1,6 @@
 # Releases and integrity
 
-API v1, schema 0.1.0, software 0.1.1, dataset 2026-11-14.1 are independently
+API v1, schema 0.1.0, software 0.1.1, dataset 2026-11-14.2 are independently
 versioned. A correction requires a new immutable dataset ID and GitHub tag.
 The manifest records the public canonical source commit, normalized-input hash,
 fixed generation time, build-tool/package versions, coverage and file SHA-256s.
@@ -27,3 +27,5 @@ This release uses GitHub artifacts; no npm registry release is asserted.
 A source archive has no Git metadata. Set CBI_SOURCE_COMMIT to the exact public commit recorded in the release manifest when rebuilding from that archive; a tagged Git checkout discovers its own commit. This changes provenance metadata only, never factual values or review dates.
 
 The November release adds [five scoped Caribbean government observations](caribbean-transition-2026-11-14.md), preserving unrelated review dates and all prior manifests.
+
+Release 2026-11-14.2 preserves Saint Lucia’s inherited dated processing summary alongside its transition statement. The original 2026-11-14.1 release remains immutable and hosted.

@@ -19,7 +19,7 @@ The latest release adds [Caribbean transition announcements](docs/caribbean-tran
 Requires Node 24 LTS. No maintainer account, private repository or API key needed.
 
 ```sh
-git clone --branch data-2026-11-14.1 https://github.com/heathermhuang/cbi-data.git
+git clone --branch data-2026-11-14.2 https://github.com/heathermhuang/cbi-data.git
 cd cbi-data
 npm ci --ignore-scripts
 npm run check

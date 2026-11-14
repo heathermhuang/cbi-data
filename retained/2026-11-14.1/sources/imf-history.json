@@ -1,0 +1,28 @@
+{
+  "id": "imf-history",
+  "publisher": "International Monetary Fund",
+  "title": "Drivers and Effects of Residence and Citizenship by Investment, WP 25/8, Table A 1",
+  "url": "https://www.imf.org/-/media/files/publications/wp/2025/english/wpiea2025008-print-pdf.pdf",
+  "authorityType": "Institutional historical inventory",
+  "documentDate": "2025-01",
+  "rights": {
+    "disposition": "link_only",
+    "use": "CBI original factual normalization and references only; no upstream pages, PDFs, images or excerpts redistributed",
+    "basis": "Original compilation; no upstream republication licence asserted"
+  },
+  "retrieval": {
+    "retrievedAt": "2026-10-25T08:26:36.066Z",
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "method": "manual_pdf_review_required",
+    "health": "available",
+    "hash": "6927b78db5000630a0b4f47bd3de75de3af177abb242b760ff4eabbd8c85196e"
+  },
+  "manualReview": {
+    "intervalDays": 14,
+    "rationale": "Review exact claim and source applicability; retrieval success alone cannot refresh claims."
+  },
+  "reviewObservation": {
+    "date": "2026-10-13",
+    "method": "Rechecked relevant published claims; source-specific limits and conflicting terms remain explicit."
+  }
+}

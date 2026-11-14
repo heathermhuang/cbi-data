@@ -1593,7 +1593,7 @@
   },
   {
     "id": "cbi-lca-editorial-transition",
-    "revisionId": "cbi-lca-editorial-transition-28a8ea0408ad3dfe",
+    "revisionId": "cbi-lca-editorial-transition-dc914fb1303eafb2",
     "subject": "cbi-lca",
     "predicate": "editorial_update",
     "value": {
@@ -1619,7 +1619,8 @@
       "guides": [
         "caribbean-citizenship-eu-transition",
         "official-programme-statistics-and-processing"
-      ]
+      ],
+      "timingSummary": "Approx. 90 days from accepted processing (CIU guideline)"
     },
     "verification": "partial",
     "valueStatus": "known",
