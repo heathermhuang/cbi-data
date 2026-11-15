@@ -1,7 +1,8 @@
+import {measures,statisticsFor} from './statistics.mjs';
 export class QueryError extends Error {
  constructor(code,message,status=400){super(message);this.code=code;this.status=status;}
 }
-export const tools={list_programmes:'programmes',get_programme:'programme',compare_programmes:'compare',get_programme_costs:'costs',get_travel_rule:'travel',get_source:'source',get_changes:'changes',get_coverage:'coverage'};
+export const tools={list_programmes:'programmes',get_programme:'programme',compare_programmes:'compare',get_programme_costs:'costs',get_travel_rule:'travel',get_source:'source',get_changes:'changes',get_coverage:'coverage',get_programme_statistics:'statistics'};
 export const identifier=/^[A-Za-z0-9][A-Za-z0-9._-]{0,63}$/;
 const fail=(code,message,status)=>{throw new QueryError(code,message,status);};
 export function checkId(id){if(typeof id!=='string'||!identifier.test(id))fail('invalid_identifier','Use an identifier of 1–64 safe characters.');return id;}
@@ -38,9 +39,10 @@ function travelRule(d,input,time){
  if(claim.verification==='disputed'){outcome='conflicting_evidence';route='unresolved';}if(claim.expired||claim.notYetEffective){outcome='insufficient_evidence';route='unresolved';}
  return {...t,route,outcome,claim,requiredFacts,context:{transport:input.transport??'unknown',qualifyingVisa:input.qualifyingVisa??'unknown'},warnings:claim.limitations};
 }
-const allowed={programmes:['release','limit','cursor','kind','jurisdiction','stage','include'],programme:['id','release','include'],compare:['ids','scenario','release','include'],costs:['id','option','scenario','release','include'],travel:['passport','destination','documentType','purpose','transport','qualifyingVisa','release','include'],source:['id','release','include'],changes:['from','to','programme','limit','cursor','release','include'],coverage:['release'],releases:['release','limit','cursor'],release:['id','release']};
+const allowed={statistics:['id','measure','limit','cursor','release','include'],programmes:['release','limit','cursor','kind','jurisdiction','stage','include'],programme:['id','release','include'],compare:['ids','scenario','release','include'],costs:['id','option','scenario','release','include'],travel:['passport','destination','documentType','purpose','transport','qualifyingVisa','release','include'],source:['id','release','include'],changes:['from','to','programme','limit','cursor','release','include'],coverage:['release'],releases:['release','limit','cursor'],release:['id','release']};
 export function validateInput(op,input){if(!allowed[op])fail('unknown_operation','Unknown operation.',404);if(!input||typeof input!=='object'||Array.isArray(input))fail('invalid_input','Use an object.');for(const [k,v]of Object.entries(input)){if(!allowed[op].includes(k)||v===undefined||v===null)fail('unsupported_parameter','Unsupported parameter: '+k);if(k!=='ids'&&typeof v!=='string'&&k!=='limit')fail('invalid_parameter','Expected a string: '+k);if(typeof v==='string'&&v.length>8192)fail('request_too_large','Parameter too large.',413);}
  for(const key of ['id','option','from','to','programme','passport','destination','documentType','purpose','jurisdiction'])if(input[key]!==undefined)checkId(input[key]);
+ if(input.measure&&!Object.hasOwn(measures,input.measure))fail('unsupported_measure','Unknown programme activity measure.');
  if(input.include&&input.include!=='evidence')fail('unsupported_include','Only include=evidence is supported.');
  if(input.release)checkId(input.release);if(input.limit!==undefined&&(!/^\d+$/.test(String(input.limit))||Number(input.limit)<1||Number(input.limit)>50))fail('invalid_limit','Limit must be 1–50.');
 }
@@ -51,6 +53,7 @@ export function query(d,op,input={},evaluatedAt){
  if(input.release&&input.release!==d.scope.datasetRelease)fail('unknown_release','Release is not hosted.',404);
  let data;
  switch(op){
+ case 'statistics':{const group=statisticsFor(d.statistics,input.id);if(!group){data={outcome:'not_covered',subject:null,items:[],nextCursor:null,limitations:['No statistics subject is covered in this retained release; no zero or current count inferred.']};break;}const items=group.observations.filter(o=>!input.measure||o.measure===input.measure).map(o=>({...o,reviewStatus:time.slice(0,10)>=o.reviewDueAt?'overdue':'within_target'}));data={outcome:items.length?'dated_observations':'unknown',subject:group.subject,...page(items,input,op,d.scope.datasetRelease),limitations:group.limitations};break;}
  case 'programme':{const p=getProgramme(d,input.id);data={...p,claims:claimsFor(d,p,time)};break;}
  case 'programmes':{if(input.kind&&input.kind!=='citizenship')fail('unsupported_filter','Only citizenship is included.');if(input.stage&&!['published_application_route','published_with_limits'].includes(input.stage))fail('unsupported_filter','Unknown operating-stage filter.');if(input.jurisdiction)checkId(input.jurisdiction);let ps=d.programmes.filter(p=>(!input.jurisdiction||p.jurisdiction===input.jurisdiction)&&(!input.stage||d.claims.find(c=>c.id===p.fields.intake)?.value.intake===input.stage)).sort((a,b)=>a.id.localeCompare(b.id));data=page(ps.map(p=>summary(d,p,time)),input,op,d.scope.datasetRelease);break;}
  case 'compare':{const ids=Array.isArray(input.ids)?input.ids:String(input.ids??'').split(',');if(ids.length<2||ids.length>4||new Set(ids).size!==ids.length)fail('invalid_comparison','Choose 2–4 distinct programmes.');const ps=ids.map(id=>getProgramme(d,id));if(new Set(ps.map(p=>p.id)).size!==ps.length)fail('invalid_comparison','Programme aliases must resolve to distinct programmes.');data={programmes:ps.map(p=>summary(d,p,time)),...(input.scenario?{costs:ps.map(p=>calculateCosts(d,p.id,undefined,input.scenario,time))}:{})};break;}
@@ -63,6 +66,6 @@ export function query(d,op,input={},evaluatedAt){
  case 'release':if(input.id!==d.scope.datasetRelease)fail('unknown_release','Release is not hosted.',404);data=d.manifest;break;
  }
  const out={schemaVersion:d.scope.schemaVersion,datasetRelease:d.scope.datasetRelease,generatedAt:d.scope.generatedAt,evaluatedAt:time,coverage:d.index.coverage,warnings:['Expired or not-yet-effective claims are recorded evidence only and must not be used as current values.','Selected, dated and incomplete research; retain claim evidence, conditions and missing fields.','Release time is not legal commencement or a freshness guarantee.'],data};
- if(input.include==='evidence'){const text=JSON.stringify(data);out.evidence=d.sources.filter(s=>text.includes('"'+s.id+'"'));}
+ if(input.include==='evidence'){const text=JSON.stringify(data);out.evidence=(op==='statistics'?d.statistics?.sources??[]:d.sources).filter(s=>text.includes('"'+s.id+'"'));}
  if(JSON.stringify(out).length>131072)fail('response_too_large','Use a smaller page or individual programme shards.',413);return out;
 }

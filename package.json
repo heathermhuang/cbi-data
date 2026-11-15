@@ -1,6 +1,6 @@
 {
   "name": "@heathermhuang/cbi-data",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "type": "module",
   "description": "Evidence-qualified CBI research, deterministic queries and read-only MCP",
   "license": "MIT",

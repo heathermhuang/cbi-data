@@ -1,6 +1,6 @@
 # Releases and integrity
 
-API v1, schema 0.1.0, software 0.1.1, dataset 2026-11-14.2 are independently
+API v1, schema 0.1.0, software 0.2.0, dataset 2026-11-15.1 are independently
 versioned. A correction requires a new immutable dataset ID and GitHub tag.
 The manifest records the public canonical source commit, normalized-input hash,
 fixed generation time, build-tool/package versions, coverage and file SHA-256s.
@@ -14,7 +14,7 @@ JSON shards, CSV, schemas, code/CLI, lockfile and reproducible instructions.
 No private source is required by public CI or examples.
 
 Releases 2026-11-14.1, 2026-10-25.2 and 2026-10-25.1 are hosted. Retain all public archives; host the
-current and previous three once available. Withdrawn releases remain identifiable
+current and previous four once available. Withdrawn releases remain identifiable
 in the index and return 410. Older downloadable data need not remain query-hosted.
 A factual correction normally publishes another release rather than overwriting
 bytes. A software rollback restores code and default release together. Website
@@ -29,3 +29,5 @@ A source archive has no Git metadata. Set CBI_SOURCE_COMMIT to the exact public 
 The November release adds [five scoped Caribbean government observations](caribbean-transition-2026-11-14.md), preserving unrelated review dates and all prior manifests.
 
 Release 2026-11-14.2 preserves Saint Lucia’s inherited dated processing summary alongside its transition statement. The original 2026-11-14.1 release remains immutable and hosted.
+
+Release 2026-11-15.1 adds independent programme activity statistics and retains all four previously hosted releases, including their original bytes. See [programme activity](programme-activity.md).

@@ -1,0 +1,28 @@
+{
+  "id": "dm-timing",
+  "publisher": "Dominica CBI Unit",
+  "title": "Authorised-agent process: most complete applications take 3–6 months to approval",
+  "url": "https://www.cbiu.gov.dm/news/dominica-citizenship/the-only-way-to-apply-for-dominica-citizenship-by-investment-is-through-an-authorised-agent/",
+  "authorityType": "Government guidance",
+  "documentDate": null,
+  "rights": {
+    "disposition": "link_only",
+    "use": "CBI original factual normalization and references only; no upstream pages, PDFs, images or excerpts redistributed",
+    "basis": "Original compilation; no upstream republication licence asserted"
+  },
+  "retrieval": {
+    "retrievedAt": "2026-10-25T08:26:36.066Z",
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "method": "retrieval_hash_only",
+    "health": "available",
+    "hash": "169b36d0c422bb1f893a4964ff8172a0e9dacb16695f67e9c66d9ee9fa18efd2"
+  },
+  "manualReview": {
+    "intervalDays": 14,
+    "rationale": "Review exact claim and source applicability; retrieval success alone cannot refresh claims."
+  },
+  "reviewObservation": {
+    "date": "2026-10-13",
+    "method": "Primary source reviewed; conditions retained"
+  }
+}

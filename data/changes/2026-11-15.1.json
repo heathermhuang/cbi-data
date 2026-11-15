@@ -1,0 +1,485 @@
+[
+  {
+    "id": "statistics-cbi-tur",
+    "from": "2026-11-14.2",
+    "to": "2026-11-15.1",
+    "classification": "new_coverage",
+    "observedAt": "2026-11-15",
+    "effectiveAt": null,
+    "beforeRevisionIds": [],
+    "afterRevisionIds": [
+      "tur-reported-may2026-principals-6552b2d22ad18650",
+      "tur-reported-may2026-dependants-f22b708a02dc49ef",
+      "tur-revoked-irregular-transactions-096a3e7b32aaa391",
+      "tur-revoked-security-public-order-23f1120ceac241b7",
+      "turkey-may-reported-recipients-3123de9d8001d6a2",
+      "turkey-revocation-groups-32e86db06dc690de"
+    ],
+    "note": "Dated programme activity observations or explicit unknown coverage; no legal status change.",
+    "programmeId": "cbi-tur"
+  },
+  {
+    "id": "statistics-cbi-kna",
+    "from": "2026-11-14.2",
+    "to": "2026-11-15.1",
+    "classification": "new_coverage",
+    "observedAt": "2026-11-15",
+    "effectiveAt": null,
+    "beforeRevisionIds": [],
+    "afterRevisionIds": [
+      "cbi-kna-ec-0-ac299e8c39d7b972",
+      "cbi-kna-ec-1-b4667b22325f40e5",
+      "cbi-kna-ec-2-a32e9b377f272a1f",
+      "cbi-kna-covered-windows-25363330bd612f5a"
+    ],
+    "note": "Dated programme activity observations or explicit unknown coverage; no legal status change.",
+    "programmeId": "cbi-kna"
+  },
+  {
+    "id": "statistics-cbi-dma",
+    "from": "2026-11-14.2",
+    "to": "2026-11-15.1",
+    "classification": "new_coverage",
+    "observedAt": "2026-11-15",
+    "effectiveAt": null,
+    "beforeRevisionIds": [],
+    "afterRevisionIds": [
+      "cbi-dma-ec-0-6bcfdd4cb1716d73",
+      "cbi-dma-ec-1-24299e6a5c40b26c",
+      "cbi-dma-ec-2-16fa9e1367fca60e",
+      "cbi-dma-covered-windows-f8b66048456ce01a"
+    ],
+    "note": "Dated programme activity observations or explicit unknown coverage; no legal status change.",
+    "programmeId": "cbi-dma"
+  },
+  {
+    "id": "statistics-cbi-grd",
+    "from": "2026-11-14.2",
+    "to": "2026-11-15.1",
+    "classification": "new_coverage",
+    "observedAt": "2026-11-15",
+    "effectiveAt": null,
+    "beforeRevisionIds": [],
+    "afterRevisionIds": [
+      "cbi-grd-ec-0-489e0a1bb0f2857a",
+      "cbi-grd-ec-1-8689cfb8535058da",
+      "cbi-grd-ec-2-1410f01f82c79392",
+      "grd-grants-2024-f736b8c80a2f2241",
+      "grd-approvals-2024-3287822ba7a63592",
+      "grd-grants-2025-ea122b6295135dbf",
+      "grd-approvals-2025-29890978c49c1fc4",
+      "grd-grants-2026-Q1-abbe4b538c743705",
+      "grd-approvals-2026-Q1-be8d5526d5437863",
+      "cbi-grd-covered-windows-d1684c40caa97c15"
+    ],
+    "note": "Dated programme activity observations or explicit unknown coverage; no legal status change.",
+    "programmeId": "cbi-grd"
+  },
+  {
+    "id": "statistics-cbi-vut",
+    "from": "2026-11-14.2",
+    "to": "2026-11-15.1",
+    "classification": "new_coverage",
+    "observedAt": "2026-11-15",
+    "effectiveAt": null,
+    "beforeRevisionIds": [],
+    "afterRevisionIds": [
+      "vut-passports-2015-2021-184bac7d376571fe",
+      "vut-grants-2015-2021-d2366cb093161881"
+    ],
+    "note": "Dated programme activity observations or explicit unknown coverage; no legal status change.",
+    "programmeId": "cbi-vut"
+  },
+  {
+    "id": "statistics-cbi-atg",
+    "from": "2026-11-14.2",
+    "to": "2026-11-15.1",
+    "classification": "new_coverage",
+    "observedAt": "2026-11-15",
+    "effectiveAt": null,
+    "beforeRevisionIds": [],
+    "afterRevisionIds": [
+      "cbi-atg-ec-0-78e67d9c909d6c48",
+      "cbi-atg-ec-1-3e6ad0d1ff225746",
+      "cbi-atg-ec-2-b9b2a1e304d79305",
+      "cbi-atg-covered-windows-d3267c2f9faf9f69"
+    ],
+    "note": "Dated programme activity observations or explicit unknown coverage; no legal status change.",
+    "programmeId": "cbi-atg"
+  },
+  {
+    "id": "statistics-cbi-lca",
+    "from": "2026-11-14.2",
+    "to": "2026-11-15.1",
+    "classification": "new_coverage",
+    "observedAt": "2026-11-15",
+    "effectiveAt": null,
+    "beforeRevisionIds": [],
+    "afterRevisionIds": [
+      "lca-approvals-fy2024-25-d2e6c733471329dd"
+    ],
+    "note": "Dated programme activity observations or explicit unknown coverage; no legal status change.",
+    "programmeId": "cbi-lca"
+  },
+  {
+    "id": "statistics-cambodia-investment",
+    "from": "2026-11-14.2",
+    "to": "2026-11-15.1",
+    "classification": "new_coverage",
+    "observedAt": "2026-11-15",
+    "effectiveAt": null,
+    "beforeRevisionIds": [],
+    "afterRevisionIds": [],
+    "note": "Dated programme activity observations or explicit unknown coverage; no legal status change.",
+    "programmeId": "cambodia-investment"
+  },
+  {
+    "id": "statistics-austria-exceptional",
+    "from": "2026-11-14.2",
+    "to": "2026-11-15.1",
+    "classification": "new_coverage",
+    "observedAt": "2026-11-15",
+    "effectiveAt": null,
+    "beforeRevisionIds": [],
+    "afterRevisionIds": [
+      "austria-exceptional-2023-fc138e62c4da5092"
+    ],
+    "note": "Dated programme activity observations or explicit unknown coverage; no legal status change.",
+    "programmeId": "austria-exceptional"
+  },
+  {
+    "id": "statistics-jordan-investor-citizenship",
+    "from": "2026-11-14.2",
+    "to": "2026-11-15.1",
+    "classification": "new_coverage",
+    "observedAt": "2026-11-15",
+    "effectiveAt": null,
+    "beforeRevisionIds": [],
+    "afterRevisionIds": [
+      "jor-h1-2026-principals-4fddae531faac038",
+      "jor-h1-2026-dependants-b2862575860cd4ae",
+      "jordan-investor-grants-july2026-e3ccd66335ea39ee",
+      "jordan-h1-2026-grants-136232f53a27c589"
+    ],
+    "note": "Dated programme activity observations or explicit unknown coverage; no legal status change.",
+    "programmeId": "jordan-investor-citizenship"
+  },
+  {
+    "id": "statistics-cbi-egy",
+    "from": "2026-11-14.2",
+    "to": "2026-11-15.1",
+    "classification": "new_coverage",
+    "observedAt": "2026-11-15",
+    "effectiveAt": null,
+    "beforeRevisionIds": [],
+    "afterRevisionIds": [
+      "egypt-reported-grants-2025-7c57634a82b90842"
+    ],
+    "note": "Dated programme activity observations or explicit unknown coverage; no legal status change.",
+    "programmeId": "cbi-egy"
+  },
+  {
+    "id": "statistics-north-macedonia-economic",
+    "from": "2026-11-14.2",
+    "to": "2026-11-15.1",
+    "classification": "new_coverage",
+    "observedAt": "2026-11-15",
+    "effectiveAt": null,
+    "beforeRevisionIds": [],
+    "afterRevisionIds": [
+      "mk-grants-2005-2022-b323b921161db73c"
+    ],
+    "note": "Dated programme activity observations or explicit unknown coverage; no legal status change.",
+    "programmeId": "north-macedonia-economic"
+  },
+  {
+    "id": "statistics-cbi-nru",
+    "from": "2026-11-14.2",
+    "to": "2026-11-15.1",
+    "classification": "new_coverage",
+    "observedAt": "2026-11-15",
+    "effectiveAt": null,
+    "beforeRevisionIds": [],
+    "afterRevisionIds": [
+      "nru-approvals-fy2025-26-cbf844a775d58790"
+    ],
+    "note": "Dated programme activity observations or explicit unknown coverage; no legal status change.",
+    "programmeId": "cbi-nru"
+  },
+  {
+    "id": "statistics-cbi-stp",
+    "from": "2026-11-14.2",
+    "to": "2026-11-15.1",
+    "classification": "new_coverage",
+    "observedAt": "2026-11-15",
+    "effectiveAt": null,
+    "beforeRevisionIds": [],
+    "afterRevisionIds": [
+      "stp-reported-sep2026-approvals-002a7a61025e10a2",
+      "stp-reported-sep2026-grants-bfad2978c130db31",
+      "stp-reported-sep2026-passports-a64d9ed858ee79c9"
+    ],
+    "note": "Dated programme activity observations or explicit unknown coverage; no legal status change.",
+    "programmeId": "cbi-stp"
+  },
+  {
+    "id": "statistics-cbi-slv",
+    "from": "2026-11-14.2",
+    "to": "2026-11-15.1",
+    "classification": "new_coverage",
+    "observedAt": "2026-11-15",
+    "effectiveAt": null,
+    "beforeRevisionIds": [],
+    "afterRevisionIds": [],
+    "note": "Dated programme activity observations or explicit unknown coverage; no legal status change.",
+    "programmeId": "cbi-slv"
+  },
+  {
+    "id": "statistics-sierra-leone-naturalisation",
+    "from": "2026-11-14.2",
+    "to": "2026-11-15.1",
+    "classification": "new_coverage",
+    "observedAt": "2026-11-15",
+    "effectiveAt": null,
+    "beforeRevisionIds": [],
+    "afterRevisionIds": [],
+    "note": "Dated programme activity observations or explicit unknown coverage; no legal status change.",
+    "programmeId": "sierra-leone-naturalisation"
+  },
+  {
+    "id": "statistics-comoros-economic",
+    "from": "2026-11-14.2",
+    "to": "2026-11-15.1",
+    "classification": "new_coverage",
+    "observedAt": "2026-11-15",
+    "effectiveAt": null,
+    "beforeRevisionIds": [],
+    "afterRevisionIds": [
+      "comoros-reported-sales-8d923539fe6f8d40"
+    ],
+    "note": "Dated programme activity observations or explicit unknown coverage; no legal status change.",
+    "programmeId": "comoros-economic"
+  },
+  {
+    "id": "statistics-cyprus-investment",
+    "from": "2026-11-14.2",
+    "to": "2026-11-15.1",
+    "classification": "new_coverage",
+    "observedAt": "2026-11-15",
+    "effectiveAt": null,
+    "beforeRevisionIds": [],
+    "afterRevisionIds": [
+      "cyprus-reported-recipients-b0613cc9d7a74d19"
+    ],
+    "note": "Dated programme activity observations or explicit unknown coverage; no legal status change.",
+    "programmeId": "cyprus-investment"
+  },
+  {
+    "id": "statistics-tonga-historical",
+    "from": "2026-11-14.2",
+    "to": "2026-11-15.1",
+    "classification": "new_coverage",
+    "observedAt": "2026-11-15",
+    "effectiveAt": null,
+    "beforeRevisionIds": [],
+    "afterRevisionIds": [],
+    "note": "Dated programme activity observations or explicit unknown coverage; no legal status change.",
+    "programmeId": "tonga-historical"
+  },
+  {
+    "id": "statistics-malta-investment-schemes",
+    "from": "2026-11-14.2",
+    "to": "2026-11-15.1",
+    "classification": "new_coverage",
+    "observedAt": "2026-11-15",
+    "effectiveAt": null,
+    "beforeRevisionIds": [],
+    "afterRevisionIds": [
+      "mlt-iip-principals-3f5b6238b4cb710c",
+      "mlt-iip-dependants-a2d701e6b93f6115",
+      "mlt-gces-principals-e1fe26a45253ddf7",
+      "mlt-gces-dependants-8fccc06cf8621935",
+      "malta-grants-through-2024-7d704cf34e69bff9"
+    ],
+    "note": "Dated programme activity observations or explicit unknown coverage; no legal status change.",
+    "programmeId": "malta-investment-schemes"
+  },
+  {
+    "id": "statistics-belize-economic",
+    "from": "2026-11-14.2",
+    "to": "2026-11-15.1",
+    "classification": "new_coverage",
+    "observedAt": "2026-11-15",
+    "effectiveAt": null,
+    "beforeRevisionIds": [],
+    "afterRevisionIds": [],
+    "note": "Dated programme activity observations or explicit unknown coverage; no legal status change.",
+    "programmeId": "belize-economic"
+  },
+  {
+    "id": "statistics-tuvalu-resident-passport",
+    "from": "2026-11-14.2",
+    "to": "2026-11-15.1",
+    "classification": "new_coverage",
+    "observedAt": "2026-11-15",
+    "effectiveAt": null,
+    "beforeRevisionIds": [],
+    "afterRevisionIds": [],
+    "note": "Dated programme activity observations or explicit unknown coverage; no legal status change.",
+    "programmeId": "tuvalu-resident-passport"
+  },
+  {
+    "id": "statistics-montenegro-investment",
+    "from": "2026-11-14.2",
+    "to": "2026-11-15.1",
+    "classification": "new_coverage",
+    "observedAt": "2026-11-15",
+    "effectiveAt": null,
+    "beforeRevisionIds": [],
+    "afterRevisionIds": [
+      "montenegro-approvals-july2026-0fafc3a69d2039b8"
+    ],
+    "note": "Dated programme activity observations or explicit unknown coverage; no legal status change.",
+    "programmeId": "montenegro-investment"
+  },
+  {
+    "id": "statistics-marshall-economic",
+    "from": "2026-11-14.2",
+    "to": "2026-11-15.1",
+    "classification": "new_coverage",
+    "observedAt": "2026-11-15",
+    "effectiveAt": null,
+    "beforeRevisionIds": [],
+    "afterRevisionIds": [
+      "marshall-estimated-sales-99a611f1007511e1"
+    ],
+    "note": "Dated programme activity observations or explicit unknown coverage; no legal status change.",
+    "programmeId": "marshall-economic"
+  },
+  {
+    "id": "statistics-nauru-first",
+    "from": "2026-11-14.2",
+    "to": "2026-11-15.1",
+    "classification": "new_coverage",
+    "observedAt": "2026-11-15",
+    "effectiveAt": null,
+    "beforeRevisionIds": [],
+    "afterRevisionIds": [
+      "nauru-first-estimated-sales-c10824f6b40723af"
+    ],
+    "note": "Dated programme activity observations or explicit unknown coverage; no legal status change.",
+    "programmeId": "nauru-first"
+  },
+  {
+    "id": "statistics-grenada-first",
+    "from": "2026-11-14.2",
+    "to": "2026-11-15.1",
+    "classification": "new_coverage",
+    "observedAt": "2026-11-15",
+    "effectiveAt": null,
+    "beforeRevisionIds": [],
+    "afterRevisionIds": [],
+    "note": "Dated programme activity observations or explicit unknown coverage; no legal status change.",
+    "programmeId": "grenada-first"
+  },
+  {
+    "id": "statistics-vanuatu-first",
+    "from": "2026-11-14.2",
+    "to": "2026-11-15.1",
+    "classification": "new_coverage",
+    "observedAt": "2026-11-15",
+    "effectiveAt": null,
+    "beforeRevisionIds": [],
+    "afterRevisionIds": [],
+    "note": "Dated programme activity observations or explicit unknown coverage; no legal status change.",
+    "programmeId": "vanuatu-first"
+  },
+  {
+    "id": "statistics-ireland-investment-naturalisation-1989",
+    "from": "2026-11-14.2",
+    "to": "2026-11-15.1",
+    "classification": "new_coverage",
+    "observedAt": "2026-11-15",
+    "effectiveAt": null,
+    "beforeRevisionIds": [],
+    "afterRevisionIds": [
+      "irl-principals-b4fabec335d76ce5",
+      "irl-dependants-b037a0748f12e575",
+      "ireland-grants-april-2000-dbf8ee66e72adf11"
+    ],
+    "note": "Dated programme activity observations or explicit unknown coverage; no legal status change.",
+    "programmeId": "ireland-investment-naturalisation-1989"
+  },
+  {
+    "id": "statistics-bulgaria-investor",
+    "from": "2026-11-14.2",
+    "to": "2026-11-15.1",
+    "classification": "new_coverage",
+    "observedAt": "2026-11-15",
+    "effectiveAt": null,
+    "beforeRevisionIds": [],
+    "afterRevisionIds": [],
+    "note": "Dated programme activity observations or explicit unknown coverage; no legal status change.",
+    "programmeId": "bulgaria-investor"
+  },
+  {
+    "id": "statistics-peru-economic",
+    "from": "2026-11-14.2",
+    "to": "2026-11-15.1",
+    "classification": "new_coverage",
+    "observedAt": "2026-11-15",
+    "effectiveAt": null,
+    "beforeRevisionIds": [],
+    "afterRevisionIds": [],
+    "note": "Dated programme activity observations or explicit unknown coverage; no legal status change.",
+    "programmeId": "peru-economic"
+  },
+  {
+    "id": "statistics-moldova-investment",
+    "from": "2026-11-14.2",
+    "to": "2026-11-15.1",
+    "classification": "new_coverage",
+    "observedAt": "2026-11-15",
+    "effectiveAt": null,
+    "beforeRevisionIds": [],
+    "afterRevisionIds": [],
+    "note": "Dated programme activity observations or explicit unknown coverage; no legal status change.",
+    "programmeId": "moldova-investment"
+  },
+  {
+    "id": "statistics-kiribati-investor-passport",
+    "from": "2026-11-14.2",
+    "to": "2026-11-15.1",
+    "classification": "new_coverage",
+    "observedAt": "2026-11-15",
+    "effectiveAt": null,
+    "beforeRevisionIds": [],
+    "afterRevisionIds": [],
+    "note": "Dated programme activity observations or explicit unknown coverage; no legal status change.",
+    "programmeId": "kiribati-investor-passport"
+  },
+  {
+    "id": "statistics-samoa-first",
+    "from": "2026-11-14.2",
+    "to": "2026-11-15.1",
+    "classification": "new_coverage",
+    "observedAt": "2026-11-15",
+    "effectiveAt": null,
+    "beforeRevisionIds": [],
+    "afterRevisionIds": [],
+    "note": "Dated programme activity observations or explicit unknown coverage; no legal status change.",
+    "programmeId": "samoa-first"
+  },
+  {
+    "id": "statistics-saint-vincent-project",
+    "from": "2026-11-14.2",
+    "to": "2026-11-15.1",
+    "classification": "new_coverage",
+    "observedAt": "2026-11-15",
+    "effectiveAt": null,
+    "beforeRevisionIds": [],
+    "afterRevisionIds": [],
+    "note": "Dated programme activity observations or explicit unknown coverage; no legal status change.",
+    "programmeId": "saint-vincent-project"
+  }
+]
