@@ -18,9 +18,9 @@ const run=async input=>query(await loadDataset(read,'statistics',input),'statist
 test('observations preserve units, source definitions and unknown passport counts',()=>{
  validateStatistics(raw);
  assert.equal(raw.subjects.length,34);
- const vu=statisticsFor(raw,'vu');assert.equal(preferredStatistic(vu).value,10524);assert.equal(preferredStatistic(vu,'citizenships_granted').value,13489);
+ const vu=statisticsFor(raw,'vu');assert.equal(vu.observations.find(o=>o.id==='vut-passports-2015-2021').value,10524);assert.equal(preferredStatistic(vu,'citizenships_granted').value,13489);
  const lc=statisticsFor(raw,'lc');assert.equal(preferredStatistic(lc),null);assert.equal(lc.subject.passportCount,null);assert.equal(lc.observations[0].unit,'applications');assert.equal(lc.observations[0].value,2278);
- const tr=statisticsFor(raw,'tr');assert.equal(preferredStatistic(tr,'citizenships_revoked').value,6134);assert.equal(preferredStatistic(tr,'citizenships_granted').value,174567);
+ const tr=statisticsFor(raw,'tr');assert.equal(preferredStatistic(tr,'citizenships_revoked').value,6134);assert.equal(tr.observations.find(o=>o.id==='turkey-may-reported-recipients').value,174567);
  assert.equal(statisticsFor(raw,'tv-investor-passport').subject.classification,'noncitizen_documents');
  assert.equal(statisticsFor(raw,'ws-old').subject.classification,'irregular_historical');
  const old=statisticsFor(raw,'nr-old').observations[0];assert.equal(old.measure,'passport_sales');assert.match(statisticLabel(old),/^About 1,000/);
@@ -42,6 +42,7 @@ test('core, HTTP and MCP return identical bounded evidence without external fetc
  try{await server.connect(s);await client.connect(c);const expected=await run(input);assert.equal(expected.data.items[0].value,10524);assert.equal(expected.evidence[0].id,'V1');
   const h=await handleHttp(new Request('https://cbi.me/api/v1/statistics/vu?measure=passports_issued&include=evidence&limit=1'),read,time);assert.equal(h.status,200);assert.deepEqual(await h.json(),expected);
   const m=await client.callTool({name:'get_programme_statistics',arguments:input});assert.ok(!m.isError,JSON.stringify(m));assert.deepEqual(m.structuredContent,expected);
+  const lcInput={id:'lc',include:'evidence'};const lcExpected=await run(lcInput);const lcMcp=await client.callTool({name:'get_programme_statistics',arguments:lcInput});assert.ok(!lcMcp.isError,JSON.stringify(lcMcp));assert.deepEqual(lcMcp.structuredContent,lcExpected);
   const next=await run({id:'gd',limit:1});assert(next.data.nextCursor);await assert.rejects(run({id:'lc',limit:1,cursor:next.data.nextCursor}),/Cursor/);
  }finally{globalThis.fetch=original;await client.close();await server.close();}
 });
@@ -51,4 +52,15 @@ test('unknowns, unsupported measures, overdue reviews and old releases remain ex
  await assert.rejects(run({id:'vu',measure:'success_rate'}),/Unknown.*measure/);
  await assert.rejects(run({id:'../private'}),/identifier/);
  const gd=await loadDataset(read,'statistics',{id:'gd'});assert(query(gd,'statistics',{id:'gd'},'2027-03-01T00:00:00Z').data.items.every(o=>o.reviewStatus==='overdue'));
+});
+
+test('current estimates are reproducible, typed and preserve reported baselines',async()=>{
+ const estimates=raw.observations.filter(o=>o.estimate);assert.equal(estimates.length,8);
+ for(const o of estimates){assert.equal(preferredStatistic(statisticsFor(raw,o.subjectId),o.measure).id,o.id);assert.equal(o.estimate.asOf,'2026-11-15');assert.match(statisticLabel(o),/^Estimated /);assert(o.lowerBound<=o.value&&o.upperBound>=o.value);}
+ const lc=preferredStatistic(statisticsFor(raw,'lc'),'applications_approved');assert.equal(lc.unit,'applications');assert.equal(lc.value,9000);assert.equal(lc.estimate.baselineId,'lca-approvals-through-fy2024-25');
+ const bad=structuredClone(raw);bad.observations.find(o=>o.estimate).estimate.rateId='lca-approvals-fy2024-25';assert.throws(()=>validateStatistics(bad),/incompatible estimate/);
+ const arithmetic=structuredClone(raw);arithmetic.observations.find(o=>o.estimate).value+=1000;assert.throws(()=>validateStatistics(arithmetic),/estimate arithmetic/);
+ const missing=structuredClone(raw);delete missing.observations.find(o=>o.estimate).estimate;assert.throws(()=>validateStatistics(missing),/missing estimate/);
+ const response=await run({id:'lc',include:'evidence'});assert(response.data.items.some(o=>o.estimate?.asOf==='2026-11-15'));assert(response.evidence.length);
+ const prior=await run({id:'lc',release:'2026-11-15.1'});assert.equal(prior.data.items.length,1);assert.equal(prior.data.items[0].value,2278);
 });

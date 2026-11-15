@@ -1,0 +1,126 @@
+[
+  {
+    "id": "statistics-estimates-cbi-tur",
+    "from": "2026-11-15.1",
+    "to": "2026-11-15.2",
+    "classification": "new_coverage",
+    "observedAt": "2026-11-15",
+    "effectiveAt": null,
+    "beforeRevisionIds": [],
+    "afterRevisionIds": [
+      "cbi-tur-estimate-2026-11-15-8f6a0f70616aeb8d"
+    ],
+    "note": "Adds typed, low-confidence model estimates with explicit baselines and sensitivity assumptions; no legal status change.",
+    "programmeId": "cbi-tur"
+  },
+  {
+    "id": "statistics-estimates-cbi-kna",
+    "from": "2026-11-15.1",
+    "to": "2026-11-15.2",
+    "classification": "new_coverage",
+    "observedAt": "2026-11-15",
+    "effectiveAt": null,
+    "beforeRevisionIds": [],
+    "afterRevisionIds": [
+      "cbi-kna-estimate-2026-11-15-8d0b373fcf7e857e"
+    ],
+    "note": "Adds typed, low-confidence model estimates with explicit baselines and sensitivity assumptions; no legal status change.",
+    "programmeId": "cbi-kna"
+  },
+  {
+    "id": "statistics-estimates-cbi-dma",
+    "from": "2026-11-15.1",
+    "to": "2026-11-15.2",
+    "classification": "new_coverage",
+    "observedAt": "2026-11-15",
+    "effectiveAt": null,
+    "beforeRevisionIds": [],
+    "afterRevisionIds": [
+      "cbi-dma-estimate-2026-11-15-457f2f9ad5e6f192"
+    ],
+    "note": "Adds typed, low-confidence model estimates with explicit baselines and sensitivity assumptions; no legal status change.",
+    "programmeId": "cbi-dma"
+  },
+  {
+    "id": "statistics-estimates-cbi-grd",
+    "from": "2026-11-15.1",
+    "to": "2026-11-15.2",
+    "classification": "new_coverage",
+    "observedAt": "2026-11-15",
+    "effectiveAt": null,
+    "beforeRevisionIds": [],
+    "afterRevisionIds": [
+      "cbi-grd-estimate-2026-11-15-843ba13c17027c3d"
+    ],
+    "note": "Adds typed, low-confidence model estimates with explicit baselines and sensitivity assumptions; no legal status change.",
+    "programmeId": "cbi-grd"
+  },
+  {
+    "id": "statistics-estimates-cbi-vut",
+    "from": "2026-11-15.1",
+    "to": "2026-11-15.2",
+    "classification": "new_coverage",
+    "observedAt": "2026-11-15",
+    "effectiveAt": null,
+    "beforeRevisionIds": [],
+    "afterRevisionIds": [
+      "cbi-vut-estimate-2026-11-15-2333f036c8e51a69"
+    ],
+    "note": "Adds typed, low-confidence model estimates with explicit baselines and sensitivity assumptions; no legal status change.",
+    "programmeId": "cbi-vut"
+  },
+  {
+    "id": "statistics-estimates-cbi-atg",
+    "from": "2026-11-15.1",
+    "to": "2026-11-15.2",
+    "classification": "new_coverage",
+    "observedAt": "2026-11-15",
+    "effectiveAt": null,
+    "beforeRevisionIds": [],
+    "afterRevisionIds": [
+      "cbi-atg-estimate-2026-11-15-19d90501c5a39598"
+    ],
+    "note": "Adds typed, low-confidence model estimates with explicit baselines and sensitivity assumptions; no legal status change.",
+    "programmeId": "cbi-atg"
+  },
+  {
+    "id": "statistics-estimates-cbi-lca",
+    "from": "2026-11-15.1",
+    "to": "2026-11-15.2",
+    "classification": "new_coverage",
+    "observedAt": "2026-11-15",
+    "effectiveAt": null,
+    "beforeRevisionIds": [
+      "lca-approvals-fy2024-25-d2e6c733471329dd"
+    ],
+    "afterRevisionIds": [
+      "lca-approvals-fy2024-25-6375f124e908840b",
+      "lca-approvals-fy2016-17-1a6de31b7d718045",
+      "lca-approvals-fy2017-18-21ba720363e35da8",
+      "lca-approvals-fy2018-19-2d6c16f9a341201d",
+      "lca-approvals-fy2019-20-f2a3ce229a3de319",
+      "lca-approvals-fy2020-21-a11980d47ab32179",
+      "lca-approvals-fy2021-22-f71d850652d6911a",
+      "lca-approvals-fy2022-23-74c553d103e1f2ad",
+      "lca-approvals-fy2023-24-1c1f3bf476967361",
+      "lca-approvals-through-fy2024-25-899d5ded2daf4ea4",
+      "cbi-lca-estimate-2026-11-15-cd75d51681b72d8a"
+    ],
+    "note": "Adds typed, low-confidence model estimates with explicit baselines and sensitivity assumptions; no legal status change.",
+    "programmeId": "cbi-lca"
+  },
+  {
+    "id": "statistics-estimates-cbi-nru",
+    "from": "2026-11-15.1",
+    "to": "2026-11-15.2",
+    "classification": "new_coverage",
+    "observedAt": "2026-11-15",
+    "effectiveAt": null,
+    "beforeRevisionIds": [],
+    "afterRevisionIds": [
+      "cbi-nru-estimate-2026-11-15-1d75644b4c80fbef"
+    ],
+    "note": "Adds typed, low-confidence model estimates with explicit baselines and sensitivity assumptions; no legal status change.",
+    "programmeId": "cbi-nru"
+  }
+]

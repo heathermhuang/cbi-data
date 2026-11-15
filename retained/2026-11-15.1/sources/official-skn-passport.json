@@ -1,0 +1,28 @@
+{
+  "id": "official-skn-passport",
+  "publisher": "St Kitts and Nevis Citizenship Unit",
+  "title": "St Kitts and Nevis: biometric enrolment and passport production",
+  "url": "https://ciu.gov.kn/st-kitts-and-nevis-integrates-biometric-enrolment-with-the-passport-process/",
+  "authorityType": "Official dated implementation notice",
+  "documentDate": "2026-09-02",
+  "rights": {
+    "disposition": "link_only",
+    "use": "Original CBI normalized facts and pointers only. No upstream documents, images, or excerpts distributed.",
+    "basis": "CBI original compilation; upstream rights retained"
+  },
+  "retrieval": {
+    "retrievedAt": null,
+    "lastAttempt": "2026-10-25T08:37:07.920Z",
+    "method": "not_extracted",
+    "health": "unavailable",
+    "hash": null
+  },
+  "manualReview": {
+    "intervalDays": 14,
+    "rationale": "Evidence interpretation requires editorial review; a successful fetch is not verification."
+  },
+  "reviewObservation": {
+    "date": "2026-10-21",
+    "method": "Full notice read. The initial production estimate is not an application-to-passport duration or a confirmed current service standard."
+  }
+}

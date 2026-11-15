@@ -1154,8 +1154,13 @@
         "This table counts application files, not passports or unique family recipients."
       ],
       "seriesId": "cbi-lca",
-      "reportingIntervals": [],
-      "revisionId": "lca-approvals-fy2024-25-d2e6c733471329dd"
+      "reportingIntervals": [
+        {
+          "start": "2024-04-01",
+          "end": "2025-03-31"
+        }
+      ],
+      "revisionId": "lca-approvals-fy2024-25-6375f124e908840b"
     },
     {
       "id": "nru-approvals-fy2025-26",
@@ -2344,6 +2349,801 @@
       "seriesId": "jordan-investor-citizenship",
       "reportingIntervals": [],
       "revisionId": "jordan-h1-2026-grants-136232f53a27c589"
+    },
+    {
+      "id": "lca-approvals-fy2016-17",
+      "subjectId": "cbi-lca",
+      "measure": "applications_approved",
+      "unit": "applications",
+      "value": 17,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "FY2016/17 ending 2017-03-31",
+      "periodKind": "period",
+      "coverage": [],
+      "population": "source_unspecified",
+      "documentScope": "Not a passport-document count",
+      "basis": "official_document_reviewed",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "L1",
+          "locator": "Printed page 19, 2024/25 row, Granted column"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "This table counts application files, not passports or unique family recipients."
+      ],
+      "seriesId": "cbi-lca",
+      "reportingIntervals": [
+        {
+          "start": "2016-04-01",
+          "end": "2017-03-31"
+        }
+      ],
+      "revisionId": "lca-approvals-fy2016-17-1a6de31b7d718045"
+    },
+    {
+      "id": "lca-approvals-fy2017-18",
+      "subjectId": "cbi-lca",
+      "measure": "applications_approved",
+      "unit": "applications",
+      "value": 188,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "FY2017/18 ending 2018-03-31",
+      "periodKind": "period",
+      "coverage": [],
+      "population": "source_unspecified",
+      "documentScope": "Not a passport-document count",
+      "basis": "official_document_reviewed",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "L1",
+          "locator": "Printed page 19, 2024/25 row, Granted column"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "This table counts application files, not passports or unique family recipients."
+      ],
+      "seriesId": "cbi-lca",
+      "reportingIntervals": [
+        {
+          "start": "2017-04-01",
+          "end": "2018-03-31"
+        }
+      ],
+      "revisionId": "lca-approvals-fy2017-18-21ba720363e35da8"
+    },
+    {
+      "id": "lca-approvals-fy2018-19",
+      "subjectId": "cbi-lca",
+      "measure": "applications_approved",
+      "unit": "applications",
+      "value": 210,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "FY2018/19 ending 2019-03-31",
+      "periodKind": "period",
+      "coverage": [],
+      "population": "source_unspecified",
+      "documentScope": "Not a passport-document count",
+      "basis": "official_document_reviewed",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "L1",
+          "locator": "Printed page 19, 2024/25 row, Granted column"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "This table counts application files, not passports or unique family recipients."
+      ],
+      "seriesId": "cbi-lca",
+      "reportingIntervals": [
+        {
+          "start": "2018-04-01",
+          "end": "2019-03-31"
+        }
+      ],
+      "revisionId": "lca-approvals-fy2018-19-2d6c16f9a341201d"
+    },
+    {
+      "id": "lca-approvals-fy2019-20",
+      "subjectId": "cbi-lca",
+      "measure": "applications_approved",
+      "unit": "applications",
+      "value": 143,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "FY2019/20 ending 2020-03-31",
+      "periodKind": "period",
+      "coverage": [],
+      "population": "source_unspecified",
+      "documentScope": "Not a passport-document count",
+      "basis": "official_document_reviewed",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "L1",
+          "locator": "Printed page 19, 2024/25 row, Granted column"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "This table counts application files, not passports or unique family recipients."
+      ],
+      "seriesId": "cbi-lca",
+      "reportingIntervals": [
+        {
+          "start": "2019-04-01",
+          "end": "2020-03-31"
+        }
+      ],
+      "revisionId": "lca-approvals-fy2019-20-f2a3ce229a3de319"
+    },
+    {
+      "id": "lca-approvals-fy2020-21",
+      "subjectId": "cbi-lca",
+      "measure": "applications_approved",
+      "unit": "applications",
+      "value": 313,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "FY2020/21 ending 2021-03-31",
+      "periodKind": "period",
+      "coverage": [],
+      "population": "source_unspecified",
+      "documentScope": "Not a passport-document count",
+      "basis": "official_document_reviewed",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "L1",
+          "locator": "Printed page 19, 2024/25 row, Granted column"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "This table counts application files, not passports or unique family recipients."
+      ],
+      "seriesId": "cbi-lca",
+      "reportingIntervals": [
+        {
+          "start": "2020-04-01",
+          "end": "2021-03-31"
+        }
+      ],
+      "revisionId": "lca-approvals-fy2020-21-a11980d47ab32179"
+    },
+    {
+      "id": "lca-approvals-fy2021-22",
+      "subjectId": "cbi-lca",
+      "measure": "applications_approved",
+      "unit": "applications",
+      "value": 433,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "FY2021/22 ending 2022-03-31",
+      "periodKind": "period",
+      "coverage": [],
+      "population": "source_unspecified",
+      "documentScope": "Not a passport-document count",
+      "basis": "official_document_reviewed",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "L1",
+          "locator": "Printed page 19, 2024/25 row, Granted column"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "This table counts application files, not passports or unique family recipients."
+      ],
+      "seriesId": "cbi-lca",
+      "reportingIntervals": [
+        {
+          "start": "2021-04-01",
+          "end": "2022-03-31"
+        }
+      ],
+      "revisionId": "lca-approvals-fy2021-22-f71d850652d6911a"
+    },
+    {
+      "id": "lca-approvals-fy2022-23",
+      "subjectId": "cbi-lca",
+      "measure": "applications_approved",
+      "unit": "applications",
+      "value": 544,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "FY2022/23 ending 2023-03-31",
+      "periodKind": "period",
+      "coverage": [],
+      "population": "source_unspecified",
+      "documentScope": "Not a passport-document count",
+      "basis": "official_document_reviewed",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "L1",
+          "locator": "Printed page 19, 2024/25 row, Granted column"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "This table counts application files, not passports or unique family recipients."
+      ],
+      "seriesId": "cbi-lca",
+      "reportingIntervals": [
+        {
+          "start": "2022-04-01",
+          "end": "2023-03-31"
+        }
+      ],
+      "revisionId": "lca-approvals-fy2022-23-74c553d103e1f2ad"
+    },
+    {
+      "id": "lca-approvals-fy2023-24",
+      "subjectId": "cbi-lca",
+      "measure": "applications_approved",
+      "unit": "applications",
+      "value": 1171,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "FY2023/24 ending 2024-03-31",
+      "periodKind": "period",
+      "coverage": [],
+      "population": "source_unspecified",
+      "documentScope": "Not a passport-document count",
+      "basis": "official_document_reviewed",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "L1",
+          "locator": "Printed page 19, 2024/25 row, Granted column"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "This table counts application files, not passports or unique family recipients."
+      ],
+      "seriesId": "cbi-lca",
+      "reportingIntervals": [
+        {
+          "start": "2023-04-01",
+          "end": "2024-03-31"
+        }
+      ],
+      "revisionId": "lca-approvals-fy2023-24-1c1f3bf476967361"
+    },
+    {
+      "id": "lca-approvals-through-fy2024-25",
+      "subjectId": "cbi-lca",
+      "measure": "applications_approved",
+      "unit": "applications",
+      "value": 5297,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "FY2016/17–FY2024/25 · through 31 March 2025",
+      "periodKind": "cumulative",
+      "coverage": [
+        "2016-04-01/2025-03-31"
+      ],
+      "population": "source_unspecified",
+      "documentScope": "Not a passport-document count",
+      "basis": "derived",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "L1",
+          "locator": "Printed page 19, 2024/25 row, Granted column"
+        }
+      ],
+      "derivation": {
+        "inputIds": [
+          "lca-approvals-fy2016-17",
+          "lca-approvals-fy2017-18",
+          "lca-approvals-fy2018-19",
+          "lca-approvals-fy2019-20",
+          "lca-approvals-fy2020-21",
+          "lca-approvals-fy2021-22",
+          "lca-approvals-fy2022-23",
+          "lca-approvals-fy2023-24",
+          "lca-approvals-fy2024-25"
+        ],
+        "formula": "sum",
+        "reason": "Sum of all nine annual application-granted rows on page 19. Counts application files, with no conversion to people or passports.",
+        "disjointness": "nonoverlapping_periods"
+      },
+      "limitations": [
+        "This table counts application files, not passports or unique family recipients."
+      ],
+      "seriesId": "cbi-lca",
+      "reportingIntervals": [
+        {
+          "start": "2016-04-01",
+          "end": "2025-03-31"
+        }
+      ],
+      "revisionId": "lca-approvals-through-fy2024-25-899d5ded2daf4ea4"
+    },
+    {
+      "id": "cbi-atg-estimate-2026-11-15",
+      "subjectId": "cbi-atg",
+      "measure": "passports_issued",
+      "unit": "documents",
+      "value": 12000,
+      "qualifier": "range",
+      "lowerBound": 9000,
+      "upperBound": 15000,
+      "period": "CBI.me model estimate as of 15 November 2026",
+      "periodKind": "cumulative",
+      "coverage": [
+        "2015–2023",
+        "2024",
+        "2025-01-01/2025-04-30",
+        "Unreported interval projected to 2026-11-15"
+      ],
+      "population": "source_unspecified",
+      "documentScope": "First issues, renewals and replacements not separately established",
+      "basis": "modelled_estimate",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2026-12-15",
+      "evidence": [
+        {
+          "sourceId": "E1",
+          "locator": "Printed page 37, Total passports issued row, cbi-atg"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "A CBI.me extrapolation, not an official count. Baseline and daily rate are available in the model inputs.",
+        "The range is deliberately rounded and is not a verified minimum or maximum. Changes in fees, processing, demand and visa access can place actual issuance outside it.",
+        "Covered-period sum only; retain all source gaps.",
+        "Derived from the cited disjoint source categories/windows; not an authority-published lifetime total.",
+        "Only the original reported windows plus the projected interval are included. Missing historical years stay missing; this is not an all-time total. Passport renewals and replacements are not disaggregated."
+      ],
+      "seriesId": "cbi-atg",
+      "reportingIntervals": [],
+      "estimate": {
+        "method": "constant_rate_sensitivity_v1",
+        "baselineId": "cbi-atg-covered-windows",
+        "rateId": "cbi-atg-ec-2",
+        "rateDays": 120,
+        "from": "2025-04-30",
+        "asOf": "2026-11-15",
+        "lowerMultiplier": 0,
+        "centralMultiplier": 1,
+        "upperMultiplier": 2,
+        "roundTo": 1000,
+        "confidence": "low",
+        "assumptions": [
+          "Unreported activity continues at the stated historical daily rate in the central scenario.",
+          "Sensitivity endpoints assume zero and twice that rate for the unreported interval; these are scenarios, not statistical confidence bounds.",
+          "Only the original reported windows plus the projected interval are included. Missing historical years stay missing; this is not an all-time total. Passport renewals and replacements are not disaggregated."
+        ]
+      },
+      "revisionId": "cbi-atg-estimate-2026-11-15-19d90501c5a39598"
+    },
+    {
+      "id": "cbi-dma-estimate-2026-11-15",
+      "subjectId": "cbi-dma",
+      "measure": "passports_issued",
+      "unit": "documents",
+      "value": 67000,
+      "qualifier": "range",
+      "lowerBound": 48000,
+      "upperBound": 85000,
+      "period": "CBI.me model estimate as of 15 November 2026",
+      "periodKind": "cumulative",
+      "coverage": [
+        "2018–2021",
+        "2023",
+        "2024",
+        "Unreported interval projected to 2026-11-15"
+      ],
+      "population": "source_unspecified",
+      "documentScope": "First issues, renewals and replacements not separately established",
+      "basis": "modelled_estimate",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2026-12-15",
+      "evidence": [
+        {
+          "sourceId": "E1",
+          "locator": "Printed page 37, Total passports issued row, cbi-dma"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "A CBI.me extrapolation, not an official count. Baseline and daily rate are available in the model inputs.",
+        "The range is deliberately rounded and is not a verified minimum or maximum. Changes in fees, processing, demand and visa access can place actual issuance outside it.",
+        "Covered-period sum only; retain all source gaps.",
+        "Derived from the cited disjoint source categories/windows; not an authority-published lifetime total.",
+        "Missing 2022 and years before 2018.",
+        "Only the original reported windows plus the projected interval are included. Missing historical years stay missing; this is not an all-time total. Passport renewals and replacements are not disaggregated."
+      ],
+      "seriesId": "cbi-dma",
+      "reportingIntervals": [],
+      "estimate": {
+        "method": "constant_rate_sensitivity_v1",
+        "baselineId": "cbi-dma-covered-windows",
+        "rateId": "cbi-dma-ec-2",
+        "rateDays": 366,
+        "from": "2024-12-31",
+        "asOf": "2026-11-15",
+        "lowerMultiplier": 0,
+        "centralMultiplier": 1,
+        "upperMultiplier": 2,
+        "roundTo": 1000,
+        "confidence": "low",
+        "assumptions": [
+          "Unreported activity continues at the stated historical daily rate in the central scenario.",
+          "Sensitivity endpoints assume zero and twice that rate for the unreported interval; these are scenarios, not statistical confidence bounds.",
+          "Only the original reported windows plus the projected interval are included. Missing historical years stay missing; this is not an all-time total. Passport renewals and replacements are not disaggregated."
+        ]
+      },
+      "revisionId": "cbi-dma-estimate-2026-11-15-457f2f9ad5e6f192"
+    },
+    {
+      "id": "cbi-grd-estimate-2026-11-15",
+      "subjectId": "cbi-grd",
+      "measure": "passports_issued",
+      "unit": "documents",
+      "value": 33000,
+      "qualifier": "range",
+      "lowerBound": 22000,
+      "upperBound": 43000,
+      "period": "CBI.me model estimate as of 15 November 2026",
+      "periodKind": "cumulative",
+      "coverage": [
+        "2015–2023",
+        "2024",
+        "2025-01-01/2025-03-31",
+        "Unreported interval projected to 2026-11-15"
+      ],
+      "population": "source_unspecified",
+      "documentScope": "First issues, renewals and replacements not separately established",
+      "basis": "modelled_estimate",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2026-12-15",
+      "evidence": [
+        {
+          "sourceId": "E1",
+          "locator": "Printed page 37, Total passports issued row, cbi-grd"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "A CBI.me extrapolation, not an official count. Baseline and daily rate are available in the model inputs.",
+        "The range is deliberately rounded and is not a verified minimum or maximum. Changes in fees, processing, demand and visa access can place actual issuance outside it.",
+        "Covered-period sum only; retain all source gaps.",
+        "Derived from the cited disjoint source categories/windows; not an authority-published lifetime total.",
+        "Only the original reported windows plus the projected interval are included. Missing historical years stay missing; this is not an all-time total. Passport renewals and replacements are not disaggregated."
+      ],
+      "seriesId": "cbi-grd",
+      "reportingIntervals": [],
+      "estimate": {
+        "method": "constant_rate_sensitivity_v1",
+        "baselineId": "cbi-grd-covered-windows",
+        "rateId": "cbi-grd-ec-2",
+        "rateDays": 90,
+        "from": "2025-03-31",
+        "asOf": "2026-11-15",
+        "lowerMultiplier": 0,
+        "centralMultiplier": 1,
+        "upperMultiplier": 2,
+        "roundTo": 1000,
+        "confidence": "low",
+        "assumptions": [
+          "Unreported activity continues at the stated historical daily rate in the central scenario.",
+          "Sensitivity endpoints assume zero and twice that rate for the unreported interval; these are scenarios, not statistical confidence bounds.",
+          "Only the original reported windows plus the projected interval are included. Missing historical years stay missing; this is not an all-time total. Passport renewals and replacements are not disaggregated."
+        ]
+      },
+      "revisionId": "cbi-grd-estimate-2026-11-15-843ba13c17027c3d"
+    },
+    {
+      "id": "cbi-kna-estimate-2026-11-15",
+      "subjectId": "cbi-kna",
+      "measure": "passports_issued",
+      "unit": "documents",
+      "value": 59000,
+      "qualifier": "range",
+      "lowerBound": 56000,
+      "upperBound": 63000,
+      "period": "CBI.me model estimate as of 15 November 2026",
+      "periodKind": "cumulative",
+      "coverage": [
+        "2015–2023",
+        "2024",
+        "2025-01-01/2025-04-30",
+        "Unreported interval projected to 2026-11-15"
+      ],
+      "population": "source_unspecified",
+      "documentScope": "First issues, renewals and replacements not separately established",
+      "basis": "modelled_estimate",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2026-12-15",
+      "evidence": [
+        {
+          "sourceId": "E1",
+          "locator": "Printed page 37, Total passports issued row, cbi-kna"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "A CBI.me extrapolation, not an official count. Baseline and daily rate are available in the model inputs.",
+        "The range is deliberately rounded and is not a verified minimum or maximum. Changes in fees, processing, demand and visa access can place actual issuance outside it.",
+        "Covered-period sum only; retain all source gaps.",
+        "Derived from the cited disjoint source categories/windows; not an authority-published lifetime total.",
+        "Only the original reported windows plus the projected interval are included. Missing historical years stay missing; this is not an all-time total. Passport renewals and replacements are not disaggregated."
+      ],
+      "seriesId": "cbi-kna",
+      "reportingIntervals": [],
+      "estimate": {
+        "method": "constant_rate_sensitivity_v1",
+        "baselineId": "cbi-kna-covered-windows",
+        "rateId": "cbi-kna-ec-2",
+        "rateDays": 120,
+        "from": "2025-04-30",
+        "asOf": "2026-11-15",
+        "lowerMultiplier": 0,
+        "centralMultiplier": 1,
+        "upperMultiplier": 2,
+        "roundTo": 1000,
+        "confidence": "low",
+        "assumptions": [
+          "Unreported activity continues at the stated historical daily rate in the central scenario.",
+          "Sensitivity endpoints assume zero and twice that rate for the unreported interval; these are scenarios, not statistical confidence bounds.",
+          "Only the original reported windows plus the projected interval are included. Missing historical years stay missing; this is not an all-time total. Passport renewals and replacements are not disaggregated."
+        ]
+      },
+      "revisionId": "cbi-kna-estimate-2026-11-15-8d0b373fcf7e857e"
+    },
+    {
+      "id": "cbi-lca-estimate-2026-11-15",
+      "subjectId": "cbi-lca",
+      "measure": "applications_approved",
+      "unit": "applications",
+      "value": 9000,
+      "qualifier": "range",
+      "lowerBound": 5200,
+      "upperBound": 12800,
+      "period": "CBI.me model estimate as of 15 November 2026",
+      "periodKind": "cumulative",
+      "coverage": [
+        "FY2016/17–FY2024/25 reported",
+        "2025-04-01/2026-11-15 modelled"
+      ],
+      "population": "source_unspecified",
+      "documentScope": "Not a passport-document count",
+      "basis": "modelled_estimate",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2026-12-15",
+      "evidence": [
+        {
+          "sourceId": "L1",
+          "locator": "Printed page 19, 2024/25 row, Granted column"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "A CBI.me extrapolation, not an official count. Baseline and daily rate are available in the model inputs.",
+        "The range is deliberately rounded and is not a verified minimum or maximum. Changes in fees, processing, demand and visa access can place actual issuance outside it.",
+        "This table counts application files, not passports or unique family recipients.",
+        "Application files only. No household multiplier or passport conversion. The 2026 annual cap and transitional exemptions can change processing; this model does not assume the cap was fully used."
+      ],
+      "seriesId": "cbi-lca",
+      "reportingIntervals": [],
+      "estimate": {
+        "method": "constant_rate_sensitivity_v1",
+        "baselineId": "lca-approvals-through-fy2024-25",
+        "rateId": "lca-approvals-fy2024-25",
+        "rateDays": 365,
+        "from": "2025-03-31",
+        "asOf": "2026-11-15",
+        "lowerMultiplier": 0,
+        "centralMultiplier": 1,
+        "upperMultiplier": 2,
+        "roundTo": 100,
+        "confidence": "low",
+        "assumptions": [
+          "Unreported activity continues at the stated historical daily rate in the central scenario.",
+          "Sensitivity endpoints assume zero and twice that rate for the unreported interval; these are scenarios, not statistical confidence bounds.",
+          "Application files only. No household multiplier or passport conversion. The 2026 annual cap and transitional exemptions can change processing; this model does not assume the cap was fully used."
+        ]
+      },
+      "revisionId": "cbi-lca-estimate-2026-11-15-cd75d51681b72d8a"
+    },
+    {
+      "id": "cbi-vut-estimate-2026-11-15",
+      "subjectId": "cbi-vut",
+      "measure": "passports_issued",
+      "unit": "documents",
+      "value": 18000,
+      "qualifier": "range",
+      "lowerBound": 10000,
+      "upperBound": 26000,
+      "period": "CBI.me model estimate as of 15 November 2026",
+      "periodKind": "cumulative",
+      "coverage": [
+        "2015–2021 reported",
+        "2022-01-01/2026-11-15 modelled"
+      ],
+      "population": "source_unspecified",
+      "documentScope": "First issues, renewals and replacements not separately established",
+      "basis": "modelled_estimate",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2026-12-15",
+      "evidence": [
+        {
+          "sourceId": "V1",
+          "locator": "Table 1, total passports issued"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "A CBI.me extrapolation, not an official count. Baseline and daily rate are available in the model inputs.",
+        "The range is deliberately rounded and is not a verified minimum or maximum. Changes in fees, processing, demand and visa access can place actual issuance outside it.",
+        "This is a dated observation, not a count of current passport holders; first-issue and renewal coverage may be unspecified.",
+        "Very weak baseline: almost five unreported years. Uses the seven-year 2015–2021 average. Visa-waiver losses and programme changes may invalidate that historical rate."
+      ],
+      "seriesId": "cbi-vut",
+      "reportingIntervals": [],
+      "estimate": {
+        "method": "constant_rate_sensitivity_v1",
+        "baselineId": "vut-passports-2015-2021",
+        "rateId": "vut-passports-2015-2021",
+        "rateDays": 2557,
+        "from": "2021-12-31",
+        "asOf": "2026-11-15",
+        "lowerMultiplier": 0,
+        "centralMultiplier": 1,
+        "upperMultiplier": 2,
+        "roundTo": 1000,
+        "confidence": "low",
+        "assumptions": [
+          "Unreported activity continues at the stated historical daily rate in the central scenario.",
+          "Sensitivity endpoints assume zero and twice that rate for the unreported interval; these are scenarios, not statistical confidence bounds.",
+          "Very weak baseline: almost five unreported years. Uses the seven-year 2015–2021 average. Visa-waiver losses and programme changes may invalidate that historical rate."
+        ]
+      },
+      "revisionId": "cbi-vut-estimate-2026-11-15-2333f036c8e51a69"
+    },
+    {
+      "id": "cbi-tur-estimate-2026-11-15",
+      "subjectId": "cbi-tur",
+      "measure": "citizenships_granted",
+      "unit": "people",
+      "value": 184000,
+      "qualifier": "range",
+      "lowerBound": 174000,
+      "upperBound": 194000,
+      "period": "CBI.me model estimate as of 15 November 2026",
+      "periodKind": "cumulative",
+      "coverage": [
+        "Since 2018 reported to May 2026",
+        "2026-05-30/2026-11-15 modelled"
+      ],
+      "population": "principals_and_dependants",
+      "documentScope": "Not a passport-document count",
+      "basis": "modelled_estimate",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2026-12-15",
+      "evidence": [
+        {
+          "sourceId": "T1",
+          "locator": "Minister quotation, investor and family breakdown"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "A CBI.me extrapolation, not an official count. Baseline and daily rate are available in the model inputs.",
+        "The range is deliberately rounded and is not a verified minimum or maximum. Changes in fees, processing, demand and visa access can place actual issuance outside it.",
+        "Attributed reported grant breakdown; not passports.",
+        "Derived from the cited disjoint source categories/windows; not an authority-published lifetime total.",
+        "People granted citizenship, not passport documents or current citizenship stock. Assumes 1 January 2018 as the start for an average rate; later revocations are not subtracted from a different gross-grant series."
+      ],
+      "seriesId": "cbi-tur",
+      "reportingIntervals": [],
+      "estimate": {
+        "method": "constant_rate_sensitivity_v1",
+        "baselineId": "turkey-may-reported-recipients",
+        "rateId": "turkey-may-reported-recipients",
+        "rateDays": 3070,
+        "from": "2026-05-29",
+        "asOf": "2026-11-15",
+        "lowerMultiplier": 0,
+        "centralMultiplier": 1,
+        "upperMultiplier": 2,
+        "roundTo": 1000,
+        "confidence": "low",
+        "assumptions": [
+          "Unreported activity continues at the stated historical daily rate in the central scenario.",
+          "Sensitivity endpoints assume zero and twice that rate for the unreported interval; these are scenarios, not statistical confidence bounds.",
+          "People granted citizenship, not passport documents or current citizenship stock. Assumes 1 January 2018 as the start for an average rate; later revocations are not subtracted from a different gross-grant series."
+        ]
+      },
+      "revisionId": "cbi-tur-estimate-2026-11-15-8f6a0f70616aeb8d"
+    },
+    {
+      "id": "cbi-nru-estimate-2026-11-15",
+      "subjectId": "cbi-nru",
+      "measure": "applications_approved",
+      "unit": "applications",
+      "value": 70,
+      "qualifier": "range",
+      "lowerBound": 50,
+      "upperBound": 100,
+      "period": "CBI.me model estimate as of 15 November 2026",
+      "periodKind": "cumulative",
+      "coverage": [
+        "FY2025/26 reported",
+        "2026-07-01/2026-11-15 modelled"
+      ],
+      "population": "source_unspecified",
+      "documentScope": "Not a passport-document count",
+      "basis": "modelled_estimate",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2026-12-15",
+      "evidence": [
+        {
+          "sourceId": "N1",
+          "locator": "Budget speech dated 20 July 2026, printed page 7"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "A CBI.me extrapolation, not an official count. Baseline and daily rate are available in the model inputs.",
+        "The range is deliberately rounded and is not a verified minimum or maximum. Changes in fees, processing, demand and visa access can place actual issuance outside it.",
+        "The original speech was read from a third-party archive; 52 is applications, not a passport count.",
+        "Application approvals, not passport documents or people. The first-year launch rate may be a poor guide to subsequent processing."
+      ],
+      "seriesId": "cbi-nru",
+      "reportingIntervals": [],
+      "estimate": {
+        "method": "constant_rate_sensitivity_v1",
+        "baselineId": "nru-approvals-fy2025-26",
+        "rateId": "nru-approvals-fy2025-26",
+        "rateDays": 365,
+        "from": "2026-06-30",
+        "asOf": "2026-11-15",
+        "lowerMultiplier": 0,
+        "centralMultiplier": 1,
+        "upperMultiplier": 2,
+        "roundTo": 10,
+        "confidence": "low",
+        "assumptions": [
+          "Unreported activity continues at the stated historical daily rate in the central scenario.",
+          "Sensitivity endpoints assume zero and twice that rate for the unreported interval; these are scenarios, not statistical confidence bounds.",
+          "Application approvals, not passport documents or people. The first-year launch rate may be a poor guide to subsequent processing."
+        ]
+      },
+      "revisionId": "cbi-nru-estimate-2026-11-15-1d75644b4c80fbef"
     }
   ],
   "sources": [
@@ -2541,7 +3341,8 @@
     "Selected dated research; the absence of a verified number is not zero.",
     "Passports, people and approved applications have distinct units.",
     "No worldwide or regional aggregate is published; differing periods and disputed source totals are retained.",
-    "First issues, renewals, unique holders and current citizenship stock are not interchangeable."
+    "First issues, renewals, unique holders and current citizenship stock are not interchangeable.",
+    "Model estimates are frozen as of 2026-11-15, use explicit historical rates, and never replace the reported observations. They are sensitivity scenarios, not official statistics or confidence intervals. No estimate is generated from application files into people or passport documents."
   ],
   "conflicts": [
     {
