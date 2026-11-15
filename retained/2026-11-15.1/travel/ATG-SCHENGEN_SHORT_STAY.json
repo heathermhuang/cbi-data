@@ -1,0 +1,52 @@
+{
+  "travel": {
+    "id": "ATG-SCHENGEN_SHORT_STAY",
+    "programmeId": "cbi-atg",
+    "passport": "ATG",
+    "destination": "SCHENGEN_SHORT_STAY",
+    "documentType": "ordinary",
+    "purpose": "short_visit",
+    "route": "visa_exempt",
+    "outcome": "supported",
+    "claimId": "cbi-atg-travel-schengen-short-stay",
+    "transport": [
+      "air",
+      "land",
+      "sea"
+    ],
+    "conditions": [],
+    "permittedStay": "90 days in any 180-day period, subject to admission conditions",
+    "documentRecognition": "Common nationality regime only; member-specific recognition not fully checked",
+    "acquisitionRestrictions": "not_researched"
+  },
+  "claim": {
+    "id": "cbi-atg-travel-schengen-short-stay",
+    "revisionId": "cbi-atg-travel-schengen-short-stay-73a303c7ebafb3ad",
+    "subject": "cbi-atg",
+    "predicate": "travel_schengen_short_stay",
+    "value": {
+      "label": "Visa-exempt · 90/180",
+      "note": "Ordinary national passport, short visits; entry conditions and document validity still apply."
+    },
+    "verification": "partial",
+    "valueStatus": "known",
+    "conditions": [],
+    "evidence": [
+      {
+        "sourceId": "eu-visa-list",
+        "locator": "Annexes I/II and qualifying footnotes; ordinary national passports only",
+        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+      }
+    ],
+    "reviewedAt": "2026-10-13",
+    "reviewDueAt": "2026-10-27",
+    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
+    "observedAt": "2026-10-13",
+    "effectiveFrom": null,
+    "effectiveUntil": null,
+    "limitations": [
+      "Ordinary national passport after issuance; acquisition-route and passport-series restrictions not comprehensively researched.",
+      "Individual status exemptions, admission decisions and separate territories are outside this rule."
+    ]
+  }
+}

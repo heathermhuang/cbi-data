@@ -18,6 +18,16 @@ export function validateStatistics(data){
   assert(o.qualifier!=='range'||o.lowerBound!==null&&o.upperBound!==null,'range requires bounds');
   assert(o.qualifier!=='at_least'||o.lowerBound!==null,'at-least requires lower bound');
   for(const interval of o.reportingIntervals)assert(interval.start<=interval.end&&Number.isFinite(Date.parse(interval.start))&&Number.isFinite(Date.parse(interval.end)),'invalid interval '+o.id);
+  if(o.estimate){
+   const e=o.estimate,base=observations.get(e.baselineId),rate=observations.get(e.rateId);
+   assert(o.basis==='modelled_estimate'&&o.qualifier==='range'&&!o.derivation,'estimate must be labelled '+o.id);
+   assert(base&&rate&&!base.estimate&&!rate.estimate&&[base,rate].every(i=>i.subjectId===o.subjectId&&i.measure===o.measure&&i.unit===o.unit&&i.population===o.population),'incompatible estimate inputs '+o.id);
+   const days=(Date.parse(e.asOf)-Date.parse(e.from))/86400000;
+   assert(e.method==='constant_rate_sensitivity_v1'&&days>0&&Number.isFinite(days)&&e.rateDays>0&&e.roundTo>0&&e.asOf<=o.reviewedAt,'invalid estimate dates/rate '+o.id);
+   assert(e.lowerMultiplier===0&&e.centralMultiplier===1&&e.upperMultiplier===2&&e.confidence==='low'&&e.assumptions.length>=3,'unsupported estimate assumptions '+o.id);
+   const increment=rate.value*days/e.rateDays;
+   assert(o.value===Math.floor((base.value+increment)/e.roundTo+0.5)*e.roundTo&&o.lowerBound===Math.floor(base.value/e.roundTo)*e.roundTo&&o.upperBound===Math.ceil((base.value+2*increment)/e.roundTo)*e.roundTo,'estimate arithmetic '+o.id);
+  }else assert(o.basis!=='modelled_estimate','missing estimate model '+o.id);
   if(o.derivation){
    assert(o.basis==='derived'&&o.derivation.formula==='sum','unsupported derivation');
    assert(new Set(o.derivation.inputIds).size===o.derivation.inputIds.length&&!o.derivation.inputIds.includes(o.id),'duplicate/self input');
@@ -51,10 +61,10 @@ export function preferredStatistic(group,measure='passports_issued'){
  if(!group)return null;
  const observations=group.observations.filter(o=>o.measure===measure);
  // Reviewed derived sums have explicit covered windows; never add different measures or infer missing years here.
- return observations.find(o=>o.periodKind==='covered_period_sum')??observations.find(o=>o.basis==='derived'&&o.periodKind==='cumulative')??observations.at(-1)??null;
+ return observations.filter(o=>o.estimate).toSorted((a,b)=>a.estimate.asOf.localeCompare(b.estimate.asOf)).at(-1)??observations.find(o=>o.periodKind==='covered_period_sum')??observations.find(o=>o.basis==='derived'&&o.periodKind==='cumulative')??observations.at(-1)??null;
 }
 
 export function statisticLabel(o){
  if(!o)return 'Passport count unknown';
- return (o.qualifier==='approximate'?'About ':o.qualifier==='at_least'?'At least ':'')+o.value.toLocaleString('en-US')+' '+({passports_issued:'passports',citizenships_granted:'people granted citizenship',applications_approved:'approved applications',citizenships_revoked:'revoked citizenship decisions',passport_sales:'reported passport sales'}[o.measure]);
+ return (o.estimate?'Estimated ':o.qualifier==='approximate'?'About ':o.qualifier==='at_least'?'At least ':'')+o.value.toLocaleString('en-US')+(o.qualifier==='range'?' ('+o.lowerBound.toLocaleString('en-US')+'–'+o.upperBound.toLocaleString('en-US')+')':'')+' '+({passports_issued:'passports',citizenships_granted:'people granted citizenship',applications_approved:'approved applications',citizenships_revoked:'revoked citizenship decisions',passport_sales:'reported passport sales'}[o.measure]);
 }

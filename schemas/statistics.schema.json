@@ -176,7 +176,8 @@
               "programme_report_third_party_copy_reviewed",
               "institutional_estimate",
               "practitioner_report",
-              "derived"
+              "derived",
+              "modelled_estimate"
             ]
           },
           "reviewedAt": {
@@ -278,6 +279,78 @@
                 "end"
               ]
             }
+          },
+          "estimate": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "method": {
+                "type": "string",
+                "minLength": 1
+              },
+              "baselineId": {
+                "type": "string",
+                "minLength": 1
+              },
+              "rateId": {
+                "type": "string",
+                "minLength": 1
+              },
+              "rateDays": {
+                "type": "integer",
+                "minimum": 0
+              },
+              "from": {
+                "type": "string",
+                "minLength": 1
+              },
+              "asOf": {
+                "type": "string",
+                "minLength": 1
+              },
+              "lowerMultiplier": {
+                "type": "number",
+                "minimum": 0
+              },
+              "centralMultiplier": {
+                "type": "number",
+                "minimum": 0
+              },
+              "upperMultiplier": {
+                "type": "number",
+                "minimum": 0
+              },
+              "roundTo": {
+                "type": "integer",
+                "minimum": 0
+              },
+              "confidence": {
+                "type": "string",
+                "minLength": 1
+              },
+              "assumptions": {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "minItems": 1
+              }
+            },
+            "required": [
+              "method",
+              "baselineId",
+              "rateId",
+              "rateDays",
+              "from",
+              "asOf",
+              "lowerMultiplier",
+              "centralMultiplier",
+              "upperMultiplier",
+              "roundTo",
+              "confidence",
+              "assumptions"
+            ]
           }
         },
         "required": [
