@@ -1,6 +1,6 @@
 # CBI Data
 
-Current software **0.2.1**, dataset **2026-11-15.2**: [dated passport issuance and programme activity](docs/programme-activity.md). Nine read-only tools; 34 activity subjects and 72 observations, including explicit unknowns and attributed estimates. The retail legal dataset remains eleven programmes.
+Current software **0.2.1**, dataset **2026-11-15.3**: [dated passport issuance and programme activity](docs/programme-activity.md). Nine read-only tools; 34 activity subjects and 72 observations, including explicit unknowns and attributed estimates. The retail legal dataset remains eleven programmes.
 
 Dated, evidence-qualified investment citizenship research for eleven programmes.
 The original public compilation is authoritative for its migrated CBI.me claims.

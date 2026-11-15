@@ -1,6 +1,6 @@
 # Releases and integrity
 
-API v1, schema 0.1.0, software 0.2.1, dataset 2026-11-15.2 are independently
+API v1, schema 0.1.0, software 0.2.1, dataset 2026-11-15.3 are independently
 versioned. A correction requires a new immutable dataset ID and GitHub tag.
 The manifest records the public canonical source commit, normalized-input hash,
 fixed generation time, build-tool/package versions, coverage and file SHA-256s.
@@ -31,3 +31,5 @@ The November release adds [five scoped Caribbean government observations](caribb
 Release 2026-11-14.2 preserves Saint Lucia’s inherited dated processing summary alongside its transition statement. The original 2026-11-14.1 release remains immutable and hosted.
 
 Release 2026-11-15.1 adds independent programme activity statistics and retains all four previously hosted releases, including their original bytes. See [programme activity](programme-activity.md).
+
+Release 2026-11-15.3 corrects the generation timestamp that was ahead of the actual build time in 2026-11-15.2. Values and model assumptions are unchanged. Both prior releases remain immutable and hosted.
