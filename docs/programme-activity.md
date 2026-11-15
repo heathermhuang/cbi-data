@@ -1,6 +1,6 @@
 # Dated programme activity
 
-Dataset 2026-11-15.2 adds 34 statistics subjects, 72 observations and 21
+Dataset 2026-11-15.3 adds 34 statistics subjects, 72 observations and 21
 source records. The eleven retail programme records and their legal, price,
 family, travel and intake claims are unchanged. Historical and discretionary
 statistics subjects do not expand that retail comparison's legal scope.
@@ -37,7 +37,7 @@ Identifiers accept the statistics subject ID or its documented website alias.
 Optional `measure`, `limit`, `cursor` and `release` filters are strict. The response
 retains units, periods, qualifications, review dates and explicit unknown states.
 An older release without this collection returns `not_covered`, not an invented
-zero. All six releases remain hosted for existing clients.
+zero. All seven releases remain hosted for existing clients.
 
 The immutable release includes `statistics.json`, long-form `statistics.csv`,
 the schema, source/observation revision IDs and change events. Software 0.2.1

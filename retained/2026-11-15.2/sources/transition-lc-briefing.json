@@ -1,0 +1,28 @@
+{
+  "id": "transition-lc-briefing",
+  "publisher": "Saint Lucia Government / Prime Minister Philip J. Pierre",
+  "title": "The Briefing Room, 9 November 2026: response to the EU",
+  "url": "https://www.youtube.com/watch?v=QkjRVYmCCsc&t=5225s",
+  "authorityType": "Official government statement",
+  "documentDate": "2026-11-09",
+  "rights": {
+    "disposition": "link_only",
+    "use": "Original factual paraphrases and source pointers only; no source documents or transcripts distributed.",
+    "basis": "Original compilation; linked publications retain their own rights"
+  },
+  "retrieval": {
+    "retrievedAt": "2026-11-14T11:40:00Z",
+    "lastAttempt": "2026-11-14T11:40:00Z",
+    "method": "browser_exported_auto_transcript",
+    "health": "not_monitored",
+    "hash": "36ee531e85eb331c9f336b5b5739c37531f6dd4e62920784d72f11e071b53a04"
+  },
+  "manualReview": {
+    "intervalDays": 7,
+    "rationale": "Transition positions can change quickly; an announcement does not establish operative closure or a destination rule."
+  },
+  "reviewObservation": {
+    "date": "2026-11-14",
+    "method": "Original speaker’s statement on the government/national-broadcaster channel reviewed via timestamped automatic transcript; transcription names normalized. Original official publication reviewed for the stated transition facts; prices, travel rules and unrelated claims retain their own dates."
+  }
+}
