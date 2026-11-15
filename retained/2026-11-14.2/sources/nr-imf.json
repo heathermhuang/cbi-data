@@ -1,0 +1,28 @@
+{
+  "id": "nr-imf",
+  "publisher": "International Monetary Fund",
+  "title": "Nauru 2025 Article IV, Annex VI",
+  "url": "https://www.imf.org/-/media/files/publications/cr/2025/english/1nruea2025001-source-pdf.pdf",
+  "authorityType": "Institutional report",
+  "documentDate": "2025-08-22",
+  "rights": {
+    "disposition": "link_only",
+    "use": "CBI original factual normalization and references only; no upstream pages, PDFs, images or excerpts redistributed",
+    "basis": "Original compilation; no upstream republication licence asserted"
+  },
+  "retrieval": {
+    "retrievedAt": "2026-10-25T08:26:36.066Z",
+    "lastAttempt": "2026-10-25T08:26:36.066Z",
+    "method": "manual_pdf_review_required",
+    "health": "available",
+    "hash": "df89de95e70277f7e34e3e53ca54fe417edfa51b4c85ed6eb3a4da4826b1afd2"
+  },
+  "manualReview": {
+    "intervalDays": 14,
+    "rationale": "Review exact claim and source applicability; retrieval success alone cannot refresh claims."
+  },
+  "reviewObservation": {
+    "date": "2026-10-12",
+    "method": "Official indexed text reviewed"
+  }
+}

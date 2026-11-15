@@ -1293,6 +1293,286 @@
       ],
       "mode": "retrieval_monitor_with_manual_review",
       "intervalDays": 14
+    },
+    {
+      "url": "https://www.parlament.gv.at/dokument/XXVII/AB/17628/imfname_1629860.pdf",
+      "sourceIds": [
+        "statistics:AU1"
+      ],
+      "claimIds": [],
+      "statisticIds": [
+        "austria-exceptional-2023"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 90
+    },
+    {
+      "url": "https://home-affairs.ec.europa.eu/document/download/07c706b2-eaf8-410e-93cf-e9bcc66ce836_en?filename=Commission+Staff+Working+Document+-+8th+Report+under+the+Visa+Suspension+Mechanism.pdf",
+      "sourceIds": [
+        "statistics:E1"
+      ],
+      "claimIds": [],
+      "statisticIds": [
+        "cbi-atg-ec-0",
+        "cbi-atg-ec-1",
+        "cbi-atg-ec-2",
+        "cbi-dma-ec-0",
+        "cbi-dma-ec-1",
+        "cbi-dma-ec-2",
+        "cbi-grd-ec-0",
+        "cbi-grd-ec-1",
+        "cbi-grd-ec-2",
+        "cbi-kna-ec-0",
+        "cbi-kna-ec-1",
+        "cbi-kna-ec-2",
+        "cbi-atg-covered-windows",
+        "cbi-dma-covered-windows",
+        "cbi-grd-covered-windows",
+        "cbi-kna-covered-windows"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 90
+    },
+    {
+      "url": "https://www.imidaily.com/mena/egypt-grants-36-citizenships-in-2025-under-new-verification-requirements/",
+      "sourceIds": [
+        "statistics:EG1"
+      ],
+      "claimIds": [],
+      "statisticIds": [
+        "egypt-reported-grants-2025"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 90
+    },
+    {
+      "url": "https://imagrenada.gd/wp-content/uploads/2025/01/IMA-Q4-Statistic-Report.pdf",
+      "sourceIds": [
+        "statistics:G1"
+      ],
+      "claimIds": [],
+      "statisticIds": [
+        "grd-grants-2024",
+        "grd-approvals-2024"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 90
+    },
+    {
+      "url": "https://imagrenada.gd/wp-content/uploads/2026/02/IMA-Q4-Statistic-Report-02-3-2026.pdf",
+      "sourceIds": [
+        "statistics:G2"
+      ],
+      "claimIds": [],
+      "statisticIds": [
+        "grd-grants-2025",
+        "grd-approvals-2025"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 90
+    },
+    {
+      "url": "https://imagrenada.gd/wp-content/uploads/2026/06/IMA-Grenada-Q1-Statistics-2026.pdf",
+      "sourceIds": [
+        "statistics:G3"
+      ],
+      "claimIds": [],
+      "statisticIds": [
+        "grd-grants-2026-Q1",
+        "grd-approvals-2026-Q1"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 90
+    },
+    {
+      "url": "https://www.investing.com/news/world-news/comoros-says-abuse-of-passportsforcash-scheme-worries-gulf-allies-1129908",
+      "sourceIds": [
+        "statistics:H1"
+      ],
+      "claimIds": [],
+      "statisticIds": [
+        "comoros-reported-sales"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 90
+    },
+    {
+      "url": "https://www.irishimmigration.ie/wp-content/uploads/2020/04/inv-bank-report-1.pdf",
+      "sourceIds": [
+        "statistics:H11"
+      ],
+      "claimIds": [],
+      "statisticIds": [
+        "irl-principals",
+        "irl-dependants",
+        "ireland-grants-april-2000"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 90
+    },
+    {
+      "url": "https://cyprus-mail.com/2025/12/04/cyprus-end-cabinet-power-to-grant-golden-passports",
+      "sourceIds": [
+        "statistics:H2"
+      ],
+      "claimIds": [],
+      "statisticIds": [
+        "cyprus-reported-recipients"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 90
+    },
+    {
+      "url": "https://parlament.mt/media/138178/office-of-the-regulator-annual-report-2024.pdf",
+      "sourceIds": [
+        "statistics:H4"
+      ],
+      "claimIds": [],
+      "statisticIds": [
+        "mlt-iip-principals",
+        "mlt-iip-dependants",
+        "mlt-gces-principals",
+        "mlt-gces-dependants",
+        "malta-grants-through-2024"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 90
+    },
+    {
+      "url": "https://www.imidaily.com/europe/montenegro-cip-closeout-e413m-raised-869-approvals-and-a-21-5-rejection-rate/",
+      "sourceIds": [
+        "statistics:H7"
+      ],
+      "claimIds": [],
+      "statisticIds": [
+        "montenegro-approvals-july2026"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 90
+    },
+    {
+      "url": "https://research-repository.griffith.edu.au/server/api/core/bitstreams/506a9c00-ab33-58d6-a76c-59984bfaa45c/content",
+      "sourceIds": [
+        "statistics:H8"
+      ],
+      "claimIds": [],
+      "statisticIds": [
+        "nauru-first-estimated-sales",
+        "marshall-estimated-sales"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 90
+    },
+    {
+      "url": "https://petra.gov.jo/docmgr/index.php/en/news/government-revamps-investor-citizenship-rules-to-funnel-capital-into-provinces",
+      "sourceIds": [
+        "statistics:J1"
+      ],
+      "claimIds": [],
+      "statisticIds": [
+        "jordan-investor-grants-july2026"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 90
+    },
+    {
+      "url": "https://petra.gov.jo/wp-content/uploads/index.php/en/news/development-zone-investments-rise-188-to-jd69-billion-in-first-half",
+      "sourceIds": [
+        "statistics:J2"
+      ],
+      "claimIds": [],
+      "statisticIds": [
+        "jor-h1-2026-principals",
+        "jor-h1-2026-dependants",
+        "jordan-h1-2026-grants"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 90
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/oscarleoo/data@main/topics/cbi/raw/nru-parl-approp-speech-2026.pdf",
+      "sourceIds": [
+        "statistics:N1"
+      ],
+      "claimIds": [],
+      "statisticIds": [
+        "nru-approvals-fy2025-26"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 90
+    },
+    {
+      "url": "https://enlargement.ec.europa.eu/system/files/2023-07/MK%20Cluster_1%20Draft%20screening%20report_external%20version.pdf",
+      "sourceIds": [
+        "statistics:NM1"
+      ],
+      "claimIds": [],
+      "statisticIds": [
+        "mk-grants-2005-2022"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 90
+    },
+    {
+      "url": "https://www.imidaily.com/wp-content/uploads/2026/09/STP-First-Year-Report.pdf",
+      "sourceIds": [
+        "statistics:ST3"
+      ],
+      "claimIds": [],
+      "statisticIds": [
+        "stp-reported-sep2026-approvals",
+        "stp-reported-sep2026-grants",
+        "stp-reported-sep2026-passports"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 90
+    },
+    {
+      "url": "https://t24.com.tr/gundem/turkiyede-kac-yabanci-yatirim-yoluyla-vatandaslik-aldi%2C1340815",
+      "sourceIds": [
+        "statistics:T1"
+      ],
+      "claimIds": [],
+      "statisticIds": [
+        "tur-reported-may2026-principals",
+        "tur-reported-may2026-dependants",
+        "turkey-may-reported-recipients"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 90
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52024DC0366",
+      "sourceIds": [
+        "statistics:V1"
+      ],
+      "claimIds": [],
+      "statisticIds": [
+        "vut-passports-2015-2021",
+        "vut-grants-2015-2021"
+      ],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 90
+    },
+    {
+      "url": "https://imagrenada.gd/reports-statistics/",
+      "sourceIds": [
+        "statistics:report-archive"
+      ],
+      "claimIds": [],
+      "statisticIds": [],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 30
+    },
+    {
+      "url": "https://www.cipsaintlucia.com/statistics",
+      "sourceIds": [
+        "statistics:report-archive"
+      ],
+      "claimIds": [],
+      "statisticIds": [],
+      "mode": "retrieval_monitor_with_manual_review",
+      "intervalDays": 30
     }
   ]
 }

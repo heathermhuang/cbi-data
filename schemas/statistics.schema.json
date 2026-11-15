@@ -1,0 +1,411 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "version": {
+      "const": 1
+    },
+    "checked": {
+      "type": "string",
+      "minLength": 1
+    },
+    "subjects": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "country": {
+            "type": "string",
+            "minLength": 1
+          },
+          "jurisdiction": {
+            "type": "string",
+            "minLength": 1
+          },
+          "aliases": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "classification": {
+            "enum": [
+              "retail_citizenship",
+              "discretionary",
+              "staged_citizenship",
+              "qualified_route",
+              "historical_citizenship",
+              "mixed_historical_documents",
+              "noncitizen_documents",
+              "historical_reported",
+              "irregular_historical",
+              "unconfirmed_history"
+            ]
+          },
+          "period": {
+            "type": "string",
+            "minLength": 1
+          },
+          "passportCount": {
+            "type": "null"
+          },
+          "passportCountStatus": {
+            "enum": [
+              "unknown",
+              "dated_observations"
+            ]
+          },
+          "passportCountReason": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "required": [
+          "id",
+          "country",
+          "jurisdiction",
+          "aliases",
+          "classification",
+          "period",
+          "passportCount",
+          "passportCountStatus",
+          "passportCountReason"
+        ]
+      }
+    },
+    "observations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "revisionId": {
+            "type": "string",
+            "minLength": 1
+          },
+          "subjectId": {
+            "type": "string",
+            "minLength": 1
+          },
+          "measure": {
+            "enum": [
+              "passports_issued",
+              "citizenships_granted",
+              "applications_approved",
+              "citizenships_revoked",
+              "passport_sales"
+            ]
+          },
+          "unit": {
+            "enum": [
+              "documents",
+              "people",
+              "applications"
+            ]
+          },
+          "value": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "qualifier": {
+            "enum": [
+              "exact",
+              "approximate",
+              "at_least",
+              "range"
+            ]
+          },
+          "lowerBound": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "minimum": 0
+          },
+          "upperBound": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "minimum": 0
+          },
+          "period": {
+            "type": "string",
+            "minLength": 1
+          },
+          "periodKind": {
+            "enum": [
+              "period",
+              "cumulative",
+              "covered_period_sum",
+              "stock"
+            ]
+          },
+          "coverage": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "population": {
+            "type": "string",
+            "minLength": 1
+          },
+          "documentScope": {
+            "type": "string",
+            "minLength": 1
+          },
+          "basis": {
+            "enum": [
+              "official_document_reviewed",
+              "official_indexed_text_reviewed",
+              "official_document_archived_by_third_party",
+              "official_statement_via_press",
+              "official_statement_via_state_news_agency",
+              "programme_report_third_party_copy_reviewed",
+              "institutional_estimate",
+              "practitioner_report",
+              "derived"
+            ]
+          },
+          "reviewedAt": {
+            "type": "string",
+            "minLength": 1
+          },
+          "reviewDueAt": {
+            "type": "string",
+            "minLength": 1
+          },
+          "evidence": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "sourceId": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "locator": {
+                  "type": "string",
+                  "minLength": 1
+                }
+              },
+              "required": [
+                "sourceId",
+                "locator"
+              ]
+            }
+          },
+          "derivation": {
+            "anyOf": [
+              {
+                "type": "null"
+              },
+              {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                  "inputIds": {
+                    "type": "array",
+                    "items": {
+                      "type": "string",
+                      "minLength": 1
+                    }
+                  },
+                  "formula": {
+                    "const": "sum"
+                  },
+                  "reason": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "disjointness": {
+                    "enum": [
+                      "nonoverlapping_periods",
+                      "source_categories"
+                    ]
+                  }
+                },
+                "required": [
+                  "inputIds",
+                  "formula",
+                  "reason",
+                  "disjointness"
+                ]
+              }
+            ]
+          },
+          "limitations": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "seriesId": {
+            "type": "string",
+            "minLength": 1
+          },
+          "reportingIntervals": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "start": {
+                  "type": "string",
+                  "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+                },
+                "end": {
+                  "type": "string",
+                  "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+                }
+              },
+              "required": [
+                "start",
+                "end"
+              ]
+            }
+          }
+        },
+        "required": [
+          "id",
+          "revisionId",
+          "subjectId",
+          "measure",
+          "unit",
+          "value",
+          "qualifier",
+          "lowerBound",
+          "upperBound",
+          "period",
+          "periodKind",
+          "coverage",
+          "population",
+          "documentScope",
+          "basis",
+          "reviewedAt",
+          "reviewDueAt",
+          "evidence",
+          "derivation",
+          "limitations",
+          "seriesId",
+          "reportingIntervals"
+        ]
+      }
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "publisher": {
+            "type": "string",
+            "minLength": 1
+          },
+          "title": {
+            "type": "string",
+            "minLength": 1
+          },
+          "url": {
+            "type": "string",
+            "minLength": 1
+          },
+          "documentDate": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "reviewedAt": {
+            "type": "string",
+            "minLength": 1
+          },
+          "rights": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "required": [
+          "id",
+          "publisher",
+          "title",
+          "url",
+          "documentDate",
+          "reviewedAt",
+          "rights"
+        ]
+      }
+    },
+    "limitations": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "conflicts": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "sourceId": {
+            "type": "string",
+            "minLength": 1
+          },
+          "reportedValue": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "listedWindowsSum": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "note": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "required": [
+          "id",
+          "sourceId",
+          "reportedValue",
+          "listedWindowsSum",
+          "note"
+        ]
+      }
+    }
+  },
+  "required": [
+    "version",
+    "checked",
+    "subjects",
+    "observations",
+    "sources",
+    "limitations",
+    "conflicts"
+  ],
+  "$schema": "http://json-schema.org/draft-07/schema#"
+}

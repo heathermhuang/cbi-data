@@ -38,3 +38,7 @@ can change on a new request; no cache extends an expiry or review boundary.
 Release downloads are immutable and checksummed. Evidence/conditions are never
 removed to force a response below its bound. No arbitrary URL or field expression
 is accepted, and no government/GitHub fetch or model call occurs on a query path.
+
+## Programme activity
+
+`GET /api/v1/statistics/{id}` accepts `measure`, `limit`, `cursor`, `release` and `include=evidence`. The `get_programme_statistics` MCP tool has the same inputs. Measures are `passports_issued`, `citizenships_granted`, `applications_approved`, `citizenships_revoked` and `passport_sales`. IDs and aliases are listed in `statistics.json`. Results are paged dated observations or an explicit `unknown` / `not_covered` state; they never infer a current stock. See [methodology](programme-activity.md).

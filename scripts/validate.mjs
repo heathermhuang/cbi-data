@@ -1,4 +1,4 @@
-import {readFile,readdir} from 'node:fs/promises';import assert from 'node:assert/strict';import Ajv from 'ajv';import {minor} from '../src/core/index.mjs';
+import {readFile,readdir} from 'node:fs/promises';import assert from 'node:assert/strict';import Ajv from 'ajv';import {minor} from '../src/core/index.mjs';import {validateStatistics} from '../src/core/statistics.mjs';
 const read=async p=>JSON.parse(await readFile(p,'utf8'));const scope=await read('scope.json');const ajv=new Ajv({allErrors:true,strict:true});let all={};
 for(const [dir,schema,array]of [['programmes','programme',false],['claims','claim',true],['sources','source',false],['costs','cost',true],['travel','travel',true],['obligations','obligation',true]]){const validate=ajv.compile(await read('schemas/'+schema+'.schema.json'));all[dir]=[];for(const file of (await readdir('data/'+dir)).sort()){assert.match(file,/^[a-zA-Z0-9._-]+\.json$/);const raw=await read('data/'+dir+'/'+file);for(const value of array?raw:[raw]){assert.ok(validate(value),file+' '+JSON.stringify(validate.errors));all[dir].push(value);}}}
 for(const items of Object.values(all))assert.equal(new Set(items.map(x=>x.id)).size,items.length,'Duplicate IDs');
@@ -11,4 +11,5 @@ for(const pr of p.values())for(const destination of scope.destinations)assert.eq
 for(const o of all.obligations){assert.ok(p.has(o.programmeId));const claim=c.get(o.claimId);assert.ok(claim&&claim.predicate==='obligations');assert.ok(claim.value[o.section]?.[o.itemIndex]);assert.ok(p.get(o.programmeId).obligationIds.includes(o.id));}
 for(const t of all.travel){assert.ok(c.has(t.claimId));assert.ok(p.has(t.programmeId));}
 for(const source of s.values()){const url=new URL(source.url);assert.equal(url.protocol,'https:');assert.ok(!url.username&&!url.password&&!url.port);assert.equal(source.rights.disposition,'link_only');assert.ok(source.manualReview.intervalDays>0);assert.ok(!/imidaily|passportindex|henley/i.test(url.hostname),'Excluded publisher source');}
+const stats=await read('data/statistics.json');const statsValidator=ajv.compile(await read('schemas/statistics.schema.json'));assert.ok(statsValidator(stats),JSON.stringify(statsValidator.errors));validateStatistics(stats);
 console.log(JSON.stringify({valid:true,programmes:p.size,claims:c.size,sources:s.size,travelSlots:all.travel.length}));
