@@ -1,9 +1,169 @@
 {
-  "at": "2026-11-15T03:27:45.524Z",
-  "requests": 58,
+  "at": "2026-11-16T03:33:04.879Z",
+  "requests": 79,
   "maximumRequests": 100,
-  "sourceCount": 58,
+  "sourceCount": 79,
   "observations": [
+    {
+      "sourceIds": [
+        "statistics:N1"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 209072
+    },
+    {
+      "sourceIds": [
+        "statistics:H2"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 259717
+    },
+    {
+      "sourceIds": [
+        "statistics:V1"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 215097
+    },
+    {
+      "sourceIds": [
+        "statistics:NM1"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 1030384
+    },
+    {
+      "sourceIds": [
+        "statistics:report-archive"
+      ],
+      "state": "unavailable",
+      "unchanged": false,
+      "bytes": 0
+    },
+    {
+      "sourceIds": [
+        "statistics:E1"
+      ],
+      "state": "unavailable",
+      "unchanged": false,
+      "bytes": 0
+    },
+    {
+      "sourceIds": [
+        "statistics:G1"
+      ],
+      "state": "unavailable",
+      "unchanged": false,
+      "bytes": 0
+    },
+    {
+      "sourceIds": [
+        "statistics:H4"
+      ],
+      "state": "unavailable",
+      "unchanged": false,
+      "bytes": 0
+    },
+    {
+      "sourceIds": [
+        "statistics:G2"
+      ],
+      "state": "unavailable",
+      "unchanged": false,
+      "bytes": 0
+    },
+    {
+      "sourceIds": [
+        "statistics:G3"
+      ],
+      "state": "unavailable",
+      "unchanged": false,
+      "bytes": 0
+    },
+    {
+      "sourceIds": [
+        "statistics:J1"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 150325
+    },
+    {
+      "sourceIds": [
+        "statistics:J2"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 152000
+    },
+    {
+      "sourceIds": [
+        "statistics:H8"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 199007
+    },
+    {
+      "sourceIds": [
+        "statistics:T1"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 209550
+    },
+    {
+      "sourceIds": [
+        "statistics:report-archive"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 1540703
+    },
+    {
+      "sourceIds": [
+        "statistics:H1"
+      ],
+      "state": "unavailable",
+      "unchanged": false,
+      "bytes": 0
+    },
+    {
+      "sourceIds": [
+        "statistics:H11"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 440520
+    },
+    {
+      "sourceIds": [
+        "statistics:H7"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 154490
+    },
+    {
+      "sourceIds": [
+        "statistics:EG1"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 136134
+    },
+    {
+      "sourceIds": [
+        "statistics:ST3"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 10269788
+    },
     {
       "sourceIds": [
         "us-restrictions"
@@ -22,7 +182,23 @@
     },
     {
       "sourceIds": [
+        "statistics:AU1"
+      ],
+      "state": "available",
+      "unchanged": false,
+      "bytes": 380615
+    },
+    {
+      "sourceIds": [
         "lc-act-2025"
+      ],
+      "state": "unavailable",
+      "unchanged": false,
+      "bytes": 0
+    },
+    {
+      "sourceIds": [
+        "update-lc-report"
       ],
       "state": "unavailable",
       "unchanged": false,
@@ -40,14 +216,6 @@
       "sourceIds": [
         "eu-vanuatu-revoked",
         "vu-eu"
-      ],
-      "state": "unavailable",
-      "unchanged": false,
-      "bytes": 0
-    },
-    {
-      "sourceIds": [
-        "update-lc-report"
       ],
       "state": "unavailable",
       "unchanged": false,
@@ -87,14 +255,6 @@
     },
     {
       "sourceIds": [
-        "follow-ag-eu-request"
-      ],
-      "state": "available",
-      "unchanged": true,
-      "bytes": 17405
-    },
-    {
-      "sourceIds": [
         "eg"
       ],
       "state": "unavailable",
@@ -103,11 +263,27 @@
     },
     {
       "sourceIds": [
+        "follow-ag-eu-request"
+      ],
+      "state": "available",
+      "unchanged": true,
+      "bytes": 17405
+    },
+    {
+      "sourceIds": [
         "ag"
       ],
       "state": "changed_pending_review",
       "unchanged": false,
       "bytes": 61265
+    },
+    {
+      "sourceIds": [
+        "eu-visa-list"
+      ],
+      "state": "changed_pending_review",
+      "unchanged": false,
+      "bytes": 392086
     },
     {
       "sourceIds": [
@@ -169,7 +345,7 @@
     },
     {
       "sourceIds": [
-        "eu-visa-list"
+        "official-gd-agents"
       ],
       "state": "unavailable",
       "unchanged": false,
@@ -177,20 +353,12 @@
     },
     {
       "sourceIds": [
-        "official-gd-agents"
-      ],
-      "state": "changed_pending_review",
-      "unchanged": false,
-      "bytes": 209738
-    },
-    {
-      "sourceIds": [
         "gd",
         "official-gd-process"
       ],
-      "state": "changed_pending_review",
+      "state": "unavailable",
       "unchanged": false,
-      "bytes": 226657
+      "bytes": 0
     },
     {
       "sourceIds": [
@@ -274,20 +442,20 @@
     },
     {
       "sourceIds": [
-        "vu"
-      ],
-      "state": "changed_pending_review",
-      "unchanged": false,
-      "bytes": 43123
-    },
-    {
-      "sourceIds": [
         "publication-sv-stages",
         "sv"
       ],
       "state": "available",
       "unchanged": true,
       "bytes": 0
+    },
+    {
+      "sourceIds": [
+        "vu"
+      ],
+      "state": "changed_pending_review",
+      "unchanged": false,
+      "bytes": 43123
     },
     {
       "sourceIds": [
@@ -308,20 +476,20 @@
     },
     {
       "sourceIds": [
+        "publication-entry-nationality"
+      ],
+      "state": "changed_pending_review",
+      "unchanged": false,
+      "bytes": 66736
+    },
+    {
+      "sourceIds": [
         "comparison-vu-dsp-tariff25",
         "vu-current"
       ],
       "state": "changed_pending_review",
       "unchanged": false,
       "bytes": 22421
-    },
-    {
-      "sourceIds": [
-        "publication-entry-nationality"
-      ],
-      "state": "changed_pending_review",
-      "unchanged": false,
-      "bytes": 66734
     },
     {
       "sourceIds": [
@@ -335,34 +503,34 @@
       "sourceIds": [
         "official-dm-agents"
       ],
-      "state": "changed_pending_review",
+      "state": "unavailable",
       "unchanged": false,
-      "bytes": 927380
+      "bytes": 0
     },
     {
       "sourceIds": [
         "dm"
       ],
-      "state": "changed_pending_review",
+      "state": "unavailable",
       "unchanged": false,
-      "bytes": 468257
+      "bytes": 0
     },
     {
       "sourceIds": [
         "dm-property"
       ],
-      "state": "changed_pending_review",
+      "state": "unavailable",
       "unchanged": false,
-      "bytes": 475596
+      "bytes": 0
     },
     {
       "sourceIds": [
         "dm-timing",
         "official-dm-process"
       ],
-      "state": "changed_pending_review",
+      "state": "unavailable",
       "unchanged": false,
-      "bytes": 413856
+      "bytes": 0
     },
     {
       "sourceIds": [
@@ -370,7 +538,7 @@
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 438027
+      "bytes": 1236995
     },
     {
       "sourceIds": [
@@ -378,7 +546,7 @@
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 874335
+      "bytes": 675253
     },
     {
       "sourceIds": [
@@ -387,15 +555,15 @@
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 1077877
+      "bytes": 214061
     },
     {
       "sourceIds": [
-        "ca-conditional-eta"
+        "nr"
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 31049
+      "bytes": 40778
     },
     {
       "sourceIds": [
@@ -407,19 +575,19 @@
     },
     {
       "sourceIds": [
+        "ca-conditional-eta"
+      ],
+      "state": "changed_pending_review",
+      "unchanged": false,
+      "bytes": 31051
+    },
+    {
+      "sourceIds": [
         "uk-visits"
       ],
       "state": "changed_pending_review",
       "unchanged": false,
       "bytes": 75441
-    },
-    {
-      "sourceIds": [
-        "nr"
-      ],
-      "state": "changed_pending_review",
-      "unchanged": false,
-      "bytes": 40778
     },
     {
       "sourceIds": [
@@ -439,14 +607,6 @@
     },
     {
       "sourceIds": [
-        "tr"
-      ],
-      "state": "changed_pending_review",
-      "unchanged": false,
-      "bytes": 178986
-    },
-    {
-      "sourceIds": [
         "update-tr-enforcement"
       ],
       "state": "changed_pending_review",
@@ -455,11 +615,19 @@
     },
     {
       "sourceIds": [
+        "tr"
+      ],
+      "state": "changed_pending_review",
+      "unchanged": false,
+      "bytes": 178986
+    },
+    {
+      "sourceIds": [
         "skn-reform"
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 167776
+      "bytes": 167774
     },
     {
       "sourceIds": [
@@ -467,7 +635,7 @@
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 461376
+      "bytes": 454371
     },
     {
       "sourceIds": [
@@ -475,11 +643,11 @@
       ],
       "state": "changed_pending_review",
       "unchanged": false,
-      "bytes": 204257
+      "bytes": 204263
     }
   ],
   "legalChangesConfirmed": 0,
   "claimReviewsAdvanced": 0,
   "weeklyDiscovery": "Manual review of official legislation and operational notices required; a retrieval hash is not discovery or legal interpretation.",
-  "workflowURL": "https://github.com/heathermhuang/cbi-data/actions/runs/43672450142"
+  "workflowURL": "https://github.com/heathermhuang/cbi-data/actions/runs/43798827175"
 }
