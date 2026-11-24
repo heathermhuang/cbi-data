@@ -1,6 +1,6 @@
 # Releases and integrity
 
-API v1, schema 0.1.0, software 0.2.1, dataset 2026-11-15.3 are independently
+API v1, schema 0.1.0, software 0.2.1, dataset 2026-11-24.1 are independently
 versioned. A correction requires a new immutable dataset ID and GitHub tag.
 The manifest records the public canonical source commit, normalized-input hash,
 fixed generation time, build-tool/package versions, coverage and file SHA-256s.
@@ -14,7 +14,7 @@ JSON shards, CSV, schemas, code/CLI, lockfile and reproducible instructions.
 No private source is required by public CI or examples.
 
 Releases 2026-11-14.1, 2026-10-25.2 and 2026-10-25.1 are hosted. Retain all public archives; host the
-current and previous four once available. Withdrawn releases remain identifiable
+current and previous seven once available. Withdrawn releases remain identifiable
 in the index and return 410. Older downloadable data need not remain query-hosted.
 A factual correction normally publishes another release rather than overwriting
 bytes. A software rollback restores code and default release together. Website
@@ -33,3 +33,5 @@ Release 2026-11-14.2 preserves Saint Lucia’s inherited dated processing summar
 Release 2026-11-15.1 adds independent programme activity statistics and retains all four previously hosted releases, including their original bytes. See [programme activity](programme-activity.md).
 
 Release 2026-11-15.3 corrects the generation timestamp that was ahead of the actual build time in 2026-11-15.2. Values and model assumptions are unchanged. Both prior releases remain immutable and hosted.
+
+Release 2026-11-24.1 adds published São Tomé and Príncipe and Saint Lucia household subtotals. It retains the original bytes of all seven preceding releases.

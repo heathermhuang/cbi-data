@@ -106,7 +106,9 @@
       "claimIds": [
         "cbi-stp-cost-8",
         "cbi-stp-cost-27",
-        "cbi-stp-feeNote"
+        "cbi-stp-feeNote",
+        "cbi-stp-processing-single",
+        "cbi-stp-processing-family"
       ],
       "state": "partial",
       "gap": "Scope is limited to the cited dated observations; unmodelled applicability remains unknown."
@@ -166,7 +168,7 @@
   },
   "qualifications": [
     "21 September 2026 notice: adult children 18–30 and dependent parents/grandparents 55 + can be processed/approved, but naturalisation and passport issuance pause pending law. Two-month target is not proven delivery.",
-    "Processing, due diligence, passport and professional fees require a current itemised quote.",
+    "The statutory subtotal includes the fund contribution and one combined due diligence and processing fee per application. Obtain current passport, certificate, document and agent charges separately.",
     "No independently verified end-to-end passport delivery time"
   ]
 }

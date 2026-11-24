@@ -11,15 +11,15 @@
     "basis": "Original CBI compilation; upstream rights retained"
   },
   "reviewObservation": {
-    "date": "2026-10-25",
-    "method": "Independent primary-source CBI review; legal document locators and limitations recorded"
+    "date": "2026-11-24",
+    "method": "Reviewed regulations 11 and 12 for citizenship due diligence and the scope of the Schedule 2 amendment."
   },
   "retrieval": {
-    "retrievedAt": null,
-    "lastAttempt": "2026-10-25T09:14:10.344Z",
-    "method": "not_extracted",
-    "health": "unavailable",
-    "hash": null
+    "retrievedAt": "2026-11-24T13:21:47Z",
+    "lastAttempt": "2026-11-24T13:21:47Z",
+    "method": "original_document_and_sha256",
+    "health": "available",
+    "hash": "ca9e92bbf937ea0b87dc9f5f203da68466d0f258c5905ea087a04035ca91457a"
   },
   "manualReview": {
     "intervalDays": 14,

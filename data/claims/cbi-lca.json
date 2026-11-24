@@ -176,10 +176,9 @@
   },
   {
     "id": "cbi-lca-caveat",
-    "revisionId": "cbi-lca-caveat-7b217bce708ac16b",
     "subject": "cbi-lca",
     "predicate": "caveat",
-    "value": "EU response sent; its contents were withheld at the briefing. A sworn declaration of at least US$350,000 in financial resources is an eligibility requirement, separate from the US$240,000 NEF contribution and government fees. Apply the amended dependant and prior-visa-refusal rules. Built-property legislation does not by itself establish available projects. The investment page and older FAQ retain incompatible NEF and diligence figures; no unqualified subtotal is selected.",
+    "value": "EU response sent; its contents were withheld at the briefing. A sworn declaration of at least US$350,000 in financial resources is an eligibility requirement, separate from the US$240,000 NEF contribution and government fees. Apply the amended dependant and prior-visa-refusal rules. Built-property legislation does not by itself establish available projects. The listed NEF charges follow the gazetted schedules.",
     "verification": "partial",
     "valueStatus": "known",
     "conditions": [],
@@ -208,15 +207,21 @@
         "sourceId": "transition-lc-briefing",
         "locator": "1:27:19–1:33:07: response deadline extension, letter sent, contents withheld and continuing dialogue.",
         "scope": "Dated announced government position only; not a final closure instrument or travel guarantee."
+      },
+      {
+        "sourceId": "lc-si-106-2024",
+        "locator": "Regulation 5, replacement Schedule 2 paragraph 1: US$240,000 for an applicant with up to three qualifying dependants, in force from 1 July 2024.",
+        "scope": "Evidence for the stated cost component only."
       }
     ],
-    "reviewedAt": "2026-11-14",
-    "reviewDueAt": "2026-11-21",
-    "reviewMethod": "Original speaker’s statement on the government/national-broadcaster channel reviewed via timestamped automatic transcript; transcription names normalized. Original official publication reviewed for the stated transition facts; prices, travel rules and unrelated claims retain their own dates.",
-    "observedAt": "2026-11-14",
+    "reviewedAt": "2026-11-24",
+    "reviewDueAt": "2026-12-08",
+    "reviewMethod": "Scoped review of the dated legislation and published fee schedule",
+    "observedAt": "2026-11-24",
     "effectiveFrom": null,
     "effectiveUntil": null,
-    "limitations": []
+    "limitations": [],
+    "revisionId": "cbi-lca-caveat-682325b5d2e6051b"
   },
   {
     "id": "cbi-lca-alert",
@@ -332,37 +337,37 @@
   },
   {
     "id": "cbi-lca-feeNote",
-    "revisionId": "cbi-lca-feeNote-57716934581b88a4",
     "subject": "cbi-lca",
     "predicate": "feeNote",
-    "value": "Interview/identity verification is payable by the principal; its amount, passport, document and agent costs are excluded.",
+    "value": "The NEF subtotal includes contribution, processing and due diligence. The principal’s interview and identity verification, issuance, biometrics, documents and professional fees are additional or require confirmation.",
     "verification": "partial",
     "valueStatus": "known",
     "conditions": [],
     "evidence": [
       {
+        "sourceId": "lc-si-106-2024",
+        "locator": "Regulation 5, replacement Schedule 2 paragraph 1: US$240,000 for an applicant with up to three qualifying dependants, in force from 1 July 2024.",
+        "scope": "Evidence for the stated cost component only."
+      },
+      {
+        "sourceId": "lc-regulations-2026",
+        "locator": "Regulation 11(a), Schedule 1 item 3: US$8,000 principal and US$5,000 per qualifying dependant over 16 for a citizenship application.",
+        "scope": "Evidence for the stated cost component only."
+      },
+      {
         "sourceId": "lc",
-        "locator": "NEF US$240,000 up to four; bonds US$300,000 plus US$50,000 administration; other options.",
-        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
-      },
-      {
-        "sourceId": "lc-old",
-        "locator": "Conflicting older US$100,000 price; used only to document official-page inconsistency.",
-        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
-      },
-      {
-        "sourceId": "lc-uk",
-        "locator": "Saint Lucia visit visas required from 5 March 2026; transitional period has ended.",
-        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        "locator": "NEF and application fee sections: contribution after approval, processing and due diligence due on submission.",
+        "scope": "Evidence for the stated cost component only."
       }
     ],
-    "reviewedAt": "2026-10-13",
-    "reviewDueAt": "2026-10-27",
-    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
-    "observedAt": "2026-10-13",
+    "reviewedAt": "2026-11-24",
+    "reviewDueAt": "2026-12-08",
+    "reviewMethod": "Scoped review of the dated legislation and published fee schedule",
+    "observedAt": "2026-11-24",
     "effectiveFrom": null,
     "effectiveUntil": null,
-    "limitations": []
+    "limitations": [],
+    "revisionId": "cbi-lca-feeNote-9fc1891abefe11cb"
   },
   {
     "id": "cbi-lca-keyNote",
@@ -492,69 +497,81 @@
   },
   {
     "id": "cbi-lca-amount",
-    "revisionId": "cbi-lca-amount-f420d354396991ee",
     "subject": "cbi-lca",
     "predicate": "amount",
     "value": {
       "amount": "240000",
       "currency": "USD"
     },
-    "verification": "partial",
+    "verification": "confirmed",
     "valueStatus": "known",
     "conditions": [],
     "evidence": [
       {
+        "sourceId": "lc-si-106-2024",
+        "locator": "Regulation 5, replacement Schedule 2 paragraph 1: US$240,000 for an applicant with up to three qualifying dependants, in force from 1 July 2024.",
+        "scope": "Evidence for the stated cost component only."
+      },
+      {
         "sourceId": "lc",
-        "locator": "NEF US$240,000 up to four; bonds US$300,000 plus US$50,000 administration; other options.",
-        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        "locator": "NEF and application fee sections: contribution after approval, processing and due diligence due on submission.",
+        "scope": "Evidence for the stated cost component only."
+      },
+      {
+        "sourceId": "lc-old",
+        "locator": "FAQ still displays superseded NEF and applicant due diligence figures.",
+        "scope": "Historical website discrepancy, resolved for the stated charges by the later gazetted schedules."
       }
     ],
-    "reviewedAt": "2026-10-13",
-    "reviewDueAt": "2026-10-27",
-    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
-    "observedAt": "2026-10-13",
-    "effectiveFrom": null,
+    "reviewedAt": "2026-11-24",
+    "reviewDueAt": "2026-12-08",
+    "reviewMethod": "Scoped review of the dated legislation and published fee schedule",
+    "observedAt": "2026-11-24",
+    "effectiveFrom": "2024-07-01",
     "effectiveUntil": null,
-    "limitations": []
+    "limitations": [
+      "This figure is the NEF contribution for the named household."
+    ],
+    "revisionId": "cbi-lca-amount-7c93ea69ae620b81"
   },
   {
     "id": "cbi-lca-family-amount",
-    "revisionId": "cbi-lca-family-amount-3b4b390950f30eae",
     "subject": "cbi-lca",
     "predicate": "family_amount",
     "value": {
       "amount": "240000",
       "currency": "USD"
     },
-    "verification": "partial",
+    "verification": "confirmed",
     "valueStatus": "known",
     "conditions": [],
     "evidence": [
       {
+        "sourceId": "lc-si-106-2024",
+        "locator": "Regulation 5, replacement Schedule 2 paragraph 1: US$240,000 for an applicant with up to three qualifying dependants, in force from 1 July 2024.",
+        "scope": "Evidence for the stated cost component only."
+      },
+      {
         "sourceId": "lc",
-        "locator": "NEF US$240,000 up to four; bonds US$300,000 plus US$50,000 administration; other options.",
-        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        "locator": "NEF and application fee sections: contribution after approval, processing and due diligence due on submission.",
+        "scope": "Evidence for the stated cost component only."
       },
       {
         "sourceId": "lc-old",
-        "locator": "Conflicting older US$100,000 price; used only to document official-page inconsistency.",
-        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
-      },
-      {
-        "sourceId": "lc-uk",
-        "locator": "Saint Lucia visit visas required from 5 March 2026; transitional period has ended.",
-        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        "locator": "FAQ still displays superseded NEF and applicant due diligence figures.",
+        "scope": "Historical website discrepancy, resolved for the stated charges by the later gazetted schedules."
       }
     ],
-    "reviewedAt": "2026-10-13",
-    "reviewDueAt": "2026-10-27",
-    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
-    "observedAt": "2026-10-13",
-    "effectiveFrom": null,
+    "reviewedAt": "2026-11-24",
+    "reviewDueAt": "2026-12-08",
+    "reviewMethod": "Scoped review of the dated legislation and published fee schedule",
+    "observedAt": "2026-11-24",
+    "effectiveFrom": "2024-07-01",
     "effectiveUntil": null,
     "limitations": [
-      "An amount alone does not establish dependant eligibility."
-    ]
+      "This figure is the NEF contribution for the named household."
+    ],
+    "revisionId": "cbi-lca-family-amount-1f245e4b37a7fe27"
   },
   {
     "id": "cbi-lca-routes",
@@ -812,7 +829,6 @@
   },
   {
     "id": "cbi-lca-cost-9",
-    "revisionId": "cbi-lca-cost-9-6377133a7a664439",
     "subject": "cbi-lca",
     "predicate": "cost_9",
     "value": {
@@ -827,34 +843,39 @@
       "frequency": "once",
       "scenario": "single_adult"
     },
-    "verification": "disputed",
+    "verification": "confirmed",
     "valueStatus": "known",
     "conditions": [],
     "evidence": [
       {
+        "sourceId": "lc-si-106-2024",
+        "locator": "Regulation 5, replacement Schedule 2 paragraph 1: US$240,000 for an applicant with up to three qualifying dependants, in force from 1 July 2024.",
+        "scope": "Evidence for the stated cost component only."
+      },
+      {
         "sourceId": "lc",
-        "locator": "NEF US$240,000 up to four; bonds US$300,000 plus US$50,000 administration; other options.",
-        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        "locator": "NEF and application fee sections: contribution after approval, processing and due diligence due on submission.",
+        "scope": "Evidence for the stated cost component only."
       },
       {
         "sourceId": "lc-old",
-        "locator": "Conflicting older US$100,000 price; used only to document official-page inconsistency.",
-        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        "locator": "FAQ still displays superseded NEF and applicant due diligence figures.",
+        "scope": "Historical website discrepancy, resolved for the stated charges by the later gazetted schedules."
       }
     ],
-    "reviewedAt": "2026-10-25",
-    "reviewDueAt": "2026-11-08",
-    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
-    "observedAt": "2026-10-25",
-    "effectiveFrom": null,
+    "reviewedAt": "2026-11-24",
+    "reviewDueAt": "2026-12-08",
+    "reviewMethod": "Scoped review of the dated legislation and published fee schedule",
+    "observedAt": "2026-11-24",
+    "effectiveFrom": "2024-07-01",
     "effectiveUntil": null,
     "limitations": [
-      "Investment page and FAQ show incompatible amounts; no unqualified price selected."
-    ]
+      "The gazetted minimum applies to the applicant and up to three qualifying dependants."
+    ],
+    "revisionId": "cbi-lca-cost-9-3679721dbdb77570"
   },
   {
     "id": "cbi-lca-cost-28",
-    "revisionId": "cbi-lca-cost-28-66f2d35dc44f669a",
     "subject": "cbi-lca",
     "predicate": "cost_28",
     "value": {
@@ -869,30 +890,36 @@
       "frequency": "once",
       "scenario": "couple_two_children_under12"
     },
-    "verification": "disputed",
+    "verification": "confirmed",
     "valueStatus": "known",
     "conditions": [],
     "evidence": [
       {
+        "sourceId": "lc-si-106-2024",
+        "locator": "Regulation 5, replacement Schedule 2 paragraph 1: US$240,000 for an applicant with up to three qualifying dependants, in force from 1 July 2024.",
+        "scope": "Evidence for the stated cost component only."
+      },
+      {
         "sourceId": "lc",
-        "locator": "NEF US$240,000 up to four; bonds US$300,000 plus US$50,000 administration; other options.",
-        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        "locator": "NEF and application fee sections: contribution after approval, processing and due diligence due on submission.",
+        "scope": "Evidence for the stated cost component only."
       },
       {
         "sourceId": "lc-old",
-        "locator": "Conflicting older US$100,000 price; used only to document official-page inconsistency.",
-        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        "locator": "FAQ still displays superseded NEF and applicant due diligence figures.",
+        "scope": "Historical website discrepancy, resolved for the stated charges by the later gazetted schedules."
       }
     ],
-    "reviewedAt": "2026-10-25",
-    "reviewDueAt": "2026-11-08",
-    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
-    "observedAt": "2026-10-25",
-    "effectiveFrom": null,
+    "reviewedAt": "2026-11-24",
+    "reviewDueAt": "2026-12-08",
+    "reviewMethod": "Scoped review of the dated legislation and published fee schedule",
+    "observedAt": "2026-11-24",
+    "effectiveFrom": "2024-07-01",
     "effectiveUntil": null,
     "limitations": [
-      "Investment page and FAQ show incompatible amounts; no unqualified price selected."
-    ]
+      "The gazetted minimum applies to the applicant and up to three qualifying dependants."
+    ],
+    "revisionId": "cbi-lca-cost-28-b3a5c4e5046fded8"
   },
   {
     "id": "cbi-lca-editorial-update",
@@ -952,12 +979,12 @@
       "category": "government_charge",
       "basis": "application",
       "quantity": 1,
-      "paymentStage": "not_established",
-      "recoverability": "not_established",
+      "paymentStage": "submission",
+      "recoverability": "nonrefundable",
       "frequency": "once",
       "scenario": "single_adult"
     },
-    "verification": "partial",
+    "verification": "confirmed",
     "valueStatus": "known",
     "conditions": [
       "Conditional on government acceptance of the named household and source-specific eligibility."
@@ -965,18 +992,18 @@
     "evidence": [
       {
         "sourceId": "lc",
-        "locator": "Published contribution and fee schedule; applicant age bands and per-person/application distinctions",
-        "scope": "Dated fee evidence; eligibility, additional charges and refund terms remain separate"
+        "locator": "NEF and application fee sections: contribution after approval, processing and due diligence due on submission.",
+        "scope": "Evidence for the stated cost component only."
       }
     ],
-    "reviewedAt": "2026-10-13",
-    "reviewDueAt": "2026-10-27",
-    "reviewMethod": "Original CBI itemization, retaining source-specific limitations",
-    "observedAt": "2026-10-13",
+    "reviewedAt": "2026-11-24",
+    "reviewDueAt": "2026-12-08",
+    "reviewMethod": "Scoped review of the dated legislation and published fee schedule",
+    "observedAt": "2026-11-24",
     "effectiveFrom": null,
     "effectiveUntil": null,
     "limitations": [],
-    "revisionId": "cbi-lca-scenario-item-26-8ad2ad11d92e10b9"
+    "revisionId": "cbi-lca-scenario-item-26-d6edcd2ff0a94218"
   },
   {
     "id": "cbi-lca-scenario-item-27",
@@ -989,38 +1016,41 @@
       "category": "government_charge",
       "basis": "application",
       "quantity": 1,
-      "paymentStage": "not_established",
-      "recoverability": "not_established",
+      "paymentStage": "submission",
+      "recoverability": "nonrefundable",
       "frequency": "once",
       "scenario": "single_adult"
     },
-    "verification": "disputed",
+    "verification": "confirmed",
     "valueStatus": "known",
     "conditions": [
       "Conditional on government acceptance of the named household and source-specific eligibility."
     ],
     "evidence": [
       {
+        "sourceId": "lc-regulations-2026",
+        "locator": "Regulation 11(a), Schedule 1 item 3: US$8,000 principal and US$5,000 per qualifying dependant over 16 for a citizenship application.",
+        "scope": "Evidence for the stated cost component only."
+      },
+      {
         "sourceId": "lc",
-        "locator": "Published contribution and fee schedule; applicant age bands and per-person/application distinctions",
-        "scope": "Dated fee evidence; eligibility, additional charges and refund terms remain separate"
+        "locator": "NEF and application fee sections: contribution after approval, processing and due diligence due on submission.",
+        "scope": "Evidence for the stated cost component only."
       },
       {
         "sourceId": "lc-old",
-        "locator": "Published contribution and fee schedule; applicant age bands and per-person/application distinctions",
-        "scope": "Dated fee evidence; eligibility, additional charges and refund terms remain separate"
+        "locator": "FAQ still displays superseded NEF and applicant due diligence figures.",
+        "scope": "Historical website discrepancy, resolved for the stated charges by the later gazetted schedules."
       }
     ],
-    "reviewedAt": "2026-10-13",
-    "reviewDueAt": "2026-10-27",
-    "reviewMethod": "Original CBI itemization, retaining source-specific limitations",
-    "observedAt": "2026-10-13",
-    "effectiveFrom": null,
+    "reviewedAt": "2026-11-24",
+    "reviewDueAt": "2026-12-08",
+    "reviewMethod": "Scoped review of the dated legislation and published fee schedule",
+    "observedAt": "2026-11-24",
+    "effectiveFrom": "2026-03-23",
     "effectiveUntil": null,
-    "limitations": [
-      "Investment page says 8000; older FAQ says 7500; incompatible official diligence amounts retained."
-    ],
-    "revisionId": "cbi-lca-scenario-item-27-9f5961515c78890d"
+    "limitations": [],
+    "revisionId": "cbi-lca-scenario-item-27-1d0aa20e402f7945"
   },
   {
     "id": "cbi-lca-scenario-item-28",
@@ -1033,12 +1063,12 @@
       "category": "government_charge",
       "basis": "application",
       "quantity": 1,
-      "paymentStage": "not_established",
-      "recoverability": "not_established",
+      "paymentStage": "submission",
+      "recoverability": "nonrefundable",
       "frequency": "once",
       "scenario": "couple_two_children_under12"
     },
-    "verification": "partial",
+    "verification": "confirmed",
     "valueStatus": "known",
     "conditions": [
       "Conditional on government acceptance of the named household and source-specific eligibility."
@@ -1046,18 +1076,18 @@
     "evidence": [
       {
         "sourceId": "lc",
-        "locator": "Published contribution and fee schedule; applicant age bands and per-person/application distinctions",
-        "scope": "Dated fee evidence; eligibility, additional charges and refund terms remain separate"
+        "locator": "NEF and application fee sections: contribution after approval, processing and due diligence due on submission.",
+        "scope": "Evidence for the stated cost component only."
       }
     ],
-    "reviewedAt": "2026-10-13",
-    "reviewDueAt": "2026-10-27",
-    "reviewMethod": "Original CBI itemization, retaining source-specific limitations",
-    "observedAt": "2026-10-13",
+    "reviewedAt": "2026-11-24",
+    "reviewDueAt": "2026-12-08",
+    "reviewMethod": "Scoped review of the dated legislation and published fee schedule",
+    "observedAt": "2026-11-24",
     "effectiveFrom": null,
     "effectiveUntil": null,
     "limitations": [],
-    "revisionId": "cbi-lca-scenario-item-28-4aa5bc5e53245aed"
+    "revisionId": "cbi-lca-scenario-item-28-f23c22286f2895d6"
   },
   {
     "id": "cbi-lca-scenario-item-29",
@@ -1070,38 +1100,41 @@
       "category": "government_charge",
       "basis": "application",
       "quantity": 1,
-      "paymentStage": "not_established",
-      "recoverability": "not_established",
+      "paymentStage": "submission",
+      "recoverability": "nonrefundable",
       "frequency": "once",
       "scenario": "couple_two_children_under12"
     },
-    "verification": "disputed",
+    "verification": "confirmed",
     "valueStatus": "known",
     "conditions": [
       "Conditional on government acceptance of the named household and source-specific eligibility."
     ],
     "evidence": [
       {
+        "sourceId": "lc-regulations-2026",
+        "locator": "Regulation 11(a), Schedule 1 item 3: US$8,000 principal and US$5,000 per qualifying dependant over 16 for a citizenship application.",
+        "scope": "Evidence for the stated cost component only."
+      },
+      {
         "sourceId": "lc",
-        "locator": "Published contribution and fee schedule; applicant age bands and per-person/application distinctions",
-        "scope": "Dated fee evidence; eligibility, additional charges and refund terms remain separate"
+        "locator": "NEF and application fee sections: contribution after approval, processing and due diligence due on submission.",
+        "scope": "Evidence for the stated cost component only."
       },
       {
         "sourceId": "lc-old",
-        "locator": "Published contribution and fee schedule; applicant age bands and per-person/application distinctions",
-        "scope": "Dated fee evidence; eligibility, additional charges and refund terms remain separate"
+        "locator": "FAQ still displays superseded NEF and applicant due diligence figures.",
+        "scope": "Historical website discrepancy, resolved for the stated charges by the later gazetted schedules."
       }
     ],
-    "reviewedAt": "2026-10-13",
-    "reviewDueAt": "2026-10-27",
-    "reviewMethod": "Original CBI itemization, retaining source-specific limitations",
-    "observedAt": "2026-10-13",
-    "effectiveFrom": null,
+    "reviewedAt": "2026-11-24",
+    "reviewDueAt": "2026-12-08",
+    "reviewMethod": "Scoped review of the dated legislation and published fee schedule",
+    "observedAt": "2026-11-24",
+    "effectiveFrom": "2026-03-23",
     "effectiveUntil": null,
-    "limitations": [
-      "Investment page says 8000; older FAQ says 7500; incompatible official diligence amounts retained."
-    ],
-    "revisionId": "cbi-lca-scenario-item-29-08e4bf6c88aebd97"
+    "limitations": [],
+    "revisionId": "cbi-lca-scenario-item-29-d5532c84029a8d4f"
   },
   {
     "id": "cbi-lca-scenario-item-30",
@@ -1114,12 +1147,12 @@
       "category": "government_charge",
       "basis": "persons",
       "quantity": 3,
-      "paymentStage": "not_established",
-      "recoverability": "not_established",
+      "paymentStage": "submission",
+      "recoverability": "nonrefundable",
       "frequency": "once",
       "scenario": "couple_two_children_under12"
     },
-    "verification": "partial",
+    "verification": "confirmed",
     "valueStatus": "known",
     "conditions": [
       "Conditional on government acceptance of the named household and source-specific eligibility."
@@ -1127,18 +1160,18 @@
     "evidence": [
       {
         "sourceId": "lc",
-        "locator": "Published contribution and fee schedule; applicant age bands and per-person/application distinctions",
-        "scope": "Dated fee evidence; eligibility, additional charges and refund terms remain separate"
+        "locator": "NEF and application fee sections: contribution after approval, processing and due diligence due on submission.",
+        "scope": "Evidence for the stated cost component only."
       }
     ],
-    "reviewedAt": "2026-10-13",
-    "reviewDueAt": "2026-10-27",
-    "reviewMethod": "Original CBI itemization, retaining source-specific limitations",
-    "observedAt": "2026-10-13",
+    "reviewedAt": "2026-11-24",
+    "reviewDueAt": "2026-12-08",
+    "reviewMethod": "Scoped review of the dated legislation and published fee schedule",
+    "observedAt": "2026-11-24",
     "effectiveFrom": null,
     "effectiveUntil": null,
     "limitations": [],
-    "revisionId": "cbi-lca-scenario-item-30-5700c2e4de93ed45"
+    "revisionId": "cbi-lca-scenario-item-30-12bd25cbb1b57896"
   },
   {
     "id": "cbi-lca-scenario-item-31",
@@ -1151,31 +1184,41 @@
       "category": "government_charge",
       "basis": "application",
       "quantity": 1,
-      "paymentStage": "not_established",
-      "recoverability": "not_established",
+      "paymentStage": "submission",
+      "recoverability": "nonrefundable",
       "frequency": "once",
       "scenario": "couple_two_children_under12"
     },
-    "verification": "partial",
+    "verification": "confirmed",
     "valueStatus": "known",
     "conditions": [
       "Conditional on government acceptance of the named household and source-specific eligibility."
     ],
     "evidence": [
       {
+        "sourceId": "lc-regulations-2026",
+        "locator": "Regulation 11(a), Schedule 1 item 3: US$8,000 principal and US$5,000 per qualifying dependant over 16 for a citizenship application.",
+        "scope": "Evidence for the stated cost component only."
+      },
+      {
         "sourceId": "lc",
-        "locator": "Published contribution and fee schedule; applicant age bands and per-person/application distinctions",
-        "scope": "Dated fee evidence; eligibility, additional charges and refund terms remain separate"
+        "locator": "NEF and application fee sections: contribution after approval, processing and due diligence due on submission.",
+        "scope": "Evidence for the stated cost component only."
+      },
+      {
+        "sourceId": "lc-old",
+        "locator": "FAQ still displays superseded NEF and applicant due diligence figures.",
+        "scope": "Historical website discrepancy, resolved for the stated charges by the later gazetted schedules."
       }
     ],
-    "reviewedAt": "2026-10-13",
-    "reviewDueAt": "2026-10-27",
-    "reviewMethod": "Original CBI itemization, retaining source-specific limitations",
-    "observedAt": "2026-10-13",
-    "effectiveFrom": null,
+    "reviewedAt": "2026-11-24",
+    "reviewDueAt": "2026-12-08",
+    "reviewMethod": "Scoped review of the dated legislation and published fee schedule",
+    "observedAt": "2026-11-24",
+    "effectiveFrom": "2026-03-23",
     "effectiveUntil": null,
     "limitations": [],
-    "revisionId": "cbi-lca-scenario-item-31-aa266557cb236ac5"
+    "revisionId": "cbi-lca-scenario-item-31-01c0a15a3eeb5967"
   },
   {
     "id": "cbi-lca-obligations",
