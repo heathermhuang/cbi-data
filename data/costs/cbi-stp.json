@@ -10,5 +10,17 @@
     "programmeId": "cbi-stp",
     "optionId": "cbi-stp-option-1",
     "claimId": "cbi-stp-cost-27"
+  },
+  {
+    "id": "cbi-stp-processing-single",
+    "programmeId": "cbi-stp",
+    "optionId": "cbi-stp-option-1",
+    "claimId": "cbi-stp-processing-single"
+  },
+  {
+    "id": "cbi-stp-processing-family",
+    "programmeId": "cbi-stp",
+    "optionId": "cbi-stp-option-1",
+    "claimId": "cbi-stp-processing-family"
   }
 ]

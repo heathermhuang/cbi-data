@@ -1,0 +1,62 @@
+[
+  {
+    "id": "cbi-stp-statutory-cost-subtotals",
+    "programmeId": "cbi-stp",
+    "classification": "new_coverage",
+    "note": "Adds the gazetted combined processing and due diligence fee to both supported National Transformation Fund household scenarios. Issuance and third-party charges remain outside the subtotal.",
+    "from": "2026-11-15.3",
+    "to": "2026-11-24.1",
+    "observedAt": "2026-11-24",
+    "effectiveAt": null,
+    "beforeRevisionIds": [
+      "cbi-stp-feeNote-22efcfe25c6b1266",
+      "cbi-stp-cost-8-5dc5b999768a45d1",
+      "cbi-stp-cost-27-4087a5d0dd548e82"
+    ],
+    "afterRevisionIds": [
+      "cbi-stp-feeNote-ac11e566bb16dac5",
+      "cbi-stp-cost-8-2c21b4ef834ccae8",
+      "cbi-stp-cost-27-28a22a3e86af081a",
+      "cbi-stp-processing-single-e9956760e4bb154e",
+      "cbi-stp-processing-family-1bb99148153bcf0a"
+    ]
+  },
+  {
+    "id": "cbi-lca-gazetted-nef-costs",
+    "programmeId": "cbi-lca",
+    "classification": "research_correction",
+    "note": "The gazetted NEF minimum and citizenship due diligence schedule resolve the older FAQ discrepancies. Adds the published single and family subtotals with interview and issuance charges outside scope.",
+    "from": "2026-11-15.3",
+    "to": "2026-11-24.1",
+    "observedAt": "2026-11-24",
+    "effectiveAt": null,
+    "beforeRevisionIds": [
+      "cbi-lca-caveat-7b217bce708ac16b",
+      "cbi-lca-feeNote-57716934581b88a4",
+      "cbi-lca-amount-f420d354396991ee",
+      "cbi-lca-family-amount-3b4b390950f30eae",
+      "cbi-lca-cost-9-6377133a7a664439",
+      "cbi-lca-cost-28-66f2d35dc44f669a",
+      "cbi-lca-scenario-item-26-8ad2ad11d92e10b9",
+      "cbi-lca-scenario-item-27-9f5961515c78890d",
+      "cbi-lca-scenario-item-28-4aa5bc5e53245aed",
+      "cbi-lca-scenario-item-29-08e4bf6c88aebd97",
+      "cbi-lca-scenario-item-30-5700c2e4de93ed45",
+      "cbi-lca-scenario-item-31-aa266557cb236ac5"
+    ],
+    "afterRevisionIds": [
+      "cbi-lca-caveat-682325b5d2e6051b",
+      "cbi-lca-feeNote-9fc1891abefe11cb",
+      "cbi-lca-amount-7c93ea69ae620b81",
+      "cbi-lca-family-amount-1f245e4b37a7fe27",
+      "cbi-lca-cost-9-3679721dbdb77570",
+      "cbi-lca-cost-28-b3a5c4e5046fded8",
+      "cbi-lca-scenario-item-26-d6edcd2ff0a94218",
+      "cbi-lca-scenario-item-27-1d0aa20e402f7945",
+      "cbi-lca-scenario-item-28-f23c22286f2895d6",
+      "cbi-lca-scenario-item-29-d5532c84029a8d4f",
+      "cbi-lca-scenario-item-30-12bd25cbb1b57896",
+      "cbi-lca-scenario-item-31-01c0a15a3eeb5967"
+    ]
+  }
+]

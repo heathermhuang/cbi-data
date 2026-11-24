@@ -11,18 +11,18 @@
     "basis": "Original compilation; no upstream republication licence asserted"
   },
   "retrieval": {
-    "retrievedAt": "2026-10-25T08:26:36.066Z",
-    "lastAttempt": "2026-10-25T08:26:36.066Z",
-    "method": "retrieval_hash_only",
+    "retrievedAt": "2026-11-24T13:21:47Z",
+    "lastAttempt": "2026-11-24T13:21:47Z",
+    "method": "original_document_and_sha256",
     "health": "available",
-    "hash": "bbf22f690ab1c1e26c30fe1a187061ff67057c241f3e02d4c3c8092d4f332214"
+    "hash": "ec25413b67a6585baeeb5c493646667c694ab68b25cb2ed9be43f1bf7725390c"
   },
   "manualReview": {
     "intervalDays": 14,
     "rationale": "Review exact claim and source applicability; retrieval success alone cannot refresh claims."
   },
   "reviewObservation": {
-    "date": "2026-10-25",
-    "method": "New scoped duties/resource review; older claims preserve their own dates."
+    "date": "2026-11-24",
+    "method": "Reviewed the NEF investment and application processing and due diligence fee sections only."
   }
 }

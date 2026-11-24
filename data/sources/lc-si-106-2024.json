@@ -1,0 +1,28 @@
+{
+  "id": "lc-si-106-2024",
+  "publisher": "Saint Lucia Government Gazette",
+  "title": "Citizenship by Investment (Amendment) (No. 2) Regulations, S.I. 106 of 2024",
+  "url": "https://npc.govt.lc/files/documents/gazettesx/2024/7/Extraordinary%20Gazette%20July%209%2C%202024.pdf",
+  "authorityType": "Legislation",
+  "documentDate": "2024-07-09",
+  "rights": {
+    "disposition": "link_only",
+    "use": "CBI original factual normalization and source pointers only; no upstream documents or excerpts redistributed",
+    "basis": "Original CBI compilation; upstream rights retained"
+  },
+  "manualReview": {
+    "intervalDays": 14,
+    "rationale": "Review exact legal/operational scope; retrieval cannot refresh the factual review."
+  },
+  "retrieval": {
+    "retrievedAt": "2026-11-24T13:21:47Z",
+    "lastAttempt": "2026-11-24T13:21:47Z",
+    "method": "original_document_and_sha256",
+    "health": "available",
+    "hash": "bb9651620a3559363099bed6880d72710389765da23995099859733ab640ce9f"
+  },
+  "reviewObservation": {
+    "date": "2026-11-24",
+    "method": "Reviewed regulation 5 and the new Schedule 2 paragraph 1 for the NEF minimum."
+  }
+}

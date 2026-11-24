@@ -1,0 +1,28 @@
+{
+  "id": "st-decree-07-2025",
+  "publisher": "São Tomé and Príncipe Government Gazette",
+  "title": "Decree-Law 07/2025: Nationality by Investment or Donation",
+  "url": "https://rstp.st/wp-content/uploads/2025/08/STP-CBI-Act-01082025-1.pdf",
+  "authorityType": "Legislation",
+  "documentDate": "2025-08-01",
+  "rights": {
+    "disposition": "link_only",
+    "use": "CBI original factual normalization and source pointers only; no upstream documents or excerpts redistributed",
+    "basis": "Original CBI compilation; upstream rights retained"
+  },
+  "manualReview": {
+    "intervalDays": 14,
+    "rationale": "Review exact legal/operational scope; retrieval cannot refresh the factual review."
+  },
+  "retrieval": {
+    "retrievedAt": "2026-11-24T13:21:47Z",
+    "lastAttempt": "2026-11-24T13:21:47Z",
+    "method": "original_document_and_sha256",
+    "health": "available",
+    "hash": "0377d0c9b7542771d33dbfab51be3528297d56ad2b2d67e61a1e6b648d846fbc"
+  },
+  "reviewObservation": {
+    "date": "2026-11-24",
+    "method": "Reviewed annex I paragraphs 2 and 3 for the fund contribution and per-application screening and processing fee."
+  }
+}

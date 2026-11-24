@@ -297,37 +297,32 @@
   },
   {
     "id": "cbi-stp-feeNote",
-    "revisionId": "cbi-stp-feeNote-22efcfe25c6b1266",
     "subject": "cbi-stp",
     "predicate": "feeNote",
-    "value": "Processing, due diligence, passport and professional fees require a current itemised quote.",
+    "value": "The statutory subtotal includes the fund contribution and one combined due diligence and processing fee per application. Obtain current passport, certificate, document and agent charges separately.",
     "verification": "partial",
     "valueStatus": "known",
     "conditions": [],
     "evidence": [
       {
-        "sourceId": "st",
-        "locator": "Government confirms citizenship program and National Transformation Fund.",
-        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        "sourceId": "st-decree-07-2025",
+        "locator": "Annex I paragraph 2: US$5,000 combined due diligence and processing per application, non-refundable after submission.",
+        "scope": "Evidence for the stated cost component only."
       },
       {
-        "sourceId": "st-price",
-        "locator": "US$90,000 single, US$95,000 up to four; no residence/visit; advertised timing, not a guarantee.",
-        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
-      },
-      {
-        "sourceId": "st-family",
-        "locator": "Adult dependant naturalisation/passport stage suspended pending new law; submission/approval can continue.",
-        "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
+        "sourceId": "st-decree-07-2025",
+        "locator": "Annex I paragraph 3: contribution after approval, US$90,000 single or US$95,000 for two to four.",
+        "scope": "Evidence for the stated cost component only."
       }
     ],
-    "reviewedAt": "2026-10-13",
-    "reviewDueAt": "2026-10-27",
-    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
-    "observedAt": "2026-10-13",
+    "reviewedAt": "2026-11-24",
+    "reviewDueAt": "2026-12-08",
+    "reviewMethod": "Scoped review of the dated legislation and published fee schedule",
+    "observedAt": "2026-11-24",
     "effectiveFrom": null,
     "effectiveUntil": null,
-    "limitations": []
+    "limitations": [],
+    "revisionId": "cbi-stp-feeNote-ac11e566bb16dac5"
   },
   {
     "id": "cbi-stp-keyNote",
@@ -770,7 +765,6 @@
   },
   {
     "id": "cbi-stp-cost-8",
-    "revisionId": "cbi-stp-cost-8-5dc5b999768a45d1",
     "subject": "cbi-stp",
     "predicate": "cost_8",
     "value": {
@@ -780,34 +774,39 @@
       "category": "capital",
       "basis": "application",
       "quantity": 1,
-      "paymentStage": "not_established",
+      "paymentStage": "after_approval",
       "recoverability": "nonrefundable_contribution_or_published_selling_price; withdrawal_and_refund_terms_not_established",
       "frequency": "once",
       "scenario": "single_adult"
     },
-    "verification": "partial",
+    "verification": "confirmed",
     "valueStatus": "known",
     "conditions": [],
     "evidence": [
+      {
+        "sourceId": "st-decree-07-2025",
+        "locator": "Annex I paragraph 3: contribution after approval, US$90,000 single or US$95,000 for two to four.",
+        "scope": "Evidence for the stated cost component only."
+      },
       {
         "sourceId": "st-price",
         "locator": "US$90,000 single, US$95,000 up to four; no residence/visit; advertised timing, not a guarantee.",
         "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
       }
     ],
-    "reviewedAt": "2026-10-25",
-    "reviewDueAt": "2026-11-08",
-    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
-    "observedAt": "2026-10-25",
-    "effectiveFrom": null,
+    "reviewedAt": "2026-11-24",
+    "reviewDueAt": "2026-12-08",
+    "reviewMethod": "Scoped review of the dated legislation and published fee schedule",
+    "observedAt": "2026-11-24",
+    "effectiveFrom": "2025-08-01",
     "effectiveUntil": null,
     "limitations": [
-      "Consular advertised family price does not establish exact dependant definitions; family applicability remains unresolved."
-    ]
+      "The family contribution applies to a two-to-four-person application subject to eligibility."
+    ],
+    "revisionId": "cbi-stp-cost-8-2c21b4ef834ccae8"
   },
   {
     "id": "cbi-stp-cost-27",
-    "revisionId": "cbi-stp-cost-27-4087a5d0dd548e82",
     "subject": "cbi-stp",
     "predicate": "cost_27",
     "value": {
@@ -817,30 +816,36 @@
       "category": "capital",
       "basis": "application",
       "quantity": 1,
-      "paymentStage": "not_established",
+      "paymentStage": "after_approval",
       "recoverability": "nonrefundable_contribution_or_published_selling_price; withdrawal_and_refund_terms_not_established",
       "frequency": "once",
       "scenario": "couple_two_children_under12"
     },
-    "verification": "partial",
+    "verification": "confirmed",
     "valueStatus": "known",
     "conditions": [],
     "evidence": [
+      {
+        "sourceId": "st-decree-07-2025",
+        "locator": "Annex I paragraph 3: contribution after approval, US$90,000 single or US$95,000 for two to four.",
+        "scope": "Evidence for the stated cost component only."
+      },
       {
         "sourceId": "st-price",
         "locator": "US$90,000 single, US$95,000 up to four; no residence/visit; advertised timing, not a guarantee.",
         "scope": "Dated review of stated claim; not a complete legal or applicant assessment"
       }
     ],
-    "reviewedAt": "2026-10-25",
-    "reviewDueAt": "2026-11-08",
-    "reviewMethod": "Migrated CBI editorial review; source retrieval limitations retained",
-    "observedAt": "2026-10-25",
-    "effectiveFrom": null,
+    "reviewedAt": "2026-11-24",
+    "reviewDueAt": "2026-12-08",
+    "reviewMethod": "Scoped review of the dated legislation and published fee schedule",
+    "observedAt": "2026-11-24",
+    "effectiveFrom": "2025-08-01",
     "effectiveUntil": null,
     "limitations": [
-      "Consular advertised family price does not establish exact dependant definitions; family applicability remains unresolved."
-    ]
+      "The family contribution applies to a two-to-four-person application subject to eligibility."
+    ],
+    "revisionId": "cbi-stp-cost-27-28a22a3e86af081a"
   },
   {
     "id": "cbi-stp-editorial-update",
@@ -877,5 +882,79 @@
     "effectiveUntil": null,
     "limitations": [],
     "revisionId": "cbi-stp-editorial-update-564ec441f6d21c59"
+  },
+  {
+    "id": "cbi-stp-processing-single",
+    "subject": "cbi-stp",
+    "predicate": "scenario_cost_item",
+    "verification": "confirmed",
+    "valueStatus": "known",
+    "value": {
+      "label": "Combined due diligence and processing",
+      "amount": "5000",
+      "currency": "USD",
+      "category": "government_charge",
+      "basis": "application",
+      "quantity": 1,
+      "paymentStage": "submission",
+      "recoverability": "nonrefundable_after_submission",
+      "frequency": "once",
+      "scenario": "single_adult"
+    },
+    "conditions": [
+      "One fee per application, including the named family scenario."
+    ],
+    "evidence": [
+      {
+        "sourceId": "st-decree-07-2025",
+        "locator": "Annex I paragraph 2: US$5,000 combined due diligence and processing per application, non-refundable after submission.",
+        "scope": "Evidence for the stated cost component only."
+      }
+    ],
+    "effectiveFrom": "2025-08-01",
+    "effectiveUntil": null,
+    "limitations": [],
+    "reviewedAt": "2026-11-24",
+    "reviewDueAt": "2026-12-08",
+    "observedAt": "2026-11-24",
+    "reviewMethod": "Scoped review of the dated legislation and published fee schedule",
+    "revisionId": "cbi-stp-processing-single-e9956760e4bb154e"
+  },
+  {
+    "id": "cbi-stp-processing-family",
+    "subject": "cbi-stp",
+    "predicate": "scenario_cost_item",
+    "verification": "confirmed",
+    "valueStatus": "known",
+    "value": {
+      "label": "Combined due diligence and processing",
+      "amount": "5000",
+      "currency": "USD",
+      "category": "government_charge",
+      "basis": "application",
+      "quantity": 1,
+      "paymentStage": "submission",
+      "recoverability": "nonrefundable_after_submission",
+      "frequency": "once",
+      "scenario": "couple_two_children_under12"
+    },
+    "conditions": [
+      "One fee per application, including the named family scenario."
+    ],
+    "evidence": [
+      {
+        "sourceId": "st-decree-07-2025",
+        "locator": "Annex I paragraph 2: US$5,000 combined due diligence and processing per application, non-refundable after submission.",
+        "scope": "Evidence for the stated cost component only."
+      }
+    ],
+    "effectiveFrom": "2025-08-01",
+    "effectiveUntil": null,
+    "limitations": [],
+    "reviewedAt": "2026-11-24",
+    "reviewDueAt": "2026-12-08",
+    "observedAt": "2026-11-24",
+    "reviewMethod": "Scoped review of the dated legislation and published fee schedule",
+    "revisionId": "cbi-stp-processing-family-1bb99148153bcf0a"
   }
 ]

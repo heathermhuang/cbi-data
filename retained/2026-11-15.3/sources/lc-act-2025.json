@@ -1,0 +1,28 @@
+{
+  "id": "lc-act-2025",
+  "publisher": "Saint Lucia Legislature",
+  "title": "Citizenship by Investment (Amendment) Act 22 of 2025",
+  "url": "https://www.cipsaintlucia.com/s/Act-22-Citizenship-by-Investment-Amendment-Act.pdf",
+  "authorityType": "Legislation",
+  "documentDate": "2025-11-10",
+  "rights": {
+    "disposition": "link_only",
+    "use": "CBI original factual normalization and source pointers only; no upstream documents or excerpts redistributed",
+    "basis": "Original CBI compilation; upstream rights retained"
+  },
+  "reviewObservation": {
+    "date": "2026-10-25",
+    "method": "Independent primary-source CBI review; legal document locators and limitations recorded"
+  },
+  "retrieval": {
+    "retrievedAt": null,
+    "lastAttempt": "2026-10-25T09:14:10.344Z",
+    "method": "not_extracted",
+    "health": "unavailable",
+    "hash": null
+  },
+  "manualReview": {
+    "intervalDays": 14,
+    "rationale": "Review exact legal/operational scope; retrieval cannot refresh the factual review."
+  }
+}
