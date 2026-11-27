@@ -1,0 +1,28 @@
+{
+  "id": "ag-fees",
+  "publisher": "Antigua and Barbuda CIU",
+  "title": "NDF and government fee schedule",
+  "url": "https://cip.gov.ag/schedule-of-fees/",
+  "authorityType": "Government guidance",
+  "documentDate": null,
+  "rights": {
+    "disposition": "link_only",
+    "use": "CBI original factual normalization and references only; no upstream pages, PDFs, images or excerpts redistributed",
+    "basis": "Original compilation; no upstream republication licence asserted"
+  },
+  "retrieval": {
+    "retrievedAt": "2026-11-24T13:21:47Z",
+    "lastAttempt": "2026-11-24T13:21:47Z",
+    "method": "original_document_and_sha256",
+    "health": "available",
+    "hash": "0984b41f98ba8438bdd312eae84173d155ad8e97e2d1b65bf173e583bfc1bba3"
+  },
+  "manualReview": {
+    "intervalDays": 14,
+    "rationale": "Review exact claim and source applicability; retrieval success alone cannot refresh claims."
+  },
+  "reviewObservation": {
+    "date": "2026-11-24",
+    "method": "Reviewed the NDF and UWI charges, age bands and passport fees for the six-person household example."
+  }
+}
