@@ -1,6 +1,6 @@
 # Releases and integrity
 
-API v1, schema 0.1.0, software 0.2.1, dataset 2026-11-24.1 are independently
+API v1, schema 0.1.0, software 0.2.1, dataset 2026-11-27.1 are independently
 versioned. A correction requires a new immutable dataset ID and GitHub tag.
 The manifest records the public canonical source commit, normalized-input hash,
 fixed generation time, build-tool/package versions, coverage and file SHA-256s.
@@ -35,3 +35,5 @@ Release 2026-11-15.1 adds independent programme activity statistics and retains 
 Release 2026-11-15.3 corrects the generation timestamp that was ahead of the actual build time in 2026-11-15.2. Values and model assumptions are unchanged. Both prior releases remain immutable and hosted.
 
 Release 2026-11-24.1 adds published São Tomé and Príncipe and Saint Lucia household subtotals. It retains the original bytes of all seven preceding releases.
+
+Release 2026-11-27.1 adds the 26 November PMO-confirmed St Kitts application cutoff and processing timetable. It changes three scoped claims only; prices, other programmes and destination rules retain their dates. The previous eight snapshots remain downloadable; current and previous seven are query-hosted.

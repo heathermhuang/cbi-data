@@ -1,0 +1,22 @@
+[
+  {
+    "id": "cbi-kna-government-cutoff",
+    "programmeId": "cbi-kna",
+    "classification": "research_correction",
+    "note": "Replaces the earlier pending-cutoff description with the 26 November government-confirmed application and processing timetable. Other source dates, prices and travel rules are unchanged.",
+    "from": "2026-11-24.1",
+    "to": "2026-11-27.1",
+    "observedAt": "2026-11-27",
+    "effectiveAt": null,
+    "beforeRevisionIds": [
+      "cbi-kna-caveat-b479441943be0c63",
+      "cbi-kna-intake-observation-72b1d063c81e17b2",
+      "cbi-kna-editorial-transition-c64ab86cb81c4307"
+    ],
+    "afterRevisionIds": [
+      "cbi-kna-caveat-f3bfe75f67e63bcb",
+      "cbi-kna-intake-observation-85fa69702addee9c",
+      "cbi-kna-editorial-transition-1906dbef53ac3223"
+    ]
+  }
+]

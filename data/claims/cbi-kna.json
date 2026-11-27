@@ -221,10 +221,9 @@
   },
   {
     "id": "cbi-kna-caveat",
-    "revisionId": "cbi-kna-caveat-b479441943be0c63",
     "subject": "cbi-kna",
     "predicate": "caveat",
-    "value": "Wind-down announced; applications continue until an agreed deadline. SISC contribution remains published at USD 250,000 for a principal or family up to four. Mandatory biometrics apply to new applications from 14 April 2026. Residency-reform announcements do not establish a universal current stay-day rule.",
+    "value": "Government confirms new applications through 31 January 2029, processing through 31 December 2029 and wind-down by 1 January 2030. SISC contribution remains published at USD 250,000 for a principal or family up to four. Mandatory biometrics apply to new applications from 14 April 2026. Residency-reform announcements do not establish a universal current stay-day rule.",
     "verification": "partial",
     "valueStatus": "known",
     "conditions": [],
@@ -263,15 +262,21 @@
         "sourceId": "transition-skn-address",
         "locator": "18:55–21:08: wind-down decision, negotiated timeline, existing lawful citizens and final application date.",
         "scope": "Dated announced government position only; not a final closure instrument or travel guarantee."
+      },
+      {
+        "sourceId": "transition-skn-timetable",
+        "locator": "Application cutoff and processing paragraph in 26 November PMO statement",
+        "scope": "Government-confirmed dated timetable; no approval, delivery or destination-entry guarantee."
       }
     ],
-    "reviewedAt": "2026-11-14",
-    "reviewDueAt": "2026-11-21",
-    "reviewMethod": "Original speaker’s statement on the government/national-broadcaster channel reviewed via timestamped automatic transcript; transcription names normalized. Original official publication reviewed for the stated transition facts; prices, travel rules and unrelated claims retain their own dates.",
-    "observedAt": "2026-11-14",
+    "reviewedAt": "2026-11-27",
+    "reviewDueAt": "2026-12-04",
+    "reviewMethod": "Original PMO statement published by SKNIS read for the application cutoff and processing timetable. Other facts retain their source dates.",
+    "observedAt": "2026-11-27",
     "effectiveFrom": null,
     "effectiveUntil": null,
-    "limitations": []
+    "limitations": [],
+    "revisionId": "cbi-kna-caveat-f3bfe75f67e63bcb"
   },
   {
     "id": "cbi-kna-alert",
@@ -828,7 +833,6 @@
   },
   {
     "id": "cbi-kna-intake-observation",
-    "revisionId": "cbi-kna-intake-observation-72b1d063c81e17b2",
     "subject": "cbi-kna",
     "predicate": "intake_observation",
     "value": {
@@ -840,7 +844,7 @@
     "verification": "partial",
     "valueStatus": "known",
     "conditions": [
-      "Applications continue pending an agreed final receipt date; wind-down announced on 13 November 2026."
+      "Government statement of 26 November 2026: new applications through 31 January 2029; processing through 31 December 2029; wind-down by 1 January 2030."
     ],
     "evidence": [
       {
@@ -877,19 +881,25 @@
         "sourceId": "transition-skn-address",
         "locator": "18:55–21:08: wind-down decision, negotiated timeline, existing lawful citizens and final application date.",
         "scope": "Dated announced government position only; not a final closure instrument or travel guarantee."
+      },
+      {
+        "sourceId": "transition-skn-timetable",
+        "locator": "Application cutoff and processing paragraph in 26 November PMO statement",
+        "scope": "Government-confirmed dated timetable; no approval, delivery or destination-entry guarantee."
       }
     ],
-    "reviewedAt": "2026-11-14",
-    "reviewDueAt": "2026-11-21",
-    "reviewMethod": "Original speaker’s statement on the government/national-broadcaster channel reviewed via timestamped automatic transcript; transcription names normalized. Original official publication reviewed for the stated transition facts; prices, travel rules and unrelated claims retain their own dates.",
-    "observedAt": "2026-11-14",
+    "reviewedAt": "2026-11-27",
+    "reviewDueAt": "2026-12-04",
+    "reviewMethod": "Original PMO statement published by SKNIS read for the application cutoff and processing timetable. Other facts retain their source dates.",
+    "observedAt": "2026-11-27",
     "effectiveFrom": null,
     "effectiveUntil": null,
     "limitations": [
       "SISC contribution remains published at USD 250,000 for a principal or family up to four. Mandatory biometrics apply to new applications from 14 April 2026. Residency-reform announcements do not establish a universal current stay-day rule.",
       "Publication of a route is not a successful live application or completed issuance observation.",
-      "The reviewed address gives no final application cutoff. A wind-down announcement is not an immediate closure, a guarantee of approval or a guarantee of future destination entry rules."
-    ]
+      "A government-confirmed timetable is not an approval, passport-delivery guarantee or an actual destination visa suspension."
+    ],
+    "revisionId": "cbi-kna-intake-observation-85fa69702addee9c"
   },
   {
     "id": "cbi-kna-travel-gbr",
@@ -1488,17 +1498,16 @@
   },
   {
     "id": "cbi-kna-editorial-transition",
-    "revisionId": "cbi-kna-editorial-transition-c64ab86cb81c4307",
     "subject": "cbi-kna",
     "predicate": "editorial_update",
     "value": {
-      "checked": "2026-11-14",
+      "checked": "2026-11-27",
       "items": [
         {
-          "label": "Government transition position",
-          "text": "In his 13 November 2026 national address, Prime Minister Terrance Drew announced that St Kitts and Nevis will wind down its CBI programme on a timeline being negotiated with the European Union. He said applications would continue under strict standards until a final receipt date is agreed and announced. He said nothing changed that evening for people lawfully holding citizenship and ruled out a rush, discounts or a fire sale. The reviewed address gives no final application cutoff. A wind-down announcement is not an immediate closure, a guarantee of approval or a guarantee of future destination entry rules.",
-          "source": "transition-skn-address",
-          "checked": "2026-11-14"
+          "label": "Government-confirmed application cutoff",
+          "text": "The Prime Minister’s Office statement of 26 November 2026 confirms new CBI applications through 31 January 2029, processing through 31 December 2029 and wind-down by 1 January 2030. Existing pricing, investment thresholds and due diligence standards remain in place during the transition. This government-confirmed timetable is not an immediate closure, an approval or passport-delivery guarantee, or an actual destination visa suspension.",
+          "source": "transition-skn-timetable",
+          "checked": "2026-11-27"
         }
       ],
       "guides": [
@@ -1508,23 +1517,29 @@
     "verification": "confirmed",
     "valueStatus": "known",
     "conditions": [
-      "Scope is the stated dated announcement, not operative legal closure."
+      "Scope is the government-confirmed timetable; no separate EU agreement text or statutory closure instrument is asserted."
     ],
     "evidence": [
       {
         "sourceId": "transition-skn-address",
         "locator": "18:55–21:08: wind-down decision, negotiated timeline, existing lawful citizens and final application date.",
         "scope": "Primary-source statement and its express limits."
+      },
+      {
+        "sourceId": "transition-skn-timetable",
+        "locator": "Application cutoff and processing paragraph in 26 November PMO statement",
+        "scope": "Government-confirmed dated timetable; no approval, delivery or destination-entry guarantee."
       }
     ],
-    "reviewedAt": "2026-11-14",
-    "reviewDueAt": "2026-11-21",
-    "reviewMethod": "Original speaker’s statement on the government/national-broadcaster channel reviewed via timestamped automatic transcript; transcription names normalized. Original official publication reviewed for the stated transition facts; prices, travel rules and unrelated claims retain their own dates.",
-    "observedAt": "2026-11-14",
+    "reviewedAt": "2026-11-27",
+    "reviewDueAt": "2026-12-04",
+    "reviewMethod": "Original PMO statement published by SKNIS read for the application cutoff and processing timetable. Other facts retain their source dates.",
+    "observedAt": "2026-11-27",
     "effectiveFrom": null,
     "effectiveUntil": null,
     "limitations": [
-      "The reviewed address gives no final application cutoff. A wind-down announcement is not an immediate closure, a guarantee of approval or a guarantee of future destination entry rules."
-    ]
+      "No approval, passport-delivery or future destination-entry guarantee."
+    ],
+    "revisionId": "cbi-kna-editorial-transition-1906dbef53ac3223"
   }
 ]
