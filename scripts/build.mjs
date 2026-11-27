@@ -6,7 +6,7 @@ const files=async p=>Promise.all((await readdir(p)).filter(f=>f.endsWith('.json'
 const [scope,programmes,claimGroups,costGroups,travelGroups,sources,changeGroups]=await Promise.all([read('scope.json'),files('data/programmes'),files('data/claims'),files('data/costs'),files('data/travel'),files('data/sources'),files('data/changes')]);
 const statistics=await read('data/statistics.json');
 const claims=claimGroups.flat(),costItems=costGroups.flat(),travel=travelGroups.flat();const obligationGroups=await files('data/obligations');const obligations=obligationGroups.flat();
-const base='dist/'+scope.datasetRelease;await rm(base,{recursive:true,force:true});await mkdir(base,{recursive:true});
+const base='dist/'+scope.datasetRelease;await rm('dist',{recursive:true,force:true});await mkdir(base,{recursive:true});
 const emit=async(p,x)=>{await mkdir((base+'/'+p).split('/').slice(0,-1).join('/'),{recursive:true});await writeFile(base+'/'+p,JSON.stringify(x,null,2)+'\n');};
 for(const p of programmes)await emit('programmes/'+p.id+'.json',{programme:p,claims:claims.filter(c=>c.subject===p.id),costItems:costItems.filter(c=>c.programmeId===p.id),travel:travel.filter(c=>c.programmeId===p.id),obligations:obligations.filter(c=>c.programmeId===p.id)});
 const summaryFields=['financialResources','amount','capital','capitalType','family','hold','presence','caveat','passportDelivery','intake'];
