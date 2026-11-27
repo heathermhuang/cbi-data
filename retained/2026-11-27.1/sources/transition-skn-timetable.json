@@ -1,0 +1,28 @@
+{
+  "id": "transition-skn-timetable",
+  "publisher": "Prime Minister’s Office / Saint Kitts and Nevis Information Service",
+  "title": "Government-confirmed CBI application and processing timetable, 26 November 2026",
+  "url": "https://www.sknis.gov.kn/2026/11/26/saint-kitts-and-nevis-secures-2030-wind-down-of-its-citizenship-by-investment-programme/",
+  "authorityType": "Official government statement",
+  "documentDate": "2026-11-26",
+  "rights": {
+    "disposition": "link_only",
+    "use": "Original factual paraphrases and source pointers only; no source documents or transcripts distributed.",
+    "basis": "Original compilation; linked publications retain their own rights"
+  },
+  "retrieval": {
+    "retrievedAt": "2026-11-27T15:12:16Z",
+    "lastAttempt": "2026-11-27T15:12:16Z",
+    "method": "official_page_read",
+    "health": "not_monitored",
+    "hash": null
+  },
+  "manualReview": {
+    "intervalDays": 7,
+    "rationale": "Transition positions can change quickly; an announcement does not establish operative closure or a destination rule."
+  },
+  "reviewObservation": {
+    "date": "2026-11-27",
+    "method": "Original PMO statement published by SKNIS read for the application cutoff and processing timetable. Other facts retain their source dates."
+  }
+}

@@ -1,0 +1,3356 @@
+{
+  "version": 1,
+  "checked": "2026-11-15",
+  "subjects": [
+    {
+      "id": "cbi-tur",
+      "country": "Türkiye",
+      "jurisdiction": "TUR",
+      "aliases": [
+        "tr"
+      ],
+      "classification": "retail_citizenship",
+      "period": "2017–present",
+      "passportCount": null,
+      "passportCountStatus": "unknown",
+      "passportCountReason": "No comparable passport-issuance total verified in this review. Unknown is not zero; other measures are separate."
+    },
+    {
+      "id": "cbi-kna",
+      "country": "St Kitts and Nevis",
+      "jurisdiction": "KNA",
+      "aliases": [
+        "skn"
+      ],
+      "classification": "retail_citizenship",
+      "period": "1984–present",
+      "passportCount": null,
+      "passportCountStatus": "dated_observations",
+      "passportCountReason": "Dated passport-document observations exist; no current stock or universal lifetime total inferred."
+    },
+    {
+      "id": "cbi-dma",
+      "country": "Dominica",
+      "jurisdiction": "DMA",
+      "aliases": [
+        "dm"
+      ],
+      "classification": "retail_citizenship",
+      "period": "1993–present",
+      "passportCount": null,
+      "passportCountStatus": "dated_observations",
+      "passportCountReason": "Dated passport-document observations exist; no current stock or universal lifetime total inferred."
+    },
+    {
+      "id": "cbi-grd",
+      "country": "Grenada",
+      "jurisdiction": "GRD",
+      "aliases": [
+        "gd"
+      ],
+      "classification": "retail_citizenship",
+      "period": "2013–present",
+      "passportCount": null,
+      "passportCountStatus": "dated_observations",
+      "passportCountReason": "Dated passport-document observations exist; no current stock or universal lifetime total inferred."
+    },
+    {
+      "id": "cbi-vut",
+      "country": "Vanuatu",
+      "jurisdiction": "VUT",
+      "aliases": [
+        "vu"
+      ],
+      "classification": "retail_citizenship",
+      "period": "Current economic citizenship routes",
+      "passportCount": null,
+      "passportCountStatus": "dated_observations",
+      "passportCountReason": "Dated passport-document observations exist; no current stock or universal lifetime total inferred."
+    },
+    {
+      "id": "cbi-atg",
+      "country": "Antigua and Barbuda",
+      "jurisdiction": "ATG",
+      "aliases": [
+        "ag"
+      ],
+      "classification": "retail_citizenship",
+      "period": "2013–present",
+      "passportCount": null,
+      "passportCountStatus": "dated_observations",
+      "passportCountReason": "Dated passport-document observations exist; no current stock or universal lifetime total inferred."
+    },
+    {
+      "id": "cbi-lca",
+      "country": "Saint Lucia",
+      "jurisdiction": "LCA",
+      "aliases": [
+        "lc"
+      ],
+      "classification": "retail_citizenship",
+      "period": "2016–present",
+      "passportCount": null,
+      "passportCountStatus": "unknown",
+      "passportCountReason": "No comparable passport-issuance total verified in this review. Unknown is not zero; other measures are separate."
+    },
+    {
+      "id": "cambodia-investment",
+      "country": "Cambodia",
+      "jurisdiction": "KHM",
+      "aliases": [
+        "kh"
+      ],
+      "classification": "discretionary",
+      "period": "Investment/donation naturalisation provisions",
+      "passportCount": null,
+      "passportCountStatus": "unknown",
+      "passportCountReason": "No comparable passport-issuance total verified in this review. Unknown is not zero; other measures are separate."
+    },
+    {
+      "id": "austria-exceptional",
+      "country": "Austria",
+      "jurisdiction": "AUT",
+      "aliases": [
+        "at"
+      ],
+      "classification": "discretionary",
+      "period": "Exceptional achievements under §10(6)",
+      "passportCount": null,
+      "passportCountStatus": "unknown",
+      "passportCountReason": "No comparable passport-issuance total verified in this review. Unknown is not zero; other measures are separate."
+    },
+    {
+      "id": "jordan-investor-citizenship",
+      "country": "Jordan",
+      "jurisdiction": "JOR",
+      "aliases": [
+        "jo"
+      ],
+      "classification": "staged_citizenship",
+      "period": "2018–present",
+      "passportCount": null,
+      "passportCountStatus": "unknown",
+      "passportCountReason": "No comparable passport-issuance total verified in this review. Unknown is not zero; other measures are separate."
+    },
+    {
+      "id": "cbi-egy",
+      "country": "Egypt",
+      "jurisdiction": "EGY",
+      "aliases": [
+        "eg"
+      ],
+      "classification": "retail_citizenship",
+      "period": "Current investment route",
+      "passportCount": null,
+      "passportCountStatus": "unknown",
+      "passportCountReason": "No comparable passport-issuance total verified in this review. Unknown is not zero; other measures are separate."
+    },
+    {
+      "id": "north-macedonia-economic",
+      "country": "North Macedonia",
+      "jurisdiction": "MKD",
+      "aliases": [
+        "mk"
+      ],
+      "classification": "discretionary",
+      "period": "Special economic-interest grants",
+      "passportCount": null,
+      "passportCountStatus": "unknown",
+      "passportCountReason": "No comparable passport-issuance total verified in this review. Unknown is not zero; other measures are separate."
+    },
+    {
+      "id": "cbi-nru",
+      "country": "Nauru",
+      "jurisdiction": "NRU",
+      "aliases": [
+        "nr"
+      ],
+      "classification": "retail_citizenship",
+      "period": "2024–present",
+      "passportCount": null,
+      "passportCountStatus": "unknown",
+      "passportCountReason": "No comparable passport-issuance total verified in this review. Unknown is not zero; other measures are separate."
+    },
+    {
+      "id": "cbi-stp",
+      "country": "São Tomé and Príncipe",
+      "jurisdiction": "STP",
+      "aliases": [
+        "st"
+      ],
+      "classification": "retail_citizenship",
+      "period": "2025–present",
+      "passportCount": null,
+      "passportCountStatus": "dated_observations",
+      "passportCountReason": "Dated passport-document observations exist; no current stock or universal lifetime total inferred."
+    },
+    {
+      "id": "cbi-slv",
+      "country": "El Salvador",
+      "jurisdiction": "SLV",
+      "aliases": [
+        "sv"
+      ],
+      "classification": "retail_citizenship",
+      "period": "2023–present",
+      "passportCount": null,
+      "passportCountStatus": "unknown",
+      "passportCountReason": "No comparable passport-issuance total verified in this review. Unknown is not zero; other measures are separate."
+    },
+    {
+      "id": "sierra-leone-naturalisation",
+      "country": "Sierra Leone",
+      "jurisdiction": "SLE",
+      "aliases": [
+        "sl"
+      ],
+      "classification": "qualified_route",
+      "period": "Operator-reported special naturalisation",
+      "passportCount": null,
+      "passportCountStatus": "unknown",
+      "passportCountReason": "No comparable passport-issuance total verified in this review. Unknown is not zero; other measures are separate."
+    },
+    {
+      "id": "comoros-economic",
+      "country": "Comoros",
+      "jurisdiction": "COM",
+      "aliases": [
+        "km"
+      ],
+      "classification": "historical_citizenship",
+      "period": "Economic citizenship arrangements from 2008",
+      "passportCount": null,
+      "passportCountStatus": "unknown",
+      "passportCountReason": "No comparable passport-issuance total verified in this review. Unknown is not zero; other measures are separate."
+    },
+    {
+      "id": "cyprus-investment",
+      "country": "Cyprus",
+      "jurisdiction": "CYP",
+      "aliases": [
+        "cy"
+      ],
+      "classification": "historical_citizenship",
+      "period": "Investment programme closed in 2020",
+      "passportCount": null,
+      "passportCountStatus": "unknown",
+      "passportCountReason": "No comparable passport-issuance total verified in this review. Unknown is not zero; other measures are separate."
+    },
+    {
+      "id": "tonga-historical",
+      "country": "Tonga",
+      "jurisdiction": "TON",
+      "aliases": [
+        "to",
+        "to-protected"
+      ],
+      "classification": "mixed_historical_documents",
+      "period": "Historical passport sales; nationality scope varies",
+      "passportCount": null,
+      "passportCountStatus": "unknown",
+      "passportCountReason": "No comparable passport-issuance total verified in this review. Unknown is not zero; other measures are separate."
+    },
+    {
+      "id": "malta-investment-schemes",
+      "country": "Malta",
+      "jurisdiction": "MLT",
+      "aliases": [
+        "mt-iip",
+        "mt-mein"
+      ],
+      "classification": "historical_citizenship",
+      "period": "IIP and GCES/MEIN combined",
+      "passportCount": null,
+      "passportCountStatus": "unknown",
+      "passportCountReason": "No comparable passport-issuance total verified in this review. Unknown is not zero; other measures are separate."
+    },
+    {
+      "id": "belize-economic",
+      "country": "Belize",
+      "jurisdiction": "BLZ",
+      "aliases": [
+        "bz"
+      ],
+      "classification": "historical_citizenship",
+      "period": "Economic citizenship; intake closed in 2002",
+      "passportCount": null,
+      "passportCountStatus": "unknown",
+      "passportCountReason": "No comparable passport-issuance total verified in this review. Unknown is not zero; other measures are separate."
+    },
+    {
+      "id": "tuvalu-resident-passport",
+      "country": "Tuvalu",
+      "jurisdiction": "TUV",
+      "aliases": [
+        "tv-investor-passport"
+      ],
+      "classification": "noncitizen_documents",
+      "period": "Paid resident-passport scheme from 1997",
+      "passportCount": null,
+      "passportCountStatus": "unknown",
+      "passportCountReason": "No comparable passport-issuance total verified in this review. Unknown is not zero; other measures are separate."
+    },
+    {
+      "id": "montenegro-investment",
+      "country": "Montenegro",
+      "jurisdiction": "MNE",
+      "aliases": [
+        "me"
+      ],
+      "classification": "historical_citizenship",
+      "period": "2019–2022 intake; later decisions",
+      "passportCount": null,
+      "passportCountStatus": "unknown",
+      "passportCountReason": "No comparable passport-issuance total verified in this review. Unknown is not zero; other measures are separate."
+    },
+    {
+      "id": "marshall-economic",
+      "country": "Marshall Islands",
+      "jurisdiction": "MHL",
+      "aliases": [
+        "mh"
+      ],
+      "classification": "historical_reported",
+      "period": "Historical passport sales",
+      "passportCount": null,
+      "passportCountStatus": "unknown",
+      "passportCountReason": "No comparable passport-issuance total verified in this review. Unknown is not zero; other measures are separate."
+    },
+    {
+      "id": "nauru-first",
+      "country": "Nauru",
+      "jurisdiction": "NRU",
+      "aliases": [
+        "nr-old"
+      ],
+      "classification": "historical_citizenship",
+      "period": "First scheme; reported 1998–2003",
+      "passportCount": null,
+      "passportCountStatus": "unknown",
+      "passportCountReason": "No comparable passport-issuance total verified in this review. Unknown is not zero; other measures are separate."
+    },
+    {
+      "id": "grenada-first",
+      "country": "Grenada",
+      "jurisdiction": "GRD",
+      "aliases": [
+        "gd-old"
+      ],
+      "classification": "historical_citizenship",
+      "period": "First scheme; 1997–2001",
+      "passportCount": null,
+      "passportCountStatus": "unknown",
+      "passportCountReason": "No comparable passport-issuance total verified in this review. Unknown is not zero; other measures are separate."
+    },
+    {
+      "id": "vanuatu-first",
+      "country": "Vanuatu",
+      "jurisdiction": "VUT",
+      "aliases": [],
+      "classification": "irregular_historical",
+      "period": "Reported irregular 1990s document sales",
+      "passportCount": null,
+      "passportCountStatus": "unknown",
+      "passportCountReason": "No comparable passport-issuance total verified in this review. Unknown is not zero; other measures are separate."
+    },
+    {
+      "id": "ireland-investment-naturalisation-1989",
+      "country": "Ireland",
+      "jurisdiction": "IRL",
+      "aliases": [
+        "ie-old"
+      ],
+      "classification": "historical_citizenship",
+      "period": "From 1989; abolished 1998; pending cases continued",
+      "passportCount": null,
+      "passportCountStatus": "unknown",
+      "passportCountReason": "No comparable passport-issuance total verified in this review. Unknown is not zero; other measures are separate."
+    },
+    {
+      "id": "bulgaria-investor",
+      "country": "Bulgaria",
+      "jurisdiction": "BGR",
+      "aliases": [
+        "bg"
+      ],
+      "classification": "historical_citizenship",
+      "period": "Investor naturalisation; repealed 2022",
+      "passportCount": null,
+      "passportCountStatus": "unknown",
+      "passportCountReason": "No comparable passport-issuance total verified in this review. Unknown is not zero; other measures are separate."
+    },
+    {
+      "id": "peru-economic",
+      "country": "Peru",
+      "jurisdiction": "PER",
+      "aliases": [
+        "pe"
+      ],
+      "classification": "historical_reported",
+      "period": "Reported 1992–1993 scheme",
+      "passportCount": null,
+      "passportCountStatus": "unknown",
+      "passportCountReason": "No comparable passport-issuance total verified in this review. Unknown is not zero; other measures are separate."
+    },
+    {
+      "id": "moldova-investment",
+      "country": "Moldova",
+      "jurisdiction": "MDA",
+      "aliases": [
+        "md"
+      ],
+      "classification": "historical_citizenship",
+      "period": "2018–2020",
+      "passportCount": null,
+      "passportCountStatus": "unknown",
+      "passportCountReason": "No comparable passport-issuance total verified in this review. Unknown is not zero; other measures are separate."
+    },
+    {
+      "id": "kiribati-investor-passport",
+      "country": "Kiribati",
+      "jurisdiction": "KIR",
+      "aliases": [
+        "ki-investor-passport"
+      ],
+      "classification": "noncitizen_documents",
+      "period": "Investor passports from 1995",
+      "passportCount": null,
+      "passportCountStatus": "unknown",
+      "passportCountReason": "No comparable passport-issuance total verified in this review. Unknown is not zero; other measures are separate."
+    },
+    {
+      "id": "samoa-first",
+      "country": "Samoa",
+      "jurisdiction": "WSM",
+      "aliases": [
+        "ws-old"
+      ],
+      "classification": "irregular_historical",
+      "period": "Reported unofficial sales in the 1990s",
+      "passportCount": null,
+      "passportCountStatus": "unknown",
+      "passportCountReason": "No comparable passport-issuance total verified in this review. Unknown is not zero; other measures are separate."
+    },
+    {
+      "id": "saint-vincent-project",
+      "country": "Saint Vincent and the Grenadines",
+      "jurisdiction": "VCT",
+      "aliases": [
+        "vc"
+      ],
+      "classification": "unconfirmed_history",
+      "period": "Abandoned project and disputed honorary grants",
+      "passportCount": null,
+      "passportCountStatus": "unknown",
+      "passportCountReason": "No comparable passport-issuance total verified in this review. Unknown is not zero; other measures are separate."
+    }
+  ],
+  "observations": [
+    {
+      "id": "cbi-atg-ec-0",
+      "subjectId": "cbi-atg",
+      "measure": "passports_issued",
+      "unit": "documents",
+      "value": 7995,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "2015–2023",
+      "periodKind": "period",
+      "coverage": [],
+      "population": "source_unspecified",
+      "documentScope": "First issues, renewals and replacements not separately established",
+      "basis": "official_document_reviewed",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "E1",
+          "locator": "Printed page 37, Total passports issued row, cbi-atg"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "Only the stated reporting window is covered; not a certified lifetime total or unique-person measure."
+      ],
+      "seriesId": "cbi-atg",
+      "reportingIntervals": [
+        {
+          "start": "2015-01-01",
+          "end": "2023-12-31"
+        }
+      ],
+      "revisionId": "cbi-atg-ec-0-78e67d9c909d6c48"
+    },
+    {
+      "id": "cbi-atg-ec-1",
+      "subjectId": "cbi-atg",
+      "measure": "passports_issued",
+      "unit": "documents",
+      "value": 1276,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "2024",
+      "periodKind": "period",
+      "coverage": [],
+      "population": "source_unspecified",
+      "documentScope": "First issues, renewals and replacements not separately established",
+      "basis": "official_document_reviewed",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "E1",
+          "locator": "Printed page 37, Total passports issued row, cbi-atg"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "Only the stated reporting window is covered; not a certified lifetime total or unique-person measure."
+      ],
+      "seriesId": "cbi-atg",
+      "reportingIntervals": [
+        {
+          "start": "2024-01-01",
+          "end": "2024-12-31"
+        }
+      ],
+      "revisionId": "cbi-atg-ec-1-3e6ad0d1ff225746"
+    },
+    {
+      "id": "cbi-atg-ec-2",
+      "subjectId": "cbi-atg",
+      "measure": "passports_issued",
+      "unit": "documents",
+      "value": 540,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "2025-01-01/2025-04-30",
+      "periodKind": "period",
+      "coverage": [],
+      "population": "source_unspecified",
+      "documentScope": "First issues, renewals and replacements not separately established",
+      "basis": "official_document_reviewed",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "E1",
+          "locator": "Printed page 37, Total passports issued row, cbi-atg"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "Only the stated reporting window is covered; not a certified lifetime total or unique-person measure."
+      ],
+      "seriesId": "cbi-atg",
+      "reportingIntervals": [
+        {
+          "start": "2025-01-01",
+          "end": "2025-04-30"
+        }
+      ],
+      "revisionId": "cbi-atg-ec-2-b9b2a1e304d79305"
+    },
+    {
+      "id": "cbi-dma-ec-0",
+      "subjectId": "cbi-dma",
+      "measure": "passports_issued",
+      "unit": "documents",
+      "value": 29590,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "2018–2021",
+      "periodKind": "period",
+      "coverage": [],
+      "population": "source_unspecified",
+      "documentScope": "First issues, renewals and replacements not separately established",
+      "basis": "official_document_reviewed",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "E1",
+          "locator": "Printed page 37, Total passports issued row, cbi-dma"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "Only the stated reporting window is covered; not a certified lifetime total or unique-person measure."
+      ],
+      "seriesId": "cbi-dma",
+      "reportingIntervals": [
+        {
+          "start": "2018-01-01",
+          "end": "2021-12-31"
+        }
+      ],
+      "revisionId": "cbi-dma-ec-0-6bcfdd4cb1716d73"
+    },
+    {
+      "id": "cbi-dma-ec-1",
+      "subjectId": "cbi-dma",
+      "measure": "passports_issued",
+      "unit": "documents",
+      "value": 9539,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "2023",
+      "periodKind": "period",
+      "coverage": [],
+      "population": "source_unspecified",
+      "documentScope": "First issues, renewals and replacements not separately established",
+      "basis": "official_document_reviewed",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "E1",
+          "locator": "Printed page 37, Total passports issued row, cbi-dma"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "Only the stated reporting window is covered; not a certified lifetime total or unique-person measure."
+      ],
+      "seriesId": "cbi-dma",
+      "reportingIntervals": [
+        {
+          "start": "2023-01-01",
+          "end": "2023-12-31"
+        }
+      ],
+      "revisionId": "cbi-dma-ec-1-24299e6a5c40b26c"
+    },
+    {
+      "id": "cbi-dma-ec-2",
+      "subjectId": "cbi-dma",
+      "measure": "passports_issued",
+      "unit": "documents",
+      "value": 9586,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "2024",
+      "periodKind": "period",
+      "coverage": [],
+      "population": "source_unspecified",
+      "documentScope": "First issues, renewals and replacements not separately established",
+      "basis": "official_document_reviewed",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "E1",
+          "locator": "Printed page 37, Total passports issued row, cbi-dma"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "Only the stated reporting window is covered; not a certified lifetime total or unique-person measure."
+      ],
+      "seriesId": "cbi-dma",
+      "reportingIntervals": [
+        {
+          "start": "2024-01-01",
+          "end": "2024-12-31"
+        }
+      ],
+      "revisionId": "cbi-dma-ec-2-16fa9e1367fca60e"
+    },
+    {
+      "id": "cbi-grd-ec-0",
+      "subjectId": "cbi-grd",
+      "measure": "passports_issued",
+      "unit": "documents",
+      "value": 16086,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "2015–2023",
+      "periodKind": "period",
+      "coverage": [],
+      "population": "source_unspecified",
+      "documentScope": "First issues, renewals and replacements not separately established",
+      "basis": "official_document_reviewed",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "E1",
+          "locator": "Printed page 37, Total passports issued row, cbi-grd"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "Only the stated reporting window is covered; not a certified lifetime total or unique-person measure."
+      ],
+      "seriesId": "cbi-grd",
+      "reportingIntervals": [
+        {
+          "start": "2015-01-01",
+          "end": "2023-12-31"
+        }
+      ],
+      "revisionId": "cbi-grd-ec-0-489e0a1bb0f2857a"
+    },
+    {
+      "id": "cbi-grd-ec-1",
+      "subjectId": "cbi-grd",
+      "measure": "passports_issued",
+      "unit": "documents",
+      "value": 5180,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "2024",
+      "periodKind": "period",
+      "coverage": [],
+      "population": "source_unspecified",
+      "documentScope": "First issues, renewals and replacements not separately established",
+      "basis": "official_document_reviewed",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "E1",
+          "locator": "Printed page 37, Total passports issued row, cbi-grd"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "Only the stated reporting window is covered; not a certified lifetime total or unique-person measure."
+      ],
+      "seriesId": "cbi-grd",
+      "reportingIntervals": [
+        {
+          "start": "2024-01-01",
+          "end": "2024-12-31"
+        }
+      ],
+      "revisionId": "cbi-grd-ec-1-8689cfb8535058da"
+    },
+    {
+      "id": "cbi-grd-ec-2",
+      "subjectId": "cbi-grd",
+      "measure": "passports_issued",
+      "unit": "documents",
+      "value": 1518,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "2025-01-01/2025-03-31",
+      "periodKind": "period",
+      "coverage": [],
+      "population": "source_unspecified",
+      "documentScope": "First issues, renewals and replacements not separately established",
+      "basis": "official_document_reviewed",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "E1",
+          "locator": "Printed page 37, Total passports issued row, cbi-grd"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "Only the stated reporting window is covered; not a certified lifetime total or unique-person measure."
+      ],
+      "seriesId": "cbi-grd",
+      "reportingIntervals": [
+        {
+          "start": "2025-01-01",
+          "end": "2025-03-31"
+        }
+      ],
+      "revisionId": "cbi-grd-ec-2-1410f01f82c79392"
+    },
+    {
+      "id": "cbi-kna-ec-0",
+      "subjectId": "cbi-kna",
+      "measure": "passports_issued",
+      "unit": "documents",
+      "value": 48844,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "2015–2023",
+      "periodKind": "period",
+      "coverage": [],
+      "population": "source_unspecified",
+      "documentScope": "First issues, renewals and replacements not separately established",
+      "basis": "official_document_reviewed",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "E1",
+          "locator": "Printed page 37, Total passports issued row, cbi-kna"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "Only the stated reporting window is covered; not a certified lifetime total or unique-person measure."
+      ],
+      "seriesId": "cbi-kna",
+      "reportingIntervals": [
+        {
+          "start": "2015-01-01",
+          "end": "2023-12-31"
+        }
+      ],
+      "revisionId": "cbi-kna-ec-0-ac299e8c39d7b972"
+    },
+    {
+      "id": "cbi-kna-ec-1",
+      "subjectId": "cbi-kna",
+      "measure": "passports_issued",
+      "unit": "documents",
+      "value": 6437,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "2024",
+      "periodKind": "period",
+      "coverage": [],
+      "population": "source_unspecified",
+      "documentScope": "First issues, renewals and replacements not separately established",
+      "basis": "official_document_reviewed",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "E1",
+          "locator": "Printed page 37, Total passports issued row, cbi-kna"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "Only the stated reporting window is covered; not a certified lifetime total or unique-person measure."
+      ],
+      "seriesId": "cbi-kna",
+      "reportingIntervals": [
+        {
+          "start": "2024-01-01",
+          "end": "2024-12-31"
+        }
+      ],
+      "revisionId": "cbi-kna-ec-1-b4667b22325f40e5"
+    },
+    {
+      "id": "cbi-kna-ec-2",
+      "subjectId": "cbi-kna",
+      "measure": "passports_issued",
+      "unit": "documents",
+      "value": 734,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "2025-01-01/2025-04-30",
+      "periodKind": "period",
+      "coverage": [],
+      "population": "source_unspecified",
+      "documentScope": "First issues, renewals and replacements not separately established",
+      "basis": "official_document_reviewed",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "E1",
+          "locator": "Printed page 37, Total passports issued row, cbi-kna"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "Only the stated reporting window is covered; not a certified lifetime total or unique-person measure."
+      ],
+      "seriesId": "cbi-kna",
+      "reportingIntervals": [
+        {
+          "start": "2025-01-01",
+          "end": "2025-04-30"
+        }
+      ],
+      "revisionId": "cbi-kna-ec-2-a32e9b377f272a1f"
+    },
+    {
+      "id": "vut-passports-2015-2021",
+      "subjectId": "cbi-vut",
+      "measure": "passports_issued",
+      "unit": "documents",
+      "value": 10524,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "2015–2021",
+      "periodKind": "period",
+      "coverage": [],
+      "population": "source_unspecified",
+      "documentScope": "First issues, renewals and replacements not separately established",
+      "basis": "official_indexed_text_reviewed",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "V1",
+          "locator": "Table 1, total passports issued"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "This is a dated observation, not a count of current passport holders; first-issue and renewal coverage may be unspecified."
+      ],
+      "seriesId": "cbi-vut",
+      "reportingIntervals": [],
+      "revisionId": "vut-passports-2015-2021-184bac7d376571fe"
+    },
+    {
+      "id": "vut-grants-2015-2021",
+      "subjectId": "cbi-vut",
+      "measure": "citizenships_granted",
+      "unit": "people",
+      "value": 13489,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "2015–2021",
+      "periodKind": "period",
+      "coverage": [],
+      "population": "source_unspecified",
+      "documentScope": "Not a passport-document count",
+      "basis": "official_indexed_text_reviewed",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "V1",
+          "locator": "Table 1, total citizenships awarded"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "Citizenship grants differ from passport documents."
+      ],
+      "seriesId": "cbi-vut",
+      "reportingIntervals": [],
+      "revisionId": "vut-grants-2015-2021-d2366cb093161881"
+    },
+    {
+      "id": "grd-grants-2024",
+      "subjectId": "cbi-grd",
+      "measure": "citizenships_granted",
+      "unit": "people",
+      "value": 5443,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "2024",
+      "periodKind": "period",
+      "coverage": [],
+      "population": "principals_and_dependants",
+      "documentScope": "Not a passport-document count",
+      "basis": "official_document_reviewed",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "G1",
+          "locator": "Number of New Citizens, Y-T-D column"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "People granted citizenship, not passport documents; do not combine with the Commission passport series."
+      ],
+      "seriesId": "cbi-grd",
+      "reportingIntervals": [],
+      "revisionId": "grd-grants-2024-f736b8c80a2f2241"
+    },
+    {
+      "id": "grd-approvals-2024",
+      "subjectId": "cbi-grd",
+      "measure": "applications_approved",
+      "unit": "applications",
+      "value": 1583,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "2024",
+      "periodKind": "period",
+      "coverage": [],
+      "population": "source_unspecified",
+      "documentScope": "Not a passport-document count",
+      "basis": "official_document_reviewed",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "G1",
+          "locator": "Applications Approved, Y-T-D column"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "Application files may include several people; decisions and period intake need not be the same cohort."
+      ],
+      "seriesId": "cbi-grd",
+      "reportingIntervals": [],
+      "revisionId": "grd-approvals-2024-3287822ba7a63592"
+    },
+    {
+      "id": "grd-grants-2025",
+      "subjectId": "cbi-grd",
+      "measure": "citizenships_granted",
+      "unit": "people",
+      "value": 1124,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "2025",
+      "periodKind": "period",
+      "coverage": [],
+      "population": "principals_and_dependants",
+      "documentScope": "Not a passport-document count",
+      "basis": "official_document_reviewed",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "G2",
+          "locator": "Number of New Citizens, Y-T-D column"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "People granted citizenship, not passport documents; do not combine with the Commission passport series."
+      ],
+      "seriesId": "cbi-grd",
+      "reportingIntervals": [],
+      "revisionId": "grd-grants-2025-ea122b6295135dbf"
+    },
+    {
+      "id": "grd-approvals-2025",
+      "subjectId": "cbi-grd",
+      "measure": "applications_approved",
+      "unit": "applications",
+      "value": 495,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "2025",
+      "periodKind": "period",
+      "coverage": [],
+      "population": "source_unspecified",
+      "documentScope": "Not a passport-document count",
+      "basis": "official_document_reviewed",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "G2",
+          "locator": "Applications Approved, Y-T-D column"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "Application files may include several people; decisions and period intake need not be the same cohort."
+      ],
+      "seriesId": "cbi-grd",
+      "reportingIntervals": [],
+      "revisionId": "grd-approvals-2025-29890978c49c1fc4"
+    },
+    {
+      "id": "grd-grants-2026-Q1",
+      "subjectId": "cbi-grd",
+      "measure": "citizenships_granted",
+      "unit": "people",
+      "value": 539,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "2026-Q1",
+      "periodKind": "period",
+      "coverage": [],
+      "population": "principals_and_dependants",
+      "documentScope": "Not a passport-document count",
+      "basis": "official_document_reviewed",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "G3",
+          "locator": "Number of New Citizens, Y-T-D column"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "People granted citizenship, not passport documents; do not combine with the Commission passport series."
+      ],
+      "seriesId": "cbi-grd",
+      "reportingIntervals": [],
+      "revisionId": "grd-grants-2026-Q1-abbe4b538c743705"
+    },
+    {
+      "id": "grd-approvals-2026-Q1",
+      "subjectId": "cbi-grd",
+      "measure": "applications_approved",
+      "unit": "applications",
+      "value": 119,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "2026-Q1",
+      "periodKind": "period",
+      "coverage": [],
+      "population": "source_unspecified",
+      "documentScope": "Not a passport-document count",
+      "basis": "official_document_reviewed",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "G3",
+          "locator": "Applications Approved, Y-T-D column"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "Application files may include several people; decisions and period intake need not be the same cohort."
+      ],
+      "seriesId": "cbi-grd",
+      "reportingIntervals": [],
+      "revisionId": "grd-approvals-2026-Q1-be8d5526d5437863"
+    },
+    {
+      "id": "lca-approvals-fy2024-25",
+      "subjectId": "cbi-lca",
+      "measure": "applications_approved",
+      "unit": "applications",
+      "value": 2278,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "FY2024/25 ending 2025-03-31",
+      "periodKind": "period",
+      "coverage": [],
+      "population": "source_unspecified",
+      "documentScope": "Not a passport-document count",
+      "basis": "official_document_reviewed",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "L1",
+          "locator": "Printed page 19, 2024/25 row, Granted column"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "This table counts application files, not passports or unique family recipients."
+      ],
+      "seriesId": "cbi-lca",
+      "reportingIntervals": [
+        {
+          "start": "2024-04-01",
+          "end": "2025-03-31"
+        }
+      ],
+      "revisionId": "lca-approvals-fy2024-25-6375f124e908840b"
+    },
+    {
+      "id": "nru-approvals-fy2025-26",
+      "subjectId": "cbi-nru",
+      "measure": "applications_approved",
+      "unit": "applications",
+      "value": 52,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "FY2025/26",
+      "periodKind": "period",
+      "coverage": [],
+      "population": "source_unspecified",
+      "documentScope": "Not a passport-document count",
+      "basis": "official_document_archived_by_third_party",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "N1",
+          "locator": "Budget speech dated 20 July 2026, printed page 7"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "The original speech was read from a third-party archive; 52 is applications, not a passport count."
+      ],
+      "seriesId": "cbi-nru",
+      "reportingIntervals": [],
+      "revisionId": "nru-approvals-fy2025-26-cbf844a775d58790"
+    },
+    {
+      "id": "tur-reported-may2026-principals",
+      "subjectId": "cbi-tur",
+      "measure": "citizenships_granted",
+      "unit": "people",
+      "value": 51762,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "Since 2018, statement reported as 2026-05-29",
+      "periodKind": "cumulative",
+      "coverage": [],
+      "population": "principals",
+      "documentScope": "Not a passport-document count",
+      "basis": "official_statement_via_press",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "T1",
+          "locator": "Minister quotation, investor and family breakdown"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "Original minister statement not independently recovered; retain secondary attribution.",
+        "Gross historical grants; no passport-document or current-stock claim."
+      ],
+      "seriesId": "cbi-tur",
+      "reportingIntervals": [],
+      "revisionId": "tur-reported-may2026-principals-6552b2d22ad18650"
+    },
+    {
+      "id": "tur-reported-may2026-dependants",
+      "subjectId": "cbi-tur",
+      "measure": "citizenships_granted",
+      "unit": "people",
+      "value": 122805,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "Since 2018, statement reported as 2026-05-29",
+      "periodKind": "cumulative",
+      "coverage": [],
+      "population": "dependants",
+      "documentScope": "Not a passport-document count",
+      "basis": "official_statement_via_press",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "T1",
+          "locator": "Minister quotation, investor and family breakdown"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "Original minister statement not independently recovered; retain secondary attribution.",
+        "Gross historical grants; no passport-document or current-stock claim."
+      ],
+      "seriesId": "cbi-tur",
+      "reportingIntervals": [],
+      "revisionId": "tur-reported-may2026-dependants-f22b708a02dc49ef"
+    },
+    {
+      "id": "tur-revoked-irregular-transactions",
+      "subjectId": "cbi-tur",
+      "measure": "citizenships_revoked",
+      "unit": "people",
+      "value": 5391,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "Cumulative reported 2026-08-04; starting cutoff unspecified",
+      "periodKind": "cumulative",
+      "coverage": [],
+      "population": "principals_and_dependants",
+      "documentScope": "Not a passport-document count",
+      "basis": "official_document_reviewed",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "T3",
+          "locator": "Paragraphs beginning muvazaalı and Vatandaşlık kazanımı sonrasında"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "Counts include investors and relatives. Do not subtract from a differently dated gross grant total."
+      ],
+      "seriesId": "tur-revoked-irregular-transactions",
+      "reportingIntervals": [],
+      "revisionId": "tur-revoked-irregular-transactions-096a3e7b32aaa391"
+    },
+    {
+      "id": "tur-revoked-security-public-order",
+      "subjectId": "cbi-tur",
+      "measure": "citizenships_revoked",
+      "unit": "people",
+      "value": 743,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "Cumulative reported 2026-08-04; starting cutoff unspecified",
+      "periodKind": "cumulative",
+      "coverage": [],
+      "population": "principals_and_dependants",
+      "documentScope": "Not a passport-document count",
+      "basis": "official_document_reviewed",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "T3",
+          "locator": "Paragraphs beginning muvazaalı and Vatandaşlık kazanımı sonrasında"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "Counts include investors and relatives. Do not subtract from a differently dated gross grant total."
+      ],
+      "seriesId": "tur-revoked-security-public-order",
+      "reportingIntervals": [],
+      "revisionId": "tur-revoked-security-public-order-23f1120ceac241b7"
+    },
+    {
+      "id": "stp-reported-sep2026-approvals",
+      "subjectId": "cbi-stp",
+      "measure": "applications_approved",
+      "unit": "applications",
+      "value": 350,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "First-year report dated 2026-09-01; exact observation cutoff not independently verified",
+      "periodKind": "period",
+      "coverage": [],
+      "population": "source_unspecified",
+      "documentScope": "Not a passport-document count",
+      "basis": "programme_report_third_party_copy_reviewed",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "ST3",
+          "locator": "PDF page 3, Programme Statistics"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "CIU-labelled original report read from trade-publication-hosted PDF; matching government-hosted copy not verified.",
+        "Source definitions of people/files and exact activity cutoff remain unresolved; do not infer conversion rates."
+      ],
+      "seriesId": "cbi-stp",
+      "reportingIntervals": [],
+      "revisionId": "stp-reported-sep2026-approvals-002a7a61025e10a2"
+    },
+    {
+      "id": "stp-reported-sep2026-grants",
+      "subjectId": "cbi-stp",
+      "measure": "citizenships_granted",
+      "unit": "people",
+      "value": 117,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "First-year report dated 2026-09-01; exact observation cutoff not independently verified",
+      "periodKind": "period",
+      "coverage": [],
+      "population": "source_unspecified",
+      "documentScope": "Not a passport-document count",
+      "basis": "programme_report_third_party_copy_reviewed",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "ST3",
+          "locator": "PDF page 3, Programme Statistics"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "CIU-labelled original report read from trade-publication-hosted PDF; matching government-hosted copy not verified.",
+        "Source definitions of people/files and exact activity cutoff remain unresolved; do not infer conversion rates."
+      ],
+      "seriesId": "cbi-stp",
+      "reportingIntervals": [],
+      "revisionId": "stp-reported-sep2026-grants-bfad2978c130db31"
+    },
+    {
+      "id": "stp-reported-sep2026-passports",
+      "subjectId": "cbi-stp",
+      "measure": "passports_issued",
+      "unit": "documents",
+      "value": 29,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "First-year report dated 2026-09-01; exact observation cutoff not independently verified",
+      "periodKind": "period",
+      "coverage": [],
+      "population": "source_unspecified",
+      "documentScope": "First issues, renewals and replacements not separately established",
+      "basis": "programme_report_third_party_copy_reviewed",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "ST3",
+          "locator": "PDF page 3, Programme Statistics"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "CIU-labelled original report read from trade-publication-hosted PDF; matching government-hosted copy not verified.",
+        "Source definitions of people/files and exact activity cutoff remain unresolved; do not infer conversion rates."
+      ],
+      "seriesId": "cbi-stp",
+      "reportingIntervals": [],
+      "revisionId": "stp-reported-sep2026-passports-a64d9ed858ee79c9"
+    },
+    {
+      "id": "mlt-iip-principals",
+      "subjectId": "malta-investment-schemes",
+      "measure": "citizenships_granted",
+      "unit": "people",
+      "value": 1555,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "Scheme inception through 2024-12-31",
+      "periodKind": "cumulative",
+      "coverage": [],
+      "population": "principals",
+      "documentScope": "Not a passport-document count",
+      "basis": "official_document_reviewed",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "H4",
+          "locator": "Printed pages 42 and 74–75, naturalised applicants and dependants"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "Programme episodes are distinct; these are gross naturalisations, not passport booklets."
+      ],
+      "seriesId": "malta-iip",
+      "reportingIntervals": [],
+      "revisionId": "mlt-iip-principals-3f5b6238b4cb710c"
+    },
+    {
+      "id": "mlt-iip-dependants",
+      "subjectId": "malta-investment-schemes",
+      "measure": "citizenships_granted",
+      "unit": "people",
+      "value": 3768,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "Scheme inception through 2024-12-31",
+      "periodKind": "cumulative",
+      "coverage": [],
+      "population": "dependants",
+      "documentScope": "Not a passport-document count",
+      "basis": "official_document_reviewed",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "H4",
+          "locator": "Printed pages 42 and 74–75, naturalised applicants and dependants"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "Programme episodes are distinct; these are gross naturalisations, not passport booklets."
+      ],
+      "seriesId": "malta-iip",
+      "reportingIntervals": [],
+      "revisionId": "mlt-iip-dependants-a2d701e6b93f6115"
+    },
+    {
+      "id": "mlt-gces-principals",
+      "subjectId": "malta-investment-schemes",
+      "measure": "citizenships_granted",
+      "unit": "people",
+      "value": 275,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "Scheme inception through 2024-12-31",
+      "periodKind": "cumulative",
+      "coverage": [],
+      "population": "principals",
+      "documentScope": "Not a passport-document count",
+      "basis": "official_document_reviewed",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "H4",
+          "locator": "Printed pages 42 and 74–75, naturalised applicants and dependants"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "Programme episodes are distinct; these are gross naturalisations, not passport booklets."
+      ],
+      "seriesId": "malta-gces",
+      "reportingIntervals": [],
+      "revisionId": "mlt-gces-principals-e1fe26a45253ddf7"
+    },
+    {
+      "id": "mlt-gces-dependants",
+      "subjectId": "malta-investment-schemes",
+      "measure": "citizenships_granted",
+      "unit": "people",
+      "value": 554,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "Scheme inception through 2024-12-31",
+      "periodKind": "cumulative",
+      "coverage": [],
+      "population": "dependants",
+      "documentScope": "Not a passport-document count",
+      "basis": "official_document_reviewed",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "H4",
+          "locator": "Printed pages 42 and 74–75, naturalised applicants and dependants"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "Programme episodes are distinct; these are gross naturalisations, not passport booklets."
+      ],
+      "seriesId": "malta-gces",
+      "reportingIntervals": [],
+      "revisionId": "mlt-gces-dependants-8fccc06cf8621935"
+    },
+    {
+      "id": "irl-principals",
+      "subjectId": "ireland-investment-naturalisation-1989",
+      "measure": "citizenships_granted",
+      "unit": "people",
+      "value": 106,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "Since 1989, review dated April 2000",
+      "periodKind": "cumulative",
+      "coverage": [],
+      "population": "principals",
+      "documentScope": "Not a passport-document count",
+      "basis": "official_document_reviewed",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "H11",
+          "locator": "Executive summary, printed pages 2–3"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "Pending cases remained; not a certified final lifetime issuance count."
+      ],
+      "seriesId": "ireland-investment-naturalisation-1989",
+      "reportingIntervals": [],
+      "revisionId": "irl-principals-b4fabec335d76ce5"
+    },
+    {
+      "id": "irl-dependants",
+      "subjectId": "ireland-investment-naturalisation-1989",
+      "measure": "citizenships_granted",
+      "unit": "people",
+      "value": 63,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "Since 1989, review dated April 2000",
+      "periodKind": "cumulative",
+      "coverage": [],
+      "population": "dependants",
+      "documentScope": "Not a passport-document count",
+      "basis": "official_document_reviewed",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "H11",
+          "locator": "Executive summary, printed pages 2–3"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "Pending cases remained; not a certified final lifetime issuance count."
+      ],
+      "seriesId": "ireland-investment-naturalisation-1989",
+      "reportingIntervals": [],
+      "revisionId": "irl-dependants-b037a0748f12e575"
+    },
+    {
+      "id": "jor-h1-2026-principals",
+      "subjectId": "jordan-investor-citizenship",
+      "measure": "citizenships_granted",
+      "unit": "people",
+      "value": 65,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "2026-01-01/2026-06-30",
+      "periodKind": "period",
+      "coverage": [],
+      "population": "principals",
+      "documentScope": "Not a passport-document count",
+      "basis": "official_statement_via_state_news_agency",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "J2",
+          "locator": "Ministry semiannual performance report reproduced by state news agency"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "Six-month flow; do not add to an overlapping cumulative investor count."
+      ],
+      "seriesId": "jordan-investor-citizenship",
+      "reportingIntervals": [],
+      "revisionId": "jor-h1-2026-principals-4fddae531faac038"
+    },
+    {
+      "id": "jor-h1-2026-dependants",
+      "subjectId": "jordan-investor-citizenship",
+      "measure": "citizenships_granted",
+      "unit": "people",
+      "value": 250,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "2026-01-01/2026-06-30",
+      "periodKind": "period",
+      "coverage": [],
+      "population": "dependants",
+      "documentScope": "Not a passport-document count",
+      "basis": "official_statement_via_state_news_agency",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "J2",
+          "locator": "Ministry semiannual performance report reproduced by state news agency"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "Six-month flow; do not add to an overlapping cumulative investor count."
+      ],
+      "seriesId": "jordan-investor-citizenship",
+      "reportingIntervals": [],
+      "revisionId": "jor-h1-2026-dependants-b2862575860cd4ae"
+    },
+    {
+      "id": "cyprus-reported-recipients",
+      "subjectId": "cyprus-investment",
+      "measure": "citizenships_granted",
+      "unit": "people",
+      "value": 7329,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "Historical programme; reported November/December 2025",
+      "periodKind": "cumulative",
+      "coverage": [],
+      "population": "principals_and_dependants",
+      "documentScope": "Not established as first-issued passport documents",
+      "basis": "official_statement_via_press",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "H2",
+          "locator": "Paragraph identifying 3,522 investors and their family members"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "Later ministry/parliament-attributed figure; not the June 2021 Nicolatos inquiry count.",
+        "Count is people reported as receiving scheme citizenship/passports, not a booklet-production register."
+      ],
+      "seriesId": "cyprus-investment",
+      "reportingIntervals": [],
+      "revisionId": "cyprus-reported-recipients-b0613cc9d7a74d19"
+    },
+    {
+      "id": "montenegro-approvals-july2026",
+      "subjectId": "montenegro-investment",
+      "measure": "applications_approved",
+      "unit": "applications",
+      "value": 869,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "Programme applications to 2026-07-31",
+      "periodKind": "period",
+      "coverage": [],
+      "population": "unspecified",
+      "documentScope": "Not established as first-issued passport documents",
+      "basis": "official_statement_via_press",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "H7",
+          "locator": "Near-final status report: 869 approved out of 1,113 applications"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "Government report reproduced by trade press; original table not directly recovered.",
+        "Several applications remained pending; no conversion from files to people or passports."
+      ],
+      "seriesId": "montenegro-investment",
+      "reportingIntervals": [],
+      "revisionId": "montenegro-approvals-july2026-0fafc3a69d2039b8"
+    },
+    {
+      "id": "nauru-first-estimated-sales",
+      "subjectId": "nauru-first",
+      "measure": "passport_sales",
+      "unit": "documents",
+      "value": 1000,
+      "qualifier": "approximate",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "Approximately 1998–2002",
+      "periodKind": "cumulative",
+      "coverage": [],
+      "population": "unspecified",
+      "documentScope": "Unspecified historical document sales",
+      "basis": "institutional_estimate",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "H8",
+          "locator": "Author conservative estimate, Nauru historical scheme"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "Academic estimate; underlying administrative register not verified.",
+        "Full text access was limited; indexed source passage and institutional historical synthesis reviewed."
+      ],
+      "seriesId": "nauru-first",
+      "reportingIntervals": [],
+      "revisionId": "nauru-first-estimated-sales-c10824f6b40723af"
+    },
+    {
+      "id": "marshall-estimated-sales",
+      "subjectId": "marshall-economic",
+      "measure": "passport_sales",
+      "unit": "documents",
+      "value": 2000,
+      "qualifier": "approximate",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "Historical scheme, 1980s–1990s",
+      "periodKind": "cumulative",
+      "coverage": [],
+      "population": "unspecified",
+      "documentScope": "Unspecified historical document sales",
+      "basis": "institutional_estimate",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "H8",
+          "locator": "Historical passport sales estimate"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "Academic historical estimate; claimed GAO administrative source not recovered.",
+        "Document sales are not a verified family-inclusive citizenship-recipient count."
+      ],
+      "seriesId": "marshall-economic",
+      "reportingIntervals": [],
+      "revisionId": "marshall-estimated-sales-99a611f1007511e1"
+    },
+    {
+      "id": "comoros-reported-sales",
+      "subjectId": "comoros-economic",
+      "measure": "passport_sales",
+      "unit": "documents",
+      "value": 52000,
+      "qualifier": "approximate",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "Since 2009, minister statement reported January 2018",
+      "periodKind": "cumulative",
+      "coverage": [],
+      "population": "unspecified",
+      "documentScope": "Unspecified historical document sales",
+      "basis": "official_statement_via_press",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "H1",
+          "locator": "Minister-attributed approximate historical volume"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "Reported historical sales; not the parliamentary inquiry’s distinct count of passport requests.",
+        "Exact production cutoff and unique-beneficiary coverage unresolved."
+      ],
+      "seriesId": "comoros-economic",
+      "reportingIntervals": [],
+      "revisionId": "comoros-reported-sales-8d923539fe6f8d40"
+    },
+    {
+      "id": "mk-grants-2005-2022",
+      "subjectId": "north-macedonia-economic",
+      "measure": "citizenships_granted",
+      "unit": "people",
+      "value": 121,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "2005–2022",
+      "periodKind": "cumulative",
+      "coverage": [],
+      "population": "unspecified",
+      "documentScope": "Not established as first-issued passport documents",
+      "basis": "official_document_reviewed",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "NM1",
+          "locator": "Special-economic-interest citizenship paragraph"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "Economic-interest grants, not passports. Later isolated decisions are not merged into a lifetime total."
+      ],
+      "seriesId": "north-macedonia-economic",
+      "reportingIntervals": [],
+      "revisionId": "mk-grants-2005-2022-b323b921161db73c"
+    },
+    {
+      "id": "austria-exceptional-2023",
+      "subjectId": "austria-exceptional",
+      "measure": "citizenships_granted",
+      "unit": "people",
+      "value": 40,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "2023",
+      "periodKind": "cumulative",
+      "coverage": [],
+      "population": "unspecified",
+      "documentScope": "Not established as first-issued passport documents",
+      "basis": "official_document_reviewed",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "AU1",
+          "locator": "Reply to question 1, §10(6) recipients"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "Includes extraordinary achievements beyond investment, such as science, sport and arts.",
+        "Must not be included in investor-only or retail CBI recipient totals."
+      ],
+      "seriesId": "austria-exceptional",
+      "reportingIntervals": [],
+      "revisionId": "austria-exceptional-2023-fc138e62c4da5092"
+    },
+    {
+      "id": "egypt-reported-grants-2025",
+      "subjectId": "cbi-egy",
+      "measure": "citizenships_granted",
+      "unit": "people",
+      "value": 36,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "March and July 2025, reported November 2025",
+      "periodKind": "cumulative",
+      "coverage": [],
+      "population": "unspecified",
+      "documentScope": "Not established as first-issued passport documents",
+      "basis": "practitioner_report",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "EG1",
+          "locator": "11 grants in March and 25 in July"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "Practitioner-authored public reporting, not a directly recovered Cabinet statistical series.",
+        "Not a final cumulative or full-year passport count; preliminary approvals are separate."
+      ],
+      "seriesId": "cbi-egy",
+      "reportingIntervals": [],
+      "revisionId": "egypt-reported-grants-2025-7c57634a82b90842"
+    },
+    {
+      "id": "jordan-investor-grants-july2026",
+      "subjectId": "jordan-investor-citizenship",
+      "measure": "citizenships_granted",
+      "unit": "people",
+      "value": 681,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "Since 2018, reported 2026-07-15",
+      "periodKind": "cumulative",
+      "coverage": [],
+      "population": "principals",
+      "documentScope": "Not established as first-issued passport documents",
+      "basis": "official_statement_via_state_news_agency",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "J1",
+          "locator": "Cumulative investors granted citizenship"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "Investor principals only; family-inclusive cumulative passport count remains unknown.",
+        "A nearby 685-beneficiary statement uses different wording and is not silently substituted."
+      ],
+      "seriesId": "jordan-investor-citizenship",
+      "reportingIntervals": [],
+      "revisionId": "jordan-investor-grants-july2026-e3ccd66335ea39ee"
+    },
+    {
+      "id": "cbi-atg-covered-windows",
+      "subjectId": "cbi-atg",
+      "measure": "passports_issued",
+      "unit": "documents",
+      "value": 9811,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "2015–2023; 2024; 2025-01-01/2025-04-30",
+      "periodKind": "covered_period_sum",
+      "coverage": [
+        "2015–2023",
+        "2024",
+        "2025-01-01/2025-04-30"
+      ],
+      "population": "source_unspecified",
+      "documentScope": "First issues, renewals and replacements not separately established",
+      "basis": "derived",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "E1",
+          "locator": "Printed page 37, Total passports issued row, cbi-atg"
+        }
+      ],
+      "derivation": {
+        "inputIds": [
+          "cbi-atg-ec-0",
+          "cbi-atg-ec-1",
+          "cbi-atg-ec-2"
+        ],
+        "formula": "sum",
+        "reason": "Covered-period sum only; retain all source gaps.",
+        "disjointness": "nonoverlapping_periods"
+      },
+      "limitations": [
+        "Covered-period sum only; retain all source gaps.",
+        "Derived from the cited disjoint source categories/windows; not an authority-published lifetime total."
+      ],
+      "seriesId": "cbi-atg",
+      "reportingIntervals": [],
+      "revisionId": "cbi-atg-covered-windows-d3267c2f9faf9f69"
+    },
+    {
+      "id": "cbi-dma-covered-windows",
+      "subjectId": "cbi-dma",
+      "measure": "passports_issued",
+      "unit": "documents",
+      "value": 48715,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "2018–2021; 2023; 2024",
+      "periodKind": "covered_period_sum",
+      "coverage": [
+        "2018–2021",
+        "2023",
+        "2024"
+      ],
+      "population": "source_unspecified",
+      "documentScope": "First issues, renewals and replacements not separately established",
+      "basis": "derived",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "E1",
+          "locator": "Printed page 37, Total passports issued row, cbi-dma"
+        }
+      ],
+      "derivation": {
+        "inputIds": [
+          "cbi-dma-ec-0",
+          "cbi-dma-ec-1",
+          "cbi-dma-ec-2"
+        ],
+        "formula": "sum",
+        "reason": "Covered-period sum only; retain all source gaps.",
+        "disjointness": "nonoverlapping_periods"
+      },
+      "limitations": [
+        "Covered-period sum only; retain all source gaps.",
+        "Derived from the cited disjoint source categories/windows; not an authority-published lifetime total.",
+        "Missing 2022 and years before 2018."
+      ],
+      "seriesId": "cbi-dma",
+      "reportingIntervals": [],
+      "revisionId": "cbi-dma-covered-windows-f8b66048456ce01a"
+    },
+    {
+      "id": "cbi-grd-covered-windows",
+      "subjectId": "cbi-grd",
+      "measure": "passports_issued",
+      "unit": "documents",
+      "value": 22784,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "2015–2023; 2024; 2025-01-01/2025-03-31",
+      "periodKind": "covered_period_sum",
+      "coverage": [
+        "2015–2023",
+        "2024",
+        "2025-01-01/2025-03-31"
+      ],
+      "population": "source_unspecified",
+      "documentScope": "First issues, renewals and replacements not separately established",
+      "basis": "derived",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "E1",
+          "locator": "Printed page 37, Total passports issued row, cbi-grd"
+        }
+      ],
+      "derivation": {
+        "inputIds": [
+          "cbi-grd-ec-0",
+          "cbi-grd-ec-1",
+          "cbi-grd-ec-2"
+        ],
+        "formula": "sum",
+        "reason": "Covered-period sum only; retain all source gaps.",
+        "disjointness": "nonoverlapping_periods"
+      },
+      "limitations": [
+        "Covered-period sum only; retain all source gaps.",
+        "Derived from the cited disjoint source categories/windows; not an authority-published lifetime total."
+      ],
+      "seriesId": "cbi-grd",
+      "reportingIntervals": [],
+      "revisionId": "cbi-grd-covered-windows-d1684c40caa97c15"
+    },
+    {
+      "id": "cbi-kna-covered-windows",
+      "subjectId": "cbi-kna",
+      "measure": "passports_issued",
+      "unit": "documents",
+      "value": 56015,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "2015–2023; 2024; 2025-01-01/2025-04-30",
+      "periodKind": "covered_period_sum",
+      "coverage": [
+        "2015–2023",
+        "2024",
+        "2025-01-01/2025-04-30"
+      ],
+      "population": "source_unspecified",
+      "documentScope": "First issues, renewals and replacements not separately established",
+      "basis": "derived",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "E1",
+          "locator": "Printed page 37, Total passports issued row, cbi-kna"
+        }
+      ],
+      "derivation": {
+        "inputIds": [
+          "cbi-kna-ec-0",
+          "cbi-kna-ec-1",
+          "cbi-kna-ec-2"
+        ],
+        "formula": "sum",
+        "reason": "Covered-period sum only; retain all source gaps.",
+        "disjointness": "nonoverlapping_periods"
+      },
+      "limitations": [
+        "Covered-period sum only; retain all source gaps.",
+        "Derived from the cited disjoint source categories/windows; not an authority-published lifetime total."
+      ],
+      "seriesId": "cbi-kna",
+      "reportingIntervals": [],
+      "revisionId": "cbi-kna-covered-windows-25363330bd612f5a"
+    },
+    {
+      "id": "turkey-may-reported-recipients",
+      "subjectId": "cbi-tur",
+      "measure": "citizenships_granted",
+      "unit": "people",
+      "value": 174567,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "Since 2018, statement reported as 2026-05-29",
+      "periodKind": "cumulative",
+      "coverage": [
+        "Since 2018, statement reported as 2026-05-29",
+        "Since 2018, statement reported as 2026-05-29"
+      ],
+      "population": "principals_and_dependants",
+      "documentScope": "Not a passport-document count",
+      "basis": "derived",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "T1",
+          "locator": "Minister quotation, investor and family breakdown"
+        }
+      ],
+      "derivation": {
+        "inputIds": [
+          "tur-reported-may2026-principals",
+          "tur-reported-may2026-dependants"
+        ],
+        "formula": "sum",
+        "reason": "Attributed reported grant breakdown; not passports.",
+        "disjointness": "source_categories"
+      },
+      "limitations": [
+        "Attributed reported grant breakdown; not passports.",
+        "Derived from the cited disjoint source categories/windows; not an authority-published lifetime total."
+      ],
+      "seriesId": "cbi-tur",
+      "reportingIntervals": [],
+      "revisionId": "turkey-may-reported-recipients-3123de9d8001d6a2"
+    },
+    {
+      "id": "turkey-revocation-groups",
+      "subjectId": "cbi-tur",
+      "measure": "citizenships_revoked",
+      "unit": "people",
+      "value": 6134,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "Cumulative reported 2026-08-04; starting cutoff unspecified",
+      "periodKind": "cumulative",
+      "coverage": [
+        "Cumulative reported 2026-08-04; starting cutoff unspecified",
+        "Cumulative reported 2026-08-04; starting cutoff unspecified"
+      ],
+      "population": "principals_and_dependants",
+      "documentScope": "Not a passport-document count",
+      "basis": "derived",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "T3",
+          "locator": "Paragraphs beginning muvazaalı and Vatandaşlık kazanımı sonrasında"
+        }
+      ],
+      "derivation": {
+        "inputIds": [
+          "tur-revoked-irregular-transactions",
+          "tur-revoked-security-public-order"
+        ],
+        "formula": "sum",
+        "reason": "Two distinct grounds, both including family.",
+        "disjointness": "source_categories"
+      },
+      "limitations": [
+        "Two distinct grounds, both including family.",
+        "Derived from the cited disjoint source categories/windows; not an authority-published lifetime total."
+      ],
+      "seriesId": "cbi-tur",
+      "reportingIntervals": [],
+      "revisionId": "turkey-revocation-groups-32e86db06dc690de"
+    },
+    {
+      "id": "malta-grants-through-2024",
+      "subjectId": "malta-investment-schemes",
+      "measure": "citizenships_granted",
+      "unit": "people",
+      "value": 6152,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "Scheme inception through 2024-12-31",
+      "periodKind": "cumulative",
+      "coverage": [
+        "Scheme inception through 2024-12-31",
+        "Scheme inception through 2024-12-31",
+        "Scheme inception through 2024-12-31",
+        "Scheme inception through 2024-12-31"
+      ],
+      "population": "principals_and_dependants",
+      "documentScope": "Not a passport-document count",
+      "basis": "derived",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "H4",
+          "locator": "Printed pages 42 and 74–75, naturalised applicants and dependants"
+        }
+      ],
+      "derivation": {
+        "inputIds": [
+          "mlt-iip-principals",
+          "mlt-iip-dependants",
+          "mlt-gces-principals",
+          "mlt-gces-dependants"
+        ],
+        "formula": "sum",
+        "reason": "Derived across distinct IIP and GCES naturalisation cohorts.",
+        "disjointness": "source_categories"
+      },
+      "limitations": [
+        "Derived across distinct IIP and GCES naturalisation cohorts.",
+        "Derived from the cited disjoint source categories/windows; not an authority-published lifetime total."
+      ],
+      "seriesId": "malta-investment-schemes",
+      "reportingIntervals": [],
+      "revisionId": "malta-grants-through-2024-7d704cf34e69bff9"
+    },
+    {
+      "id": "ireland-grants-april-2000",
+      "subjectId": "ireland-investment-naturalisation-1989",
+      "measure": "citizenships_granted",
+      "unit": "people",
+      "value": 169,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "Since 1989, review dated April 2000",
+      "periodKind": "cumulative",
+      "coverage": [
+        "Since 1989, review dated April 2000",
+        "Since 1989, review dated April 2000"
+      ],
+      "population": "principals_and_dependants",
+      "documentScope": "Not a passport-document count",
+      "basis": "derived",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "H11",
+          "locator": "Executive summary, printed pages 2–3"
+        }
+      ],
+      "derivation": {
+        "inputIds": [
+          "irl-principals",
+          "irl-dependants"
+        ],
+        "formula": "sum",
+        "reason": "Government review observation with pending cases.",
+        "disjointness": "source_categories"
+      },
+      "limitations": [
+        "Government review observation with pending cases.",
+        "Derived from the cited disjoint source categories/windows; not an authority-published lifetime total."
+      ],
+      "seriesId": "ireland-investment-naturalisation-1989",
+      "reportingIntervals": [],
+      "revisionId": "ireland-grants-april-2000-dbf8ee66e72adf11"
+    },
+    {
+      "id": "jordan-h1-2026-grants",
+      "subjectId": "jordan-investor-citizenship",
+      "measure": "citizenships_granted",
+      "unit": "people",
+      "value": 315,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "2026-01-01/2026-06-30",
+      "periodKind": "period",
+      "coverage": [
+        "2026-01-01/2026-06-30",
+        "2026-01-01/2026-06-30"
+      ],
+      "population": "principals_and_dependants",
+      "documentScope": "Not a passport-document count",
+      "basis": "derived",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "J2",
+          "locator": "Ministry semiannual performance report reproduced by state news agency"
+        }
+      ],
+      "derivation": {
+        "inputIds": [
+          "jor-h1-2026-principals",
+          "jor-h1-2026-dependants"
+        ],
+        "formula": "sum",
+        "reason": "Period grants including family; not passport documents.",
+        "disjointness": "source_categories"
+      },
+      "limitations": [
+        "Period grants including family; not passport documents.",
+        "Derived from the cited disjoint source categories/windows; not an authority-published lifetime total."
+      ],
+      "seriesId": "jordan-investor-citizenship",
+      "reportingIntervals": [],
+      "revisionId": "jordan-h1-2026-grants-136232f53a27c589"
+    },
+    {
+      "id": "lca-approvals-fy2016-17",
+      "subjectId": "cbi-lca",
+      "measure": "applications_approved",
+      "unit": "applications",
+      "value": 17,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "FY2016/17 ending 2017-03-31",
+      "periodKind": "period",
+      "coverage": [],
+      "population": "source_unspecified",
+      "documentScope": "Not a passport-document count",
+      "basis": "official_document_reviewed",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "L1",
+          "locator": "Printed page 19, 2024/25 row, Granted column"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "This table counts application files, not passports or unique family recipients."
+      ],
+      "seriesId": "cbi-lca",
+      "reportingIntervals": [
+        {
+          "start": "2016-04-01",
+          "end": "2017-03-31"
+        }
+      ],
+      "revisionId": "lca-approvals-fy2016-17-1a6de31b7d718045"
+    },
+    {
+      "id": "lca-approvals-fy2017-18",
+      "subjectId": "cbi-lca",
+      "measure": "applications_approved",
+      "unit": "applications",
+      "value": 188,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "FY2017/18 ending 2018-03-31",
+      "periodKind": "period",
+      "coverage": [],
+      "population": "source_unspecified",
+      "documentScope": "Not a passport-document count",
+      "basis": "official_document_reviewed",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "L1",
+          "locator": "Printed page 19, 2024/25 row, Granted column"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "This table counts application files, not passports or unique family recipients."
+      ],
+      "seriesId": "cbi-lca",
+      "reportingIntervals": [
+        {
+          "start": "2017-04-01",
+          "end": "2018-03-31"
+        }
+      ],
+      "revisionId": "lca-approvals-fy2017-18-21ba720363e35da8"
+    },
+    {
+      "id": "lca-approvals-fy2018-19",
+      "subjectId": "cbi-lca",
+      "measure": "applications_approved",
+      "unit": "applications",
+      "value": 210,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "FY2018/19 ending 2019-03-31",
+      "periodKind": "period",
+      "coverage": [],
+      "population": "source_unspecified",
+      "documentScope": "Not a passport-document count",
+      "basis": "official_document_reviewed",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "L1",
+          "locator": "Printed page 19, 2024/25 row, Granted column"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "This table counts application files, not passports or unique family recipients."
+      ],
+      "seriesId": "cbi-lca",
+      "reportingIntervals": [
+        {
+          "start": "2018-04-01",
+          "end": "2019-03-31"
+        }
+      ],
+      "revisionId": "lca-approvals-fy2018-19-2d6c16f9a341201d"
+    },
+    {
+      "id": "lca-approvals-fy2019-20",
+      "subjectId": "cbi-lca",
+      "measure": "applications_approved",
+      "unit": "applications",
+      "value": 143,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "FY2019/20 ending 2020-03-31",
+      "periodKind": "period",
+      "coverage": [],
+      "population": "source_unspecified",
+      "documentScope": "Not a passport-document count",
+      "basis": "official_document_reviewed",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "L1",
+          "locator": "Printed page 19, 2024/25 row, Granted column"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "This table counts application files, not passports or unique family recipients."
+      ],
+      "seriesId": "cbi-lca",
+      "reportingIntervals": [
+        {
+          "start": "2019-04-01",
+          "end": "2020-03-31"
+        }
+      ],
+      "revisionId": "lca-approvals-fy2019-20-f2a3ce229a3de319"
+    },
+    {
+      "id": "lca-approvals-fy2020-21",
+      "subjectId": "cbi-lca",
+      "measure": "applications_approved",
+      "unit": "applications",
+      "value": 313,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "FY2020/21 ending 2021-03-31",
+      "periodKind": "period",
+      "coverage": [],
+      "population": "source_unspecified",
+      "documentScope": "Not a passport-document count",
+      "basis": "official_document_reviewed",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "L1",
+          "locator": "Printed page 19, 2024/25 row, Granted column"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "This table counts application files, not passports or unique family recipients."
+      ],
+      "seriesId": "cbi-lca",
+      "reportingIntervals": [
+        {
+          "start": "2020-04-01",
+          "end": "2021-03-31"
+        }
+      ],
+      "revisionId": "lca-approvals-fy2020-21-a11980d47ab32179"
+    },
+    {
+      "id": "lca-approvals-fy2021-22",
+      "subjectId": "cbi-lca",
+      "measure": "applications_approved",
+      "unit": "applications",
+      "value": 433,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "FY2021/22 ending 2022-03-31",
+      "periodKind": "period",
+      "coverage": [],
+      "population": "source_unspecified",
+      "documentScope": "Not a passport-document count",
+      "basis": "official_document_reviewed",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "L1",
+          "locator": "Printed page 19, 2024/25 row, Granted column"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "This table counts application files, not passports or unique family recipients."
+      ],
+      "seriesId": "cbi-lca",
+      "reportingIntervals": [
+        {
+          "start": "2021-04-01",
+          "end": "2022-03-31"
+        }
+      ],
+      "revisionId": "lca-approvals-fy2021-22-f71d850652d6911a"
+    },
+    {
+      "id": "lca-approvals-fy2022-23",
+      "subjectId": "cbi-lca",
+      "measure": "applications_approved",
+      "unit": "applications",
+      "value": 544,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "FY2022/23 ending 2023-03-31",
+      "periodKind": "period",
+      "coverage": [],
+      "population": "source_unspecified",
+      "documentScope": "Not a passport-document count",
+      "basis": "official_document_reviewed",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "L1",
+          "locator": "Printed page 19, 2024/25 row, Granted column"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "This table counts application files, not passports or unique family recipients."
+      ],
+      "seriesId": "cbi-lca",
+      "reportingIntervals": [
+        {
+          "start": "2022-04-01",
+          "end": "2023-03-31"
+        }
+      ],
+      "revisionId": "lca-approvals-fy2022-23-74c553d103e1f2ad"
+    },
+    {
+      "id": "lca-approvals-fy2023-24",
+      "subjectId": "cbi-lca",
+      "measure": "applications_approved",
+      "unit": "applications",
+      "value": 1171,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "FY2023/24 ending 2024-03-31",
+      "periodKind": "period",
+      "coverage": [],
+      "population": "source_unspecified",
+      "documentScope": "Not a passport-document count",
+      "basis": "official_document_reviewed",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "L1",
+          "locator": "Printed page 19, 2024/25 row, Granted column"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "This table counts application files, not passports or unique family recipients."
+      ],
+      "seriesId": "cbi-lca",
+      "reportingIntervals": [
+        {
+          "start": "2023-04-01",
+          "end": "2024-03-31"
+        }
+      ],
+      "revisionId": "lca-approvals-fy2023-24-1c1f3bf476967361"
+    },
+    {
+      "id": "lca-approvals-through-fy2024-25",
+      "subjectId": "cbi-lca",
+      "measure": "applications_approved",
+      "unit": "applications",
+      "value": 5297,
+      "qualifier": "exact",
+      "lowerBound": null,
+      "upperBound": null,
+      "period": "FY2016/17–FY2024/25 · through 31 March 2025",
+      "periodKind": "cumulative",
+      "coverage": [
+        "2016-04-01/2025-03-31"
+      ],
+      "population": "source_unspecified",
+      "documentScope": "Not a passport-document count",
+      "basis": "derived",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2027-02-15",
+      "evidence": [
+        {
+          "sourceId": "L1",
+          "locator": "Printed page 19, 2024/25 row, Granted column"
+        }
+      ],
+      "derivation": {
+        "inputIds": [
+          "lca-approvals-fy2016-17",
+          "lca-approvals-fy2017-18",
+          "lca-approvals-fy2018-19",
+          "lca-approvals-fy2019-20",
+          "lca-approvals-fy2020-21",
+          "lca-approvals-fy2021-22",
+          "lca-approvals-fy2022-23",
+          "lca-approvals-fy2023-24",
+          "lca-approvals-fy2024-25"
+        ],
+        "formula": "sum",
+        "reason": "Sum of all nine annual application-granted rows on page 19. Counts application files, with no conversion to people or passports.",
+        "disjointness": "nonoverlapping_periods"
+      },
+      "limitations": [
+        "This table counts application files, not passports or unique family recipients."
+      ],
+      "seriesId": "cbi-lca",
+      "reportingIntervals": [
+        {
+          "start": "2016-04-01",
+          "end": "2025-03-31"
+        }
+      ],
+      "revisionId": "lca-approvals-through-fy2024-25-899d5ded2daf4ea4"
+    },
+    {
+      "id": "cbi-atg-estimate-2026-11-15",
+      "subjectId": "cbi-atg",
+      "measure": "passports_issued",
+      "unit": "documents",
+      "value": 12000,
+      "qualifier": "range",
+      "lowerBound": 9000,
+      "upperBound": 15000,
+      "period": "CBI.me model estimate as of 15 November 2026",
+      "periodKind": "cumulative",
+      "coverage": [
+        "2015–2023",
+        "2024",
+        "2025-01-01/2025-04-30",
+        "Unreported interval projected to 2026-11-15"
+      ],
+      "population": "source_unspecified",
+      "documentScope": "First issues, renewals and replacements not separately established",
+      "basis": "modelled_estimate",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2026-12-15",
+      "evidence": [
+        {
+          "sourceId": "E1",
+          "locator": "Printed page 37, Total passports issued row, cbi-atg"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "A CBI.me extrapolation, not an official count. Baseline and daily rate are available in the model inputs.",
+        "The range is deliberately rounded and is not a verified minimum or maximum. Changes in fees, processing, demand and visa access can place actual issuance outside it.",
+        "Covered-period sum only; retain all source gaps.",
+        "Derived from the cited disjoint source categories/windows; not an authority-published lifetime total.",
+        "Only the original reported windows plus the projected interval are included. Missing historical years stay missing; this is not an all-time total. Passport renewals and replacements are not disaggregated."
+      ],
+      "seriesId": "cbi-atg",
+      "reportingIntervals": [],
+      "estimate": {
+        "method": "constant_rate_sensitivity_v1",
+        "baselineId": "cbi-atg-covered-windows",
+        "rateId": "cbi-atg-ec-2",
+        "rateDays": 120,
+        "from": "2025-04-30",
+        "asOf": "2026-11-15",
+        "lowerMultiplier": 0,
+        "centralMultiplier": 1,
+        "upperMultiplier": 2,
+        "roundTo": 1000,
+        "confidence": "low",
+        "assumptions": [
+          "Unreported activity continues at the stated historical daily rate in the central scenario.",
+          "Sensitivity endpoints assume zero and twice that rate for the unreported interval; these are scenarios, not statistical confidence bounds.",
+          "Only the original reported windows plus the projected interval are included. Missing historical years stay missing; this is not an all-time total. Passport renewals and replacements are not disaggregated."
+        ]
+      },
+      "revisionId": "cbi-atg-estimate-2026-11-15-19d90501c5a39598"
+    },
+    {
+      "id": "cbi-dma-estimate-2026-11-15",
+      "subjectId": "cbi-dma",
+      "measure": "passports_issued",
+      "unit": "documents",
+      "value": 67000,
+      "qualifier": "range",
+      "lowerBound": 48000,
+      "upperBound": 85000,
+      "period": "CBI.me model estimate as of 15 November 2026",
+      "periodKind": "cumulative",
+      "coverage": [
+        "2018–2021",
+        "2023",
+        "2024",
+        "Unreported interval projected to 2026-11-15"
+      ],
+      "population": "source_unspecified",
+      "documentScope": "First issues, renewals and replacements not separately established",
+      "basis": "modelled_estimate",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2026-12-15",
+      "evidence": [
+        {
+          "sourceId": "E1",
+          "locator": "Printed page 37, Total passports issued row, cbi-dma"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "A CBI.me extrapolation, not an official count. Baseline and daily rate are available in the model inputs.",
+        "The range is deliberately rounded and is not a verified minimum or maximum. Changes in fees, processing, demand and visa access can place actual issuance outside it.",
+        "Covered-period sum only; retain all source gaps.",
+        "Derived from the cited disjoint source categories/windows; not an authority-published lifetime total.",
+        "Missing 2022 and years before 2018.",
+        "Only the original reported windows plus the projected interval are included. Missing historical years stay missing; this is not an all-time total. Passport renewals and replacements are not disaggregated."
+      ],
+      "seriesId": "cbi-dma",
+      "reportingIntervals": [],
+      "estimate": {
+        "method": "constant_rate_sensitivity_v1",
+        "baselineId": "cbi-dma-covered-windows",
+        "rateId": "cbi-dma-ec-2",
+        "rateDays": 366,
+        "from": "2024-12-31",
+        "asOf": "2026-11-15",
+        "lowerMultiplier": 0,
+        "centralMultiplier": 1,
+        "upperMultiplier": 2,
+        "roundTo": 1000,
+        "confidence": "low",
+        "assumptions": [
+          "Unreported activity continues at the stated historical daily rate in the central scenario.",
+          "Sensitivity endpoints assume zero and twice that rate for the unreported interval; these are scenarios, not statistical confidence bounds.",
+          "Only the original reported windows plus the projected interval are included. Missing historical years stay missing; this is not an all-time total. Passport renewals and replacements are not disaggregated."
+        ]
+      },
+      "revisionId": "cbi-dma-estimate-2026-11-15-457f2f9ad5e6f192"
+    },
+    {
+      "id": "cbi-grd-estimate-2026-11-15",
+      "subjectId": "cbi-grd",
+      "measure": "passports_issued",
+      "unit": "documents",
+      "value": 33000,
+      "qualifier": "range",
+      "lowerBound": 22000,
+      "upperBound": 43000,
+      "period": "CBI.me model estimate as of 15 November 2026",
+      "periodKind": "cumulative",
+      "coverage": [
+        "2015–2023",
+        "2024",
+        "2025-01-01/2025-03-31",
+        "Unreported interval projected to 2026-11-15"
+      ],
+      "population": "source_unspecified",
+      "documentScope": "First issues, renewals and replacements not separately established",
+      "basis": "modelled_estimate",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2026-12-15",
+      "evidence": [
+        {
+          "sourceId": "E1",
+          "locator": "Printed page 37, Total passports issued row, cbi-grd"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "A CBI.me extrapolation, not an official count. Baseline and daily rate are available in the model inputs.",
+        "The range is deliberately rounded and is not a verified minimum or maximum. Changes in fees, processing, demand and visa access can place actual issuance outside it.",
+        "Covered-period sum only; retain all source gaps.",
+        "Derived from the cited disjoint source categories/windows; not an authority-published lifetime total.",
+        "Only the original reported windows plus the projected interval are included. Missing historical years stay missing; this is not an all-time total. Passport renewals and replacements are not disaggregated."
+      ],
+      "seriesId": "cbi-grd",
+      "reportingIntervals": [],
+      "estimate": {
+        "method": "constant_rate_sensitivity_v1",
+        "baselineId": "cbi-grd-covered-windows",
+        "rateId": "cbi-grd-ec-2",
+        "rateDays": 90,
+        "from": "2025-03-31",
+        "asOf": "2026-11-15",
+        "lowerMultiplier": 0,
+        "centralMultiplier": 1,
+        "upperMultiplier": 2,
+        "roundTo": 1000,
+        "confidence": "low",
+        "assumptions": [
+          "Unreported activity continues at the stated historical daily rate in the central scenario.",
+          "Sensitivity endpoints assume zero and twice that rate for the unreported interval; these are scenarios, not statistical confidence bounds.",
+          "Only the original reported windows plus the projected interval are included. Missing historical years stay missing; this is not an all-time total. Passport renewals and replacements are not disaggregated."
+        ]
+      },
+      "revisionId": "cbi-grd-estimate-2026-11-15-843ba13c17027c3d"
+    },
+    {
+      "id": "cbi-kna-estimate-2026-11-15",
+      "subjectId": "cbi-kna",
+      "measure": "passports_issued",
+      "unit": "documents",
+      "value": 59000,
+      "qualifier": "range",
+      "lowerBound": 56000,
+      "upperBound": 63000,
+      "period": "CBI.me model estimate as of 15 November 2026",
+      "periodKind": "cumulative",
+      "coverage": [
+        "2015–2023",
+        "2024",
+        "2025-01-01/2025-04-30",
+        "Unreported interval projected to 2026-11-15"
+      ],
+      "population": "source_unspecified",
+      "documentScope": "First issues, renewals and replacements not separately established",
+      "basis": "modelled_estimate",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2026-12-15",
+      "evidence": [
+        {
+          "sourceId": "E1",
+          "locator": "Printed page 37, Total passports issued row, cbi-kna"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "A CBI.me extrapolation, not an official count. Baseline and daily rate are available in the model inputs.",
+        "The range is deliberately rounded and is not a verified minimum or maximum. Changes in fees, processing, demand and visa access can place actual issuance outside it.",
+        "Covered-period sum only; retain all source gaps.",
+        "Derived from the cited disjoint source categories/windows; not an authority-published lifetime total.",
+        "Only the original reported windows plus the projected interval are included. Missing historical years stay missing; this is not an all-time total. Passport renewals and replacements are not disaggregated."
+      ],
+      "seriesId": "cbi-kna",
+      "reportingIntervals": [],
+      "estimate": {
+        "method": "constant_rate_sensitivity_v1",
+        "baselineId": "cbi-kna-covered-windows",
+        "rateId": "cbi-kna-ec-2",
+        "rateDays": 120,
+        "from": "2025-04-30",
+        "asOf": "2026-11-15",
+        "lowerMultiplier": 0,
+        "centralMultiplier": 1,
+        "upperMultiplier": 2,
+        "roundTo": 1000,
+        "confidence": "low",
+        "assumptions": [
+          "Unreported activity continues at the stated historical daily rate in the central scenario.",
+          "Sensitivity endpoints assume zero and twice that rate for the unreported interval; these are scenarios, not statistical confidence bounds.",
+          "Only the original reported windows plus the projected interval are included. Missing historical years stay missing; this is not an all-time total. Passport renewals and replacements are not disaggregated."
+        ]
+      },
+      "revisionId": "cbi-kna-estimate-2026-11-15-8d0b373fcf7e857e"
+    },
+    {
+      "id": "cbi-lca-estimate-2026-11-15",
+      "subjectId": "cbi-lca",
+      "measure": "applications_approved",
+      "unit": "applications",
+      "value": 9000,
+      "qualifier": "range",
+      "lowerBound": 5200,
+      "upperBound": 12800,
+      "period": "CBI.me model estimate as of 15 November 2026",
+      "periodKind": "cumulative",
+      "coverage": [
+        "FY2016/17–FY2024/25 reported",
+        "2025-04-01/2026-11-15 modelled"
+      ],
+      "population": "source_unspecified",
+      "documentScope": "Not a passport-document count",
+      "basis": "modelled_estimate",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2026-12-15",
+      "evidence": [
+        {
+          "sourceId": "L1",
+          "locator": "Printed page 19, 2024/25 row, Granted column"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "A CBI.me extrapolation, not an official count. Baseline and daily rate are available in the model inputs.",
+        "The range is deliberately rounded and is not a verified minimum or maximum. Changes in fees, processing, demand and visa access can place actual issuance outside it.",
+        "This table counts application files, not passports or unique family recipients.",
+        "Application files only. No household multiplier or passport conversion. The 2026 annual cap and transitional exemptions can change processing; this model does not assume the cap was fully used."
+      ],
+      "seriesId": "cbi-lca",
+      "reportingIntervals": [],
+      "estimate": {
+        "method": "constant_rate_sensitivity_v1",
+        "baselineId": "lca-approvals-through-fy2024-25",
+        "rateId": "lca-approvals-fy2024-25",
+        "rateDays": 365,
+        "from": "2025-03-31",
+        "asOf": "2026-11-15",
+        "lowerMultiplier": 0,
+        "centralMultiplier": 1,
+        "upperMultiplier": 2,
+        "roundTo": 100,
+        "confidence": "low",
+        "assumptions": [
+          "Unreported activity continues at the stated historical daily rate in the central scenario.",
+          "Sensitivity endpoints assume zero and twice that rate for the unreported interval; these are scenarios, not statistical confidence bounds.",
+          "Application files only. No household multiplier or passport conversion. The 2026 annual cap and transitional exemptions can change processing; this model does not assume the cap was fully used."
+        ]
+      },
+      "revisionId": "cbi-lca-estimate-2026-11-15-cd75d51681b72d8a"
+    },
+    {
+      "id": "cbi-vut-estimate-2026-11-15",
+      "subjectId": "cbi-vut",
+      "measure": "passports_issued",
+      "unit": "documents",
+      "value": 18000,
+      "qualifier": "range",
+      "lowerBound": 10000,
+      "upperBound": 26000,
+      "period": "CBI.me model estimate as of 15 November 2026",
+      "periodKind": "cumulative",
+      "coverage": [
+        "2015–2021 reported",
+        "2022-01-01/2026-11-15 modelled"
+      ],
+      "population": "source_unspecified",
+      "documentScope": "First issues, renewals and replacements not separately established",
+      "basis": "modelled_estimate",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2026-12-15",
+      "evidence": [
+        {
+          "sourceId": "V1",
+          "locator": "Table 1, total passports issued"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "A CBI.me extrapolation, not an official count. Baseline and daily rate are available in the model inputs.",
+        "The range is deliberately rounded and is not a verified minimum or maximum. Changes in fees, processing, demand and visa access can place actual issuance outside it.",
+        "This is a dated observation, not a count of current passport holders; first-issue and renewal coverage may be unspecified.",
+        "Very weak baseline: almost five unreported years. Uses the seven-year 2015–2021 average. Visa-waiver losses and programme changes may invalidate that historical rate."
+      ],
+      "seriesId": "cbi-vut",
+      "reportingIntervals": [],
+      "estimate": {
+        "method": "constant_rate_sensitivity_v1",
+        "baselineId": "vut-passports-2015-2021",
+        "rateId": "vut-passports-2015-2021",
+        "rateDays": 2557,
+        "from": "2021-12-31",
+        "asOf": "2026-11-15",
+        "lowerMultiplier": 0,
+        "centralMultiplier": 1,
+        "upperMultiplier": 2,
+        "roundTo": 1000,
+        "confidence": "low",
+        "assumptions": [
+          "Unreported activity continues at the stated historical daily rate in the central scenario.",
+          "Sensitivity endpoints assume zero and twice that rate for the unreported interval; these are scenarios, not statistical confidence bounds.",
+          "Very weak baseline: almost five unreported years. Uses the seven-year 2015–2021 average. Visa-waiver losses and programme changes may invalidate that historical rate."
+        ]
+      },
+      "revisionId": "cbi-vut-estimate-2026-11-15-2333f036c8e51a69"
+    },
+    {
+      "id": "cbi-tur-estimate-2026-11-15",
+      "subjectId": "cbi-tur",
+      "measure": "citizenships_granted",
+      "unit": "people",
+      "value": 184000,
+      "qualifier": "range",
+      "lowerBound": 174000,
+      "upperBound": 194000,
+      "period": "CBI.me model estimate as of 15 November 2026",
+      "periodKind": "cumulative",
+      "coverage": [
+        "Since 2018 reported to May 2026",
+        "2026-05-30/2026-11-15 modelled"
+      ],
+      "population": "principals_and_dependants",
+      "documentScope": "Not a passport-document count",
+      "basis": "modelled_estimate",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2026-12-15",
+      "evidence": [
+        {
+          "sourceId": "T1",
+          "locator": "Minister quotation, investor and family breakdown"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "A CBI.me extrapolation, not an official count. Baseline and daily rate are available in the model inputs.",
+        "The range is deliberately rounded and is not a verified minimum or maximum. Changes in fees, processing, demand and visa access can place actual issuance outside it.",
+        "Attributed reported grant breakdown; not passports.",
+        "Derived from the cited disjoint source categories/windows; not an authority-published lifetime total.",
+        "People granted citizenship, not passport documents or current citizenship stock. Assumes 1 January 2018 as the start for an average rate; later revocations are not subtracted from a different gross-grant series."
+      ],
+      "seriesId": "cbi-tur",
+      "reportingIntervals": [],
+      "estimate": {
+        "method": "constant_rate_sensitivity_v1",
+        "baselineId": "turkey-may-reported-recipients",
+        "rateId": "turkey-may-reported-recipients",
+        "rateDays": 3070,
+        "from": "2026-05-29",
+        "asOf": "2026-11-15",
+        "lowerMultiplier": 0,
+        "centralMultiplier": 1,
+        "upperMultiplier": 2,
+        "roundTo": 1000,
+        "confidence": "low",
+        "assumptions": [
+          "Unreported activity continues at the stated historical daily rate in the central scenario.",
+          "Sensitivity endpoints assume zero and twice that rate for the unreported interval; these are scenarios, not statistical confidence bounds.",
+          "People granted citizenship, not passport documents or current citizenship stock. Assumes 1 January 2018 as the start for an average rate; later revocations are not subtracted from a different gross-grant series."
+        ]
+      },
+      "revisionId": "cbi-tur-estimate-2026-11-15-8f6a0f70616aeb8d"
+    },
+    {
+      "id": "cbi-nru-estimate-2026-11-15",
+      "subjectId": "cbi-nru",
+      "measure": "applications_approved",
+      "unit": "applications",
+      "value": 70,
+      "qualifier": "range",
+      "lowerBound": 50,
+      "upperBound": 100,
+      "period": "CBI.me model estimate as of 15 November 2026",
+      "periodKind": "cumulative",
+      "coverage": [
+        "FY2025/26 reported",
+        "2026-07-01/2026-11-15 modelled"
+      ],
+      "population": "source_unspecified",
+      "documentScope": "Not a passport-document count",
+      "basis": "modelled_estimate",
+      "reviewedAt": "2026-11-15",
+      "reviewDueAt": "2026-12-15",
+      "evidence": [
+        {
+          "sourceId": "N1",
+          "locator": "Budget speech dated 20 July 2026, printed page 7"
+        }
+      ],
+      "derivation": null,
+      "limitations": [
+        "A CBI.me extrapolation, not an official count. Baseline and daily rate are available in the model inputs.",
+        "The range is deliberately rounded and is not a verified minimum or maximum. Changes in fees, processing, demand and visa access can place actual issuance outside it.",
+        "The original speech was read from a third-party archive; 52 is applications, not a passport count.",
+        "Application approvals, not passport documents or people. The first-year launch rate may be a poor guide to subsequent processing."
+      ],
+      "seriesId": "cbi-nru",
+      "reportingIntervals": [],
+      "estimate": {
+        "method": "constant_rate_sensitivity_v1",
+        "baselineId": "nru-approvals-fy2025-26",
+        "rateId": "nru-approvals-fy2025-26",
+        "rateDays": 365,
+        "from": "2026-06-30",
+        "asOf": "2026-11-15",
+        "lowerMultiplier": 0,
+        "centralMultiplier": 1,
+        "upperMultiplier": 2,
+        "roundTo": 10,
+        "confidence": "low",
+        "assumptions": [
+          "Unreported activity continues at the stated historical daily rate in the central scenario.",
+          "Sensitivity endpoints assume zero and twice that rate for the unreported interval; these are scenarios, not statistical confidence bounds.",
+          "Application approvals, not passport documents or people. The first-year launch rate may be a poor guide to subsequent processing."
+        ]
+      },
+      "revisionId": "cbi-nru-estimate-2026-11-15-1d75644b4c80fbef"
+    }
+  ],
+  "sources": [
+    {
+      "id": "AU1",
+      "publisher": "Austria Ministry of Interior / Parliament",
+      "title": "Reply 17628/AB",
+      "url": "https://www.parlament.gv.at/dokument/XXVII/AB/17628/imfname_1629860.pdf",
+      "documentDate": "2024-05-21",
+      "reviewedAt": "2026-11-15",
+      "rights": "Independent factual compilation from publicly accessible sources; upstream documents linked only."
+    },
+    {
+      "id": "E1",
+      "publisher": "European Commission",
+      "title": "Eighth visa-suspension report staff working document",
+      "url": "https://home-affairs.ec.europa.eu/document/download/07c706b2-eaf8-410e-93cf-e9bcc66ce836_en?filename=Commission+Staff+Working+Document+-+8th+Report+under+the+Visa+Suspension+Mechanism.pdf",
+      "documentDate": "2025-12-19",
+      "reviewedAt": "2026-11-15",
+      "rights": "Independent factual compilation from publicly accessible sources; upstream documents linked only."
+    },
+    {
+      "id": "EG1",
+      "publisher": "IMI / Hany Mostafa Moawad",
+      "title": "Egypt grants reported in 2025",
+      "url": "https://www.imidaily.com/mena/egypt-grants-36-citizenships-in-2025-under-new-verification-requirements/",
+      "documentDate": "2025-11-28",
+      "reviewedAt": "2026-11-15",
+      "rights": "Independent factual compilation from publicly accessible sources; upstream documents linked only."
+    },
+    {
+      "id": "G1",
+      "publisher": "IMA Grenada",
+      "title": "Q4 2024 statistics",
+      "url": "https://imagrenada.gd/wp-content/uploads/2025/01/IMA-Q4-Statistic-Report.pdf",
+      "documentDate": null,
+      "reviewedAt": "2026-11-15",
+      "rights": "Independent factual compilation from publicly accessible sources; upstream documents linked only."
+    },
+    {
+      "id": "G2",
+      "publisher": "IMA Grenada",
+      "title": "Q4 2025 statistics",
+      "url": "https://imagrenada.gd/wp-content/uploads/2026/02/IMA-Q4-Statistic-Report-02-3-2026.pdf",
+      "documentDate": null,
+      "reviewedAt": "2026-11-15",
+      "rights": "Independent factual compilation from publicly accessible sources; upstream documents linked only."
+    },
+    {
+      "id": "G3",
+      "publisher": "IMA Grenada",
+      "title": "Q1 2026 statistics",
+      "url": "https://imagrenada.gd/wp-content/uploads/2026/06/IMA-Grenada-Q1-Statistics-2026.pdf",
+      "documentDate": null,
+      "reviewedAt": "2026-11-15",
+      "rights": "Independent factual compilation from publicly accessible sources; upstream documents linked only."
+    },
+    {
+      "id": "H1",
+      "publisher": "Reuters, reporting Comoros minister",
+      "title": "Economic-citizenship historical volume",
+      "url": "https://www.investing.com/news/world-news/comoros-says-abuse-of-passportsforcash-scheme-worries-gulf-allies-1129908",
+      "documentDate": "2018-01",
+      "reviewedAt": "2026-11-15",
+      "rights": "Independent factual compilation from publicly accessible sources; upstream documents linked only."
+    },
+    {
+      "id": "H11",
+      "publisher": "Ireland Department of Justice",
+      "title": "Review of investment-based naturalisation",
+      "url": "https://www.irishimmigration.ie/wp-content/uploads/2020/04/inv-bank-report-1.pdf",
+      "documentDate": "2000-04",
+      "reviewedAt": "2026-11-15",
+      "rights": "Independent factual compilation from publicly accessible sources; upstream documents linked only."
+    },
+    {
+      "id": "H2",
+      "publisher": "Cyprus Mail, reporting parliament and ministry figures",
+      "title": "Investment programme recipients",
+      "url": "https://cyprus-mail.com/2025/12/04/cyprus-end-cabinet-power-to-grant-golden-passports",
+      "documentDate": "2025-12-04",
+      "reviewedAt": "2026-11-15",
+      "rights": "Independent factual compilation from publicly accessible sources; upstream documents linked only."
+    },
+    {
+      "id": "H4",
+      "publisher": "Malta citizenship regulator",
+      "title": "Annual report 2024",
+      "url": "https://parlament.mt/media/138178/office-of-the-regulator-annual-report-2024.pdf",
+      "documentDate": "2025-11",
+      "reviewedAt": "2026-11-15",
+      "rights": "Independent factual compilation from publicly accessible sources; upstream documents linked only."
+    },
+    {
+      "id": "H7",
+      "publisher": "IMI, reporting government status report",
+      "title": "Montenegro programme closeout",
+      "url": "https://www.imidaily.com/europe/montenegro-cip-closeout-e413m-raised-869-approvals-and-a-21-5-rejection-rate/",
+      "documentDate": "2026-08-23",
+      "reviewedAt": "2026-11-15",
+      "rights": "Independent factual compilation from publicly accessible sources; upstream documents linked only."
+    },
+    {
+      "id": "H8",
+      "publisher": "Anthony van Fossen, Griffith University",
+      "title": "Academic research on citizenship and passport sales",
+      "url": "https://research-repository.griffith.edu.au/server/api/core/bitstreams/506a9c00-ab33-58d6-a76c-59984bfaa45c/content",
+      "documentDate": null,
+      "reviewedAt": "2026-11-15",
+      "rights": "Independent factual compilation from publicly accessible sources; upstream documents linked only."
+    },
+    {
+      "id": "J1",
+      "publisher": "Jordan state news agency",
+      "title": "Investor citizenship cumulative recipients",
+      "url": "https://petra.gov.jo/docmgr/index.php/en/news/government-revamps-investor-citizenship-rules-to-funnel-capital-into-provinces",
+      "documentDate": "2026-07-15",
+      "reviewedAt": "2026-11-15",
+      "rights": "Independent factual compilation from publicly accessible sources; upstream documents linked only."
+    },
+    {
+      "id": "J2",
+      "publisher": "Jordan state news agency, Ministry of Investment report",
+      "title": "First-half 2026 investment report",
+      "url": "https://petra.gov.jo/wp-content/uploads/index.php/en/news/development-zone-investments-rise-188-to-jd69-billion-in-first-half",
+      "documentDate": "2026-09-15",
+      "reviewedAt": "2026-11-15",
+      "rights": "Independent factual compilation from publicly accessible sources; upstream documents linked only."
+    },
+    {
+      "id": "L1",
+      "publisher": "Saint Lucia CIU",
+      "title": "Annual report FY2024/25",
+      "url": "https://www.cipsaintlucia.com/s/CIP-AR-2024_web.pdf",
+      "documentDate": null,
+      "reviewedAt": "2026-11-15",
+      "rights": "Independent factual compilation from publicly accessible sources; upstream documents linked only."
+    },
+    {
+      "id": "N1",
+      "publisher": "Government of Nauru",
+      "title": "2026/27 budget speech",
+      "url": "https://cdn.jsdelivr.net/gh/oscarleoo/data@main/topics/cbi/raw/nru-parl-approp-speech-2026.pdf",
+      "documentDate": "2026-07-20",
+      "reviewedAt": "2026-11-15",
+      "rights": "Independent factual compilation from publicly accessible sources; upstream documents linked only."
+    },
+    {
+      "id": "NM1",
+      "publisher": "European Commission",
+      "title": "North Macedonia screening report",
+      "url": "https://enlargement.ec.europa.eu/system/files/2023-07/MK%20Cluster_1%20Draft%20screening%20report_external%20version.pdf",
+      "documentDate": "2023-07",
+      "reviewedAt": "2026-11-15",
+      "rights": "Independent factual compilation from publicly accessible sources; upstream documents linked only."
+    },
+    {
+      "id": "ST3",
+      "publisher": "São Tomé and Príncipe CIU, copy hosted by IMI",
+      "title": "First year programme report",
+      "url": "https://www.imidaily.com/wp-content/uploads/2026/09/STP-First-Year-Report.pdf",
+      "documentDate": "2026-09-01",
+      "reviewedAt": "2026-11-15",
+      "rights": "Independent factual compilation from publicly accessible sources; upstream documents linked only."
+    },
+    {
+      "id": "T1",
+      "publisher": "T24, quoting the Interior Minister",
+      "title": "Investment-route recipients reported in May 2026",
+      "url": "https://t24.com.tr/gundem/turkiyede-kac-yabanci-yatirim-yoluyla-vatandaslik-aldi%2C1340815",
+      "documentDate": null,
+      "reviewedAt": "2026-11-15",
+      "rights": "Independent factual compilation from publicly accessible sources; upstream documents linked only."
+    },
+    {
+      "id": "T3",
+      "publisher": "Türkiye Ministry of Interior",
+      "title": "Irregular transactions and citizenship decisions",
+      "url": "https://www.icisleri.gov.tr/sahte-degerlemeekspertiz-operasyonu-ve-usulsuz-vatandaslik-islemleri-hakkinda-basin-aciklamasi",
+      "documentDate": "2026-08-04",
+      "reviewedAt": "2026-11-15",
+      "rights": "Independent factual compilation from publicly accessible sources; upstream documents linked only."
+    },
+    {
+      "id": "V1",
+      "publisher": "European Commission",
+      "title": "Vanuatu citizenship and passport statistics",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52024DC0366",
+      "documentDate": "2024-05-31",
+      "reviewedAt": "2026-11-15",
+      "rights": "Independent factual compilation from publicly accessible sources; upstream documents linked only."
+    }
+  ],
+  "limitations": [
+    "Selected dated research; the absence of a verified number is not zero.",
+    "Passports, people and approved applications have distinct units.",
+    "No worldwide or regional aggregate is published; differing periods and disputed source totals are retained.",
+    "First issues, renewals, unique holders and current citizenship stock are not interchangeable.",
+    "Model estimates are frozen as of 2026-11-15, use explicit historical rates, and never replace the reported observations. They are sensitivity scenarios, not official statistics or confidence intervals. No estimate is generated from application files into people or passport documents."
+  ],
+  "conflicts": [
+    {
+      "id": "ec-regional-total",
+      "sourceId": "E1",
+      "reportedValue": 107625,
+      "listedWindowsSum": 137325,
+      "note": "Regional headline does not reconcile with the four country tables; no regional total selected."
+    }
+  ]
+}

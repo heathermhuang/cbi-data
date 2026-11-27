@@ -1,0 +1,28 @@
+{
+  "id": "lc",
+  "publisher": "Saint Lucia CIP",
+  "title": "Citizenship by investment: investment amounts",
+  "url": "https://www.cipsaintlucia.com/citizenship-by-investment",
+  "authorityType": "Government guidance",
+  "documentDate": null,
+  "rights": {
+    "disposition": "link_only",
+    "use": "CBI original factual normalization and references only; no upstream pages, PDFs, images or excerpts redistributed",
+    "basis": "Original compilation; no upstream republication licence asserted"
+  },
+  "retrieval": {
+    "retrievedAt": "2026-11-24T13:21:47Z",
+    "lastAttempt": "2026-11-24T13:21:47Z",
+    "method": "original_document_and_sha256",
+    "health": "available",
+    "hash": "ec25413b67a6585baeeb5c493646667c694ab68b25cb2ed9be43f1bf7725390c"
+  },
+  "manualReview": {
+    "intervalDays": 14,
+    "rationale": "Review exact claim and source applicability; retrieval success alone cannot refresh claims."
+  },
+  "reviewObservation": {
+    "date": "2026-11-24",
+    "method": "Reviewed the NEF investment and application processing and due diligence fee sections only."
+  }
+}

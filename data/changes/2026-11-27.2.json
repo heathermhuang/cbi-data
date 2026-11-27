@@ -1,0 +1,18 @@
+[
+  {
+    "id": "cbi-kna-timetable-summary",
+    "programmeId": "cbi-kna",
+    "classification": "research_correction",
+    "note": "Aligns the prominent key note with the same original government-confirmed timetable. Previous release remains immutable.",
+    "from": "2026-11-27.1",
+    "to": "2026-11-27.2",
+    "observedAt": "2026-11-27",
+    "effectiveAt": null,
+    "beforeRevisionIds": [
+      "cbi-kna-keyNote-e8c6599245bb2c14"
+    ],
+    "afterRevisionIds": [
+      "cbi-kna-keyNote-d7c8ea06e94a7264"
+    ]
+  }
+]

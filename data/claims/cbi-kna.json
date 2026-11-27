@@ -476,27 +476,27 @@
   },
   {
     "id": "cbi-kna-keyNote",
-    "revisionId": "cbi-kna-keyNote-e8c6599245bb2c14",
     "subject": "cbi-kna",
     "predicate": "keyNote",
-    "value": "Wind-down announced; applications continue until an agreed deadline.",
+    "value": "New applications through 31 January 2029; processing through 31 December 2029; wind-down by 1 January 2030.",
     "verification": "partial",
     "valueStatus": "known",
     "conditions": [],
     "evidence": [
       {
-        "sourceId": "transition-skn-address",
-        "locator": "18:55–21:08: wind-down decision, negotiated timeline, existing lawful citizens and final application date.",
-        "scope": "Dated announced government position only; not a final closure instrument or travel guarantee."
+        "sourceId": "transition-skn-timetable",
+        "locator": "Application cutoff and processing paragraph in 26 November PMO statement",
+        "scope": "Government-confirmed dated timetable; no approval, delivery or destination-entry guarantee."
       }
     ],
-    "reviewedAt": "2026-11-14",
-    "reviewDueAt": "2026-11-21",
-    "reviewMethod": "Original speaker’s statement on the government/national-broadcaster channel reviewed via timestamped automatic transcript; transcription names normalized. Original official publication reviewed for the stated transition facts; prices, travel rules and unrelated claims retain their own dates.",
-    "observedAt": "2026-11-14",
+    "reviewedAt": "2026-11-27",
+    "reviewDueAt": "2026-12-04",
+    "reviewMethod": "Original PMO statement published by SKNIS read for the application cutoff and processing timetable. Other facts retain their source dates.",
+    "observedAt": "2026-11-27",
     "effectiveFrom": null,
     "effectiveUntil": null,
-    "limitations": []
+    "limitations": [],
+    "revisionId": "cbi-kna-keyNote-d7c8ea06e94a7264"
   },
   {
     "id": "cbi-kna-familyScenario",

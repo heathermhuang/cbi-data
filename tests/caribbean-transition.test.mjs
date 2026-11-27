@@ -8,7 +8,7 @@ const current='2026-11-14.2',previous='2026-10-25.2';
 test('transition evidence preserves old releases, price and travel revisions',async()=>{
  const scope=await read(current+'/scope.json'),index=await read('index.json');
  for(const id of ['cbi-atg','cbi-dma','cbi-grd','cbi-kna','cbi-lca']){
-  const old=await read(previous+'/programmes/'+id+'.json'),now=await read(current+'/programmes/'+id+'.json');
+  const old=JSON.parse(await readFile(new URL('../retained/'+previous+'/programmes/'+id+'.json',import.meta.url),'utf8')),now=await read(current+'/programmes/'+id+'.json');
   const before=new Map(old.claims.map(c=>[c.id,c])),after=new Map(now.claims.map(c=>[c.id,c]));
   for(const c of old.claims.filter(c=>['amount','family_amount'].includes(c.predicate)||c.predicate.startsWith('cost_')||c.predicate.startsWith('travel_')))assert.deepEqual(after.get(c.id),c);
   const update=after.get(now.programme.fields.editorialUpdate);assert.equal(update.reviewedAt,'2026-11-14');assert.equal(update.effectiveFrom,null);
